@@ -8,7 +8,7 @@ Data include:
 - City
 - Server Info (Exit Node, Entry node, ED25519 Public key)
 
-The data source is from the ![Proton API](https://account.protonvpn.com/api/vpn/logicals), providing the following HTTP Headers
+The data source is from the [Proton API](https://account.protonvpn.com/api/vpn/logicals), providing the following HTTP Headers
 - x-pm-appversion
 - x-pm-uid
 - Cookie
