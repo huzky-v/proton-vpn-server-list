@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-PE#1",
+    "Domain": {
+      "domain": "is-pe-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Lima",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pe-04.protonvpn.net",
+        "ipv4": [
+          "138.199.50.105"
+        ],
+        "ipv6": [
+          "2a10:9007:3:a::10"
+        ],
+        "X25519PublicKey": "nU424h7OX5hXUFFY850oxpmxOoAMSBZ60pDOyj+z/WA=",
+        "EntryIP": "185.159.158.209",
+        "ExitIP": "185.159.158.209"
+      }
+    ]
+  }
+]

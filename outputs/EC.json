@@ -1,0 +1,226 @@
+[
+  {
+    "Name": "EC#1",
+    "Domain": {
+      "domain": "node-ec-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.103"
+      ],
+      "ipv6": [
+        "2a10:9007:3:6::10"
+      ]
+    },
+    "City": "Quito",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ec-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.103"
+        ],
+        "ipv6": [
+          "2a10:9007:3:6::10"
+        ],
+        "X25519PublicKey": "dLPbOg/+D3oFCz5iiUVB9ILPOVx9vBB0CCVtXiTPDGE=",
+        "EntryIP": "138.199.50.103",
+        "ExitIP": "138.199.50.103"
+      }
+    ]
+  },
+  {
+    "Name": "EC#2",
+    "Domain": {
+      "domain": "node-ec-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.103"
+      ],
+      "ipv6": [
+        "2a10:9007:3:6::10"
+      ]
+    },
+    "City": "Quito",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ec-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.103"
+        ],
+        "ipv6": [
+          "2a10:9007:3:6::10"
+        ],
+        "X25519PublicKey": "dLPbOg/+D3oFCz5iiUVB9ILPOVx9vBB0CCVtXiTPDGE=",
+        "EntryIP": "138.199.50.103",
+        "ExitIP": "138.199.50.103"
+      }
+    ]
+  },
+  {
+    "Name": "EC#3",
+    "Domain": {
+      "domain": "node-ec-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.103"
+      ],
+      "ipv6": [
+        "2a10:9007:3:6::10"
+      ]
+    },
+    "City": "Quito",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ec-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.103"
+        ],
+        "ipv6": [
+          "2a10:9007:3:6::10"
+        ],
+        "X25519PublicKey": "dLPbOg/+D3oFCz5iiUVB9ILPOVx9vBB0CCVtXiTPDGE=",
+        "EntryIP": "138.199.50.103",
+        "ExitIP": "138.199.50.103"
+      }
+    ]
+  },
+  {
+    "Name": "EC#4",
+    "Domain": {
+      "domain": "node-ec-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.103"
+      ],
+      "ipv6": [
+        "2a10:9007:3:6::10"
+      ]
+    },
+    "City": "Quito",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ec-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.103"
+        ],
+        "ipv6": [
+          "2a10:9007:3:6::10"
+        ],
+        "X25519PublicKey": "dLPbOg/+D3oFCz5iiUVB9ILPOVx9vBB0CCVtXiTPDGE=",
+        "EntryIP": "138.199.50.103",
+        "ExitIP": "138.199.50.103"
+      }
+    ]
+  },
+  {
+    "Name": "EC#5",
+    "Domain": {
+      "domain": "node-ec-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.103"
+      ],
+      "ipv6": [
+        "2a10:9007:3:6::10"
+      ]
+    },
+    "City": "Quito",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ec-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.103"
+        ],
+        "ipv6": [
+          "2a10:9007:3:6::10"
+        ],
+        "X25519PublicKey": "dLPbOg/+D3oFCz5iiUVB9ILPOVx9vBB0CCVtXiTPDGE=",
+        "EntryIP": "138.199.50.103",
+        "ExitIP": "138.199.50.103"
+      }
+    ]
+  },
+  {
+    "Name": "EC#6",
+    "Domain": {
+      "domain": "node-ec-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.103"
+      ],
+      "ipv6": [
+        "2a10:9007:3:6::10"
+      ]
+    },
+    "City": "Quito",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ec-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.103"
+        ],
+        "ipv6": [
+          "2a10:9007:3:6::10"
+        ],
+        "X25519PublicKey": "dLPbOg/+D3oFCz5iiUVB9ILPOVx9vBB0CCVtXiTPDGE=",
+        "EntryIP": "138.199.50.103",
+        "ExitIP": "138.199.50.103"
+      }
+    ]
+  },
+  {
+    "Name": "EC#7",
+    "Domain": {
+      "domain": "node-ec-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.103"
+      ],
+      "ipv6": [
+        "2a10:9007:3:6::10"
+      ]
+    },
+    "City": "Quito",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ec-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.103"
+        ],
+        "ipv6": [
+          "2a10:9007:3:6::10"
+        ],
+        "X25519PublicKey": "dLPbOg/+D3oFCz5iiUVB9ILPOVx9vBB0CCVtXiTPDGE=",
+        "EntryIP": "138.199.50.103",
+        "ExitIP": "138.199.50.103"
+      }
+    ]
+  },
+  {
+    "Name": "EC#8",
+    "Domain": {
+      "domain": "node-ec-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.103"
+      ],
+      "ipv6": [
+        "2a10:9007:3:6::10"
+      ]
+    },
+    "City": "Quito",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ec-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.103"
+        ],
+        "ipv6": [
+          "2a10:9007:3:6::10"
+        ],
+        "X25519PublicKey": "dLPbOg/+D3oFCz5iiUVB9ILPOVx9vBB0CCVtXiTPDGE=",
+        "EntryIP": "138.199.50.103",
+        "ExitIP": "138.199.50.103"
+      }
+    ]
+  }
+]

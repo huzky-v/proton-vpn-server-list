@@ -1,0 +1,482 @@
+[
+  {
+    "Name": "EE#1",
+    "Domain": {
+      "domain": "node-ee-01.protonvpn.net",
+      "ipv4": [
+        "165.231.178.10"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-01.protonvpn.net",
+        "ipv4": [
+          "165.231.178.10"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fHGPlsNkuvuyLoqKp/Yfh3R31jdGN5JWRZ5cE1aW/UM=",
+        "EntryIP": "165.231.178.10",
+        "ExitIP": "165.231.178.10"
+      }
+    ]
+  },
+  {
+    "Name": "EE#2",
+    "Domain": {
+      "domain": "node-ee-01.protonvpn.net",
+      "ipv4": [
+        "165.231.178.10"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-01.protonvpn.net",
+        "ipv4": [
+          "165.231.178.10"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fHGPlsNkuvuyLoqKp/Yfh3R31jdGN5JWRZ5cE1aW/UM=",
+        "EntryIP": "165.231.178.10",
+        "ExitIP": "165.231.178.10"
+      }
+    ]
+  },
+  {
+    "Name": "EE#3",
+    "Domain": {
+      "domain": "node-ee-01.protonvpn.net",
+      "ipv4": [
+        "165.231.178.10"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-01.protonvpn.net",
+        "ipv4": [
+          "165.231.178.10"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fHGPlsNkuvuyLoqKp/Yfh3R31jdGN5JWRZ5cE1aW/UM=",
+        "EntryIP": "165.231.178.10",
+        "ExitIP": "165.231.178.10"
+      }
+    ]
+  },
+  {
+    "Name": "EE#4",
+    "Domain": {
+      "domain": "node-ee-01.protonvpn.net",
+      "ipv4": [
+        "165.231.178.10"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-01.protonvpn.net",
+        "ipv4": [
+          "165.231.178.10"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fHGPlsNkuvuyLoqKp/Yfh3R31jdGN5JWRZ5cE1aW/UM=",
+        "EntryIP": "165.231.178.10",
+        "ExitIP": "165.231.178.10"
+      }
+    ]
+  },
+  {
+    "Name": "EE#5",
+    "Domain": {
+      "domain": "node-ee-01.protonvpn.net",
+      "ipv4": [
+        "165.231.178.10"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-01.protonvpn.net",
+        "ipv4": [
+          "165.231.178.10"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fHGPlsNkuvuyLoqKp/Yfh3R31jdGN5JWRZ5cE1aW/UM=",
+        "EntryIP": "165.231.178.10",
+        "ExitIP": "165.231.178.10"
+      }
+    ]
+  },
+  {
+    "Name": "EE#6",
+    "Domain": {
+      "domain": "node-ee-01.protonvpn.net",
+      "ipv4": [
+        "165.231.178.10"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-01.protonvpn.net",
+        "ipv4": [
+          "165.231.178.10"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fHGPlsNkuvuyLoqKp/Yfh3R31jdGN5JWRZ5cE1aW/UM=",
+        "EntryIP": "165.231.178.10",
+        "ExitIP": "165.231.178.10"
+      }
+    ]
+  },
+  {
+    "Name": "EE#7",
+    "Domain": {
+      "domain": "node-ee-01.protonvpn.net",
+      "ipv4": [
+        "165.231.178.10"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-01.protonvpn.net",
+        "ipv4": [
+          "165.231.178.10"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fHGPlsNkuvuyLoqKp/Yfh3R31jdGN5JWRZ5cE1aW/UM=",
+        "EntryIP": "165.231.178.10",
+        "ExitIP": "165.231.178.10"
+      }
+    ]
+  },
+  {
+    "Name": "EE#8",
+    "Domain": {
+      "domain": "node-ee-01.protonvpn.net",
+      "ipv4": [
+        "165.231.178.10"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-01.protonvpn.net",
+        "ipv4": [
+          "165.231.178.10"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fHGPlsNkuvuyLoqKp/Yfh3R31jdGN5JWRZ5cE1aW/UM=",
+        "EntryIP": "165.231.178.10",
+        "ExitIP": "165.231.178.10"
+      }
+    ]
+  },
+  {
+    "Name": "EE#10",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  },
+  {
+    "Name": "EE#11",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  },
+  {
+    "Name": "EE#12",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  },
+  {
+    "Name": "EE#13",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  },
+  {
+    "Name": "EE#14",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  },
+  {
+    "Name": "EE#15",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  },
+  {
+    "Name": "EE#16",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  },
+  {
+    "Name": "EE#17",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  },
+  {
+    "Name": "EE#18",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  },
+  {
+    "Name": "EE#19",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  },
+  {
+    "Name": "EE#20",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  },
+  {
+    "Name": "EE#9",
+    "Domain": {
+      "domain": "node-ee-02.protonvpn.net",
+      "ipv4": [
+        "95.153.31.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "95.153.31.114",
+        "ExitIP": "95.153.31.114"
+      }
+    ]
+  }
+]

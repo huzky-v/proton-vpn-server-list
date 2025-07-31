@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "IS-BE#1",
+    "Domain": {
+      "domain": "is-be-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Brussels",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-be-05.protonvpn.net",
+        "ipv4": [
+          "91.90.123.50"
+        ],
+        "ipv6": [
+          "2001:ac8:27:31::10"
+        ],
+        "X25519PublicKey": "ehajSjB9QTlhy30zbemS7ypGrQ+5Ej71jJ/+52JRkGI=",
+        "EntryIP": "185.159.158.217",
+        "ExitIP": "185.159.158.217"
+      },
+      {
+        "Domain": "node-be-02.protonvpn.net",
+        "ipv4": [
+          "45.128.133.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "jiIKlk1tiyPgxJ4sP/xy4eCuibeeSlOhPmkNxFR/iA8=",
+        "EntryIP": "185.159.158.138",
+        "ExitIP": "185.159.158.138"
+      }
+    ]
+  }
+]

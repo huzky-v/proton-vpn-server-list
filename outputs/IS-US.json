@@ -1,0 +1,512 @@
+[
+  {
+    "Name": "IS-US#1",
+    "Domain": {
+      "domain": "is-us-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "New York",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-us-122.protonvpn.net",
+        "ipv4": [
+          "138.199.35.97"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c803:2109::10"
+        ],
+        "X25519PublicKey": "5Vs6LCNRBfpISEGhbdZMgyNVhrbjxkuflPMfdj9EkTc=",
+        "EntryIP": "185.159.158.188",
+        "ExitIP": "185.159.158.188"
+      },
+      {
+        "Domain": "node-us-176.protonvpn.net",
+        "ipv4": [
+          "146.70.45.226"
+        ],
+        "ipv6": [
+          "2a0d:5600:6:111::100"
+        ],
+        "X25519PublicKey": "BoAWTY6Bzcy6owGEkjeMEjENa/o/CZbkO6WPSynKdHU=",
+        "EntryIP": "185.159.158.210",
+        "ExitIP": "185.159.158.210"
+      },
+      {
+        "Domain": "node-us-188.protonvpn.net",
+        "ipv4": [
+          "146.70.202.162"
+        ],
+        "ipv6": [
+          "2a0d:5600:24:64::10"
+        ],
+        "X25519PublicKey": "dnLzpdaCyBlnnYS9iBwhPXoTXBQQNStT6/Tx6CytOmg=",
+        "EntryIP": "185.159.158.227",
+        "ExitIP": "185.159.158.227"
+      },
+      {
+        "Domain": "node-us-119.protonvpn.net",
+        "ipv4": [
+          "185.156.46.33"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e20d:2101::10"
+        ],
+        "X25519PublicKey": "zAIZj//t14xuriUMSlWk4/J2jox6I/JMzHL1Y3D/WUE=",
+        "EntryIP": "185.159.158.186",
+        "ExitIP": "185.159.158.186"
+      },
+      {
+        "Domain": "node-us-258.protonvpn.net",
+        "ipv4": [
+          "163.5.171.56"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rPDCc4RoglCJ/M4BmFgr2eA8Ob7oc9qTTWG/79rApAI=",
+        "EntryIP": "185.159.158.235",
+        "ExitIP": "185.159.158.235"
+      },
+      {
+        "Domain": "node-us-259.protonvpn.net",
+        "ipv4": [
+          "163.5.171.83"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "KQ0hvdTjgHoRLCzpC/Mf7vDD+PZr8TqW0faHCE4yDlQ=",
+        "EntryIP": "185.159.158.236",
+        "ExitIP": "185.159.158.236"
+      },
+      {
+        "Domain": "node-us-207.protonvpn.net",
+        "ipv4": [
+          "154.47.22.65"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e20d:2691::10"
+        ],
+        "X25519PublicKey": "yYcyNBfbU6SWkTLNrzK7peMXHCkG4FKg9bk2D/5yLCo=",
+        "EntryIP": "185.159.158.229",
+        "ExitIP": "185.159.158.229"
+      },
+      {
+        "Domain": "node-us-108.protonvpn.net",
+        "ipv4": [
+          "89.187.164.241"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d213:1793::10"
+        ],
+        "X25519PublicKey": "tvJm5a80r4KeOxe0K7BLQ27DYPjCfoGxh1l3DzNg4RI=",
+        "EntryIP": "185.159.158.150",
+        "ExitIP": "185.159.158.150"
+      },
+      {
+        "Domain": "node-us-130.protonvpn.net",
+        "ipv4": [
+          "89.187.180.27"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c603:2121::10"
+        ],
+        "X25519PublicKey": "houxrsE+RottYWy4pSsRM8ZEReqN0cEzPGtYOzmjOF0=",
+        "EntryIP": "185.159.158.192",
+        "ExitIP": "185.159.158.192"
+      },
+      {
+        "Domain": "node-us-109.protonvpn.net",
+        "ipv4": [
+          "89.187.164.246"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d213:1798::10"
+        ],
+        "X25519PublicKey": "dEsuT/1kn90iBupDFEkkpYbxmZP9pqu9zG5uG01ppns=",
+        "EntryIP": "185.159.158.151",
+        "ExitIP": "185.159.158.151"
+      },
+      {
+        "Domain": "node-us-201.protonvpn.net",
+        "ipv4": [
+          "149.102.226.193"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c412:2659::10"
+        ],
+        "X25519PublicKey": "sn2DwUHXSLYbub6dVFKRhE2QHcji5I8TMSotCTlGFw0=",
+        "EntryIP": "185.159.158.226",
+        "ExitIP": "185.159.158.226"
+      },
+      {
+        "Domain": "node-us-222.protonvpn.net",
+        "ipv4": [
+          "37.19.200.27"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d213:2718::10"
+        ],
+        "X25519PublicKey": "nZYSL1qRLQRFC71xHVmBxP6XMwTm7yEFGBNtCBckEAg=",
+        "EntryIP": "185.159.158.231",
+        "ExitIP": "185.159.158.231"
+      },
+      {
+        "Domain": "node-us-199.protonvpn.net",
+        "ipv4": [
+          "149.36.48.141"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e606:2641::10"
+        ],
+        "X25519PublicKey": "ADxD28Omx0nDn+PDjlRaZ4DjvRe19Urjz4tJCFtmNXc=",
+        "EntryIP": "185.159.158.222",
+        "ExitIP": "185.159.158.222"
+      },
+      {
+        "Domain": "node-us-182.protonvpn.net",
+        "ipv4": [
+          "146.70.51.210"
+        ],
+        "ipv6": [
+          "2a0d:5600:6:ad1e::10"
+        ],
+        "X25519PublicKey": "9JeNQPhigBfmRY0aAtRuqBklf8HVhTAyXZcv0I5vZBg=",
+        "EntryIP": "185.159.158.214",
+        "ExitIP": "185.159.158.214"
+      },
+      {
+        "Domain": "node-us-183.protonvpn.net",
+        "ipv4": [
+          "45.87.214.18"
+        ],
+        "ipv6": [
+          "2a0d:5600:6:204::10"
+        ],
+        "X25519PublicKey": "d2QJ4qxbpm7HSiEbssGku1X+UNnZBcEWcApgS0xgI34=",
+        "EntryIP": "185.159.158.213",
+        "ExitIP": "185.159.158.213"
+      },
+      {
+        "Domain": "node-us-144.protonvpn.net",
+        "ipv4": [
+          "146.70.72.130"
+        ],
+        "ipv6": [
+          "2a0d:5600:24:a::10"
+        ],
+        "X25519PublicKey": "8NeySGpnCMtwtgwVARpoCNonu9qxQxrE6hFztMcMDkA=",
+        "EntryIP": "185.159.158.185",
+        "ExitIP": "185.159.158.185"
+      },
+      {
+        "Domain": "node-us-185.protonvpn.net",
+        "ipv4": [
+          "146.70.45.114"
+        ],
+        "ipv6": [
+          "2a0d:5600:6:ad1b::10"
+        ],
+        "X25519PublicKey": "+RKh5rGk9iaI9TwKqCO2iAtDTG6b+NBgwJijaOALNlQ=",
+        "EntryIP": "185.159.158.212",
+        "ExitIP": "185.159.158.212"
+      },
+      {
+        "Domain": "node-us-197.protonvpn.net",
+        "ipv4": [
+          "146.70.202.18"
+        ],
+        "ipv6": [
+          "2a0d:5600:24:3d::10"
+        ],
+        "X25519PublicKey": "Orm/o/kOBbNLCvxrwdQZHswlHRyz4O8HSaCHJ7YF0Rs=",
+        "EntryIP": "185.159.158.228",
+        "ExitIP": "185.159.158.228"
+      },
+      {
+        "Domain": "node-us-124.protonvpn.net",
+        "ipv4": [
+          "156.146.51.65"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d802:2111::10"
+        ],
+        "X25519PublicKey": "DmLmc8enWKMicpxkxy2md1derQApeMJibtt2UZnCxG4=",
+        "EntryIP": "185.159.158.189",
+        "ExitIP": "185.159.158.189"
+      },
+      {
+        "Domain": "node-us-299.protonvpn.net",
+        "ipv4": [
+          "95.173.217.29"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d213:4415::10"
+        ],
+        "X25519PublicKey": "mngiSxBpH7GU24nnWdBEcnhDnCPn2jq5+ZP3zwPwISA=",
+        "EntryIP": "185.159.158.243",
+        "ExitIP": "185.159.158.243"
+      },
+      {
+        "Domain": "node-us-298.protonvpn.net",
+        "ipv4": [
+          "95.173.217.2"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d213:4416::10"
+        ],
+        "X25519PublicKey": "7KAAj4pUAexy8s+S01hn1g61oyhfVpA18GrPD0Q8vnM=",
+        "EntryIP": "185.159.158.242",
+        "ExitIP": "185.159.158.242"
+      },
+      {
+        "Domain": "node-us-300.protonvpn.net",
+        "ipv4": [
+          "79.127.220.251"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c603:4899::10"
+        ],
+        "X25519PublicKey": "DlBE1UCIh7mUw30hFT/akjKAd0mQn9+JC1/AHxZvxQs=",
+        "EntryIP": "185.159.158.244",
+        "ExitIP": "185.159.158.244"
+      },
+      {
+        "Domain": "node-us-126.protonvpn.net",
+        "ipv4": [
+          "193.37.254.66"
+        ],
+        "ipv6": [
+          "2a0d:5600:2:19::10"
+        ],
+        "X25519PublicKey": "qDJgY2K+GtC/geqxLN2ZO61LHlwENsMpapC1eGF21mM=",
+        "EntryIP": "185.159.158.190",
+        "ExitIP": "185.159.158.190"
+      },
+      {
+        "Domain": "node-us-304.protonvpn.net",
+        "ipv4": [
+          "79.127.136.65"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c603:5252::10"
+        ],
+        "X25519PublicKey": "ntBhUr1CJmbVydw6cgccMFGSzEcPugiikF/l4NuDygA=",
+        "EntryIP": "185.159.158.251",
+        "ExitIP": "185.159.158.251"
+      },
+      {
+        "Domain": "node-us-306.protonvpn.net",
+        "ipv4": [
+          "95.173.221.92"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d704:5254::10"
+        ],
+        "X25519PublicKey": "jYGCeCwc2fkhmaXOBJEHPwXHRdPbAhizTiG4zK5ycBc=",
+        "EntryIP": "185.159.158.67",
+        "ExitIP": "185.159.158.67"
+      },
+      {
+        "Domain": "node-us-237.protonvpn.net",
+        "ipv4": [
+          "217.138.198.246"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "E4gRP4uJvUMxTXVfTDLtkAmfAV7Jyl1uYltU8tlvb2Y=",
+        "EntryIP": "185.159.158.146",
+        "ExitIP": "185.159.158.146"
+      },
+      {
+        "Domain": "node-us-355.protonvpn.net",
+        "ipv4": [
+          "149.40.62.62"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d802:5501::10"
+        ],
+        "X25519PublicKey": "FqNcmTs4I6TXrZZ0jM3+/CYxSQGGNiSmMBMe4mDqBz4=",
+        "EntryIP": "185.159.158.78",
+        "ExitIP": "185.159.158.78"
+      },
+      {
+        "Domain": "node-us-368.protonvpn.net",
+        "ipv4": [
+          "149.22.88.149"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d802:5515::10"
+        ],
+        "X25519PublicKey": "IZGBP1awplflozHsjir/h0fbC+bmGG5ArGXcSUZbaBY=",
+        "EntryIP": "185.159.158.87",
+        "ExitIP": "185.159.158.87"
+      },
+      {
+        "Domain": "node-us-363.protonvpn.net",
+        "ipv4": [
+          "95.173.221.158"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d704:5506::10"
+        ],
+        "X25519PublicKey": "g98KJeIEtR9wbwgVmmaQXR9rEPV+T2RJWf2UE4gB1Ss=",
+        "EntryIP": "185.159.158.79",
+        "ExitIP": "185.159.158.79"
+      },
+      {
+        "Domain": "node-us-360.protonvpn.net",
+        "ipv4": [
+          "149.88.21.1"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c412:5514::10"
+        ],
+        "X25519PublicKey": "XeVyTJgexTGQ6w9xmiosAH6w86n8d7QKs3NBzU0Ze3k=",
+        "EntryIP": "185.159.158.86",
+        "ExitIP": "185.159.158.86"
+      },
+      {
+        "Domain": "node-us-358.protonvpn.net",
+        "ipv4": [
+          "149.88.30.59"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c803:5511::10"
+        ],
+        "X25519PublicKey": "4RIMi9mxTfEEbBIboH6H4RuRCijeMUms3QPMdhgJACI=",
+        "EntryIP": "185.159.158.82",
+        "ExitIP": "185.159.158.82"
+      },
+      {
+        "Domain": "node-us-359.protonvpn.net",
+        "ipv4": [
+          "149.88.30.30"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c803:5512::10"
+        ],
+        "X25519PublicKey": "+9owkp2UcdRUGMNQC2x0pM5mMPRtm39gb2lIsJ92nBU=",
+        "EntryIP": "185.159.158.83",
+        "ExitIP": "185.159.158.83"
+      },
+      {
+        "Domain": "node-us-364.protonvpn.net",
+        "ipv4": [
+          "79.127.187.156"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c603:5507::10"
+        ],
+        "X25519PublicKey": "Ad0UnBi3NeIgVpM1baC8HAp6wfSli0wGS1OCmS7uYRo=",
+        "EntryIP": "185.159.158.80",
+        "ExitIP": "185.159.158.80"
+      },
+      {
+        "Domain": "node-us-365.protonvpn.net",
+        "ipv4": [
+          "79.127.136.193"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c603:5508::10"
+        ],
+        "X25519PublicKey": "CBZYx3W31mUvgXkqqDCNts8l3rIE3sJTHLIZPPPoxCs=",
+        "EntryIP": "185.159.158.81",
+        "ExitIP": "185.159.158.81"
+      },
+      {
+        "Domain": "node-us-367.protonvpn.net",
+        "ipv4": [
+          "79.127.187.214"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c603:5513::10"
+        ],
+        "X25519PublicKey": "x5hOmXmZyq+EXzywcdmploTENRpqdcsdViVvchDvow4=",
+        "EntryIP": "185.159.158.85",
+        "ExitIP": "185.159.158.85"
+      },
+      {
+        "Domain": "node-us-208.protonvpn.net",
+        "ipv4": [
+          "193.37.254.178"
+        ],
+        "ipv6": [
+          "2a0d:5600:2:20::10"
+        ],
+        "X25519PublicKey": "nSo/1FlBPdm/hotIKPb2dFcY5AwZPQPBcbvLdcL6Zw4=",
+        "EntryIP": "185.159.158.230",
+        "ExitIP": "185.159.158.230"
+      },
+      {
+        "Domain": "node-us-389.protonvpn.net",
+        "ipv4": [
+          "79.127.136.222"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c603:5953::10"
+        ],
+        "X25519PublicKey": "cxkp18K1rZn0tSUKTmq9fJTGKvPq5Kby/1IbjNe3kDI=",
+        "EntryIP": "185.159.158.193",
+        "ExitIP": "185.159.158.193"
+      },
+      {
+        "Domain": "node-us-386.protonvpn.net",
+        "ipv4": [
+          "149.102.228.1"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c803:5949::10"
+        ],
+        "X25519PublicKey": "K4Fask4dC1qurL9ElSTyhKUZ//vtxESEvrKXh0xFQzs=",
+        "EntryIP": "185.159.158.156",
+        "ExitIP": "185.159.158.156"
+      },
+      {
+        "Domain": "node-us-387.protonvpn.net",
+        "ipv4": [
+          "149.102.228.29"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c803:5950::10"
+        ],
+        "X25519PublicKey": "Az021MwJA2cczjrXE+NtxVsQaVq2apEkmccB6iE7RzU=",
+        "EntryIP": "185.159.158.163",
+        "ExitIP": "185.159.158.163"
+      },
+      {
+        "Domain": "node-us-388.protonvpn.net",
+        "ipv4": [
+          "149.102.228.57"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c803:5951::10"
+        ],
+        "X25519PublicKey": "XvDCw1FTglmXwAGfXCBPwdYXFz6BFuH6fe4kQTepXhY=",
+        "EntryIP": "185.159.158.164",
+        "ExitIP": "185.159.158.164"
+      },
+      {
+        "Domain": "node-us-385.protonvpn.net",
+        "ipv4": [
+          "149.102.228.85"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c803:5957::10"
+        ],
+        "X25519PublicKey": "qY+g+un4N6jVg2Q6cSqINpwirgQTmREi0YU15j72X2g=",
+        "EntryIP": "185.159.158.147",
+        "ExitIP": "185.159.158.147"
+      },
+      {
+        "Domain": "node-us-381.protonvpn.net",
+        "ipv4": [
+          "149.40.49.30"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c412:5956::10"
+        ],
+        "X25519PublicKey": "JikV7Lj3rjIYG9MePiE19qFwVoUhACYFM7m55rEs2TA=",
+        "EntryIP": "185.159.158.104",
+        "ExitIP": "185.159.158.104"
+      }
+    ]
+  }
+]

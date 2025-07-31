@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-CZ#1",
+    "Domain": {
+      "domain": "is-cz-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Prague",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cz-05.protonvpn.net",
+        "ipv4": [
+          "146.70.129.18"
+        ],
+        "ipv6": [
+          "2001:ac8:33:75::10"
+        ],
+        "X25519PublicKey": "sDVKmYDevvGvpKNei9f2SDbx5FMFi6FqBmuRYG/EFg8=",
+        "EntryIP": "185.159.158.225",
+        "ExitIP": "185.159.158.225"
+      }
+    ]
+  }
+]

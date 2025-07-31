@@ -1,0 +1,758 @@
+[
+  {
+    "Name": "CR#30",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#31",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#32",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#33",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#34",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#35",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#36",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#37",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#38",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#39",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#40",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#41",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#42",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#43",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#44",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#45",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#46",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#47",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#48",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#49",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#50",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#51",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#52",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#53",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#54",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#55",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  },
+  {
+    "Name": "CR#56",
+    "Domain": {
+      "domain": "node-cr-02.protonvpn.net",
+      "ipv4": [
+        "138.199.50.104"
+      ],
+      "ipv6": [
+        "2a10:9007:3:3::10"
+      ]
+    },
+    "City": "San Jose",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "138.199.50.104",
+        "ExitIP": "138.199.50.104"
+      }
+    ]
+  }
+]

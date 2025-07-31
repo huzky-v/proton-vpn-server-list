@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-TR#1",
+    "Domain": {
+      "domain": "se-tr-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-tr-03.protonvpn.net",
+        "ipv4": [
+          "87.249.139.170"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e806:2146::10"
+        ],
+        "X25519PublicKey": "O9PuAgDUpgObhbFQYpWMiEoynWaCSmQuGTtBjcuEk3E=",
+        "EntryIP": "185.159.156.97",
+        "ExitIP": "185.159.156.97"
+      }
+    ]
+  }
+]

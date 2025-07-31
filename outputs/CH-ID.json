@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-ID#2",
+    "Domain": {
+      "domain": "ch-id-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Jakarta",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-id-01.protonvpn.net",
+        "ipv4": [
+          "138.199.60.86"
+        ],
+        "ipv6": [
+          "2a10:9007:5:5::10"
+        ],
+        "X25519PublicKey": "HClQJ3bkFS1VZPcbGv50OSwWXR1XBqNf/kakHIciHFk=",
+        "EntryIP": "62.169.136.84",
+        "ExitIP": "62.169.136.84"
+      }
+    ]
+  }
+]

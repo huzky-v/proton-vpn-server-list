@@ -1,0 +1,242 @@
+[
+  {
+    "Name": "BA#1",
+    "Domain": {
+      "domain": "node-ba-01.protonvpn.net",
+      "ipv4": [
+        "185.212.111.98"
+      ],
+      "ipv6": []
+    },
+    "City": "Novi Travnik",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ba-01.protonvpn.net",
+        "ipv4": [
+          "185.212.111.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
+        "EntryIP": "185.212.111.98",
+        "ExitIP": "185.212.111.98"
+      }
+    ]
+  },
+  {
+    "Name": "BA#10",
+    "Domain": {
+      "domain": "node-ba-01.protonvpn.net",
+      "ipv4": [
+        "185.212.111.98"
+      ],
+      "ipv6": []
+    },
+    "City": "Novi Travnik",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ba-01.protonvpn.net",
+        "ipv4": [
+          "185.212.111.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
+        "EntryIP": "185.212.111.98",
+        "ExitIP": "185.212.111.98"
+      }
+    ]
+  },
+  {
+    "Name": "BA#2",
+    "Domain": {
+      "domain": "node-ba-01.protonvpn.net",
+      "ipv4": [
+        "185.212.111.98"
+      ],
+      "ipv6": []
+    },
+    "City": "Novi Travnik",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ba-01.protonvpn.net",
+        "ipv4": [
+          "185.212.111.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
+        "EntryIP": "185.212.111.98",
+        "ExitIP": "185.212.111.98"
+      }
+    ]
+  },
+  {
+    "Name": "BA#3",
+    "Domain": {
+      "domain": "node-ba-01.protonvpn.net",
+      "ipv4": [
+        "185.212.111.98"
+      ],
+      "ipv6": []
+    },
+    "City": "Novi Travnik",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ba-01.protonvpn.net",
+        "ipv4": [
+          "185.212.111.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
+        "EntryIP": "185.212.111.98",
+        "ExitIP": "185.212.111.98"
+      }
+    ]
+  },
+  {
+    "Name": "BA#4",
+    "Domain": {
+      "domain": "node-ba-01.protonvpn.net",
+      "ipv4": [
+        "185.212.111.98"
+      ],
+      "ipv6": []
+    },
+    "City": "Novi Travnik",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ba-01.protonvpn.net",
+        "ipv4": [
+          "185.212.111.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
+        "EntryIP": "185.212.111.98",
+        "ExitIP": "185.212.111.98"
+      }
+    ]
+  },
+  {
+    "Name": "BA#5",
+    "Domain": {
+      "domain": "node-ba-01.protonvpn.net",
+      "ipv4": [
+        "185.212.111.98"
+      ],
+      "ipv6": []
+    },
+    "City": "Novi Travnik",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ba-01.protonvpn.net",
+        "ipv4": [
+          "185.212.111.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
+        "EntryIP": "185.212.111.98",
+        "ExitIP": "185.212.111.98"
+      }
+    ]
+  },
+  {
+    "Name": "BA#6",
+    "Domain": {
+      "domain": "node-ba-01.protonvpn.net",
+      "ipv4": [
+        "185.212.111.98"
+      ],
+      "ipv6": []
+    },
+    "City": "Novi Travnik",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ba-01.protonvpn.net",
+        "ipv4": [
+          "185.212.111.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
+        "EntryIP": "185.212.111.98",
+        "ExitIP": "185.212.111.98"
+      }
+    ]
+  },
+  {
+    "Name": "BA#7",
+    "Domain": {
+      "domain": "node-ba-01.protonvpn.net",
+      "ipv4": [
+        "185.212.111.98"
+      ],
+      "ipv6": []
+    },
+    "City": "Novi Travnik",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ba-01.protonvpn.net",
+        "ipv4": [
+          "185.212.111.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
+        "EntryIP": "185.212.111.98",
+        "ExitIP": "185.212.111.98"
+      }
+    ]
+  },
+  {
+    "Name": "BA#8",
+    "Domain": {
+      "domain": "node-ba-01.protonvpn.net",
+      "ipv4": [
+        "185.212.111.98"
+      ],
+      "ipv6": []
+    },
+    "City": "Novi Travnik",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ba-01.protonvpn.net",
+        "ipv4": [
+          "185.212.111.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
+        "EntryIP": "185.212.111.98",
+        "ExitIP": "185.212.111.98"
+      }
+    ]
+  },
+  {
+    "Name": "BA#9",
+    "Domain": {
+      "domain": "node-ba-01.protonvpn.net",
+      "ipv4": [
+        "185.212.111.98"
+      ],
+      "ipv6": []
+    },
+    "City": "Novi Travnik",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ba-01.protonvpn.net",
+        "ipv4": [
+          "185.212.111.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
+        "EntryIP": "185.212.111.98",
+        "ExitIP": "185.212.111.98"
+      }
+    ]
+  }
+]

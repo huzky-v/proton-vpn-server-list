@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "CH-DE#2",
+    "Domain": {
+      "domain": "ch-de-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Frankfurt",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-de-16.protonvpn.net",
+        "ipv4": [
+          "194.126.177.13"
+        ],
+        "ipv6": [
+          "2a07:b941:e40::1:d"
+        ],
+        "X25519PublicKey": "XcWEb0DMaFBex2HD2DVUStifh6wBZe9ELo2N/KLlMHc=",
+        "EntryIP": "62.169.136.184",
+        "ExitIP": "62.169.136.184"
+      },
+      {
+        "Domain": "node-de-17.protonvpn.net",
+        "ipv4": [
+          "194.126.177.14"
+        ],
+        "ipv6": [
+          "2a07:b941:e40::1:e"
+        ],
+        "X25519PublicKey": "9+CorlxrTsQR7qjIOVKsEkk8Z7UUS5WT3R1ccF7a0ic=",
+        "EntryIP": "62.169.136.183",
+        "ExitIP": "62.169.136.183"
+      },
+      {
+        "Domain": "node-de-18.protonvpn.net",
+        "ipv4": [
+          "149.88.19.225"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1701:3038::10"
+        ],
+        "X25519PublicKey": "XEhzlc2pX8uDChBR65mlzijG6KaoatbiEND8mRdjVD8=",
+        "EntryIP": "62.169.136.57",
+        "ExitIP": "62.169.136.57"
+      },
+      {
+        "Domain": "node-de-19.protonvpn.net",
+        "ipv4": [
+          "149.88.19.238"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1701:3039::10"
+        ],
+        "X25519PublicKey": "gW9yJRNQgnWPUB0qbRjRGrnvbYOhPqypmp1cW961XEM=",
+        "EntryIP": "62.169.136.58",
+        "ExitIP": "62.169.136.58"
+      }
+    ]
+  }
+]

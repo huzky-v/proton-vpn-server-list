@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-TH#1",
+    "Domain": {
+      "domain": "is-th-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Bangkok",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-th-01.protonvpn.net",
+        "ipv4": [
+          "37.19.201.129"
+        ],
+        "ipv6": [
+          "2a10:9007:5:10::10"
+        ],
+        "X25519PublicKey": "N4vu5ZFsvf3nbKAYnwwXvqeDwxrYOXZKbTSdknB9a1w=",
+        "EntryIP": "185.159.158.191",
+        "ExitIP": "185.159.158.191"
+      }
+    ]
+  }
+]

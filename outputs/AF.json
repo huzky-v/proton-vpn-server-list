@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "AF#4",
+    "Domain": {
+      "domain": "af-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Kabul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "af-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "KsZNPiyO6CgRBY80XmwHv1BmpBwCSBYk7/H/tCyx2Hc=",
+        "EntryIP": "74.118.126.2",
+        "ExitIP": "74.118.126.2"
+      }
+    ]
+  },
+  {
+    "Name": "AF#5",
+    "Domain": {
+      "domain": "af-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Kabul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "af-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "KsZNPiyO6CgRBY80XmwHv1BmpBwCSBYk7/H/tCyx2Hc=",
+        "EntryIP": "74.118.126.2",
+        "ExitIP": "74.118.126.2"
+      }
+    ]
+  }
+]

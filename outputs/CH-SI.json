@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "CH-SI#2",
+    "Domain": {
+      "domain": "ch-si-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-si-01.protonvpn.net",
+        "ipv4": [
+          "195.80.150.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "OyElFysx9UjgoZri1lIj9epltqS13lH5m6wO2UTgl0M=",
+        "EntryIP": "62.169.136.93",
+        "ExitIP": "62.169.136.93"
+      }
+    ]
+  }
+]

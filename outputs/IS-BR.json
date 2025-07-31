@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-BR#2",
+    "Domain": {
+      "domain": "is-br-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "São Paulo",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-br-04.protonvpn.net",
+        "ipv4": [
+          "149.102.251.97"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d012:2078::10"
+        ],
+        "X25519PublicKey": "0FnhfTGup0LHPmBCsuDN4tVqlgOaItDwayQokhWapFQ=",
+        "EntryIP": "185.159.158.177",
+        "ExitIP": "185.159.158.177"
+      }
+    ]
+  }
+]

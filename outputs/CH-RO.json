@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-RO#2",
+    "Domain": {
+      "domain": "ch-ro-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Bucharest",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ro-08.protonvpn.net",
+        "ipv4": [
+          "185.181.100.178"
+        ],
+        "ipv6": [
+          "2a04:9dc0:0:149::10"
+        ],
+        "X25519PublicKey": "oXJDkB7ARwfgC1j8nJMTPz1s8zHDy72V3UxgERs9YjI=",
+        "EntryIP": "62.169.136.11",
+        "ExitIP": "62.169.136.11"
+      }
+    ]
+  }
+]

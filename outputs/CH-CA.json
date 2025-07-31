@@ -1,0 +1,110 @@
+[
+  {
+    "Name": "CH-CA#2",
+    "Domain": {
+      "domain": "ch-ca-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Toronto",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ca-09.protonvpn.net",
+        "ipv4": [
+          "178.249.214.65"
+        ],
+        "ipv6": [
+          "2a02:6ea0:de10:2126::10"
+        ],
+        "X25519PublicKey": "4+452KKZ/BpmTeJ0Ua5YulgtVJKrFlw0AKKo4PtlYxM=",
+        "EntryIP": "62.169.136.177",
+        "ExitIP": "62.169.136.177"
+      },
+      {
+        "Domain": "node-ca-12.protonvpn.net",
+        "ipv4": [
+          "169.150.204.33"
+        ],
+        "ipv6": [
+          "2a02:6ea0:de10:2288::10"
+        ],
+        "X25519PublicKey": "e0wrSY2v5Cwt8qyio3YTQNOvh3EYb5biJKpkuIdgNk8=",
+        "EntryIP": "62.169.136.188",
+        "ExitIP": "62.169.136.188"
+      },
+      {
+        "Domain": "node-ca-13.protonvpn.net",
+        "ipv4": [
+          "169.150.204.44"
+        ],
+        "ipv6": [
+          "2a02:6ea0:de10:2290::10"
+        ],
+        "X25519PublicKey": "bXjH25gkRdWvXKahKY4iJNE+v/TVdT0uXE6WQJrX51Q=",
+        "EntryIP": "62.169.136.189",
+        "ExitIP": "62.169.136.189"
+      },
+      {
+        "Domain": "node-ca-18.protonvpn.net",
+        "ipv4": [
+          "146.70.198.18"
+        ],
+        "ipv6": [
+          "2a0d:5600:9:a22::10"
+        ],
+        "X25519PublicKey": "RWj/yInIFoGovnNO3wKBcMrdPmDjckc0TVNgOSSZsgs=",
+        "EntryIP": "62.169.136.230",
+        "ExitIP": "62.169.136.230"
+      },
+      {
+        "Domain": "node-ca-16.protonvpn.net",
+        "ipv4": [
+          "146.70.198.50"
+        ],
+        "ipv6": [
+          "2a0d:5600:9:a24::10"
+        ],
+        "X25519PublicKey": "b5Wy36VwywSceq7wfLAe/QxcQ/UQC11txwkGes/CEWc=",
+        "EntryIP": "62.169.136.231",
+        "ExitIP": "62.169.136.231"
+      },
+      {
+        "Domain": "node-ca-21.protonvpn.net",
+        "ipv4": [
+          "107.181.177.2"
+        ],
+        "ipv6": [
+          "2607:f7a0:d:1a::10"
+        ],
+        "X25519PublicKey": "ZBptfdRNxso1dS36d076Rmv7DDAaTs5qdVZE6vbzYwg=",
+        "EntryIP": "62.169.136.90",
+        "ExitIP": "62.169.136.90"
+      },
+      {
+        "Domain": "node-ca-20.protonvpn.net",
+        "ipv4": [
+          "172.98.82.146"
+        ],
+        "ipv6": [
+          "2607:f7a0:17:4::10"
+        ],
+        "X25519PublicKey": "2BEMYqJguSc+NP7pSMo65SGQtbg3ExtZgYGaZ6VHiD8=",
+        "EntryIP": "62.169.136.89",
+        "ExitIP": "62.169.136.89"
+      },
+      {
+        "Domain": "node-ca-22.protonvpn.net",
+        "ipv4": [
+          "107.181.177.11"
+        ],
+        "ipv6": [
+          "2607:f7a0:d:1b::10"
+        ],
+        "X25519PublicKey": "nCSpFYxP/UfbfceoXRdWrdm8JLTsfM6oBFbqnvv7Dhw=",
+        "EntryIP": "62.169.136.88",
+        "ExitIP": "62.169.136.88"
+      }
+    ]
+  }
+]

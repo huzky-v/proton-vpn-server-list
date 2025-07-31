@@ -1,0 +1,84 @@
+[
+  {
+    "Name": "CH-NL#2",
+    "Domain": {
+      "domain": "ch-nl-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Amsterdam",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-nl-165.protonvpn.net",
+        "ipv4": [
+          "212.92.104.193"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "+veOJwVuUpP9QAx4q3krdh4pTBgOyqew1TTTDnyITRg=",
+        "EntryIP": "62.169.136.197",
+        "ExitIP": "62.169.136.197"
+      },
+      {
+        "Domain": "node-nl-166.protonvpn.net",
+        "ipv4": [
+          "212.92.104.209"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "WTKsVAtA2WFjJQmOQTsdvasBOG1vxmbJrnu0f0cpVSk=",
+        "EntryIP": "62.169.136.198",
+        "ExitIP": "62.169.136.198"
+      },
+      {
+        "Domain": "node-nl-167.protonvpn.net",
+        "ipv4": [
+          "212.92.104.241"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "MdCt0zxKeG5K8yECIBFYeXwrS40E2QC03cCH1BWCVVY=",
+        "EntryIP": "62.169.136.199",
+        "ExitIP": "62.169.136.199"
+      },
+      {
+        "Domain": "node-nl-168.protonvpn.net",
+        "ipv4": [
+          "212.92.104.225"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "s2Eo2xDw/yvvLjltF8VJT84k+T1K1+veCEE9uKC6gjo=",
+        "EntryIP": "62.169.136.91",
+        "ExitIP": "62.169.136.91"
+      },
+      {
+        "Domain": "node-nl-204.protonvpn.net",
+        "ipv4": [
+          "77.247.178.54"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Zee6nAIrhwMYEHBolukyS/ir3FK76KRf0OE8FGtKUnI=",
+        "EntryIP": "62.169.136.236",
+        "ExitIP": "62.169.136.236"
+      },
+      {
+        "Domain": "node-nl-211.protonvpn.net",
+        "ipv4": [
+          "185.107.44.200"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "3P4ocB2/quwPDO74RB/tUx8VSqeDWPfGs5NrhL/qnFc=",
+        "EntryIP": "62.169.136.103",
+        "ExitIP": "62.169.136.103"
+      },
+      {
+        "Domain": "node-nl-209.protonvpn.net",
+        "ipv4": [
+          "185.107.44.110"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "YgGdHIXeCQgBc4nXKJ4vct8S0fPqBpTgk4I8gh3uMEg=",
+        "EntryIP": "62.169.136.96",
+        "ExitIP": "62.169.136.96"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "CH-LU#2",
+    "Domain": {
+      "domain": "ch-lu-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Luxembourg",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-lu-04.protonvpn.net",
+        "ipv4": [
+          "5.253.204.162"
+        ],
+        "ipv6": [
+          "2001:ac8:8:2::10"
+        ],
+        "X25519PublicKey": "buYqE3X8Wf8X/v5NtHVXYgLk45+2og8MVEbgQAkEyBw=",
+        "EntryIP": "79.135.104.48",
+        "ExitIP": "79.135.104.48"
+      },
+      {
+        "Domain": "node-lu-04.protonvpn.net",
+        "ipv4": [
+          "5.253.204.162"
+        ],
+        "ipv6": [
+          "2001:ac8:8:2::10"
+        ],
+        "X25519PublicKey": "buYqE3X8Wf8X/v5NtHVXYgLk45+2og8MVEbgQAkEyBw=",
+        "EntryIP": "62.169.136.9",
+        "ExitIP": "62.169.136.9"
+      }
+    ]
+  }
+]

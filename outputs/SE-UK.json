@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "SE-UK#1",
+    "Domain": {
+      "domain": "se-uk-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "London",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-uk-09.protonvpn.net",
+        "ipv4": [
+          "146.70.204.162"
+        ],
+        "ipv6": [
+          "2001:ac8:31:366::10"
+        ],
+        "X25519PublicKey": "lV7oTc0YRiXHOWTm6qMGIVargMQEXw5xAgS4T9WWlyo=",
+        "EntryIP": "185.159.156.122",
+        "ExitIP": "185.159.156.122"
+      },
+      {
+        "Domain": "node-uk-10.protonvpn.net",
+        "ipv4": [
+          "146.70.204.178"
+        ],
+        "ipv6": [
+          "2001:ac8:31:365::10"
+        ],
+        "X25519PublicKey": "lMm8Gocz1SIU/eAhpBzPHIWvAxJ30Oyeaj2PvmNl/Qk=",
+        "EntryIP": "185.159.156.123",
+        "ExitIP": "185.159.156.123"
+      },
+      {
+        "Domain": "node-uk-13.protonvpn.net",
+        "ipv4": [
+          "146.70.96.66"
+        ],
+        "ipv6": [
+          "2001:ac8:31:f002::10"
+        ],
+        "X25519PublicKey": "ic5vxFWQEX5lRVwgx2vfE1xYKXQuwQi1TGDSkR0fsEY=",
+        "EntryIP": "185.159.156.99",
+        "ExitIP": "185.159.156.99"
+      },
+      {
+        "Domain": "node-uk-28.protonvpn.net",
+        "ipv4": [
+          "79.127.146.206"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1a01:5259::10"
+        ],
+        "X25519PublicKey": "Nt2+ldtk/E26ew70Znlbk2IJLccJS7Hi4Mq6ohCVtDw=",
+        "EntryIP": "185.159.156.139",
+        "ExitIP": "185.159.156.139"
+      },
+      {
+        "Domain": "node-uk-29.protonvpn.net",
+        "ipv4": [
+          "79.127.146.51"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1a01:5260::10"
+        ],
+        "X25519PublicKey": "tfO3E5NaGJZgUzZ/M6dfsPGlpC08UeHGRo2iYRBO+GQ=",
+        "EntryIP": "185.159.156.140",
+        "ExitIP": "185.159.156.140"
+      },
+      {
+        "Domain": "node-uk-30.protonvpn.net",
+        "ipv4": [
+          "79.127.146.156"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1a01:5261::10"
+        ],
+        "X25519PublicKey": "kNPJPSh9cam56piHoWP3ZVkWRgvgcuspf2X6IXhiZVU=",
+        "EntryIP": "185.159.156.141",
+        "ExitIP": "185.159.156.141"
+      }
+    ]
+  }
+]

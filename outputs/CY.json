@@ -1,0 +1,282 @@
+[
+  {
+    "Name": "CY#1",
+    "Domain": {
+      "domain": "node-cy-01.protonvpn.net",
+      "ipv4": [
+        "85.132.252.34"
+      ],
+      "ipv6": [
+        "2a02:540:3:2009::10"
+      ]
+    },
+    "City": "Limassol",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cy-01.protonvpn.net",
+        "ipv4": [
+          "85.132.252.34"
+        ],
+        "ipv6": [
+          "2a02:540:3:2009::10"
+        ],
+        "X25519PublicKey": "e3RzM0pr0CkENa045wi0oBMzL3D6kfHbGW5rHWSOtig=",
+        "EntryIP": "85.132.252.34",
+        "ExitIP": "85.132.252.34"
+      }
+    ]
+  },
+  {
+    "Name": "CY#10",
+    "Domain": {
+      "domain": "node-cy-01.protonvpn.net",
+      "ipv4": [
+        "85.132.252.34"
+      ],
+      "ipv6": [
+        "2a02:540:3:2009::10"
+      ]
+    },
+    "City": "Limassol",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cy-01.protonvpn.net",
+        "ipv4": [
+          "85.132.252.34"
+        ],
+        "ipv6": [
+          "2a02:540:3:2009::10"
+        ],
+        "X25519PublicKey": "e3RzM0pr0CkENa045wi0oBMzL3D6kfHbGW5rHWSOtig=",
+        "EntryIP": "85.132.252.34",
+        "ExitIP": "85.132.252.34"
+      }
+    ]
+  },
+  {
+    "Name": "CY#2",
+    "Domain": {
+      "domain": "node-cy-01.protonvpn.net",
+      "ipv4": [
+        "85.132.252.34"
+      ],
+      "ipv6": [
+        "2a02:540:3:2009::10"
+      ]
+    },
+    "City": "Limassol",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cy-01.protonvpn.net",
+        "ipv4": [
+          "85.132.252.34"
+        ],
+        "ipv6": [
+          "2a02:540:3:2009::10"
+        ],
+        "X25519PublicKey": "e3RzM0pr0CkENa045wi0oBMzL3D6kfHbGW5rHWSOtig=",
+        "EntryIP": "85.132.252.34",
+        "ExitIP": "85.132.252.34"
+      }
+    ]
+  },
+  {
+    "Name": "CY#3",
+    "Domain": {
+      "domain": "node-cy-01.protonvpn.net",
+      "ipv4": [
+        "85.132.252.34"
+      ],
+      "ipv6": [
+        "2a02:540:3:2009::10"
+      ]
+    },
+    "City": "Limassol",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cy-01.protonvpn.net",
+        "ipv4": [
+          "85.132.252.34"
+        ],
+        "ipv6": [
+          "2a02:540:3:2009::10"
+        ],
+        "X25519PublicKey": "e3RzM0pr0CkENa045wi0oBMzL3D6kfHbGW5rHWSOtig=",
+        "EntryIP": "85.132.252.34",
+        "ExitIP": "85.132.252.34"
+      }
+    ]
+  },
+  {
+    "Name": "CY#4",
+    "Domain": {
+      "domain": "node-cy-01.protonvpn.net",
+      "ipv4": [
+        "85.132.252.34"
+      ],
+      "ipv6": [
+        "2a02:540:3:2009::10"
+      ]
+    },
+    "City": "Limassol",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cy-01.protonvpn.net",
+        "ipv4": [
+          "85.132.252.34"
+        ],
+        "ipv6": [
+          "2a02:540:3:2009::10"
+        ],
+        "X25519PublicKey": "e3RzM0pr0CkENa045wi0oBMzL3D6kfHbGW5rHWSOtig=",
+        "EntryIP": "85.132.252.34",
+        "ExitIP": "85.132.252.34"
+      }
+    ]
+  },
+  {
+    "Name": "CY#5",
+    "Domain": {
+      "domain": "node-cy-01.protonvpn.net",
+      "ipv4": [
+        "85.132.252.34"
+      ],
+      "ipv6": [
+        "2a02:540:3:2009::10"
+      ]
+    },
+    "City": "Limassol",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cy-01.protonvpn.net",
+        "ipv4": [
+          "85.132.252.34"
+        ],
+        "ipv6": [
+          "2a02:540:3:2009::10"
+        ],
+        "X25519PublicKey": "e3RzM0pr0CkENa045wi0oBMzL3D6kfHbGW5rHWSOtig=",
+        "EntryIP": "85.132.252.34",
+        "ExitIP": "85.132.252.34"
+      }
+    ]
+  },
+  {
+    "Name": "CY#6",
+    "Domain": {
+      "domain": "node-cy-01.protonvpn.net",
+      "ipv4": [
+        "85.132.252.34"
+      ],
+      "ipv6": [
+        "2a02:540:3:2009::10"
+      ]
+    },
+    "City": "Limassol",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cy-01.protonvpn.net",
+        "ipv4": [
+          "85.132.252.34"
+        ],
+        "ipv6": [
+          "2a02:540:3:2009::10"
+        ],
+        "X25519PublicKey": "e3RzM0pr0CkENa045wi0oBMzL3D6kfHbGW5rHWSOtig=",
+        "EntryIP": "85.132.252.34",
+        "ExitIP": "85.132.252.34"
+      }
+    ]
+  },
+  {
+    "Name": "CY#7",
+    "Domain": {
+      "domain": "node-cy-01.protonvpn.net",
+      "ipv4": [
+        "85.132.252.34"
+      ],
+      "ipv6": [
+        "2a02:540:3:2009::10"
+      ]
+    },
+    "City": "Limassol",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cy-01.protonvpn.net",
+        "ipv4": [
+          "85.132.252.34"
+        ],
+        "ipv6": [
+          "2a02:540:3:2009::10"
+        ],
+        "X25519PublicKey": "e3RzM0pr0CkENa045wi0oBMzL3D6kfHbGW5rHWSOtig=",
+        "EntryIP": "85.132.252.34",
+        "ExitIP": "85.132.252.34"
+      }
+    ]
+  },
+  {
+    "Name": "CY#8",
+    "Domain": {
+      "domain": "node-cy-01.protonvpn.net",
+      "ipv4": [
+        "85.132.252.34"
+      ],
+      "ipv6": [
+        "2a02:540:3:2009::10"
+      ]
+    },
+    "City": "Limassol",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cy-01.protonvpn.net",
+        "ipv4": [
+          "85.132.252.34"
+        ],
+        "ipv6": [
+          "2a02:540:3:2009::10"
+        ],
+        "X25519PublicKey": "e3RzM0pr0CkENa045wi0oBMzL3D6kfHbGW5rHWSOtig=",
+        "EntryIP": "85.132.252.34",
+        "ExitIP": "85.132.252.34"
+      }
+    ]
+  },
+  {
+    "Name": "CY#9",
+    "Domain": {
+      "domain": "node-cy-01.protonvpn.net",
+      "ipv4": [
+        "85.132.252.34"
+      ],
+      "ipv6": [
+        "2a02:540:3:2009::10"
+      ]
+    },
+    "City": "Limassol",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cy-01.protonvpn.net",
+        "ipv4": [
+          "85.132.252.34"
+        ],
+        "ipv6": [
+          "2a02:540:3:2009::10"
+        ],
+        "X25519PublicKey": "e3RzM0pr0CkENa045wi0oBMzL3D6kfHbGW5rHWSOtig=",
+        "EntryIP": "85.132.252.34",
+        "ExitIP": "85.132.252.34"
+      }
+    ]
+  }
+]

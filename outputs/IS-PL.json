@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "IS-PL#1",
+    "Domain": {
+      "domain": "is-pl-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Warsaw",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pl-07.protonvpn.net",
+        "ipv4": [
+          "146.70.161.162"
+        ],
+        "ipv6": [
+          "2a0d:5600:13:b::10"
+        ],
+        "X25519PublicKey": "HKjdcdOwD434Dvj7wzN+j/TpchEVcwLm4mq0fuj1tT4=",
+        "EntryIP": "185.159.158.224",
+        "ExitIP": "185.159.158.224"
+      },
+      {
+        "Domain": "node-pl-16.protonvpn.net",
+        "ipv4": [
+          "79.127.186.222"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "HlHKazUN3qvpm2F340jsIfQEU7e6K2pxCHRrMPPUhxw=",
+        "EntryIP": "185.159.158.74",
+        "ExitIP": "185.159.158.74"
+      }
+    ]
+  }
+]

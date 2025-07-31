@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "CH-HU#2",
+    "Domain": {
+      "domain": "ch-hu-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Budapest",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-hu-04.protonvpn.net",
+        "ipv4": [
+          "146.70.120.146"
+        ],
+        "ipv6": [
+          "2001:ac8:26:d::10"
+        ],
+        "X25519PublicKey": "JhYnH6WPDoqd5kldH4Zd1pQLj9mBDxRwNt4uuMI0eRo=",
+        "EntryIP": "62.169.136.241",
+        "ExitIP": "62.169.136.241"
+      },
+      {
+        "Domain": "node-hu-03.protonvpn.net",
+        "ipv4": [
+          "146.70.120.210"
+        ],
+        "ipv6": [
+          "2001:ac8:26:14::10"
+        ],
+        "X25519PublicKey": "AyifXfoAYFImnhwHKZpIvl4Mf0O1ecysYyInnaY13kQ=",
+        "EntryIP": "62.169.136.242",
+        "ExitIP": "62.169.136.242"
+      }
+    ]
+  }
+]

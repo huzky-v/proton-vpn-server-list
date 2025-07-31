@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-HK#2",
+    "Domain": {
+      "domain": "ch-hk-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Hong Kong",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-hk-06.protonvpn.net",
+        "ipv4": [
+          "146.70.113.98"
+        ],
+        "ipv6": [
+          "2001:ac8:a:2::10"
+        ],
+        "X25519PublicKey": "/AEriTfHYyrhW+bj1cDy9RroL4j4o1tv9sw4m+aB8lA=",
+        "EntryIP": "62.169.136.232",
+        "ExitIP": "62.169.136.232"
+      }
+    ]
+  }
+]

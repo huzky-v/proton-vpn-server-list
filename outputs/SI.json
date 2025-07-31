@@ -1,0 +1,1762 @@
+[
+  {
+    "Name": "SI#1",
+    "Domain": {
+      "domain": "node-si-01.protonvpn.net",
+      "ipv4": [
+        "195.80.150.226"
+      ],
+      "ipv6": []
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-si-01.protonvpn.net",
+        "ipv4": [
+          "195.80.150.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "OyElFysx9UjgoZri1lIj9epltqS13lH5m6wO2UTgl0M=",
+        "EntryIP": "195.80.150.226",
+        "ExitIP": "195.80.150.226"
+      }
+    ]
+  },
+  {
+    "Name": "SI#2",
+    "Domain": {
+      "domain": "node-si-01.protonvpn.net",
+      "ipv4": [
+        "195.80.150.226"
+      ],
+      "ipv6": []
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-si-01.protonvpn.net",
+        "ipv4": [
+          "195.80.150.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "OyElFysx9UjgoZri1lIj9epltqS13lH5m6wO2UTgl0M=",
+        "EntryIP": "195.80.150.226",
+        "ExitIP": "195.80.150.226"
+      }
+    ]
+  },
+  {
+    "Name": "SI#3",
+    "Domain": {
+      "domain": "node-si-01.protonvpn.net",
+      "ipv4": [
+        "195.80.150.226"
+      ],
+      "ipv6": []
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-si-01.protonvpn.net",
+        "ipv4": [
+          "195.80.150.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "OyElFysx9UjgoZri1lIj9epltqS13lH5m6wO2UTgl0M=",
+        "EntryIP": "195.80.150.226",
+        "ExitIP": "195.80.150.226"
+      }
+    ]
+  },
+  {
+    "Name": "SI#4",
+    "Domain": {
+      "domain": "node-si-01.protonvpn.net",
+      "ipv4": [
+        "195.80.150.226"
+      ],
+      "ipv6": []
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-si-01.protonvpn.net",
+        "ipv4": [
+          "195.80.150.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "OyElFysx9UjgoZri1lIj9epltqS13lH5m6wO2UTgl0M=",
+        "EntryIP": "195.80.150.226",
+        "ExitIP": "195.80.150.226"
+      }
+    ]
+  },
+  {
+    "Name": "SI#5",
+    "Domain": {
+      "domain": "node-si-01.protonvpn.net",
+      "ipv4": [
+        "195.80.150.226"
+      ],
+      "ipv6": []
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-si-01.protonvpn.net",
+        "ipv4": [
+          "195.80.150.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "OyElFysx9UjgoZri1lIj9epltqS13lH5m6wO2UTgl0M=",
+        "EntryIP": "195.80.150.226",
+        "ExitIP": "195.80.150.226"
+      }
+    ]
+  },
+  {
+    "Name": "SI#6",
+    "Domain": {
+      "domain": "node-si-01.protonvpn.net",
+      "ipv4": [
+        "195.80.150.226"
+      ],
+      "ipv6": []
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-si-01.protonvpn.net",
+        "ipv4": [
+          "195.80.150.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "OyElFysx9UjgoZri1lIj9epltqS13lH5m6wO2UTgl0M=",
+        "EntryIP": "195.80.150.226",
+        "ExitIP": "195.80.150.226"
+      }
+    ]
+  },
+  {
+    "Name": "SI#7",
+    "Domain": {
+      "domain": "node-si-01.protonvpn.net",
+      "ipv4": [
+        "195.80.150.226"
+      ],
+      "ipv6": []
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-si-01.protonvpn.net",
+        "ipv4": [
+          "195.80.150.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "OyElFysx9UjgoZri1lIj9epltqS13lH5m6wO2UTgl0M=",
+        "EntryIP": "195.80.150.226",
+        "ExitIP": "195.80.150.226"
+      }
+    ]
+  },
+  {
+    "Name": "SI#8",
+    "Domain": {
+      "domain": "node-si-01.protonvpn.net",
+      "ipv4": [
+        "195.80.150.226"
+      ],
+      "ipv6": []
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-si-01.protonvpn.net",
+        "ipv4": [
+          "195.80.150.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "OyElFysx9UjgoZri1lIj9epltqS13lH5m6wO2UTgl0M=",
+        "EntryIP": "195.80.150.226",
+        "ExitIP": "195.80.150.226"
+      }
+    ]
+  },
+  {
+    "Name": "SI#10",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#11",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#12",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#13",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#14",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#15",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#16",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#17",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#18",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#19",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#20",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#21",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#22",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#23",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#24",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#25",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#26",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#27",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#28",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#29",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#30",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#31",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#32",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#33",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#34",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#35",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#36",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  },
+  {
+    "Name": "SI#37",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#38",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#39",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#40",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#41",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#42",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#43",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#44",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#45",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#46",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#47",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#48",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#49",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#50",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#51",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#52",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#53",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#54",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#55",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#56",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#57",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#58",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#59",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#60",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#61",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#62",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#63",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#64",
+    "Domain": {
+      "domain": "node-si-03.protonvpn.net",
+      "ipv4": [
+        "130.195.245.2"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::10"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-03.protonvpn.net",
+        "ipv4": [
+          "130.195.245.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::10"
+        ],
+        "X25519PublicKey": "Fvi1fzRzkkesESo2kgriu+RWXiLm9Fjz2M7twuejoCM=",
+        "EntryIP": "130.195.245.2",
+        "ExitIP": "130.195.245.2"
+      }
+    ]
+  },
+  {
+    "Name": "SI#9",
+    "Domain": {
+      "domain": "node-si-02.protonvpn.net",
+      "ipv4": [
+        "130.195.245.3"
+      ],
+      "ipv6": [
+        "2a0d:5600:96:1::50"
+      ]
+    },
+    "City": "Ljubljana",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-si-02.protonvpn.net",
+        "ipv4": [
+          "130.195.245.3"
+        ],
+        "ipv6": [
+          "2a0d:5600:96:1::50"
+        ],
+        "X25519PublicKey": "oQtv5z3q1d85QjjJUkB2vhl5P9VX/zXiHMcxdrejwH4=",
+        "EntryIP": "130.195.245.3",
+        "ExitIP": "130.195.245.3"
+      }
+    ]
+  }
+]

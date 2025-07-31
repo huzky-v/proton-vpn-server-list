@@ -1,0 +1,54 @@
+[
+  {
+    "Name": "SE-FI#1",
+    "Domain": {
+      "domain": "se-fi-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Helsinki",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-fi-01.protonvpn.net",
+        "ipv4": [
+          "194.34.132.55"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "z0xd29K3h6taRG+nGSvkgPXXzAOt+2V69dZTtjGoajs=",
+        "EntryIP": "185.159.156.27",
+        "ExitIP": "185.159.156.27"
+      },
+      {
+        "Domain": "node-fi-01.protonvpn.net",
+        "ipv4": [
+          "194.34.132.55"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "z0xd29K3h6taRG+nGSvkgPXXzAOt+2V69dZTtjGoajs=",
+        "EntryIP": "185.159.156.28",
+        "ExitIP": "185.159.156.28"
+      },
+      {
+        "Domain": "node-fi-02.protonvpn.net",
+        "ipv4": [
+          "196.196.203.202"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cdx8bADYVWBlHkg6Ekl6k2y0kjkYNFagN2ttPC128HU=",
+        "EntryIP": "185.159.156.92",
+        "ExitIP": "185.159.156.92"
+      },
+      {
+        "Domain": "node-fi-04.protonvpn.net",
+        "ipv4": [
+          "130.195.221.162"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "N3IkjWjh9PFh3Wo0srltI6X8pm9EJbc3hTu0sFfxSwE=",
+        "EntryIP": "185.159.156.148",
+        "ExitIP": "185.159.156.148"
+      }
+    ]
+  }
+]

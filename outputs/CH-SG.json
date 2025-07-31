@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-SG#2",
+    "Domain": {
+      "domain": "ch-sg-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Singapore",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-sg-14.protonvpn.net",
+        "ipv4": [
+          "37.19.201.130"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d101:2282::10"
+        ],
+        "X25519PublicKey": "rKXFNhvVY+l4GE0STa1u3Yn/2hptVI6Dms/brS341zg=",
+        "EntryIP": "62.169.136.187",
+        "ExitIP": "62.169.136.187"
+      }
+    ]
+  }
+]

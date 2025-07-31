@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "CH-UK#2",
+    "Domain": {
+      "domain": "ch-uk-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "London",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-uk-17.protonvpn.net",
+        "ipv4": [
+          "146.70.179.18"
+        ],
+        "ipv6": [
+          "2001:ac8:31:22e::10"
+        ],
+        "X25519PublicKey": "QA+TBTylpDuM0c/gbNfX7/efivIMg7P0ncLMBtTvglg=",
+        "EntryIP": "62.169.136.228",
+        "ExitIP": "62.169.136.228"
+      },
+      {
+        "Domain": "node-uk-18.protonvpn.net",
+        "ipv4": [
+          "146.70.179.98"
+        ],
+        "ipv6": [
+          "2001:ac8:31:21e::10"
+        ],
+        "X25519PublicKey": "7tEhXa2x1eKGbPevwzPjo5u5HLshPxwkofSII9y0v2c=",
+        "EntryIP": "62.169.136.229",
+        "ExitIP": "62.169.136.229"
+      },
+      {
+        "Domain": "node-uk-20.protonvpn.net",
+        "ipv4": [
+          "146.70.181.34"
+        ],
+        "ipv6": [
+          "2001:ac8:8b:55::10"
+        ],
+        "X25519PublicKey": "rASRjr/WnYDqR/aW824X2KfIxBIdS5nXQgnKly0TmBo=",
+        "EntryIP": "62.169.136.133",
+        "ExitIP": "62.169.136.133"
+      }
+    ]
+  }
+]

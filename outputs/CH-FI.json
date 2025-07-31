@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "CH-FI#2",
+    "Domain": {
+      "domain": "ch-fi-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Helsinki",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-fi-01.protonvpn.net",
+        "ipv4": [
+          "194.34.132.55"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "z0xd29K3h6taRG+nGSvkgPXXzAOt+2V69dZTtjGoajs=",
+        "EntryIP": "62.169.136.107",
+        "ExitIP": "62.169.136.107"
+      },
+      {
+        "Domain": "node-fi-03.protonvpn.net",
+        "ipv4": [
+          "185.90.60.210"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ievGDrxV0dKcjO7EM662c1Ziy0PVct0Ujse3CT4NQQw=",
+        "EntryIP": "79.135.104.69",
+        "ExitIP": "79.135.104.69"
+      }
+    ]
+  }
+]

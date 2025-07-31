@@ -1,0 +1,226 @@
+[
+  {
+    "Name": "PR#1",
+    "Domain": {
+      "domain": "node-pr-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.97"
+      ],
+      "ipv6": [
+        "2a10:9007:3:b::10"
+      ]
+    },
+    "City": "San Juan",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pr-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.97"
+        ],
+        "ipv6": [
+          "2a10:9007:3:b::10"
+        ],
+        "X25519PublicKey": "bwxgdI9Jo1QCuw9g9VvfenOBrPouBxFkdnQgRjHvrSU=",
+        "EntryIP": "138.199.50.97",
+        "ExitIP": "138.199.50.97"
+      }
+    ]
+  },
+  {
+    "Name": "PR#2",
+    "Domain": {
+      "domain": "node-pr-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.97"
+      ],
+      "ipv6": [
+        "2a10:9007:3:b::10"
+      ]
+    },
+    "City": "San Juan",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pr-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.97"
+        ],
+        "ipv6": [
+          "2a10:9007:3:b::10"
+        ],
+        "X25519PublicKey": "bwxgdI9Jo1QCuw9g9VvfenOBrPouBxFkdnQgRjHvrSU=",
+        "EntryIP": "138.199.50.97",
+        "ExitIP": "138.199.50.97"
+      }
+    ]
+  },
+  {
+    "Name": "PR#3",
+    "Domain": {
+      "domain": "node-pr-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.97"
+      ],
+      "ipv6": [
+        "2a10:9007:3:b::10"
+      ]
+    },
+    "City": "San Juan",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pr-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.97"
+        ],
+        "ipv6": [
+          "2a10:9007:3:b::10"
+        ],
+        "X25519PublicKey": "bwxgdI9Jo1QCuw9g9VvfenOBrPouBxFkdnQgRjHvrSU=",
+        "EntryIP": "138.199.50.97",
+        "ExitIP": "138.199.50.97"
+      }
+    ]
+  },
+  {
+    "Name": "PR#4",
+    "Domain": {
+      "domain": "node-pr-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.97"
+      ],
+      "ipv6": [
+        "2a10:9007:3:b::10"
+      ]
+    },
+    "City": "San Juan",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pr-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.97"
+        ],
+        "ipv6": [
+          "2a10:9007:3:b::10"
+        ],
+        "X25519PublicKey": "bwxgdI9Jo1QCuw9g9VvfenOBrPouBxFkdnQgRjHvrSU=",
+        "EntryIP": "138.199.50.97",
+        "ExitIP": "138.199.50.97"
+      }
+    ]
+  },
+  {
+    "Name": "PR#5",
+    "Domain": {
+      "domain": "node-pr-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.97"
+      ],
+      "ipv6": [
+        "2a10:9007:3:b::10"
+      ]
+    },
+    "City": "San Juan",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pr-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.97"
+        ],
+        "ipv6": [
+          "2a10:9007:3:b::10"
+        ],
+        "X25519PublicKey": "bwxgdI9Jo1QCuw9g9VvfenOBrPouBxFkdnQgRjHvrSU=",
+        "EntryIP": "138.199.50.97",
+        "ExitIP": "138.199.50.97"
+      }
+    ]
+  },
+  {
+    "Name": "PR#6",
+    "Domain": {
+      "domain": "node-pr-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.97"
+      ],
+      "ipv6": [
+        "2a10:9007:3:b::10"
+      ]
+    },
+    "City": "San Juan",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pr-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.97"
+        ],
+        "ipv6": [
+          "2a10:9007:3:b::10"
+        ],
+        "X25519PublicKey": "bwxgdI9Jo1QCuw9g9VvfenOBrPouBxFkdnQgRjHvrSU=",
+        "EntryIP": "138.199.50.97",
+        "ExitIP": "138.199.50.97"
+      }
+    ]
+  },
+  {
+    "Name": "PR#7",
+    "Domain": {
+      "domain": "node-pr-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.97"
+      ],
+      "ipv6": [
+        "2a10:9007:3:b::10"
+      ]
+    },
+    "City": "San Juan",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pr-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.97"
+        ],
+        "ipv6": [
+          "2a10:9007:3:b::10"
+        ],
+        "X25519PublicKey": "bwxgdI9Jo1QCuw9g9VvfenOBrPouBxFkdnQgRjHvrSU=",
+        "EntryIP": "138.199.50.97",
+        "ExitIP": "138.199.50.97"
+      }
+    ]
+  },
+  {
+    "Name": "PR#8",
+    "Domain": {
+      "domain": "node-pr-01.protonvpn.net",
+      "ipv4": [
+        "138.199.50.97"
+      ],
+      "ipv6": [
+        "2a10:9007:3:b::10"
+      ]
+    },
+    "City": "San Juan",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pr-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.97"
+        ],
+        "ipv6": [
+          "2a10:9007:3:b::10"
+        ],
+        "X25519PublicKey": "bwxgdI9Jo1QCuw9g9VvfenOBrPouBxFkdnQgRjHvrSU=",
+        "EntryIP": "138.199.50.97",
+        "ExitIP": "138.199.50.97"
+      }
+    ]
+  }
+]

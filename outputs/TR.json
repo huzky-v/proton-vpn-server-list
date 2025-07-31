@@ -1,0 +1,898 @@
+[
+  {
+    "Name": "TR#17",
+    "Domain": {
+      "domain": "node-tr-03.protonvpn.net",
+      "ipv4": [
+        "87.249.139.170"
+      ],
+      "ipv6": [
+        "2a02:6ea0:e806:2146::10"
+      ]
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-tr-03.protonvpn.net",
+        "ipv4": [
+          "87.249.139.170"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e806:2146::10"
+        ],
+        "X25519PublicKey": "O9PuAgDUpgObhbFQYpWMiEoynWaCSmQuGTtBjcuEk3E=",
+        "EntryIP": "87.249.139.170",
+        "ExitIP": "87.249.139.170"
+      }
+    ]
+  },
+  {
+    "Name": "TR#18",
+    "Domain": {
+      "domain": "node-tr-03.protonvpn.net",
+      "ipv4": [
+        "87.249.139.170"
+      ],
+      "ipv6": [
+        "2a02:6ea0:e806:2146::10"
+      ]
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-tr-03.protonvpn.net",
+        "ipv4": [
+          "87.249.139.170"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e806:2146::10"
+        ],
+        "X25519PublicKey": "O9PuAgDUpgObhbFQYpWMiEoynWaCSmQuGTtBjcuEk3E=",
+        "EntryIP": "87.249.139.170",
+        "ExitIP": "87.249.139.170"
+      }
+    ]
+  },
+  {
+    "Name": "TR#19",
+    "Domain": {
+      "domain": "node-tr-03.protonvpn.net",
+      "ipv4": [
+        "87.249.139.170"
+      ],
+      "ipv6": [
+        "2a02:6ea0:e806:2146::10"
+      ]
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-tr-03.protonvpn.net",
+        "ipv4": [
+          "87.249.139.170"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e806:2146::10"
+        ],
+        "X25519PublicKey": "O9PuAgDUpgObhbFQYpWMiEoynWaCSmQuGTtBjcuEk3E=",
+        "EntryIP": "87.249.139.170",
+        "ExitIP": "87.249.139.170"
+      }
+    ]
+  },
+  {
+    "Name": "TR#20",
+    "Domain": {
+      "domain": "node-tr-03.protonvpn.net",
+      "ipv4": [
+        "87.249.139.170"
+      ],
+      "ipv6": [
+        "2a02:6ea0:e806:2146::10"
+      ]
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-tr-03.protonvpn.net",
+        "ipv4": [
+          "87.249.139.170"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e806:2146::10"
+        ],
+        "X25519PublicKey": "O9PuAgDUpgObhbFQYpWMiEoynWaCSmQuGTtBjcuEk3E=",
+        "EntryIP": "87.249.139.170",
+        "ExitIP": "87.249.139.170"
+      }
+    ]
+  },
+  {
+    "Name": "TR#21",
+    "Domain": {
+      "domain": "node-tr-03.protonvpn.net",
+      "ipv4": [
+        "87.249.139.170"
+      ],
+      "ipv6": [
+        "2a02:6ea0:e806:2146::10"
+      ]
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-tr-03.protonvpn.net",
+        "ipv4": [
+          "87.249.139.170"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e806:2146::10"
+        ],
+        "X25519PublicKey": "O9PuAgDUpgObhbFQYpWMiEoynWaCSmQuGTtBjcuEk3E=",
+        "EntryIP": "87.249.139.170",
+        "ExitIP": "87.249.139.170"
+      }
+    ]
+  },
+  {
+    "Name": "TR#22",
+    "Domain": {
+      "domain": "node-tr-03.protonvpn.net",
+      "ipv4": [
+        "87.249.139.170"
+      ],
+      "ipv6": [
+        "2a02:6ea0:e806:2146::10"
+      ]
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-tr-03.protonvpn.net",
+        "ipv4": [
+          "87.249.139.170"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e806:2146::10"
+        ],
+        "X25519PublicKey": "O9PuAgDUpgObhbFQYpWMiEoynWaCSmQuGTtBjcuEk3E=",
+        "EntryIP": "87.249.139.170",
+        "ExitIP": "87.249.139.170"
+      }
+    ]
+  },
+  {
+    "Name": "TR#23",
+    "Domain": {
+      "domain": "node-tr-03.protonvpn.net",
+      "ipv4": [
+        "87.249.139.170"
+      ],
+      "ipv6": [
+        "2a02:6ea0:e806:2146::10"
+      ]
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-tr-03.protonvpn.net",
+        "ipv4": [
+          "87.249.139.170"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e806:2146::10"
+        ],
+        "X25519PublicKey": "O9PuAgDUpgObhbFQYpWMiEoynWaCSmQuGTtBjcuEk3E=",
+        "EntryIP": "87.249.139.170",
+        "ExitIP": "87.249.139.170"
+      }
+    ]
+  },
+  {
+    "Name": "TR#24",
+    "Domain": {
+      "domain": "node-tr-03.protonvpn.net",
+      "ipv4": [
+        "87.249.139.170"
+      ],
+      "ipv6": [
+        "2a02:6ea0:e806:2146::10"
+      ]
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-tr-03.protonvpn.net",
+        "ipv4": [
+          "87.249.139.170"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e806:2146::10"
+        ],
+        "X25519PublicKey": "O9PuAgDUpgObhbFQYpWMiEoynWaCSmQuGTtBjcuEk3E=",
+        "EntryIP": "87.249.139.170",
+        "ExitIP": "87.249.139.170"
+      }
+    ]
+  },
+  {
+    "Name": "TR#100",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#73",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#74",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#75",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#76",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#77",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#78",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#79",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#80",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#81",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#82",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#83",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#84",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#85",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#86",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#87",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#88",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#89",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#90",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#91",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#92",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#93",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#94",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#95",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#96",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#97",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#98",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  },
+  {
+    "Name": "TR#99",
+    "Domain": {
+      "domain": "node-tr-04.protonvpn.net",
+      "ipv4": [
+        "130.195.216.66"
+      ],
+      "ipv6": []
+    },
+    "City": "Istanbul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tr-04.protonvpn.net",
+        "ipv4": [
+          "130.195.216.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QtI8q0njcsux4dz6dflWE9t+0LIGACDrxUx3iGApY1k=",
+        "EntryIP": "130.195.216.66",
+        "ExitIP": "130.195.216.66"
+      }
+    ]
+  }
+]

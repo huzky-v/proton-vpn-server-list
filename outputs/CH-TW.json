@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "CH-TW#2",
+    "Domain": {
+      "domain": "ch-tw-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Taipei",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-tw-03.protonvpn.net",
+        "ipv4": [
+          "2.58.241.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "4YvW6/5LP4g/WmaLc1EDfOno+IyN6r+87gQEqGz2Gz4=",
+        "EntryIP": "62.169.136.141",
+        "ExitIP": "62.169.136.141"
+      }
+    ]
+  }
+]

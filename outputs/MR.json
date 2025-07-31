@@ -1,0 +1,674 @@
+[
+  {
+    "Name": "MR#1",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#10",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#11",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#12",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#13",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#14",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#15",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#16",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#17",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#18",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#19",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#2",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#20",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#21",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#22",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#23",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#24",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#3",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#4",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#5",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#6",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#7",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#8",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#9",
+    "Domain": {
+      "domain": "mr-01.protonvpn.net",
+      "ipv4": [
+        "45.83.139.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-01.protonvpn.net",
+        "ipv4": [
+          "45.83.139.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D3koDcX6PBuFCk4BRcBdMdutViAhPTiCi2mho7ei6gE=",
+        "EntryIP": "45.83.139.1",
+        "ExitIP": "45.83.139.1"
+      }
+    ]
+  },
+  {
+    "Name": "MR#29",
+    "Domain": {
+      "domain": "mr-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.144"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.144"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Nc+yZG/HP7rcmzGX/vq4TFapROjWMKCV8nUYRTDKQjw=",
+        "EntryIP": "74.118.126.144",
+        "ExitIP": "74.118.126.144"
+      }
+    ]
+  },
+  {
+    "Name": "MR#30",
+    "Domain": {
+      "domain": "mr-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.144"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.144"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Nc+yZG/HP7rcmzGX/vq4TFapROjWMKCV8nUYRTDKQjw=",
+        "EntryIP": "74.118.126.144",
+        "ExitIP": "74.118.126.144"
+      }
+    ]
+  },
+  {
+    "Name": "MR#31",
+    "Domain": {
+      "domain": "mr-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.144"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.144"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Nc+yZG/HP7rcmzGX/vq4TFapROjWMKCV8nUYRTDKQjw=",
+        "EntryIP": "74.118.126.144",
+        "ExitIP": "74.118.126.144"
+      }
+    ]
+  },
+  {
+    "Name": "MR#32",
+    "Domain": {
+      "domain": "mr-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.144"
+      ],
+      "ipv6": []
+    },
+    "City": "Nouakchott",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mr-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.144"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Nc+yZG/HP7rcmzGX/vq4TFapROjWMKCV8nUYRTDKQjw=",
+        "EntryIP": "74.118.126.144",
+        "ExitIP": "74.118.126.144"
+      }
+    ]
+  }
+]

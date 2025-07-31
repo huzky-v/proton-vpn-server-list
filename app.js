@@ -1,0 +1,92 @@
+const fs = require('fs');
+const path = require('path');
+const dns = require('dns').promises;
+
+const inputFile = 'response.json';
+const outputDir = 'outputs';
+
+const dnsCache = {};
+
+async function resolveDomain(domain) {
+  if (dnsCache[domain]) return dnsCache[domain];
+
+  const ipv4 = [];
+  const ipv6 = [];
+  try {
+    const aRecords = await dns.resolve4(domain);
+    ipv4.push(...aRecords);
+  } catch (_) {}
+  try {
+    const aaaaRecords = await dns.resolve6(domain);
+    ipv6.push(...aaaaRecords);
+  } catch (_) {}
+
+  const result = { domain, ipv4, ipv6 };
+  dnsCache[domain] = result;
+  return result;
+}
+
+function getBaseName(name) {
+  return name.split('#')[0];
+}
+
+function checkIPv6Enabled(domainResult, servers) {
+  if (domainResult.ipv6.length > 0) return true;
+  for (const s of servers) {
+    if (s.ipv6.length > 0) return true;
+  }
+  return false;
+}
+
+async function main() {
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir);
+  }
+
+  const rawData = fs.readFileSync(inputFile, 'utf-8');
+  const jsonData = JSON.parse(rawData);
+
+  const grouped = {};
+
+  for (const logical of jsonData.LogicalServers) {
+    const baseName = getBaseName(logical.Name);
+    if (!grouped[baseName]) {
+      grouped[baseName] = [];
+    }
+
+    const resolvedDomain = await resolveDomain(logical.Domain);
+
+    const servers = [];
+    for (const server of logical.Servers) {
+      const resolved = await resolveDomain(server.Domain);
+      servers.push({
+        Domain: resolved.domain,
+        ipv4: resolved.ipv4,
+        ipv6: resolved.ipv6,
+        X25519PublicKey: server.X25519PublicKey,
+        EntryIP: server.EntryIP,
+        ExitIP: server.ExitIP,
+      });
+    }
+
+    const ipv6Enabled = checkIPv6Enabled(resolvedDomain, servers);
+
+    grouped[baseName].push({
+      Name: logical.Name,
+      Domain: resolvedDomain,
+      City: logical.City || null,
+      ipv6Enabled,
+      Servers: servers,
+    });
+  }
+
+  for (const [baseName, data] of Object.entries(grouped)) {
+    const outputPath = path.join(outputDir, `${baseName}.json`);
+    fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
+    console.log(`Saved: ${outputPath}`);
+  }
+}
+
+main().catch((err) => {
+  console.error('Error:', err);
+});

@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "CH-ZA#1",
+    "Domain": {
+      "domain": "ch-za-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-02.protonvpn.net",
+        "ipv4": [
+          "178.249.212.163"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "1h8FnAD81TOAUrOdslmvS9v2LbzXcQscVMKwtX7zOAU=",
+        "EntryIP": "79.135.104.24",
+        "ExitIP": "79.135.104.24"
+      },
+      {
+        "Domain": "node-za-03.protonvpn.net",
+        "ipv4": [
+          "196.197.28.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "d7pHvygRIG3UQLZiUM0yj0mv8BBPl6irs6P4ZEwYnBA=",
+        "EntryIP": "79.135.104.100",
+        "ExitIP": "79.135.104.100"
+      }
+    ]
+  }
+]

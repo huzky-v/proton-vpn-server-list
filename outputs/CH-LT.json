@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "CH-LT#2",
+    "Domain": {
+      "domain": "ch-lt-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Vilnius",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-lt-01b.protonvpn.net",
+        "ipv4": [
+          "45.151.45.4"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "bRGHR+5TEOvd2KR2dJJm9nOH1bboFu2omY4pW2EVZH8=",
+        "EntryIP": "62.169.136.110",
+        "ExitIP": "62.169.136.110"
+      }
+    ]
+  }
+]

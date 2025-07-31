@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "SY#10",
+    "Domain": {
+      "domain": "sy-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.212"
+      ],
+      "ipv6": []
+    },
+    "City": "Damascus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "sy-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.212"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "lA34jzJPyZIjR4FxgEy2KarVEEkFcGT3AmOO2k+X3Co=",
+        "EntryIP": "74.118.126.212",
+        "ExitIP": "74.118.126.212"
+      }
+    ]
+  },
+  {
+    "Name": "SY#11",
+    "Domain": {
+      "domain": "sy-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.212"
+      ],
+      "ipv6": []
+    },
+    "City": "Damascus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "sy-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.212"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "lA34jzJPyZIjR4FxgEy2KarVEEkFcGT3AmOO2k+X3Co=",
+        "EntryIP": "74.118.126.212",
+        "ExitIP": "74.118.126.212"
+      }
+    ]
+  },
+  {
+    "Name": "SY#12",
+    "Domain": {
+      "domain": "sy-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.212"
+      ],
+      "ipv6": []
+    },
+    "City": "Damascus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "sy-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.212"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "lA34jzJPyZIjR4FxgEy2KarVEEkFcGT3AmOO2k+X3Co=",
+        "EntryIP": "74.118.126.212",
+        "ExitIP": "74.118.126.212"
+      }
+    ]
+  },
+  {
+    "Name": "SY#9",
+    "Domain": {
+      "domain": "sy-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.212"
+      ],
+      "ipv6": []
+    },
+    "City": "Damascus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "sy-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.212"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "lA34jzJPyZIjR4FxgEy2KarVEEkFcGT3AmOO2k+X3Co=",
+        "EntryIP": "74.118.126.212",
+        "ExitIP": "74.118.126.212"
+      }
+    ]
+  }
+]

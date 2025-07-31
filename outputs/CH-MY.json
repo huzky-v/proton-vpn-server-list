@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "CH-MY#2",
+    "Domain": {
+      "domain": "ch-my-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Kuala Lumpur",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-my-01.protonvpn.net",
+        "ipv4": [
+          "37.0.12.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "q1kKuYwINzdtZixXob7kFce9AtP0O5fbeR2z7XALbiw=",
+        "EntryIP": "62.169.136.95",
+        "ExitIP": "62.169.136.95"
+      }
+    ]
+  }
+]

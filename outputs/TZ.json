@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "TZ#5",
+    "Domain": {
+      "domain": "tz-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.228"
+      ],
+      "ipv6": []
+    },
+    "City": "Dodoma",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tz-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.228"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "P7w7u88a2+C1pD5UOsaeKAnZoFO62Puii/ZML8bliyA=",
+        "EntryIP": "74.118.126.228",
+        "ExitIP": "74.118.126.228"
+      }
+    ]
+  },
+  {
+    "Name": "TZ#6",
+    "Domain": {
+      "domain": "tz-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.228"
+      ],
+      "ipv6": []
+    },
+    "City": "Dodoma",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tz-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.228"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "P7w7u88a2+C1pD5UOsaeKAnZoFO62Puii/ZML8bliyA=",
+        "EntryIP": "74.118.126.228",
+        "ExitIP": "74.118.126.228"
+      }
+    ]
+  },
+  {
+    "Name": "TZ#7",
+    "Domain": {
+      "domain": "tz-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.228"
+      ],
+      "ipv6": []
+    },
+    "City": "Dodoma",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tz-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.228"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "P7w7u88a2+C1pD5UOsaeKAnZoFO62Puii/ZML8bliyA=",
+        "EntryIP": "74.118.126.228",
+        "ExitIP": "74.118.126.228"
+      }
+    ]
+  },
+  {
+    "Name": "TZ#8",
+    "Domain": {
+      "domain": "tz-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.228"
+      ],
+      "ipv6": []
+    },
+    "City": "Dodoma",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tz-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.228"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "P7w7u88a2+C1pD5UOsaeKAnZoFO62Puii/ZML8bliyA=",
+        "EntryIP": "74.118.126.228",
+        "ExitIP": "74.118.126.228"
+      }
+    ]
+  }
+]

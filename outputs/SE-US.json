@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "SE-US#2",
+    "Domain": {
+      "domain": "se-us-02.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Los Angeles",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-226.protonvpn.net",
+        "ipv4": [
+          "74.63.204.210"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
+        "EntryIP": "185.159.156.121",
+        "ExitIP": "185.159.156.121"
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "BY#41",
+    "Domain": {
+      "domain": "by-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.24"
+      ],
+      "ipv6": []
+    },
+    "City": "Minsk",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "by-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.24"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "be0LexLxBNfYrJegitZ2DkyoxKUu0xJ6GHZn3ES/TS4=",
+        "EntryIP": "74.118.126.24",
+        "ExitIP": "74.118.126.24"
+      }
+    ]
+  },
+  {
+    "Name": "BY#42",
+    "Domain": {
+      "domain": "by-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.24"
+      ],
+      "ipv6": []
+    },
+    "City": "Minsk",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "by-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.24"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "be0LexLxBNfYrJegitZ2DkyoxKUu0xJ6GHZn3ES/TS4=",
+        "EntryIP": "74.118.126.24",
+        "ExitIP": "74.118.126.24"
+      }
+    ]
+  },
+  {
+    "Name": "BY#43",
+    "Domain": {
+      "domain": "by-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.24"
+      ],
+      "ipv6": []
+    },
+    "City": "Minsk",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "by-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.24"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "be0LexLxBNfYrJegitZ2DkyoxKUu0xJ6GHZn3ES/TS4=",
+        "EntryIP": "74.118.126.24",
+        "ExitIP": "74.118.126.24"
+      }
+    ]
+  },
+  {
+    "Name": "BY#44",
+    "Domain": {
+      "domain": "by-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.24"
+      ],
+      "ipv6": []
+    },
+    "City": "Minsk",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "by-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.24"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "be0LexLxBNfYrJegitZ2DkyoxKUu0xJ6GHZn3ES/TS4=",
+        "EntryIP": "74.118.126.24",
+        "ExitIP": "74.118.126.24"
+      }
+    ]
+  }
+]

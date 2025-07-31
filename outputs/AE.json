@@ -1,0 +1,450 @@
+[
+  {
+    "Name": "AE#9",
+    "Domain": {
+      "domain": "node-ae-02.protonvpn.net",
+      "ipv4": [
+        "217.138.193.98"
+      ],
+      "ipv6": [
+        "2001:ac8:81:14::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-02.protonvpn.net",
+        "ipv4": [
+          "217.138.193.98"
+        ],
+        "ipv6": [
+          "2001:ac8:81:14::10"
+        ],
+        "X25519PublicKey": "IwddRZ5jYM+1WC31fJAsFslmkto71LUNA4LG90fPcDM=",
+        "EntryIP": "217.138.193.98",
+        "ExitIP": "217.138.193.98"
+      }
+    ]
+  },
+  {
+    "Name": "AE#10",
+    "Domain": {
+      "domain": "node-ae-02.protonvpn.net",
+      "ipv4": [
+        "217.138.193.98"
+      ],
+      "ipv6": [
+        "2001:ac8:81:14::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-02.protonvpn.net",
+        "ipv4": [
+          "217.138.193.98"
+        ],
+        "ipv6": [
+          "2001:ac8:81:14::10"
+        ],
+        "X25519PublicKey": "IwddRZ5jYM+1WC31fJAsFslmkto71LUNA4LG90fPcDM=",
+        "EntryIP": "217.138.193.98",
+        "ExitIP": "217.138.193.98"
+      }
+    ]
+  },
+  {
+    "Name": "AE#11",
+    "Domain": {
+      "domain": "node-ae-02.protonvpn.net",
+      "ipv4": [
+        "217.138.193.98"
+      ],
+      "ipv6": [
+        "2001:ac8:81:14::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-02.protonvpn.net",
+        "ipv4": [
+          "217.138.193.98"
+        ],
+        "ipv6": [
+          "2001:ac8:81:14::10"
+        ],
+        "X25519PublicKey": "IwddRZ5jYM+1WC31fJAsFslmkto71LUNA4LG90fPcDM=",
+        "EntryIP": "217.138.193.98",
+        "ExitIP": "217.138.193.98"
+      }
+    ]
+  },
+  {
+    "Name": "AE#12",
+    "Domain": {
+      "domain": "node-ae-02.protonvpn.net",
+      "ipv4": [
+        "217.138.193.98"
+      ],
+      "ipv6": [
+        "2001:ac8:81:14::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-02.protonvpn.net",
+        "ipv4": [
+          "217.138.193.98"
+        ],
+        "ipv6": [
+          "2001:ac8:81:14::10"
+        ],
+        "X25519PublicKey": "IwddRZ5jYM+1WC31fJAsFslmkto71LUNA4LG90fPcDM=",
+        "EntryIP": "217.138.193.98",
+        "ExitIP": "217.138.193.98"
+      }
+    ]
+  },
+  {
+    "Name": "AE#13",
+    "Domain": {
+      "domain": "node-ae-02.protonvpn.net",
+      "ipv4": [
+        "217.138.193.98"
+      ],
+      "ipv6": [
+        "2001:ac8:81:14::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-02.protonvpn.net",
+        "ipv4": [
+          "217.138.193.98"
+        ],
+        "ipv6": [
+          "2001:ac8:81:14::10"
+        ],
+        "X25519PublicKey": "IwddRZ5jYM+1WC31fJAsFslmkto71LUNA4LG90fPcDM=",
+        "EntryIP": "217.138.193.98",
+        "ExitIP": "217.138.193.98"
+      }
+    ]
+  },
+  {
+    "Name": "AE#14",
+    "Domain": {
+      "domain": "node-ae-02.protonvpn.net",
+      "ipv4": [
+        "217.138.193.98"
+      ],
+      "ipv6": [
+        "2001:ac8:81:14::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-02.protonvpn.net",
+        "ipv4": [
+          "217.138.193.98"
+        ],
+        "ipv6": [
+          "2001:ac8:81:14::10"
+        ],
+        "X25519PublicKey": "IwddRZ5jYM+1WC31fJAsFslmkto71LUNA4LG90fPcDM=",
+        "EntryIP": "217.138.193.98",
+        "ExitIP": "217.138.193.98"
+      }
+    ]
+  },
+  {
+    "Name": "AE#15",
+    "Domain": {
+      "domain": "node-ae-02.protonvpn.net",
+      "ipv4": [
+        "217.138.193.98"
+      ],
+      "ipv6": [
+        "2001:ac8:81:14::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-02.protonvpn.net",
+        "ipv4": [
+          "217.138.193.98"
+        ],
+        "ipv6": [
+          "2001:ac8:81:14::10"
+        ],
+        "X25519PublicKey": "IwddRZ5jYM+1WC31fJAsFslmkto71LUNA4LG90fPcDM=",
+        "EntryIP": "217.138.193.98",
+        "ExitIP": "217.138.193.98"
+      }
+    ]
+  },
+  {
+    "Name": "AE#16",
+    "Domain": {
+      "domain": "node-ae-02.protonvpn.net",
+      "ipv4": [
+        "217.138.193.98"
+      ],
+      "ipv6": [
+        "2001:ac8:81:14::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-02.protonvpn.net",
+        "ipv4": [
+          "217.138.193.98"
+        ],
+        "ipv6": [
+          "2001:ac8:81:14::10"
+        ],
+        "X25519PublicKey": "IwddRZ5jYM+1WC31fJAsFslmkto71LUNA4LG90fPcDM=",
+        "EntryIP": "217.138.193.98",
+        "ExitIP": "217.138.193.98"
+      }
+    ]
+  },
+  {
+    "Name": "AE#21",
+    "Domain": {
+      "domain": "node-ae-04.protonvpn.net",
+      "ipv4": [
+        "178.249.212.162"
+      ],
+      "ipv6": [
+        "2a02:6ea0:dc0e:2704::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-04.protonvpn.net",
+        "ipv4": [
+          "178.249.212.162"
+        ],
+        "ipv6": [
+          "2a02:6ea0:dc0e:2704::10"
+        ],
+        "X25519PublicKey": "fHSz7nXioLz6qt+AoapT4ylVEkHTYpafdELZUmg4W3I=",
+        "EntryIP": "178.249.212.162",
+        "ExitIP": "178.249.212.162"
+      }
+    ]
+  },
+  {
+    "Name": "AE#22",
+    "Domain": {
+      "domain": "node-ae-04.protonvpn.net",
+      "ipv4": [
+        "178.249.212.162"
+      ],
+      "ipv6": [
+        "2a02:6ea0:dc0e:2704::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-04.protonvpn.net",
+        "ipv4": [
+          "178.249.212.162"
+        ],
+        "ipv6": [
+          "2a02:6ea0:dc0e:2704::10"
+        ],
+        "X25519PublicKey": "fHSz7nXioLz6qt+AoapT4ylVEkHTYpafdELZUmg4W3I=",
+        "EntryIP": "178.249.212.162",
+        "ExitIP": "178.249.212.162"
+      }
+    ]
+  },
+  {
+    "Name": "AE#23",
+    "Domain": {
+      "domain": "node-ae-04.protonvpn.net",
+      "ipv4": [
+        "178.249.212.162"
+      ],
+      "ipv6": [
+        "2a02:6ea0:dc0e:2704::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-04.protonvpn.net",
+        "ipv4": [
+          "178.249.212.162"
+        ],
+        "ipv6": [
+          "2a02:6ea0:dc0e:2704::10"
+        ],
+        "X25519PublicKey": "fHSz7nXioLz6qt+AoapT4ylVEkHTYpafdELZUmg4W3I=",
+        "EntryIP": "178.249.212.162",
+        "ExitIP": "178.249.212.162"
+      }
+    ]
+  },
+  {
+    "Name": "AE#24",
+    "Domain": {
+      "domain": "node-ae-04.protonvpn.net",
+      "ipv4": [
+        "178.249.212.162"
+      ],
+      "ipv6": [
+        "2a02:6ea0:dc0e:2704::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-04.protonvpn.net",
+        "ipv4": [
+          "178.249.212.162"
+        ],
+        "ipv6": [
+          "2a02:6ea0:dc0e:2704::10"
+        ],
+        "X25519PublicKey": "fHSz7nXioLz6qt+AoapT4ylVEkHTYpafdELZUmg4W3I=",
+        "EntryIP": "178.249.212.162",
+        "ExitIP": "178.249.212.162"
+      }
+    ]
+  },
+  {
+    "Name": "AE#25",
+    "Domain": {
+      "domain": "node-ae-04.protonvpn.net",
+      "ipv4": [
+        "178.249.212.162"
+      ],
+      "ipv6": [
+        "2a02:6ea0:dc0e:2704::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-04.protonvpn.net",
+        "ipv4": [
+          "178.249.212.162"
+        ],
+        "ipv6": [
+          "2a02:6ea0:dc0e:2704::10"
+        ],
+        "X25519PublicKey": "fHSz7nXioLz6qt+AoapT4ylVEkHTYpafdELZUmg4W3I=",
+        "EntryIP": "178.249.212.162",
+        "ExitIP": "178.249.212.162"
+      }
+    ]
+  },
+  {
+    "Name": "AE#26",
+    "Domain": {
+      "domain": "node-ae-04.protonvpn.net",
+      "ipv4": [
+        "178.249.212.162"
+      ],
+      "ipv6": [
+        "2a02:6ea0:dc0e:2704::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-04.protonvpn.net",
+        "ipv4": [
+          "178.249.212.162"
+        ],
+        "ipv6": [
+          "2a02:6ea0:dc0e:2704::10"
+        ],
+        "X25519PublicKey": "fHSz7nXioLz6qt+AoapT4ylVEkHTYpafdELZUmg4W3I=",
+        "EntryIP": "178.249.212.162",
+        "ExitIP": "178.249.212.162"
+      }
+    ]
+  },
+  {
+    "Name": "AE#27",
+    "Domain": {
+      "domain": "node-ae-04.protonvpn.net",
+      "ipv4": [
+        "178.249.212.162"
+      ],
+      "ipv6": [
+        "2a02:6ea0:dc0e:2704::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-04.protonvpn.net",
+        "ipv4": [
+          "178.249.212.162"
+        ],
+        "ipv6": [
+          "2a02:6ea0:dc0e:2704::10"
+        ],
+        "X25519PublicKey": "fHSz7nXioLz6qt+AoapT4ylVEkHTYpafdELZUmg4W3I=",
+        "EntryIP": "178.249.212.162",
+        "ExitIP": "178.249.212.162"
+      }
+    ]
+  },
+  {
+    "Name": "AE#28",
+    "Domain": {
+      "domain": "node-ae-04.protonvpn.net",
+      "ipv4": [
+        "178.249.212.162"
+      ],
+      "ipv6": [
+        "2a02:6ea0:dc0e:2704::10"
+      ]
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-04.protonvpn.net",
+        "ipv4": [
+          "178.249.212.162"
+        ],
+        "ipv6": [
+          "2a02:6ea0:dc0e:2704::10"
+        ],
+        "X25519PublicKey": "fHSz7nXioLz6qt+AoapT4ylVEkHTYpafdELZUmg4W3I=",
+        "EntryIP": "178.249.212.162",
+        "ExitIP": "178.249.212.162"
+      }
+    ]
+  }
+]

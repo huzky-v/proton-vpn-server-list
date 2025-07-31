@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "IS-DK#1",
+    "Domain": {
+      "domain": "is-dk-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Copenhagen",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-dk-07.protonvpn.net",
+        "ipv4": [
+          "149.50.217.161"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "9WowgFUh2itRfPh2SoaJsJHvxzXBZuD+xqdmBAf2CB4=",
+        "EntryIP": "185.159.158.237",
+        "ExitIP": "185.159.158.237"
+      }
+    ]
+  }
+]

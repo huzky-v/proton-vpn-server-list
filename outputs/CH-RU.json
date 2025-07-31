@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "CH-RU#2",
+    "Domain": {
+      "domain": "ch-ru-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "176.96.226.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "62.169.136.12",
+        "ExitIP": "62.169.136.12"
+      }
+    ]
+  }
+]

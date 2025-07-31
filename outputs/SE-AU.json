@@ -1,0 +1,64 @@
+[
+  {
+    "Name": "SE-AU#1",
+    "Domain": {
+      "domain": "se-au-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Sydney",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-au-21.protonvpn.net",
+        "ipv4": [
+          "180.149.228.66"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dpcwy7V6UxFxZ5BEYED5w30sqpz2Bak+7HchFbUNHUw=",
+        "EntryIP": "185.159.156.180",
+        "ExitIP": "185.159.156.180"
+      },
+      {
+        "Domain": "node-au-23.protonvpn.net",
+        "ipv4": [
+          "103.108.231.242"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Ax1/ZU94QiEthOT99R65suPaczvKMvvEdISUA/CO0W4=",
+        "EntryIP": "185.159.156.181",
+        "ExitIP": "185.159.156.181"
+      },
+      {
+        "Domain": "node-au-25.protonvpn.net",
+        "ipv4": [
+          "144.48.38.178"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "enwR3M+w4F/8bBPz85kf46hh/dVSmQfeoQnECaLo1lo=",
+        "EntryIP": "185.159.156.182",
+        "ExitIP": "185.159.156.182"
+      },
+      {
+        "Domain": "node-au-27.protonvpn.net",
+        "ipv4": [
+          "103.25.57.50"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "0tgcqEhedj9Vkv7q4meskjUOe2HLDA5G5ezRBYqSb24=",
+        "EntryIP": "185.159.156.183",
+        "ExitIP": "185.159.156.183"
+      },
+      {
+        "Domain": "node-au-29.protonvpn.net",
+        "ipv4": [
+          "103.216.220.178"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rX/BhEJ5/rBv6amC3UZjJb92Un6CA6Psd8S1jj3diwc=",
+        "EntryIP": "185.159.156.184",
+        "ExitIP": "185.159.156.184"
+      }
+    ]
+  }
+]

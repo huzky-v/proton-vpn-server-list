@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "AO#5",
+    "Domain": {
+      "domain": "ao-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.8"
+      ],
+      "ipv6": []
+    },
+    "City": "Luanda",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ao-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.8"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "2cur1I3olT+/l3U40bxz6uLN9XneEtsJievpNtc+3Cc=",
+        "EntryIP": "74.118.126.8",
+        "ExitIP": "74.118.126.8"
+      }
+    ]
+  },
+  {
+    "Name": "AO#6",
+    "Domain": {
+      "domain": "ao-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.8"
+      ],
+      "ipv6": []
+    },
+    "City": "Luanda",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ao-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.8"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "2cur1I3olT+/l3U40bxz6uLN9XneEtsJievpNtc+3Cc=",
+        "EntryIP": "74.118.126.8",
+        "ExitIP": "74.118.126.8"
+      }
+    ]
+  },
+  {
+    "Name": "AO#7",
+    "Domain": {
+      "domain": "ao-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.8"
+      ],
+      "ipv6": []
+    },
+    "City": "Luanda",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ao-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.8"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "2cur1I3olT+/l3U40bxz6uLN9XneEtsJievpNtc+3Cc=",
+        "EntryIP": "74.118.126.8",
+        "ExitIP": "74.118.126.8"
+      }
+    ]
+  },
+  {
+    "Name": "AO#8",
+    "Domain": {
+      "domain": "ao-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.8"
+      ],
+      "ipv6": []
+    },
+    "City": "Luanda",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ao-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.8"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "2cur1I3olT+/l3U40bxz6uLN9XneEtsJievpNtc+3Cc=",
+        "EntryIP": "74.118.126.8",
+        "ExitIP": "74.118.126.8"
+      }
+    ]
+  }
+]

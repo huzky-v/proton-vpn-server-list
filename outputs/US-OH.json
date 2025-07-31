@@ -1,0 +1,698 @@
+[
+  {
+    "Name": "US-OH#1",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#10",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#11",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#12",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#13",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#14",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#15",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#16",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#17",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#18",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#19",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#2",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#20",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#21",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#22",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#23",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#24",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#25",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#26",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#27",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#28",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#29",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#3",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#4",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#5",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#6",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#7",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#8",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  },
+  {
+    "Name": "US-OH#9",
+    "Domain": {
+      "domain": "node-us-313.protonvpn.net",
+      "ipv4": [
+        "146.70.84.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Columbus",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-313.protonvpn.net",
+        "ipv4": [
+          "146.70.84.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA=",
+        "EntryIP": "146.70.84.2",
+        "ExitIP": "146.70.84.2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Name": "IS-DE#1",
+    "Domain": {
+      "domain": "is-de-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Frankfurt",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-de-25.protonvpn.net",
+        "ipv4": [
+          "217.138.216.98"
+        ],
+        "ipv6": [
+          "2001:ac8:36:17::10"
+        ],
+        "X25519PublicKey": "vFExvD05bttJUYX5qltzXk4L8hA2Tr2kGRMElb6a9GA=",
+        "EntryIP": "185.159.158.119",
+        "ExitIP": "185.159.158.119"
+      },
+      {
+        "Domain": "node-de-12.protonvpn.net",
+        "ipv4": [
+          "194.126.177.6"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "JC6QcZKfheALT/vjCz9ozYVC9AVjqv0rrxfrS8FWVQk=",
+        "EntryIP": "185.159.158.178",
+        "ExitIP": "185.159.158.178"
+      },
+      {
+        "Domain": "node-de-13.protonvpn.net",
+        "ipv4": [
+          "194.126.177.7"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fvHmPj3wAKolN80+/KJ3a/DFjMToCsr3iPGwX8+og1g=",
+        "EntryIP": "185.159.158.179",
+        "ExitIP": "185.159.158.179"
+      },
+      {
+        "Domain": "node-de-14.protonvpn.net",
+        "ipv4": [
+          "194.126.177.8"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "E+bqV5VyoZ35D3IMdlqdTovZ+YOI0PbGFBZ+3DsRTiE=",
+        "EntryIP": "185.159.158.180",
+        "ExitIP": "185.159.158.180"
+      },
+      {
+        "Domain": "node-de-26.protonvpn.net",
+        "ipv4": [
+          "217.138.216.162"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "C+u+eQw5yWI2APCfVJwW6Ovj3g4IrTOfe+tMZnNz43s=",
+        "EntryIP": "185.159.158.241",
+        "ExitIP": "185.159.158.241"
+      },
+      {
+        "Domain": "node-de-30.protonvpn.net",
+        "ipv4": [
+          "149.88.24.129"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:5033::10"
+        ],
+        "X25519PublicKey": "XVhgEmVfTwllba68JLfzHVCw2Jr5RQsRwHB3JrcbRHE=",
+        "EntryIP": "185.159.158.250",
+        "ExitIP": "185.159.158.250"
+      }
+    ]
+  }
+]

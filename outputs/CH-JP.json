@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "CH-JP#2",
+    "Domain": {
+      "domain": "ch-jp-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Tokyo",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-jp-29.protonvpn.net",
+        "ipv4": [
+          "37.19.205.155"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d33b:2422::10"
+        ],
+        "X25519PublicKey": "d38wbEHG3sJG+0s34lCGtYU2AwZ9E/WrP3qM9gL7Xi8=",
+        "EntryIP": "62.169.136.208",
+        "ExitIP": "62.169.136.208"
+      },
+      {
+        "Domain": "node-jp-12.protonvpn.net",
+        "ipv4": [
+          "103.125.235.19"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7FslkahrdLwGbv4QSX5Cft5CtQLmBUlpWC382SSF7Hw=",
+        "EntryIP": "62.169.136.80",
+        "ExitIP": "62.169.136.80"
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "CH-NZ#2",
+    "Domain": {
+      "domain": "ch-nz-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Auckland",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-nz-04.protonvpn.net",
+        "ipv4": [
+          "103.75.11.18"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "8Rm0uoG0H9BcSuA67/5gBv8tJgFZXNLm4sqEtkB9Nmw=",
+        "EntryIP": "62.169.136.213",
+        "ExitIP": "62.169.136.213"
+      },
+      {
+        "Domain": "node-nz-03.protonvpn.net",
+        "ipv4": [
+          "116.90.74.178"
+        ],
+        "ipv6": [
+          "2401:3bc0:700:231::10"
+        ],
+        "X25519PublicKey": "/QKfRMQaQKdQ4UAwmQc8KKShfc3Mjl1HcKiiGEoWwTU=",
+        "EntryIP": "62.169.136.97",
+        "ExitIP": "62.169.136.97"
+      }
+    ]
+  }
+]

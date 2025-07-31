@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-AE#1",
+    "Domain": {
+      "domain": "is-ae-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-04.protonvpn.net",
+        "ipv4": [
+          "178.249.212.162"
+        ],
+        "ipv6": [
+          "2a02:6ea0:dc0e:2704::10"
+        ],
+        "X25519PublicKey": "fHSz7nXioLz6qt+AoapT4ylVEkHTYpafdELZUmg4W3I=",
+        "EntryIP": "185.159.158.232",
+        "ExitIP": "185.159.158.232"
+      }
+    ]
+  }
+]

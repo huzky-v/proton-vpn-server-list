@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "CH-IT#2",
+    "Domain": {
+      "domain": "ch-it-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Milan",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-it-06.protonvpn.net",
+        "ipv4": [
+          "146.70.182.2"
+        ],
+        "ipv6": [
+          "2001:ac8:24:6a8::30"
+        ],
+        "X25519PublicKey": "WeqHIUm2kUqZVMcr+6r5qxgM1FT9N/s/BAbEBPF/O0Q=",
+        "EntryIP": "62.169.136.234",
+        "ExitIP": "62.169.136.234"
+      },
+      {
+        "Domain": "node-it-05.protonvpn.net",
+        "ipv4": [
+          "146.70.182.18"
+        ],
+        "ipv6": [
+          "2001:ac8:24:6a7::10"
+        ],
+        "X25519PublicKey": "Eq21XF3A63IbiEDBdIj5T2uKXtHZDj7mfiJIXVcOQXk=",
+        "EntryIP": "62.169.136.235",
+        "ExitIP": "62.169.136.235"
+      },
+      {
+        "Domain": "node-it-04.protonvpn.net",
+        "ipv4": [
+          "146.70.182.34"
+        ],
+        "ipv6": [
+          "2001:ac8:24:6a8::10"
+        ],
+        "X25519PublicKey": "QAx4kzh5ejS9RksrRPqv8u/d0eY3WMrMyvykPJZTN3M=",
+        "EntryIP": "62.169.136.237",
+        "ExitIP": "62.169.136.237"
+      }
+    ]
+  }
+]

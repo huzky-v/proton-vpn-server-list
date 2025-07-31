@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-KH#1",
+    "Domain": {
+      "domain": "se-kh-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "185.159.156.83",
+        "ExitIP": "185.159.156.83"
+      }
+    ]
+  }
+]

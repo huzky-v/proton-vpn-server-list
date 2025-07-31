@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "IS-CA#1",
+    "Domain": {
+      "domain": "is-ca-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Toronto",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ca-17.protonvpn.net",
+        "ipv4": [
+          "146.70.198.34"
+        ],
+        "ipv6": [
+          "2a0d:5600:9:a23::10"
+        ],
+        "X25519PublicKey": "28hrybwV/NiiMXvl1ynBvDvEvs1m8ABUzyvkQ7+ST3I=",
+        "EntryIP": "185.159.158.219",
+        "ExitIP": "185.159.158.219"
+      },
+      {
+        "Domain": "node-ca-19.protonvpn.net",
+        "ipv4": [
+          "146.70.198.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:9:a21::10"
+        ],
+        "X25519PublicKey": "aQ2NoOYEObG9tDMwdc4VxK6hjW+eA0PLfgbH7ffmagU=",
+        "EntryIP": "185.159.158.218",
+        "ExitIP": "185.159.158.218"
+      },
+      {
+        "Domain": "node-ca-35.protonvpn.net",
+        "ipv4": [
+          "79.127.254.65"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "KiCvg9+bh7/ssQDALW3uXSTLaURS3mgZdi/O9CxlFXo=",
+        "EntryIP": "185.159.158.197",
+        "ExitIP": "185.159.158.197"
+      }
+    ]
+  }
+]

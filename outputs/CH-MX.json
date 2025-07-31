@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-MX#2",
+    "Domain": {
+      "domain": "ch-mx-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Mexico City",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-mx-03.protonvpn.net",
+        "ipv4": [
+          "138.199.50.107"
+        ],
+        "ipv6": [
+          "2a10:9007:3:9::10"
+        ],
+        "X25519PublicKey": "tHwmpVZsh4yfoA9/vWbacF6cWcXUKE9wuDP5bz66oh8=",
+        "EntryIP": "62.169.136.218",
+        "ExitIP": "62.169.136.218"
+      }
+    ]
+  }
+]

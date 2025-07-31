@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "CH-SK#2",
+    "Domain": {
+      "domain": "ch-sk-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Bratislava",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-sk-01.protonvpn.net",
+        "ipv4": [
+          "196.245.151.210"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "kxtiQsbblJPBJcrw8p2SdtJ8auswUd5PxHIGXNxkvFw=",
+        "EntryIP": "62.169.136.85",
+        "ExitIP": "62.169.136.85"
+      },
+      {
+        "Domain": "node-sk-01.protonvpn.net",
+        "ipv4": [
+          "196.245.151.210"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "kxtiQsbblJPBJcrw8p2SdtJ8auswUd5PxHIGXNxkvFw=",
+        "EntryIP": "62.169.136.62",
+        "ExitIP": "62.169.136.62"
+      },
+      {
+        "Domain": "node-sk-02.protonvpn.net",
+        "ipv4": [
+          "185.245.85.130"
+        ],
+        "ipv6": [
+          "2a0d:5600:11:35::10"
+        ],
+        "X25519PublicKey": "kVySpobi4m6sAQgjYTxgYxhcddzXOz5YZLHyIm0oa3g=",
+        "EntryIP": "79.135.104.57",
+        "ExitIP": "79.135.104.57"
+      },
+      {
+        "Domain": "node-sk-03.protonvpn.net",
+        "ipv4": [
+          "138.199.34.193"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "6JuZ/DlzL0P+zXowYtTyKZUux3qZg9GhL0ubKs86808=",
+        "EntryIP": "79.135.104.107",
+        "ExitIP": "79.135.104.107"
+      }
+    ]
+  }
+]

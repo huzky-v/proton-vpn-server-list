@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-PT#2",
+    "Domain": {
+      "domain": "ch-pt-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Lisbon",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pt-02b.protonvpn.net",
+        "ipv4": [
+          "195.158.248.226"
+        ],
+        "ipv6": [
+          "2a06:3040::907e:7954"
+        ],
+        "X25519PublicKey": "RbDaajNuhOJ2QWdraMp06PER6/F9TIHZXM+RUBH7tTM=",
+        "EntryIP": "62.169.136.113",
+        "ExitIP": "62.169.136.113"
+      }
+    ]
+  }
+]

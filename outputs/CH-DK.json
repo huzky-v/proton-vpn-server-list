@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "CH-DK#2",
+    "Domain": {
+      "domain": "ch-dk-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Copenhagen",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-dk-03.protonvpn.net",
+        "ipv4": [
+          "193.29.107.242"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vOwLnR7lMrKeONP0Idl2S5vUonggF8KpKQ66jx+QJnc=",
+        "EntryIP": "62.169.136.37",
+        "ExitIP": "62.169.136.37"
+      },
+      {
+        "Domain": "node-dk-06.protonvpn.net",
+        "ipv4": [
+          "193.29.107.98"
+        ],
+        "ipv6": [
+          "2001:ac8:37:66::10"
+        ],
+        "X25519PublicKey": "d3VXpY1SJGxlx8Cq3trvJBkZvilHF6BdSynqphx+iw8=",
+        "EntryIP": "62.169.136.238",
+        "ExitIP": "62.169.136.238"
+      },
+      {
+        "Domain": "node-dk-05.protonvpn.net",
+        "ipv4": [
+          "193.29.107.162"
+        ],
+        "ipv6": [
+          "2001:ac8:37:65::10"
+        ],
+        "X25519PublicKey": "sbjnjFtxUz4dxYfNL7WOVf1StMjjAhkiPLCPtVtlhRI=",
+        "EntryIP": "62.169.136.239",
+        "ExitIP": "62.169.136.239"
+      }
+    ]
+  }
+]

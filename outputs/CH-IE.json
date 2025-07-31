@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-IE#2",
+    "Domain": {
+      "domain": "ch-ie-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Dublin",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ie-03.protonvpn.net",
+        "ipv4": [
+          "146.70.48.2"
+        ],
+        "ipv6": [
+          "2001:ac8:88:91::10"
+        ],
+        "X25519PublicKey": "AFp36cKCIznWgRchU9fE2G9kPK6zcdS+7S/u4drPU1g=",
+        "EntryIP": "62.169.136.153",
+        "ExitIP": "62.169.136.153"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-MM#2",
+    "Domain": {
+      "domain": "ch-mm-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Yangon",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-mm-01.protonvpn.net",
+        "ipv4": [
+          "138.199.60.87"
+        ],
+        "ipv6": [
+          "2a10:9007:5:b::10"
+        ],
+        "X25519PublicKey": "gbUzD44E0V5eUqGbYKo+NM/sVt1KJwQjS2TxPYQPK18=",
+        "EntryIP": "62.169.136.210",
+        "ExitIP": "62.169.136.210"
+      }
+    ]
+  }
+]

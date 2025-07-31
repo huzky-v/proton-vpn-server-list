@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-NG#1",
+    "Domain": {
+      "domain": "se-es-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Lagos",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-es-07.protonvpn.net",
+        "ipv4": [
+          "185.76.11.27"
+        ],
+        "ipv6": [
+          "2a10:9007:1:1::10"
+        ],
+        "X25519PublicKey": "xmy2vCo/o3h9gltwlNc5M79hwqOwlJmeHHp00Y/SSQU=",
+        "EntryIP": "185.159.156.88",
+        "ExitIP": "185.159.156.88"
+      }
+    ]
+  }
+]

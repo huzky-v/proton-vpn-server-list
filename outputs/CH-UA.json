@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-UA#2",
+    "Domain": {
+      "domain": "ch-ua-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Kyiv",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ua-02.protonvpn.net",
+        "ipv4": [
+          "156.146.50.5"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e108:2054::10"
+        ],
+        "X25519PublicKey": "eqjhoqO6K1nLiej026+RkpSTHloVrOHLlMQaB0Tl5GM=",
+        "EntryIP": "62.169.136.60",
+        "ExitIP": "62.169.136.60"
+      }
+    ]
+  }
+]

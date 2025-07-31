@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-TW#01",
+    "Domain": {
+      "domain": "se-tw-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Taipei",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-tw-04.protonvpn.net",
+        "ipv4": [
+          "188.214.106.178"
+        ],
+        "ipv6": [
+          "2001:ac8:97:3::10"
+        ],
+        "X25519PublicKey": "jodLwKl2kl5scwLUIZQYGoKBsqTRAtv6ltsofBc6WD4=",
+        "EntryIP": "185.159.156.82",
+        "ExitIP": "185.159.156.82"
+      }
+    ]
+  }
+]

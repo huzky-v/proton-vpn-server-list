@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "IS-HU#1",
+    "Domain": {
+      "domain": "is-hu-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Budapest",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-hu-05.protonvpn.net",
+        "ipv4": [
+          "79.127.182.65"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "lw2MLTnvUaAK0PtleqqbbhjR6cjyhJZ+iZOzkRRulzc=",
+        "EntryIP": "185.159.158.165",
+        "ExitIP": "185.159.158.165"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-BE#2",
+    "Domain": {
+      "domain": "ch-be-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Brussels",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-be-04.protonvpn.net",
+        "ipv4": [
+          "91.90.123.178"
+        ],
+        "ipv6": [
+          "2001:ac8:27:42::10"
+        ],
+        "X25519PublicKey": "s4t00o/80zIqjUYTSpavg5kQ1lYRV7DXL1/yTG67JQI=",
+        "EntryIP": "62.169.136.227",
+        "ExitIP": "62.169.136.227"
+      }
+    ]
+  }
+]

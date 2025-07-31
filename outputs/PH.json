@@ -1,0 +1,338 @@
+[
+  {
+    "Name": "PH#1",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  },
+  {
+    "Name": "PH#2",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  },
+  {
+    "Name": "PH#3",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  },
+  {
+    "Name": "PH#4",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  },
+  {
+    "Name": "PH#5",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  },
+  {
+    "Name": "PH#6",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  },
+  {
+    "Name": "PH#7",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  },
+  {
+    "Name": "PH#8",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  },
+  {
+    "Name": "PH#9",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  },
+  {
+    "Name": "PH#10",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  },
+  {
+    "Name": "PH#11",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  },
+  {
+    "Name": "PH#12",
+    "Domain": {
+      "domain": "node-ph-01.protonvpn.net",
+      "ipv4": [
+        "188.214.125.162"
+      ],
+      "ipv6": [
+        "2001:ac8:94:3::10"
+      ]
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "188.214.125.162",
+        "ExitIP": "188.214.125.162"
+      }
+    ]
+  }
+]

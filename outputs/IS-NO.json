@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-NO#1",
+    "Domain": {
+      "domain": "is-no-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Oslo",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-no-03.protonvpn.net",
+        "ipv4": [
+          "84.247.50.178"
+        ],
+        "ipv6": [
+          "2001:ac8:38:58::10"
+        ],
+        "X25519PublicKey": "lY0yD6apqGWIPE/O4FbCysYpveUm0YkflOKrQf8Xhw0=",
+        "EntryIP": "185.159.158.145",
+        "ExitIP": "185.159.158.145"
+      }
+    ]
+  }
+]

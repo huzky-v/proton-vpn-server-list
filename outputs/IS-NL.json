@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "IS-NL#1",
+    "Domain": {
+      "domain": "is-nl-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Amsterdam",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-nl-01.protonvpn.net",
+        "ipv4": [
+          "62.112.9.164"
+        ],
+        "ipv6": [
+          "2a00:7c80:0:3a9::10"
+        ],
+        "X25519PublicKey": "127jo9F8kpNz/SQfhY2o5I8HB7X0VLMJVSaMGGuJowQ=",
+        "EntryIP": "185.159.158.55",
+        "ExitIP": "185.159.158.55"
+      },
+      {
+        "Domain": "node-nl-214.protonvpn.net",
+        "ipv4": [
+          "103.69.224.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "nPCWC0rx9ZXEkzh7dxMUTO5/HUqDaLaD827Yp1sJCQU=",
+        "EntryIP": "185.159.158.249",
+        "ExitIP": "185.159.158.249"
+      },
+      {
+        "Domain": "node-nl-221.protonvpn.net",
+        "ipv4": [
+          "46.29.25.6"
+        ],
+        "ipv6": [
+          "2001:968:12:2102::134"
+        ],
+        "X25519PublicKey": "/BgbOnOQQB6wbe3jgXLYCwUBPI26BDf5zq6CyH3CzWk=",
+        "EntryIP": "185.159.158.144",
+        "ExitIP": "185.159.158.144"
+      }
+    ]
+  }
+]

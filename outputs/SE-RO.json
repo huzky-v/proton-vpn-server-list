@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "SE-RO#1",
+    "Domain": {
+      "domain": "se-ro-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Bucharest",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ro-02.protonvpn.net",
+        "ipv4": [
+          "138.199.53.225"
+        ],
+        "ipv6": [
+          "2a02:6ea0:da08:2070::10"
+        ],
+        "X25519PublicKey": "5Zfe5nMk+zqZKkvorCiUwTqVidCwTG2UREvUTyswDmo=",
+        "EntryIP": "185.159.156.81",
+        "ExitIP": "185.159.156.81"
+      },
+      {
+        "Domain": "node-ro-20.protonvpn.net",
+        "ipv4": [
+          "185.163.110.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "FdY0VoOXLg/D8DVsvv4CcvsvHyXvv9W09uy1Sy9A0XE=",
+        "EntryIP": "185.159.156.157",
+        "ExitIP": "185.159.156.157"
+      }
+    ]
+  }
+]

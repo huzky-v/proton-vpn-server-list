@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "IS-IL#1",
+    "Domain": {
+      "domain": "is-il-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Tel Aviv",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-il-03.protonvpn.net",
+        "ipv4": [
+          "185.185.134.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fuzsEMv8BUmBY+Izb8+tN9Z1xaAD7/Cazj96hL8BHC8=",
+        "EntryIP": "185.159.158.194",
+        "ExitIP": "185.159.158.194"
+      }
+    ]
+  }
+]

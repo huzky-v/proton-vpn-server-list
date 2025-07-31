@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-VN#1",
+    "Domain": {
+      "domain": "se-vn-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Hanoi",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-vn-01.protonvpn.net",
+        "ipv4": [
+          "188.214.152.226"
+        ],
+        "ipv6": [
+          "2001:ac8:93:3::10"
+        ],
+        "X25519PublicKey": "NfKOMtk2fuDycbQXv36yk5mfdgDA8/8SN6amCdFrKxQ=",
+        "EntryIP": "185.159.156.85",
+        "ExitIP": "185.159.156.85"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-IN#1",
+    "Domain": {
+      "domain": "se-in-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Mumbai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-in-05.protonvpn.net",
+        "ipv4": [
+          "146.70.142.18"
+        ],
+        "ipv6": [
+          "2001:ac8:2:1::10"
+        ],
+        "X25519PublicKey": "QnqJI0C2xQZrKfZLrBaCHa2h3TZ9CBt6sCuzg3ue4X4=",
+        "EntryIP": "185.159.156.128",
+        "ExitIP": "185.159.156.128"
+      }
+    ]
+  }
+]

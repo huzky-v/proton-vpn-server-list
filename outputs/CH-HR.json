@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "CH-HR#2",
+    "Domain": {
+      "domain": "ch-hr-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Zagreb",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-hr-01.protonvpn.net",
+        "ipv4": [
+          "178.218.167.210"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "arg6ngFb3Q1rfe7tsfWsRhv4Tg0EWwYFYBxMjDuCOW8=",
+        "EntryIP": "62.169.136.35",
+        "ExitIP": "62.169.136.35"
+      }
+    ]
+  }
+]

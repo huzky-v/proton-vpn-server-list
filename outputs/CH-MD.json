@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-MD#2",
+    "Domain": {
+      "domain": "ch-md-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Chisinau",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-md-02.protonvpn.net",
+        "ipv4": [
+          "185.163.44.137"
+        ],
+        "ipv6": [
+          "2a0a:c801:1:a::137"
+        ],
+        "X25519PublicKey": "Os6z+mP8fCp+EWHXuXs3IULqkVO/fWLrln/eNRAeKh4=",
+        "EntryIP": "62.169.136.111",
+        "ExitIP": "62.169.136.111"
+      }
+    ]
+  }
+]

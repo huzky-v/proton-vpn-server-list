@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-CO#2",
+    "Domain": {
+      "domain": "ch-co-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Bogota",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-co-03.protonvpn.net",
+        "ipv4": [
+          "154.47.16.81"
+        ],
+        "ipv6": [
+          "2a02:6ea0:f105:2721::10"
+        ],
+        "X25519PublicKey": "Qm1zsNxnGphhEJHJzhjd4oVHrHLgDZop+6+audZiKVI=",
+        "EntryIP": "62.169.136.149",
+        "ExitIP": "62.169.136.149"
+      }
+    ]
+  }
+]

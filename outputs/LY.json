@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "LY#5",
+    "Domain": {
+      "domain": "ly-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.132"
+      ],
+      "ipv6": []
+    },
+    "City": "Tripoli",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ly-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.132"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "X5P6s2jwJfDeN+6W7RSuOy4sbGayJQOTAvt11lVJ+Go=",
+        "EntryIP": "74.118.126.132",
+        "ExitIP": "74.118.126.132"
+      }
+    ]
+  },
+  {
+    "Name": "LY#6",
+    "Domain": {
+      "domain": "ly-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.132"
+      ],
+      "ipv6": []
+    },
+    "City": "Tripoli",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ly-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.132"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "X5P6s2jwJfDeN+6W7RSuOy4sbGayJQOTAvt11lVJ+Go=",
+        "EntryIP": "74.118.126.132",
+        "ExitIP": "74.118.126.132"
+      }
+    ]
+  },
+  {
+    "Name": "LY#7",
+    "Domain": {
+      "domain": "ly-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.132"
+      ],
+      "ipv6": []
+    },
+    "City": "Tripoli",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ly-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.132"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "X5P6s2jwJfDeN+6W7RSuOy4sbGayJQOTAvt11lVJ+Go=",
+        "EntryIP": "74.118.126.132",
+        "ExitIP": "74.118.126.132"
+      }
+    ]
+  },
+  {
+    "Name": "LY#8",
+    "Domain": {
+      "domain": "ly-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.132"
+      ],
+      "ipv6": []
+    },
+    "City": "Tripoli",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ly-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.132"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "X5P6s2jwJfDeN+6W7RSuOy4sbGayJQOTAvt11lVJ+Go=",
+        "EntryIP": "74.118.126.132",
+        "ExitIP": "74.118.126.132"
+      }
+    ]
+  }
+]

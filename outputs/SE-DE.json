@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "SE-DE#1",
+    "Domain": {
+      "domain": "se-de-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Frankfurt",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-de-24.protonvpn.net",
+        "ipv4": [
+          "217.138.216.130"
+        ],
+        "ipv6": [
+          "2001:ac8:36:18::10"
+        ],
+        "X25519PublicKey": "MOLPnnM2MSq7s7KqAgpm+AWpmzFAtuE46qBFHeLg5Tk=",
+        "EntryIP": "185.159.156.29",
+        "ExitIP": "185.159.156.29"
+      },
+      {
+        "Domain": "node-de-15.protonvpn.net",
+        "ipv4": [
+          "89.36.76.130"
+        ],
+        "ipv6": [
+          "2001:ac8:36:5e::10"
+        ],
+        "X25519PublicKey": "9xUSjs4KYUv0ySbhrYjwN/49TpHfmIcI/2KdGkOEGz0=",
+        "EntryIP": "185.159.156.98",
+        "ExitIP": "185.159.156.98"
+      },
+      {
+        "Domain": "node-de-28.protonvpn.net",
+        "ipv4": [
+          "149.88.24.180"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:5031::10"
+        ],
+        "X25519PublicKey": "dZaHVURZJIpIPz1DceHUu1QA0WCz9VYEKKey0cymHXI=",
+        "EntryIP": "185.159.156.134",
+        "ExitIP": "185.159.156.134"
+      }
+    ]
+  }
+]

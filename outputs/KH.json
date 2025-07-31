@@ -1,0 +1,338 @@
+[
+  {
+    "Name": "KH#1",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  },
+  {
+    "Name": "KH#2",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  },
+  {
+    "Name": "KH#3",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  },
+  {
+    "Name": "KH#4",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  },
+  {
+    "Name": "KH#5",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  },
+  {
+    "Name": "KH#6",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  },
+  {
+    "Name": "KH#7",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  },
+  {
+    "Name": "KH#8",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  },
+  {
+    "Name": "KH#9",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  },
+  {
+    "Name": "KH#10",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  },
+  {
+    "Name": "KH#11",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  },
+  {
+    "Name": "KH#12",
+    "Domain": {
+      "domain": "node-kh-01.protonvpn.net",
+      "ipv4": [
+        "188.215.235.82"
+      ],
+      "ipv6": [
+        "2001:ac8:4:3::10"
+      ]
+    },
+    "City": "Phnom Penh",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-kh-01.protonvpn.net",
+        "ipv4": [
+          "188.215.235.82"
+        ],
+        "ipv6": [
+          "2001:ac8:4:3::10"
+        ],
+        "X25519PublicKey": "D4M0O60wCBf1nYWOmXRfK7IpgG7VBBwQLeWVFLIqFG4=",
+        "EntryIP": "188.215.235.82",
+        "ExitIP": "188.215.235.82"
+      }
+    ]
+  }
+]

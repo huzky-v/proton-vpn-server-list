@@ -1,0 +1,110 @@
+[
+  {
+    "Name": "CH-FR#2",
+    "Domain": {
+      "domain": "ch-fr-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Paris",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-fr-15.protonvpn.net",
+        "ipv4": [
+          "146.70.194.2"
+        ],
+        "ipv6": [
+          "2001:ac8:25:5b::10"
+        ],
+        "X25519PublicKey": "pSxXjpwlHAXXGJ2s3aRpAFLTNJXz60HKYWqKJqClo3Q=",
+        "EntryIP": "62.169.136.219",
+        "ExitIP": "62.169.136.219"
+      },
+      {
+        "Domain": "node-fr-16.protonvpn.net",
+        "ipv4": [
+          "146.70.194.18"
+        ],
+        "ipv6": [
+          "2001:ac8:25:5c::10"
+        ],
+        "X25519PublicKey": "Z/l/+DAz1YilevRfmEMMjNbzYOVCB0sOJc3vVKhQ/gw=",
+        "EntryIP": "62.169.136.220",
+        "ExitIP": "62.169.136.220"
+      },
+      {
+        "Domain": "node-fr-17.protonvpn.net",
+        "ipv4": [
+          "146.70.194.34"
+        ],
+        "ipv6": [
+          "2001:ac8:25:5d::10"
+        ],
+        "X25519PublicKey": "mbgw7Sxzok7Px1T/cTLDvWEdbU8bWWS00aOhAJy2omQ=",
+        "EntryIP": "62.169.136.221",
+        "ExitIP": "62.169.136.221"
+      },
+      {
+        "Domain": "node-fr-18.protonvpn.net",
+        "ipv4": [
+          "146.70.194.50"
+        ],
+        "ipv6": [
+          "2001:ac8:25:5e::10"
+        ],
+        "X25519PublicKey": "JsWZdbNQ38Enz3AYGJLI6HVF5I5RqfrIkkcwsznAGSs=",
+        "EntryIP": "62.169.136.222",
+        "ExitIP": "62.169.136.222"
+      },
+      {
+        "Domain": "node-fr-19.protonvpn.net",
+        "ipv4": [
+          "146.70.194.66"
+        ],
+        "ipv6": [
+          "2001:ac8:25:5f::10"
+        ],
+        "X25519PublicKey": "XAlwDb8B3OHpzlLp4Rj1BtfCdPIPSm1FuYVYof7k3EA=",
+        "EntryIP": "62.169.136.223",
+        "ExitIP": "62.169.136.223"
+      },
+      {
+        "Domain": "node-fr-20.protonvpn.net",
+        "ipv4": [
+          "146.70.194.82"
+        ],
+        "ipv6": [
+          "2001:ac8:25:60::10"
+        ],
+        "X25519PublicKey": "510n8TGQa8ljjuv+qIc01BSfapR6tNvcfF/WLqamRiI=",
+        "EntryIP": "62.169.136.224",
+        "ExitIP": "62.169.136.224"
+      },
+      {
+        "Domain": "node-fr-21.protonvpn.net",
+        "ipv4": [
+          "146.70.194.98"
+        ],
+        "ipv6": [
+          "2001:ac8:25:67::10"
+        ],
+        "X25519PublicKey": "zeGY3uQTDqTiaxp6vGqFzXck1TPNnzY+JZ2iNI2BrRU=",
+        "EntryIP": "62.169.136.225",
+        "ExitIP": "62.169.136.225"
+      },
+      {
+        "Domain": "node-fr-22.protonvpn.net",
+        "ipv4": [
+          "146.70.194.114"
+        ],
+        "ipv6": [
+          "2001:ac8:25:68::10"
+        ],
+        "X25519PublicKey": "iPDwM6fotjFv+lwrXT5GT55pkovH673toteabkR+OjY=",
+        "EntryIP": "62.169.136.226",
+        "ExitIP": "62.169.136.226"
+      }
+    ]
+  }
+]

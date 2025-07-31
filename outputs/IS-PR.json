@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-PR#1",
+    "Domain": {
+      "domain": "is-pr-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "San Juan",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pr-01.protonvpn.net",
+        "ipv4": [
+          "138.199.50.97"
+        ],
+        "ipv6": [
+          "2a10:9007:3:b::10"
+        ],
+        "X25519PublicKey": "bwxgdI9Jo1QCuw9g9VvfenOBrPouBxFkdnQgRjHvrSU=",
+        "EntryIP": "185.159.158.181",
+        "ExitIP": "185.159.158.181"
+      }
+    ]
+  }
+]

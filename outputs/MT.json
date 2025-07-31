@@ -1,0 +1,226 @@
+[
+  {
+    "Name": "MT#1",
+    "Domain": {
+      "domain": "node-mt-01.protonvpn.net",
+      "ipv4": [
+        "178.249.212.161"
+      ],
+      "ipv6": [
+        "2a10:9007:2:10::10"
+      ]
+    },
+    "City": "Valletta",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-mt-01.protonvpn.net",
+        "ipv4": [
+          "178.249.212.161"
+        ],
+        "ipv6": [
+          "2a10:9007:2:10::10"
+        ],
+        "X25519PublicKey": "fX8h7YY6jz+Brn6LpO7Om+Zdp00HbpUKyyC7Hpc2Fz8=",
+        "EntryIP": "178.249.212.161",
+        "ExitIP": "178.249.212.161"
+      }
+    ]
+  },
+  {
+    "Name": "MT#2",
+    "Domain": {
+      "domain": "node-mt-01.protonvpn.net",
+      "ipv4": [
+        "178.249.212.161"
+      ],
+      "ipv6": [
+        "2a10:9007:2:10::10"
+      ]
+    },
+    "City": "Valletta",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-mt-01.protonvpn.net",
+        "ipv4": [
+          "178.249.212.161"
+        ],
+        "ipv6": [
+          "2a10:9007:2:10::10"
+        ],
+        "X25519PublicKey": "fX8h7YY6jz+Brn6LpO7Om+Zdp00HbpUKyyC7Hpc2Fz8=",
+        "EntryIP": "178.249.212.161",
+        "ExitIP": "178.249.212.161"
+      }
+    ]
+  },
+  {
+    "Name": "MT#3",
+    "Domain": {
+      "domain": "node-mt-01.protonvpn.net",
+      "ipv4": [
+        "178.249.212.161"
+      ],
+      "ipv6": [
+        "2a10:9007:2:10::10"
+      ]
+    },
+    "City": "Valletta",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-mt-01.protonvpn.net",
+        "ipv4": [
+          "178.249.212.161"
+        ],
+        "ipv6": [
+          "2a10:9007:2:10::10"
+        ],
+        "X25519PublicKey": "fX8h7YY6jz+Brn6LpO7Om+Zdp00HbpUKyyC7Hpc2Fz8=",
+        "EntryIP": "178.249.212.161",
+        "ExitIP": "178.249.212.161"
+      }
+    ]
+  },
+  {
+    "Name": "MT#4",
+    "Domain": {
+      "domain": "node-mt-01.protonvpn.net",
+      "ipv4": [
+        "178.249.212.161"
+      ],
+      "ipv6": [
+        "2a10:9007:2:10::10"
+      ]
+    },
+    "City": "Valletta",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-mt-01.protonvpn.net",
+        "ipv4": [
+          "178.249.212.161"
+        ],
+        "ipv6": [
+          "2a10:9007:2:10::10"
+        ],
+        "X25519PublicKey": "fX8h7YY6jz+Brn6LpO7Om+Zdp00HbpUKyyC7Hpc2Fz8=",
+        "EntryIP": "178.249.212.161",
+        "ExitIP": "178.249.212.161"
+      }
+    ]
+  },
+  {
+    "Name": "MT#5",
+    "Domain": {
+      "domain": "node-mt-01.protonvpn.net",
+      "ipv4": [
+        "178.249.212.161"
+      ],
+      "ipv6": [
+        "2a10:9007:2:10::10"
+      ]
+    },
+    "City": "Valletta",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-mt-01.protonvpn.net",
+        "ipv4": [
+          "178.249.212.161"
+        ],
+        "ipv6": [
+          "2a10:9007:2:10::10"
+        ],
+        "X25519PublicKey": "fX8h7YY6jz+Brn6LpO7Om+Zdp00HbpUKyyC7Hpc2Fz8=",
+        "EntryIP": "178.249.212.161",
+        "ExitIP": "178.249.212.161"
+      }
+    ]
+  },
+  {
+    "Name": "MT#6",
+    "Domain": {
+      "domain": "node-mt-01.protonvpn.net",
+      "ipv4": [
+        "178.249.212.161"
+      ],
+      "ipv6": [
+        "2a10:9007:2:10::10"
+      ]
+    },
+    "City": "Valletta",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-mt-01.protonvpn.net",
+        "ipv4": [
+          "178.249.212.161"
+        ],
+        "ipv6": [
+          "2a10:9007:2:10::10"
+        ],
+        "X25519PublicKey": "fX8h7YY6jz+Brn6LpO7Om+Zdp00HbpUKyyC7Hpc2Fz8=",
+        "EntryIP": "178.249.212.161",
+        "ExitIP": "178.249.212.161"
+      }
+    ]
+  },
+  {
+    "Name": "MT#7",
+    "Domain": {
+      "domain": "node-mt-01.protonvpn.net",
+      "ipv4": [
+        "178.249.212.161"
+      ],
+      "ipv6": [
+        "2a10:9007:2:10::10"
+      ]
+    },
+    "City": "Valletta",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-mt-01.protonvpn.net",
+        "ipv4": [
+          "178.249.212.161"
+        ],
+        "ipv6": [
+          "2a10:9007:2:10::10"
+        ],
+        "X25519PublicKey": "fX8h7YY6jz+Brn6LpO7Om+Zdp00HbpUKyyC7Hpc2Fz8=",
+        "EntryIP": "178.249.212.161",
+        "ExitIP": "178.249.212.161"
+      }
+    ]
+  },
+  {
+    "Name": "MT#8",
+    "Domain": {
+      "domain": "node-mt-01.protonvpn.net",
+      "ipv4": [
+        "178.249.212.161"
+      ],
+      "ipv6": [
+        "2a10:9007:2:10::10"
+      ]
+    },
+    "City": "Valletta",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-mt-01.protonvpn.net",
+        "ipv4": [
+          "178.249.212.161"
+        ],
+        "ipv6": [
+          "2a10:9007:2:10::10"
+        ],
+        "X25519PublicKey": "fX8h7YY6jz+Brn6LpO7Om+Zdp00HbpUKyyC7Hpc2Fz8=",
+        "EntryIP": "178.249.212.161",
+        "ExitIP": "178.249.212.161"
+      }
+    ]
+  }
+]

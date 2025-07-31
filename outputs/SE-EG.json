@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-EG#1",
+    "Domain": {
+      "domain": "se-eg-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Cairo",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-eg-01.protonvpn.net",
+        "ipv4": [
+          "188.214.122.82"
+        ],
+        "ipv6": [
+          "2001:ac8:8f:8::10"
+        ],
+        "X25519PublicKey": "DUtOX4QuHcmlBk7bI5eoCSp8RLqV7NPIU8pywn1w0k0=",
+        "EntryIP": "185.159.156.84",
+        "ExitIP": "185.159.156.84"
+      }
+    ]
+  }
+]

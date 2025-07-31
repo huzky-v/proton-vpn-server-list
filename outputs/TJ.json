@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "TJ#1",
+    "Domain": {
+      "domain": "tj-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.184"
+      ],
+      "ipv6": []
+    },
+    "City": "Dushanbe",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tj-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.184"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "8ahXDMFoH2p5xPFnp269PjUoCvbVwzEIavkLC3b4Cig=",
+        "EntryIP": "79.135.105.184",
+        "ExitIP": "79.135.105.184"
+      }
+    ]
+  },
+  {
+    "Name": "TJ#2",
+    "Domain": {
+      "domain": "tj-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.184"
+      ],
+      "ipv6": []
+    },
+    "City": "Dushanbe",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tj-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.184"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "8ahXDMFoH2p5xPFnp269PjUoCvbVwzEIavkLC3b4Cig=",
+        "EntryIP": "79.135.105.184",
+        "ExitIP": "79.135.105.184"
+      }
+    ]
+  },
+  {
+    "Name": "TJ#3",
+    "Domain": {
+      "domain": "tj-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.184"
+      ],
+      "ipv6": []
+    },
+    "City": "Dushanbe",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tj-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.184"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "8ahXDMFoH2p5xPFnp269PjUoCvbVwzEIavkLC3b4Cig=",
+        "EntryIP": "79.135.105.184",
+        "ExitIP": "79.135.105.184"
+      }
+    ]
+  },
+  {
+    "Name": "TJ#4",
+    "Domain": {
+      "domain": "tj-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.184"
+      ],
+      "ipv6": []
+    },
+    "City": "Dushanbe",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tj-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.184"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "8ahXDMFoH2p5xPFnp269PjUoCvbVwzEIavkLC3b4Cig=",
+        "EntryIP": "79.135.105.184",
+        "ExitIP": "79.135.105.184"
+      }
+    ]
+  }
+]

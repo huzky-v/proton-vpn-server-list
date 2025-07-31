@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "IS-ES#1",
+    "Domain": {
+      "domain": "is-es-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Madrid",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-es-04.protonvpn.net",
+        "ipv4": [
+          "185.76.11.17"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c31f:1783::10"
+        ],
+        "X25519PublicKey": "roOsz9dJeKKVt6E3EIEKXQfZsmhSfsqOceZWiuGLIgg=",
+        "EntryIP": "185.159.158.148",
+        "ExitIP": "185.159.158.148"
+      },
+      {
+        "Domain": "node-es-05.protonvpn.net",
+        "ipv4": [
+          "185.76.11.22"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c31f:1788::10"
+        ],
+        "X25519PublicKey": "We2ZxSzO//srj1br7S2+o8d14qegEf4PKdqKJ46N+34=",
+        "EntryIP": "185.159.158.149",
+        "ExitIP": "185.159.158.149"
+      },
+      {
+        "Domain": "node-es-11.protonvpn.net",
+        "ipv4": [
+          "149.102.236.222"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c31f:5499::10"
+        ],
+        "X25519PublicKey": "8PG6wZzij1kPTYivtEh4bNbTrP/WOVQBja9g2+8/i3A=",
+        "EntryIP": "185.159.158.77",
+        "ExitIP": "185.159.158.77"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-ES#1",
+    "Domain": {
+      "domain": "se-es-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Madrid",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-es-10.protonvpn.net",
+        "ipv4": [
+          "79.127.139.129"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c31f:5498::10"
+        ],
+        "X25519PublicKey": "cFQgn6VKZphGOdOGHux2xUf/QBWSExfg6koDuU68k28=",
+        "EntryIP": "185.159.156.162",
+        "ExitIP": "185.159.156.162"
+      }
+    ]
+  }
+]

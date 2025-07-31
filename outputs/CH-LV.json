@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "CH-LV#2",
+    "Domain": {
+      "domain": "ch-lv-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Riga",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-lv-01.protonvpn.net",
+        "ipv4": [
+          "196.240.54.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Kpf5yweL4i6lC7Tx4AeVExvJ7zwwP/SyNiP5sdHyBDA=",
+        "EntryIP": "62.169.136.61",
+        "ExitIP": "62.169.136.61"
+      },
+      {
+        "Domain": "node-lv-01.protonvpn.net",
+        "ipv4": [
+          "196.240.54.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Kpf5yweL4i6lC7Tx4AeVExvJ7zwwP/SyNiP5sdHyBDA=",
+        "EntryIP": "62.169.136.81",
+        "ExitIP": "62.169.136.81"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-PT#1",
+    "Domain": {
+      "domain": "se-pt-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Lisbon",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-pt-02b.protonvpn.net",
+        "ipv4": [
+          "195.158.248.226"
+        ],
+        "ipv6": [
+          "2a06:3040::907e:7954"
+        ],
+        "X25519PublicKey": "RbDaajNuhOJ2QWdraMp06PER6/F9TIHZXM+RUBH7tTM=",
+        "EntryIP": "185.159.156.58",
+        "ExitIP": "185.159.156.58"
+      }
+    ]
+  }
+]

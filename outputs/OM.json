@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "OM#10",
+    "Domain": {
+      "domain": "om-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.172"
+      ],
+      "ipv6": []
+    },
+    "City": "Muscat",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "om-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.172"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xaNomULH8zj9tHv5IZexfXwY2m3IOwA/44fG1AzK50U=",
+        "EntryIP": "74.118.126.172",
+        "ExitIP": "74.118.126.172"
+      }
+    ]
+  },
+  {
+    "Name": "OM#11",
+    "Domain": {
+      "domain": "om-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.172"
+      ],
+      "ipv6": []
+    },
+    "City": "Muscat",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "om-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.172"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xaNomULH8zj9tHv5IZexfXwY2m3IOwA/44fG1AzK50U=",
+        "EntryIP": "74.118.126.172",
+        "ExitIP": "74.118.126.172"
+      }
+    ]
+  },
+  {
+    "Name": "OM#12",
+    "Domain": {
+      "domain": "om-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.172"
+      ],
+      "ipv6": []
+    },
+    "City": "Muscat",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "om-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.172"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xaNomULH8zj9tHv5IZexfXwY2m3IOwA/44fG1AzK50U=",
+        "EntryIP": "74.118.126.172",
+        "ExitIP": "74.118.126.172"
+      }
+    ]
+  },
+  {
+    "Name": "OM#9",
+    "Domain": {
+      "domain": "om-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.172"
+      ],
+      "ipv6": []
+    },
+    "City": "Muscat",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "om-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.172"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xaNomULH8zj9tHv5IZexfXwY2m3IOwA/44fG1AzK50U=",
+        "EntryIP": "74.118.126.172",
+        "ExitIP": "74.118.126.172"
+      }
+    ]
+  }
+]

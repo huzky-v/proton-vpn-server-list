@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "CH-NO#2",
+    "Domain": {
+      "domain": "ch-no-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Oslo",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-no-06.protonvpn.net",
+        "ipv4": [
+          "146.70.170.2"
+        ],
+        "ipv6": [
+          "2001:ac8:38:2a::10"
+        ],
+        "X25519PublicKey": "sSbgwNAoZtBVWlg6ZLnFDrXTM3YFTpPVKgE4DtzSUw0=",
+        "EntryIP": "62.169.136.240",
+        "ExitIP": "62.169.136.240"
+      },
+      {
+        "Domain": "node-no-05.protonvpn.net",
+        "ipv4": [
+          "146.70.170.18"
+        ],
+        "ipv6": [
+          "2001:ac8:38:2::10"
+        ],
+        "X25519PublicKey": "KOITt3KQ72LHPbpVp7kp4cQo/qw2qvKPrN732UTWWFw=",
+        "EntryIP": "62.169.136.245",
+        "ExitIP": "62.169.136.245"
+      }
+    ]
+  }
+]

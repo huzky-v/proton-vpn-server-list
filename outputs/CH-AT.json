@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "CH-AT#2",
+    "Domain": {
+      "domain": "ch-at-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Vienna",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-at-05.protonvpn.net",
+        "ipv4": [
+          "154.47.19.193"
+        ],
+        "ipv6": [
+          "2a02:6ea0:cb02:2304::10"
+        ],
+        "X25519PublicKey": "m42PUb14xPOnibFpJIt/NM+IJ/p2PkV5QJclCixwDEk=",
+        "EntryIP": "62.169.136.190",
+        "ExitIP": "62.169.136.190"
+      },
+      {
+        "Domain": "node-at-06.protonvpn.net",
+        "ipv4": [
+          "87.249.133.97"
+        ],
+        "ipv6": [
+          "2a02:6ea0:cb02:2305::10"
+        ],
+        "X25519PublicKey": "yv5wDhSmTb0DeMLOp4g/xLeLcFDpz+wpcUvhaJtn83A=",
+        "EntryIP": "62.169.136.191",
+        "ExitIP": "62.169.136.191"
+      },
+      {
+        "Domain": "node-at-09.protonvpn.net",
+        "ipv4": [
+          "154.47.19.212"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "D2G0wjy9kRvxjXJfLCA9zglgcwMvZFMhLG+NASSzQ1k=",
+        "EntryIP": "62.169.136.94",
+        "ExitIP": "62.169.136.94"
+      }
+    ]
+  }
+]

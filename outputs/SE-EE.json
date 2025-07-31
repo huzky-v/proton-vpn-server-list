@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "SE-EE#1",
+    "Domain": {
+      "domain": "se-ee-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Tallinn",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ee-01.protonvpn.net",
+        "ipv4": [
+          "165.231.178.10"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fHGPlsNkuvuyLoqKp/Yfh3R31jdGN5JWRZ5cE1aW/UM=",
+        "EntryIP": "185.159.156.49",
+        "ExitIP": "185.159.156.49"
+      }
+    ]
+  }
+]

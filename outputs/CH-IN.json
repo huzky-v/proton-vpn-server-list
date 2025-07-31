@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "CH-IN#2",
+    "Domain": {
+      "domain": "ch-in-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Mumbai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-in-05.protonvpn.net",
+        "ipv4": [
+          "146.70.142.18"
+        ],
+        "ipv6": [
+          "2001:ac8:2:1::10"
+        ],
+        "X25519PublicKey": "QnqJI0C2xQZrKfZLrBaCHa2h3TZ9CBt6sCuzg3ue4X4=",
+        "EntryIP": "62.169.136.82",
+        "ExitIP": "62.169.136.82"
+      },
+      {
+        "Domain": "node-in-06.protonvpn.net",
+        "ipv4": [
+          "146.70.142.82"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xlqneuKmrOMTCwrLwiqimcfhHwfzC3gfbYzsgP7cNTM=",
+        "EntryIP": "62.169.136.56",
+        "ExitIP": "62.169.136.56"
+      }
+    ]
+  }
+]

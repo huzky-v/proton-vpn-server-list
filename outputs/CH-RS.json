@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-RS#2",
+    "Domain": {
+      "domain": "ch-rs-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Belgrade",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-rs-01b.protonvpn.net",
+        "ipv4": [
+          "37.46.115.5"
+        ],
+        "ipv6": [
+          "2a00:7147:22:1::10"
+        ],
+        "X25519PublicKey": "5H/Al8MzQNlRehSUbEIRH/rZbfRNdMk04/XgK3hhkwE=",
+        "EntryIP": "62.169.136.27",
+        "ExitIP": "62.169.136.27"
+      }
+    ]
+  }
+]

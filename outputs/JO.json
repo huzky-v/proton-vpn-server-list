@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "JO#10",
+    "Domain": {
+      "domain": "jo-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.104"
+      ],
+      "ipv6": []
+    },
+    "City": "Amman",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "jo-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.104"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "LRbycrAdgsZ4vjV906N6bGJPhR0lzBiM3KYOmEEMFk4=",
+        "EntryIP": "74.118.126.104",
+        "ExitIP": "74.118.126.104"
+      }
+    ]
+  },
+  {
+    "Name": "JO#11",
+    "Domain": {
+      "domain": "jo-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.104"
+      ],
+      "ipv6": []
+    },
+    "City": "Amman",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "jo-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.104"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "LRbycrAdgsZ4vjV906N6bGJPhR0lzBiM3KYOmEEMFk4=",
+        "EntryIP": "74.118.126.104",
+        "ExitIP": "74.118.126.104"
+      }
+    ]
+  },
+  {
+    "Name": "JO#12",
+    "Domain": {
+      "domain": "jo-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.104"
+      ],
+      "ipv6": []
+    },
+    "City": "Amman",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "jo-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.104"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "LRbycrAdgsZ4vjV906N6bGJPhR0lzBiM3KYOmEEMFk4=",
+        "EntryIP": "74.118.126.104",
+        "ExitIP": "74.118.126.104"
+      }
+    ]
+  },
+  {
+    "Name": "JO#9",
+    "Domain": {
+      "domain": "jo-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.104"
+      ],
+      "ipv6": []
+    },
+    "City": "Amman",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "jo-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.104"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "LRbycrAdgsZ4vjV906N6bGJPhR0lzBiM3KYOmEEMFk4=",
+        "EntryIP": "74.118.126.104",
+        "ExitIP": "74.118.126.104"
+      }
+    ]
+  }
+]

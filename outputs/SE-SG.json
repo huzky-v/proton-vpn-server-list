@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "SE-SG#1",
+    "Domain": {
+      "domain": "se-sg-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Singapore",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-sg-15.protonvpn.net",
+        "ipv4": [
+          "138.199.60.85"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "06SGCCwQ/ftEmlj5x8wX0Df5Rbi66tkFcvrwe/AuuDc=",
+        "EntryIP": "185.159.156.126",
+        "ExitIP": "185.159.156.126"
+      }
+    ]
+  }
+]

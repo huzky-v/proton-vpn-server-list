@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "MU#29",
+    "Domain": {
+      "domain": "mu-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.152"
+      ],
+      "ipv6": []
+    },
+    "City": "Port Louis",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mu-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.152"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7qe93pOVa2viu1iuY0BN3dKpRLSjR8LaXKtm44izdUo=",
+        "EntryIP": "74.118.126.152",
+        "ExitIP": "74.118.126.152"
+      }
+    ]
+  },
+  {
+    "Name": "MU#30",
+    "Domain": {
+      "domain": "mu-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.152"
+      ],
+      "ipv6": []
+    },
+    "City": "Port Louis",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mu-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.152"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7qe93pOVa2viu1iuY0BN3dKpRLSjR8LaXKtm44izdUo=",
+        "EntryIP": "74.118.126.152",
+        "ExitIP": "74.118.126.152"
+      }
+    ]
+  },
+  {
+    "Name": "MU#31",
+    "Domain": {
+      "domain": "mu-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.152"
+      ],
+      "ipv6": []
+    },
+    "City": "Port Louis",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mu-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.152"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7qe93pOVa2viu1iuY0BN3dKpRLSjR8LaXKtm44izdUo=",
+        "EntryIP": "74.118.126.152",
+        "ExitIP": "74.118.126.152"
+      }
+    ]
+  },
+  {
+    "Name": "MU#32",
+    "Domain": {
+      "domain": "mu-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.152"
+      ],
+      "ipv6": []
+    },
+    "City": "Port Louis",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mu-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.152"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7qe93pOVa2viu1iuY0BN3dKpRLSjR8LaXKtm44izdUo=",
+        "EntryIP": "74.118.126.152",
+        "ExitIP": "74.118.126.152"
+      }
+    ]
+  }
+]

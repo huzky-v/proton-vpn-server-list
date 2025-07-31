@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "SO#29",
+    "Domain": {
+      "domain": "so-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.204"
+      ],
+      "ipv6": []
+    },
+    "City": "Mogadishu",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "so-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.204"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7GJWeRRZ1GPsXVWGtO9TaodpNC7BM9iQWBCSqj9hKk0=",
+        "EntryIP": "74.118.126.204",
+        "ExitIP": "74.118.126.204"
+      }
+    ]
+  },
+  {
+    "Name": "SO#30",
+    "Domain": {
+      "domain": "so-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.204"
+      ],
+      "ipv6": []
+    },
+    "City": "Mogadishu",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "so-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.204"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7GJWeRRZ1GPsXVWGtO9TaodpNC7BM9iQWBCSqj9hKk0=",
+        "EntryIP": "74.118.126.204",
+        "ExitIP": "74.118.126.204"
+      }
+    ]
+  },
+  {
+    "Name": "SO#31",
+    "Domain": {
+      "domain": "so-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.204"
+      ],
+      "ipv6": []
+    },
+    "City": "Mogadishu",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "so-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.204"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7GJWeRRZ1GPsXVWGtO9TaodpNC7BM9iQWBCSqj9hKk0=",
+        "EntryIP": "74.118.126.204",
+        "ExitIP": "74.118.126.204"
+      }
+    ]
+  },
+  {
+    "Name": "SO#32",
+    "Domain": {
+      "domain": "so-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.204"
+      ],
+      "ipv6": []
+    },
+    "City": "Mogadishu",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "so-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.204"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7GJWeRRZ1GPsXVWGtO9TaodpNC7BM9iQWBCSqj9hKk0=",
+        "EntryIP": "74.118.126.204",
+        "ExitIP": "74.118.126.204"
+      }
+    ]
+  }
+]

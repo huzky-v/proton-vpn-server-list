@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "CI#1",
+    "Domain": {
+      "domain": "ci-01.protonvpn.net",
+      "ipv4": [
+        "74.118.126.32"
+      ],
+      "ipv6": []
+    },
+    "City": "Yamoussoukro",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ci-01.protonvpn.net",
+        "ipv4": [
+          "74.118.126.32"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QFCFPyvsTqvMtl9HhvjmK+2YuXAue4o9qvNYpI3V40s=",
+        "EntryIP": "74.118.126.32",
+        "ExitIP": "74.118.126.32"
+      }
+    ]
+  },
+  {
+    "Name": "CI#2",
+    "Domain": {
+      "domain": "ci-01.protonvpn.net",
+      "ipv4": [
+        "74.118.126.32"
+      ],
+      "ipv6": []
+    },
+    "City": "Yamoussoukro",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ci-01.protonvpn.net",
+        "ipv4": [
+          "74.118.126.32"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QFCFPyvsTqvMtl9HhvjmK+2YuXAue4o9qvNYpI3V40s=",
+        "EntryIP": "74.118.126.32",
+        "ExitIP": "74.118.126.32"
+      }
+    ]
+  },
+  {
+    "Name": "CI#3",
+    "Domain": {
+      "domain": "ci-01.protonvpn.net",
+      "ipv4": [
+        "74.118.126.32"
+      ],
+      "ipv6": []
+    },
+    "City": "Yamoussoukro",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ci-01.protonvpn.net",
+        "ipv4": [
+          "74.118.126.32"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QFCFPyvsTqvMtl9HhvjmK+2YuXAue4o9qvNYpI3V40s=",
+        "EntryIP": "74.118.126.32",
+        "ExitIP": "74.118.126.32"
+      }
+    ]
+  },
+  {
+    "Name": "CI#4",
+    "Domain": {
+      "domain": "ci-01.protonvpn.net",
+      "ipv4": [
+        "74.118.126.32"
+      ],
+      "ipv6": []
+    },
+    "City": "Yamoussoukro",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ci-01.protonvpn.net",
+        "ipv4": [
+          "74.118.126.32"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QFCFPyvsTqvMtl9HhvjmK+2YuXAue4o9qvNYpI3V40s=",
+        "EntryIP": "74.118.126.32",
+        "ExitIP": "74.118.126.32"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-CL#1",
+    "Domain": {
+      "domain": "is-cl-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Santiago",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cl-04.protonvpn.net",
+        "ipv4": [
+          "138.199.50.106"
+        ],
+        "ipv6": [
+          "2a10:9007:3:2::10"
+        ],
+        "X25519PublicKey": "F7z+SRMw1d3o1lQbWObWN7GBbHeUZNCC+PCpPy+SOQ8=",
+        "EntryIP": "185.159.158.208",
+        "ExitIP": "185.159.158.208"
+      }
+    ]
+  }
+]

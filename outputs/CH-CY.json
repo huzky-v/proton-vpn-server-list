@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-CY#2",
+    "Domain": {
+      "domain": "ch-cy-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Limassol",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cy-01.protonvpn.net",
+        "ipv4": [
+          "85.132.252.34"
+        ],
+        "ipv6": [
+          "2a02:540:3:2009::10"
+        ],
+        "X25519PublicKey": "e3RzM0pr0CkENa045wi0oBMzL3D6kfHbGW5rHWSOtig=",
+        "EntryIP": "62.169.136.165",
+        "ExitIP": "62.169.136.165"
+      }
+    ]
+  }
+]

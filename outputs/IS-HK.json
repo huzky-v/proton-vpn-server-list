@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "IS-HK#1",
+    "Domain": {
+      "domain": "is-hk-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Hong Kong",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-hk-05.protonvpn.net",
+        "ipv4": [
+          "146.70.113.114"
+        ],
+        "ipv6": [
+          "2001:ac8:a:5::10"
+        ],
+        "X25519PublicKey": "giBCbR12im6jWSvwEQ0mJ1PH8NUhRFUDedozBSYC8n4=",
+        "EntryIP": "185.159.158.220",
+        "ExitIP": "185.159.158.220"
+      },
+      {
+        "Domain": "node-hk-04.protonvpn.net",
+        "ipv4": [
+          "156.146.45.129"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d60f:2188::10"
+        ],
+        "X25519PublicKey": "b04WYLiUOie4OkYbneVXdqnmoGKZyU7Vpfb9N+Qf31c=",
+        "EntryIP": "185.159.158.195",
+        "ExitIP": "185.159.158.195"
+      }
+    ]
+  }
+]

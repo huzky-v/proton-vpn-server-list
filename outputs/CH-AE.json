@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-AE#2",
+    "Domain": {
+      "domain": "ch-ae-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Dubai",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ae-02.protonvpn.net",
+        "ipv4": [
+          "217.138.193.98"
+        ],
+        "ipv6": [
+          "2001:ac8:81:14::10"
+        ],
+        "X25519PublicKey": "IwddRZ5jYM+1WC31fJAsFslmkto71LUNA4LG90fPcDM=",
+        "EntryIP": "62.169.136.104",
+        "ExitIP": "62.169.136.104"
+      }
+    ]
+  }
+]

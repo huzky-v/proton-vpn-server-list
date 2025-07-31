@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-PH#1",
+    "Domain": {
+      "domain": "se-ph-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Manila",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ph-01.protonvpn.net",
+        "ipv4": [
+          "188.214.125.162"
+        ],
+        "ipv6": [
+          "2001:ac8:94:3::10"
+        ],
+        "X25519PublicKey": "YHiExIkSK5Jqk/P6zO3UIDmf4B5NgClT2hqOXYCxD0g=",
+        "EntryIP": "185.159.156.86",
+        "ExitIP": "185.159.156.86"
+      }
+    ]
+  }
+]

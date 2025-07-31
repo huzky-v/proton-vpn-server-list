@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "BH#5",
+    "Domain": {
+      "domain": "bh-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.16"
+      ],
+      "ipv6": []
+    },
+    "City": "Manama",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "bh-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.16"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "S371nq1eLuU4C9dw+/QitYpHDDRodHdvYCbFEhggaGw=",
+        "EntryIP": "74.118.126.16",
+        "ExitIP": "74.118.126.16"
+      }
+    ]
+  },
+  {
+    "Name": "BH#6",
+    "Domain": {
+      "domain": "bh-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.16"
+      ],
+      "ipv6": []
+    },
+    "City": "Manama",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "bh-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.16"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "S371nq1eLuU4C9dw+/QitYpHDDRodHdvYCbFEhggaGw=",
+        "EntryIP": "74.118.126.16",
+        "ExitIP": "74.118.126.16"
+      }
+    ]
+  },
+  {
+    "Name": "BH#7",
+    "Domain": {
+      "domain": "bh-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.16"
+      ],
+      "ipv6": []
+    },
+    "City": "Manama",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "bh-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.16"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "S371nq1eLuU4C9dw+/QitYpHDDRodHdvYCbFEhggaGw=",
+        "EntryIP": "74.118.126.16",
+        "ExitIP": "74.118.126.16"
+      }
+    ]
+  },
+  {
+    "Name": "BH#8",
+    "Domain": {
+      "domain": "bh-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.16"
+      ],
+      "ipv6": []
+    },
+    "City": "Manama",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "bh-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.16"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "S371nq1eLuU4C9dw+/QitYpHDDRodHdvYCbFEhggaGw=",
+        "EntryIP": "74.118.126.16",
+        "ExitIP": "74.118.126.16"
+      }
+    ]
+  }
+]
