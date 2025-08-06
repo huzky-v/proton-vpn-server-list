@@ -11,7 +11,7 @@ Data include:
 - Server Info (Exit Node, Entry node, ED25519 Public key)
 
 The data source is from the [Proton API](https://account.protonvpn.com/api/vpn/logicals), providing the following HTTP Headers   
-(you can even save the response by going to [this page](https://account.protonvpn.com/downloads) after login, you can find the `/vpn/logicals` request here)
+(you can even save the response by going to [this page](https://account.protonvpn.com/downloads) after login, you can find the `/vpn/logicals` request in the network inspect section)
 - x-pm-appversion
 - x-pm-uid
 - Cookie
