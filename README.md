@@ -1,6 +1,6 @@
 # proton-vpn-server-list
 
-This is a list for quick checking on ipv4 / ipv6 address of the proton vpn servers (As of 2025-07-31), grouped by the location.  
+This is a list for quick checking on ipv4 / ipv6 address of the proton vpn servers (As of 2025-08-06), grouped by the location.  
 Data include:
 - Server Name
 - Resolved IPv4 address (A)/ IPv6 address (AAAA, if any)

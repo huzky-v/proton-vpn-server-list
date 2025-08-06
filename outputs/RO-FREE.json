@@ -1,0 +1,538 @@
+[
+  {
+    "Name": "RO-FREE#23",
+    "Domain": {
+      "domain": "node-ro-12.protonvpn.net",
+      "ipv4": [
+        "146.70.246.98"
+      ],
+      "ipv6": []
+    },
+    "City": "Bucharest",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      },
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      },
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      },
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      },
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      },
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      },
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      },
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      },
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      },
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      },
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      },
+      {
+        "Domain": "node-ro-12.protonvpn.net",
+        "ipv4": [
+          "146.70.246.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ehwHh3WXBDwFxqTs4Oa8aZZYjOnd3NwjbMArKRwTqzs=",
+        "EntryIP": "146.70.246.98",
+        "ExitIP": "146.70.246.98"
+      }
+    ]
+  },
+  {
+    "Name": "RO-FREE#24",
+    "Domain": {
+      "domain": "node-ro-13.protonvpn.net",
+      "ipv4": [
+        "146.70.246.114"
+      ],
+      "ipv6": []
+    },
+    "City": "Bucharest",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      },
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      },
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      },
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      },
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      },
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      },
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      },
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      },
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      },
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      },
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      },
+      {
+        "Domain": "node-ro-13.protonvpn.net",
+        "ipv4": [
+          "146.70.246.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dgVvjsBPhkKantancTMGlcd10ikyQjCtSTG2muBjvHA=",
+        "EntryIP": "146.70.246.114",
+        "ExitIP": "146.70.246.114"
+      }
+    ]
+  },
+  {
+    "Name": "RO-FREE#25",
+    "Domain": {
+      "domain": "node-ro-14.protonvpn.net",
+      "ipv4": [
+        "185.45.15.34"
+      ],
+      "ipv6": []
+    },
+    "City": "Bucharest",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      },
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      },
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      },
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      },
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      },
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      },
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      },
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      },
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      },
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      },
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      },
+      {
+        "Domain": "node-ro-14.protonvpn.net",
+        "ipv4": [
+          "185.45.15.34"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AQMQis3/N2TP377PKH0D6DjEhu0pLanSK6dCbYE7q3U=",
+        "EntryIP": "185.45.15.34",
+        "ExitIP": "185.45.15.34"
+      }
+    ]
+  },
+  {
+    "Name": "RO-FREE#26",
+    "Domain": {
+      "domain": "node-ro-15.protonvpn.net",
+      "ipv4": [
+        "185.252.220.146"
+      ],
+      "ipv6": []
+    },
+    "City": "Bucharest",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      },
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      },
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      },
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      },
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      },
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      },
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      },
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      },
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      },
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      },
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      },
+      {
+        "Domain": "node-ro-15.protonvpn.net",
+        "ipv4": [
+          "185.252.220.146"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=",
+        "EntryIP": "185.252.220.146",
+        "ExitIP": "185.252.220.146"
+      }
+    ]
+  }
+]
