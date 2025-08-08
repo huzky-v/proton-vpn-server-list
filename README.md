@@ -1,6 +1,6 @@
 # proton-vpn-server-list
 
-This is a list for quick checking on ipv4 / ipv6 address of the proton vpn servers (As of 2025-08-06), grouped by the location.  
+This is a list for quick checking on ipv4 / ipv6 address of the proton vpn servers (As of 2025-08-08), grouped by the location.  
 This list will not update in regular basis as there is no way to automate this.  
 
 Data include:
@@ -14,6 +14,6 @@ The data source is from the [Proton API](https://account.protonvpn.com/api/vpn/l
 (you can even save the response by going to [this page](https://account.protonvpn.com/downloads) after login, you can find the `/vpn/logicals` request in the network inspect section)
 - x-pm-appversion
 - x-pm-uid
-- Cookie
+- Cookie (This is the reason why it is not easily automated, it is not API token)
 
 The data script is also included for further customization if you have the api response file.
