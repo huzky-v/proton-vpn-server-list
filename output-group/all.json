@@ -1,5 +1,5 @@
 {
-  "genDate": "2025-08-12T20:08:15.135Z",
+  "genDate": "2025-08-12T20:23:34.936Z",
   "data": [
     {
       "ipv4": "185.76.11.27",
@@ -64,8 +64,7 @@
         "AU#117",
         "AU#118",
         "AU#119",
-        "AU#120",
-        "CH-AU#2"
+        "AU#120"
       ],
       "ipv6Enabled": true,
       "city": "Adelaide"
@@ -87,8 +86,7 @@
         "AU#196",
         "AU#197",
         "AU#198",
-        "AU#199",
-        "CH-AU#2"
+        "AU#199"
       ],
       "ipv6Enabled": false,
       "city": "Adelaide"
@@ -110,6 +108,27 @@
         "AU#324",
         "AU#325",
         "AU#326"
+      ],
+      "ipv6Enabled": false,
+      "city": "Adelaide"
+    },
+    {
+      "ipv4": "103.25.57.130",
+      "ipv6": null,
+      "domain": "node-au-28.protonvpn.net",
+      "servers": [
+        "AU#327",
+        "AU#328",
+        "AU#329",
+        "AU#330",
+        "AU#331",
+        "AU#332",
+        "AU#333",
+        "AU#334",
+        "AU#335",
+        "AU#336",
+        "AU#337",
+        "AU#338"
       ],
       "ipv6Enabled": false,
       "city": "Adelaide"
@@ -172,103 +191,6 @@
       ],
       "ipv6Enabled": false,
       "city": "Amman"
-    },
-    {
-      "ipv4": "62.112.9.164",
-      "ipv6": "2a00:7c80::3a9:10",
-      "domain": "node-nl-01.protonvpn.net",
-      "servers": [
-        "IS-NL#1",
-        "NL#350",
-        "NL#351",
-        "NL#352",
-        "NL#353",
-        "NL#354",
-        "NL#355",
-        "NL#356"
-      ],
-      "ipv6Enabled": true,
-      "city": "Amsterdam"
-    },
-    {
-      "ipv4": "103.69.224.2",
-      "ipv6": null,
-      "domain": "node-nl-214.protonvpn.net",
-      "servers": [
-        "IS-NL#1",
-        "NL#478",
-        "NL#479",
-        "NL#480",
-        "NL#481",
-        "NL#482",
-        "NL#483",
-        "NL#484",
-        "NL#485",
-        "NL#486",
-        "NL#487",
-        "NL#488",
-        "NL#489",
-        "NL#490",
-        "NL#491",
-        "NL#492",
-        "NL#493",
-        "NL#494",
-        "NL#495",
-        "NL#496",
-        "NL#497",
-        "NL#498",
-        "NL#499",
-        "NL#500",
-        "NL#501",
-        "NL#502",
-        "NL#503",
-        "NL#504",
-        "NL#505",
-        "NL#506",
-        "NL#507"
-      ],
-      "ipv6Enabled": true,
-      "city": "Amsterdam"
-    },
-    {
-      "ipv4": "46.29.25.6",
-      "ipv6": "2001:968:12:2102::134",
-      "domain": "node-nl-221.protonvpn.net",
-      "servers": [
-        "IS-NL#1",
-        "NL#688",
-        "NL#689",
-        "NL#690",
-        "NL#691",
-        "NL#692",
-        "NL#693",
-        "NL#694",
-        "NL#695",
-        "NL#696",
-        "NL#697",
-        "NL#698",
-        "NL#699",
-        "NL#700",
-        "NL#701",
-        "NL#702",
-        "NL#703",
-        "NL#704",
-        "NL#705",
-        "NL#706",
-        "NL#707",
-        "NL#708",
-        "NL#709",
-        "NL#710",
-        "NL#711",
-        "NL#712",
-        "NL#713",
-        "NL#714",
-        "NL#715",
-        "NL#716",
-        "NL#717"
-      ],
-      "ipv6Enabled": true,
-      "city": "Amsterdam"
     },
     {
       "ipv4": "138.199.7.129",
@@ -665,8 +587,7 @@
         "NL#346",
         "NL#347",
         "NL#348",
-        "NL#349",
-        "CH-NL#2"
+        "NL#349"
       ],
       "ipv6Enabled": false,
       "city": "Amsterdam"
@@ -687,8 +608,7 @@
         "NL#323",
         "NL#324",
         "NL#325",
-        "NL#326",
-        "CH-NL#2"
+        "NL#326"
       ],
       "ipv6Enabled": false,
       "city": "Amsterdam"
@@ -709,10 +629,25 @@
         "NL#263",
         "NL#264",
         "NL#265",
-        "NL#266",
-        "CH-NL#2"
+        "NL#266"
       ],
       "ipv6Enabled": false,
+      "city": "Amsterdam"
+    },
+    {
+      "ipv4": "62.112.9.164",
+      "ipv6": "2a00:7c80::3a9:10",
+      "domain": "node-nl-01.protonvpn.net",
+      "servers": [
+        "NL#350",
+        "NL#351",
+        "NL#352",
+        "NL#353",
+        "NL#354",
+        "NL#355",
+        "NL#356"
+      ],
+      "ipv6Enabled": true,
       "city": "Amsterdam"
     },
     {
@@ -793,8 +728,7 @@
         "NL#384",
         "NL#385",
         "NL#386",
-        "NL#387",
-        "CH-NL#2"
+        "NL#387"
       ],
       "ipv6Enabled": false,
       "city": "Amsterdam"
@@ -813,8 +747,7 @@
         "NL#394",
         "NL#395",
         "NL#396",
-        "NL#397",
-        "CH-NL#2"
+        "NL#397"
       ],
       "ipv6Enabled": false,
       "city": "Amsterdam"
@@ -833,8 +766,7 @@
         "NL#404",
         "NL#405",
         "NL#406",
-        "NL#407",
-        "CH-NL#2"
+        "NL#407"
       ],
       "ipv6Enabled": false,
       "city": "Amsterdam"
@@ -853,8 +785,7 @@
         "NL#414",
         "NL#415",
         "NL#416",
-        "NL#417",
-        "CH-NL#2"
+        "NL#417"
       ],
       "ipv6Enabled": false,
       "city": "Amsterdam"
@@ -894,6 +825,45 @@
         "NL#445",
         "NL#446",
         "NL#447"
+      ],
+      "ipv6Enabled": false,
+      "city": "Amsterdam"
+    },
+    {
+      "ipv4": "103.69.224.2",
+      "ipv6": null,
+      "domain": "node-nl-214.protonvpn.net",
+      "servers": [
+        "NL#478",
+        "NL#479",
+        "NL#480",
+        "NL#481",
+        "NL#482",
+        "NL#483",
+        "NL#484",
+        "NL#485",
+        "NL#486",
+        "NL#487",
+        "NL#488",
+        "NL#489",
+        "NL#490",
+        "NL#491",
+        "NL#492",
+        "NL#493",
+        "NL#494",
+        "NL#495",
+        "NL#496",
+        "NL#497",
+        "NL#498",
+        "NL#499",
+        "NL#500",
+        "NL#501",
+        "NL#502",
+        "NL#503",
+        "NL#504",
+        "NL#505",
+        "NL#506",
+        "NL#507"
       ],
       "ipv6Enabled": false,
       "city": "Amsterdam"
@@ -1089,6 +1059,45 @@
         "NL#685",
         "NL#686",
         "NL#687"
+      ],
+      "ipv6Enabled": true,
+      "city": "Amsterdam"
+    },
+    {
+      "ipv4": "46.29.25.6",
+      "ipv6": "2001:968:12:2102::134",
+      "domain": "node-nl-221.protonvpn.net",
+      "servers": [
+        "NL#688",
+        "NL#689",
+        "NL#690",
+        "NL#691",
+        "NL#692",
+        "NL#693",
+        "NL#694",
+        "NL#695",
+        "NL#696",
+        "NL#697",
+        "NL#698",
+        "NL#699",
+        "NL#700",
+        "NL#701",
+        "NL#702",
+        "NL#703",
+        "NL#704",
+        "NL#705",
+        "NL#706",
+        "NL#707",
+        "NL#708",
+        "NL#709",
+        "NL#710",
+        "NL#711",
+        "NL#712",
+        "NL#713",
+        "NL#714",
+        "NL#715",
+        "NL#716",
+        "NL#717"
       ],
       "ipv6Enabled": true,
       "city": "Amsterdam"
@@ -1406,6 +1415,30 @@
       "city": "Amsterdam"
     },
     {
+      "ipv4": "185.156.46.33",
+      "ipv6": "2a02:6ea0:e20d:2101::10",
+      "domain": "node-us-119.protonvpn.net",
+      "servers": [
+        "US-VA#1",
+        "US-VA#10",
+        "US-VA#11",
+        "US-VA#12",
+        "US-VA#13",
+        "US-VA#14",
+        "US-VA#15",
+        "US-VA#2",
+        "US-VA#3",
+        "US-VA#4",
+        "US-VA#5",
+        "US-VA#6",
+        "US-VA#7",
+        "US-VA#8",
+        "US-VA#9"
+      ],
+      "ipv6Enabled": true,
+      "city": "Ashburn"
+    },
+    {
       "ipv4": "149.88.18.193",
       "ipv6": "2a02:6ea0:e20d:3741::10",
       "domain": "node-us-254.protonvpn.net",
@@ -1441,6 +1474,29 @@
       "city": "Ashburn"
     },
     {
+      "ipv4": "154.47.22.65",
+      "ipv6": "2a02:6ea0:e20d:2691::10",
+      "domain": "node-us-207.protonvpn.net",
+      "servers": [
+        "US-VA#100",
+        "US-VA#101",
+        "US-VA#102",
+        "US-VA#103",
+        "US-VA#104",
+        "US-VA#105",
+        "US-VA#106",
+        "US-VA#107",
+        "US-VA#108",
+        "US-VA#109",
+        "US-VA#110",
+        "US-VA#111",
+        "US-VA#98",
+        "US-VA#99"
+      ],
+      "ipv6Enabled": true,
+      "city": "Ashburn"
+    },
+    {
       "ipv4": "154.47.22.77",
       "ipv6": "2a02:6ea0:e20d:2719::10",
       "domain": "node-us-219.protonvpn.net",
@@ -1459,8 +1515,7 @@
         "US-VA#123",
         "US-VA#124",
         "US-VA#125",
-        "US-VA#126",
-        "CH-US#3"
+        "US-VA#126"
       ],
       "ipv6Enabled": true,
       "city": "Ashburn"
@@ -1484,8 +1539,7 @@
         "US-VA#138",
         "US-VA#139",
         "US-VA#140",
-        "US-VA#141",
-        "CH-US#3"
+        "US-VA#141"
       ],
       "ipv6Enabled": true,
       "city": "Ashburn"
@@ -1720,8 +1774,7 @@
         "GR#5",
         "GR#6",
         "GR#7",
-        "GR#8",
-        "CH-GR#2"
+        "GR#8"
       ],
       "ipv6Enabled": false,
       "city": "Athens"
@@ -1979,8 +2032,7 @@
         "US-GA#249",
         "US-GA#250",
         "US-GA#251",
-        "US-GA#252",
-        "CH-US#3"
+        "US-GA#252"
       ],
       "ipv6Enabled": true,
       "city": "Atlanta"
@@ -2003,8 +2055,7 @@
         "US-GA#263",
         "US-GA#264",
         "US-GA#265",
-        "US-GA#266",
-        "CH-US#3"
+        "US-GA#266"
       ],
       "ipv6Enabled": true,
       "city": "Atlanta"
@@ -2445,8 +2496,7 @@
         "NZ#17",
         "NZ#18",
         "NZ#19",
-        "NZ#20",
-        "CH-NZ#2"
+        "NZ#20"
       ],
       "ipv6Enabled": true,
       "city": "Auckland"
@@ -2468,8 +2518,7 @@
         "NZ#30",
         "NZ#31",
         "NZ#32",
-        "NZ#33",
-        "CH-NZ#2"
+        "NZ#33"
       ],
       "ipv6Enabled": false,
       "city": "Auckland"
@@ -2670,8 +2719,7 @@
         "TH#5",
         "TH#6",
         "TH#7",
-        "TH#8",
-        "IS-TH#1"
+        "TH#8"
       ],
       "ipv6Enabled": true,
       "city": "Bangkok"
@@ -2708,8 +2756,7 @@
         "TH#34",
         "TH#35",
         "TH#36",
-        "TH#9",
-        "CH-TH#2"
+        "TH#9"
       ],
       "ipv6Enabled": true,
       "city": "Bangkok"
@@ -2896,8 +2943,7 @@
         "RS#5",
         "RS#6",
         "RS#7",
-        "RS#8",
-        "CH-RS#2"
+        "RS#8"
       ],
       "ipv6Enabled": true,
       "city": "Belgrade"
@@ -2940,6 +2986,43 @@
       "city": "Berlin"
     },
     {
+      "ipv4": "217.138.216.98",
+      "ipv6": "2001:ac8:36:17::10",
+      "domain": "node-de-25.protonvpn.net",
+      "servers": [
+        "DE#214",
+        "DE#215",
+        "DE#216",
+        "DE#217",
+        "DE#218",
+        "DE#219",
+        "DE#220",
+        "DE#221",
+        "DE#222",
+        "DE#223",
+        "DE#224",
+        "DE#225",
+        "DE#226",
+        "DE#227",
+        "DE#228",
+        "DE#229",
+        "DE#230",
+        "DE#231",
+        "DE#232",
+        "DE#233",
+        "DE#234",
+        "DE#235",
+        "DE#236",
+        "DE#237",
+        "DE#238",
+        "DE#239",
+        "DE#240",
+        "DE#241"
+      ],
+      "ipv6Enabled": true,
+      "city": "Berlin"
+    },
+    {
       "ipv4": "89.36.76.130",
       "ipv6": "2001:ac8:36:5e::10",
       "domain": "node-de-15.protonvpn.net",
@@ -2963,6 +3046,27 @@
         "DE#526"
       ],
       "ipv6Enabled": true,
+      "city": "Berlin"
+    },
+    {
+      "ipv4": "217.138.216.162",
+      "ipv6": null,
+      "domain": "node-de-26.protonvpn.net",
+      "servers": [
+        "DE#1",
+        "DE#10",
+        "DE#11",
+        "DE#12",
+        "DE#2",
+        "DE#3",
+        "DE#4",
+        "DE#5",
+        "DE#6",
+        "DE#7",
+        "DE#8",
+        "DE#9"
+      ],
+      "ipv6Enabled": false,
       "city": "Berlin"
     },
     {
@@ -2998,8 +3102,7 @@
         "CO#21",
         "CO#22",
         "CO#23",
-        "CO#24",
-        "CH-CO#2"
+        "CO#24"
       ],
       "ipv6Enabled": true,
       "city": "Bogota"
@@ -3148,9 +3251,7 @@
         "SK#5",
         "SK#6",
         "SK#7",
-        "SK#8",
-        "CH-SK#2",
-        "CH-SK#2"
+        "SK#8"
       ],
       "ipv6Enabled": false,
       "city": "Bratislava"
@@ -3187,8 +3288,7 @@
         "SK#59",
         "SK#60",
         "SK#61",
-        "SK#62",
-        "CH-SK#2"
+        "SK#62"
       ],
       "ipv6Enabled": false,
       "city": "Bratislava"
@@ -3223,11 +3323,40 @@
         "SK#32",
         "SK#33",
         "SK#34",
-        "SK#9",
-        "CH-SK#2"
+        "SK#9"
       ],
       "ipv6Enabled": true,
       "city": "Bratislava"
+    },
+    {
+      "ipv4": "144.48.39.226",
+      "ipv6": null,
+      "domain": "node-au-18.protonvpn.net",
+      "servers": [
+        "AU#166",
+        "AU#167",
+        "AU#168",
+        "AU#169",
+        "AU#170",
+        "AU#171",
+        "AU#172",
+        "AU#173",
+        "AU#174",
+        "AU#175",
+        "AU#176",
+        "AU#177",
+        "AU#178",
+        "AU#179",
+        "AU#180",
+        "AU#181",
+        "AU#182",
+        "AU#183",
+        "AU#184",
+        "AU#185",
+        "AU#186"
+      ],
+      "ipv6Enabled": false,
+      "city": "Brisbane"
     },
     {
       "ipv4": "103.216.220.98",
@@ -3250,8 +3379,7 @@
         "AU#226",
         "AU#227",
         "AU#228",
-        "AU#229",
-        "CH-AU#2"
+        "AU#229"
       ],
       "ipv6Enabled": true,
       "city": "Brisbane"
@@ -3278,11 +3406,31 @@
       "city": "Brisbane"
     },
     {
+      "ipv4": "103.216.220.162",
+      "ipv6": null,
+      "domain": "node-au-30.protonvpn.net",
+      "servers": [
+        "AU#351",
+        "AU#352",
+        "AU#353",
+        "AU#354",
+        "AU#355",
+        "AU#356",
+        "AU#357",
+        "AU#358",
+        "AU#359",
+        "AU#360",
+        "AU#361",
+        "AU#362"
+      ],
+      "ipv6Enabled": false,
+      "city": "Brisbane"
+    },
+    {
       "ipv4": "91.90.123.50",
       "ipv6": "2001:ac8:27:31::10",
       "domain": "node-be-05.protonvpn.net",
       "servers": [
-        "IS-BE#1",
         "BE#29",
         "BE#30",
         "BE#31",
@@ -3295,29 +3443,6 @@
         "BE#38",
         "BE#39",
         "BE#40"
-      ],
-      "ipv6Enabled": true,
-      "city": "Brussels"
-    },
-    {
-      "ipv4": "45.128.133.226",
-      "ipv6": null,
-      "domain": "node-be-02.protonvpn.net",
-      "servers": [
-        "IS-BE#1",
-        "BE#58",
-        "BE#59",
-        "BE#60",
-        "BE#61",
-        "BE#62",
-        "BE#63",
-        "BE#64",
-        "BE#65",
-        "BE#66",
-        "BE#67",
-        "BE#68",
-        "BE#69",
-        "BE#70"
       ],
       "ipv6Enabled": true,
       "city": "Brussels"
@@ -3343,10 +3468,31 @@
         "BE#54",
         "BE#55",
         "BE#56",
-        "BE#57",
-        "CH-BE#2"
+        "BE#57"
       ],
       "ipv6Enabled": true,
+      "city": "Brussels"
+    },
+    {
+      "ipv4": "45.128.133.226",
+      "ipv6": null,
+      "domain": "node-be-02.protonvpn.net",
+      "servers": [
+        "BE#58",
+        "BE#59",
+        "BE#60",
+        "BE#61",
+        "BE#62",
+        "BE#63",
+        "BE#64",
+        "BE#65",
+        "BE#66",
+        "BE#67",
+        "BE#68",
+        "BE#69",
+        "BE#70"
+      ],
+      "ipv6Enabled": false,
       "city": "Brussels"
     },
     {
@@ -3421,8 +3567,7 @@
         "RO#27",
         "RO#28",
         "RO#29",
-        "RO#30",
-        "CH-RO#2"
+        "RO#30"
       ],
       "ipv6Enabled": true,
       "city": "Bucharest"
@@ -3637,8 +3782,7 @@
         "HU#33",
         "HU#34",
         "HU#35",
-        "HU#36",
-        "CH-HU#2"
+        "HU#36"
       ],
       "ipv6Enabled": true,
       "city": "Budapest"
@@ -3659,8 +3803,7 @@
         "HU#21",
         "HU#22",
         "HU#23",
-        "HU#24",
-        "CH-HU#2"
+        "HU#24"
       ],
       "ipv6Enabled": true,
       "city": "Budapest"
@@ -3697,8 +3840,7 @@
         "HU#61",
         "HU#62",
         "HU#63",
-        "HU#64",
-        "IS-HU#1"
+        "HU#64"
       ],
       "ipv6Enabled": false,
       "city": "Budapest"
@@ -3715,8 +3857,7 @@
         "AR#29",
         "AR#30",
         "AR#31",
-        "AR#32",
-        "CH-AR#2"
+        "AR#32"
       ],
       "ipv6Enabled": true,
       "city": "Buenos Aires"
@@ -4009,8 +4150,7 @@
         "US-IL#54",
         "US-IL#55",
         "US-IL#56",
-        "US-IL#48",
-        "CH-US#3"
+        "US-IL#48"
       ],
       "ipv6Enabled": true,
       "city": "Chicago"
@@ -4044,8 +4184,7 @@
         "US-IL#123",
         "US-IL#124",
         "US-IL#125",
-        "US-IL#126",
-        "CH-US#3"
+        "US-IL#126"
       ],
       "ipv6Enabled": true,
       "city": "Chicago"
@@ -4149,8 +4288,7 @@
         "US-IL#221",
         "US-IL#222",
         "US-IL#223",
-        "US-IL#224",
-        "CH-US#3"
+        "US-IL#224"
       ],
       "ipv6Enabled": true,
       "city": "Chicago"
@@ -4182,8 +4320,29 @@
         "US-IL#244",
         "US-IL#245",
         "US-IL#246",
-        "US-IL#247",
-        "CH-US#3"
+        "US-IL#247"
+      ],
+      "ipv6Enabled": true,
+      "city": "Chicago"
+    },
+    {
+      "ipv4": "89.187.180.27",
+      "ipv6": "2a02:6ea0:c603:2121::10",
+      "domain": "node-us-130.protonvpn.net",
+      "servers": [
+        "US-IL#248",
+        "US-IL#249",
+        "US-IL#250",
+        "US-IL#251",
+        "US-IL#252",
+        "US-IL#253",
+        "US-IL#254",
+        "US-IL#255",
+        "US-IL#256",
+        "US-IL#257",
+        "US-IL#258",
+        "US-IL#259",
+        "US-IL#260"
       ],
       "ipv6Enabled": true,
       "city": "Chicago"
@@ -4236,8 +4395,42 @@
         "US-IL#292",
         "US-IL#293",
         "US-IL#294",
-        "US-IL#295",
-        "CH-US#3"
+        "US-IL#295"
+      ],
+      "ipv6Enabled": true,
+      "city": "Chicago"
+    },
+    {
+      "ipv4": "79.127.220.251",
+      "ipv6": "2a02:6ea0:c603:4899::10",
+      "domain": "node-us-300.protonvpn.net",
+      "servers": [
+        "US-IL#296",
+        "US-IL#297",
+        "US-IL#298",
+        "US-IL#299",
+        "US-IL#300",
+        "US-IL#301",
+        "US-IL#302",
+        "US-IL#303",
+        "US-IL#304",
+        "US-IL#305",
+        "US-IL#306",
+        "US-IL#307",
+        "US-IL#308",
+        "US-IL#309",
+        "US-IL#310",
+        "US-IL#311",
+        "US-IL#312",
+        "US-IL#313",
+        "US-IL#314",
+        "US-IL#315",
+        "US-IL#316",
+        "US-IL#317",
+        "US-IL#318",
+        "US-IL#319",
+        "US-IL#320",
+        "US-IL#321"
       ],
       "ipv6Enabled": true,
       "city": "Chicago"
@@ -4273,6 +4466,41 @@
         "US-IL#345",
         "US-IL#346",
         "US-IL#347"
+      ],
+      "ipv6Enabled": true,
+      "city": "Chicago"
+    },
+    {
+      "ipv4": "79.127.136.65",
+      "ipv6": "2a02:6ea0:c603:5252::10",
+      "domain": "node-us-304.protonvpn.net",
+      "servers": [
+        "US-IL#348",
+        "US-IL#349",
+        "US-IL#350",
+        "US-IL#351",
+        "US-IL#352",
+        "US-IL#353",
+        "US-IL#354",
+        "US-IL#355",
+        "US-IL#356",
+        "US-IL#357",
+        "US-IL#358",
+        "US-IL#359",
+        "US-IL#360",
+        "US-IL#361",
+        "US-IL#362",
+        "US-IL#363",
+        "US-IL#364",
+        "US-IL#365",
+        "US-IL#366",
+        "US-IL#367",
+        "US-IL#368",
+        "US-IL#369",
+        "US-IL#370",
+        "US-IL#371",
+        "US-IL#372",
+        "US-IL#373"
       ],
       "ipv6Enabled": true,
       "city": "Chicago"
@@ -4424,6 +4652,80 @@
       "city": "Chicago"
     },
     {
+      "ipv4": "79.127.187.156",
+      "ipv6": "2a02:6ea0:c603:5507::10",
+      "domain": "node-us-364.protonvpn.net",
+      "servers": [
+        "US-IL#484",
+        "US-IL#485",
+        "US-IL#486",
+        "US-IL#487",
+        "US-IL#488",
+        "US-IL#489",
+        "US-IL#490",
+        "US-IL#491",
+        "US-IL#492",
+        "US-IL#493",
+        "US-IL#494",
+        "US-IL#495",
+        "US-IL#496",
+        "US-IL#497",
+        "US-IL#498",
+        "US-IL#499",
+        "US-IL#500",
+        "US-IL#501",
+        "US-IL#502",
+        "US-IL#503",
+        "US-IL#504",
+        "US-IL#505",
+        "US-IL#506",
+        "US-IL#507",
+        "US-IL#508",
+        "US-IL#509",
+        "US-IL#510",
+        "US-IL#511"
+      ],
+      "ipv6Enabled": true,
+      "city": "Chicago"
+    },
+    {
+      "ipv4": "79.127.136.193",
+      "ipv6": "2a02:6ea0:c603:5508::10",
+      "domain": "node-us-365.protonvpn.net",
+      "servers": [
+        "US-IL#512",
+        "US-IL#513",
+        "US-IL#514",
+        "US-IL#515",
+        "US-IL#516",
+        "US-IL#517",
+        "US-IL#518",
+        "US-IL#519",
+        "US-IL#520",
+        "US-IL#521",
+        "US-IL#522",
+        "US-IL#523",
+        "US-IL#524",
+        "US-IL#525",
+        "US-IL#526",
+        "US-IL#527",
+        "US-IL#528",
+        "US-IL#529",
+        "US-IL#530",
+        "US-IL#531",
+        "US-IL#532",
+        "US-IL#533",
+        "US-IL#534",
+        "US-IL#535",
+        "US-IL#536",
+        "US-IL#537",
+        "US-IL#538",
+        "US-IL#539"
+      ],
+      "ipv6Enabled": true,
+      "city": "Chicago"
+    },
+    {
       "ipv4": "79.127.187.185",
       "ipv6": "2a02:6ea0:c603:5510::10",
       "domain": "node-us-366.protonvpn.net",
@@ -4461,6 +4763,80 @@
       "city": "Chicago"
     },
     {
+      "ipv4": "79.127.187.214",
+      "ipv6": "2a02:6ea0:c603:5513::10",
+      "domain": "node-us-367.protonvpn.net",
+      "servers": [
+        "US-IL#568",
+        "US-IL#569",
+        "US-IL#570",
+        "US-IL#571",
+        "US-IL#572",
+        "US-IL#573",
+        "US-IL#574",
+        "US-IL#575",
+        "US-IL#576",
+        "US-IL#577",
+        "US-IL#578",
+        "US-IL#579",
+        "US-IL#580",
+        "US-IL#581",
+        "US-IL#582",
+        "US-IL#583",
+        "US-IL#584",
+        "US-IL#585",
+        "US-IL#586",
+        "US-IL#587",
+        "US-IL#588",
+        "US-IL#589",
+        "US-IL#590",
+        "US-IL#591",
+        "US-IL#592",
+        "US-IL#593",
+        "US-IL#594",
+        "US-IL#595"
+      ],
+      "ipv6Enabled": true,
+      "city": "Chicago"
+    },
+    {
+      "ipv4": "79.127.136.222",
+      "ipv6": "2a02:6ea0:c603:5953::10",
+      "domain": "node-us-389.protonvpn.net",
+      "servers": [
+        "US-IL#596",
+        "US-IL#597",
+        "US-IL#598",
+        "US-IL#599",
+        "US-IL#600",
+        "US-IL#601",
+        "US-IL#602",
+        "US-IL#603",
+        "US-IL#604",
+        "US-IL#605",
+        "US-IL#606",
+        "US-IL#607",
+        "US-IL#608",
+        "US-IL#609",
+        "US-IL#610",
+        "US-IL#611",
+        "US-IL#612",
+        "US-IL#613",
+        "US-IL#614",
+        "US-IL#615",
+        "US-IL#616",
+        "US-IL#617",
+        "US-IL#618",
+        "US-IL#619",
+        "US-IL#620",
+        "US-IL#621",
+        "US-IL#622",
+        "US-IL#623"
+      ],
+      "ipv6Enabled": true,
+      "city": "Chicago"
+    },
+    {
       "ipv4": "185.163.44.137",
       "ipv6": "2a0a:c801:1:a::137",
       "domain": "node-md-02.protonvpn.net",
@@ -4472,8 +4848,7 @@
         "MD#13",
         "MD#14",
         "MD#15",
-        "MD#16",
-        "CH-MD#2"
+        "MD#16"
       ],
       "ipv6Enabled": true,
       "city": "Chisinau"
@@ -4635,8 +5010,7 @@
         "DK#17",
         "DK#18",
         "DK#19",
-        "DK#20",
-        "CH-DK#2"
+        "DK#20"
       ],
       "ipv6Enabled": false,
       "city": "Copenhagen"
@@ -4662,8 +5036,7 @@
         "DK#62",
         "DK#63",
         "DK#64",
-        "DK#65",
-        "CH-DK#2"
+        "DK#65"
       ],
       "ipv6Enabled": true,
       "city": "Copenhagen"
@@ -4689,8 +5062,7 @@
         "DK#79",
         "DK#80",
         "DK#81",
-        "DK#82",
-        "CH-DK#2"
+        "DK#82"
       ],
       "ipv6Enabled": true,
       "city": "Copenhagen"
@@ -4700,7 +5072,6 @@
       "ipv6": null,
       "domain": "node-dk-07.protonvpn.net",
       "servers": [
-        "IS-DK#1",
         "DK#100",
         "DK#101",
         "DK#102",
@@ -4828,8 +5199,7 @@
         "US-TX#37",
         "US-TX#38",
         "US-TX#39",
-        "US-TX#40",
-        "CH-US#3"
+        "US-TX#40"
       ],
       "ipv6Enabled": true,
       "city": "Dallas"
@@ -4909,6 +5279,34 @@
       "city": "Dallas"
     },
     {
+      "ipv4": "89.187.164.241",
+      "ipv6": "2a02:6ea0:d213:1793::10",
+      "domain": "node-us-108.protonvpn.net",
+      "servers": [
+        "US-TX#128",
+        "US-TX#129",
+        "US-TX#130",
+        "US-TX#131",
+        "US-TX#132",
+        "US-TX#133",
+        "US-TX#134",
+        "US-TX#135",
+        "US-TX#136",
+        "US-TX#137",
+        "US-TX#138",
+        "US-TX#139",
+        "US-TX#140",
+        "US-TX#141",
+        "US-TX#142",
+        "US-TX#143",
+        "US-TX#144",
+        "US-TX#145",
+        "US-TX#146"
+      ],
+      "ipv6Enabled": true,
+      "city": "Dallas"
+    },
+    {
       "ipv4": "89.187.175.129",
       "ipv6": "2a02:6ea0:d204::10",
       "domain": "node-us-75.protonvpn.net",
@@ -4927,6 +5325,29 @@
         "US-TX#158",
         "US-TX#159",
         "US-TX#160"
+      ],
+      "ipv6Enabled": true,
+      "city": "Dallas"
+    },
+    {
+      "ipv4": "89.187.164.246",
+      "ipv6": "2a02:6ea0:d213:1798::10",
+      "domain": "node-us-109.protonvpn.net",
+      "servers": [
+        "US-TX#161",
+        "US-TX#162",
+        "US-TX#163",
+        "US-TX#164",
+        "US-TX#165",
+        "US-TX#166",
+        "US-TX#167",
+        "US-TX#168",
+        "US-TX#169",
+        "US-TX#170",
+        "US-TX#171",
+        "US-TX#172",
+        "US-TX#173",
+        "US-TX#174"
       ],
       "ipv6Enabled": true,
       "city": "Dallas"
@@ -4972,8 +5393,100 @@
         "US-TX#199",
         "US-TX#200",
         "US-TX#201",
-        "US-TX#202",
-        "CH-US#3"
+        "US-TX#202"
+      ],
+      "ipv6Enabled": true,
+      "city": "Dallas"
+    },
+    {
+      "ipv4": "37.19.200.27",
+      "ipv6": "2a02:6ea0:d213:2718::10",
+      "domain": "node-us-222.protonvpn.net",
+      "servers": [
+        "US-TX#203",
+        "US-TX#204",
+        "US-TX#205",
+        "US-TX#206",
+        "US-TX#207",
+        "US-TX#208",
+        "US-TX#209",
+        "US-TX#210",
+        "US-TX#211",
+        "US-TX#212",
+        "US-TX#213",
+        "US-TX#214",
+        "US-TX#215",
+        "US-TX#216"
+      ],
+      "ipv6Enabled": true,
+      "city": "Dallas"
+    },
+    {
+      "ipv4": "95.173.217.2",
+      "ipv6": "2a02:6ea0:d213:4416::10",
+      "domain": "node-us-298.protonvpn.net",
+      "servers": [
+        "US-TX#217",
+        "US-TX#218",
+        "US-TX#219",
+        "US-TX#220",
+        "US-TX#221",
+        "US-TX#222",
+        "US-TX#223",
+        "US-TX#224",
+        "US-TX#225",
+        "US-TX#226",
+        "US-TX#227",
+        "US-TX#228",
+        "US-TX#229",
+        "US-TX#230",
+        "US-TX#231",
+        "US-TX#232",
+        "US-TX#233",
+        "US-TX#234",
+        "US-TX#235",
+        "US-TX#236",
+        "US-TX#237",
+        "US-TX#238",
+        "US-TX#239",
+        "US-TX#240",
+        "US-TX#241",
+        "US-TX#242"
+      ],
+      "ipv6Enabled": true,
+      "city": "Dallas"
+    },
+    {
+      "ipv4": "95.173.217.29",
+      "ipv6": "2a02:6ea0:d213:4415::10",
+      "domain": "node-us-299.protonvpn.net",
+      "servers": [
+        "US-TX#243",
+        "US-TX#244",
+        "US-TX#245",
+        "US-TX#246",
+        "US-TX#247",
+        "US-TX#248",
+        "US-TX#249",
+        "US-TX#250",
+        "US-TX#251",
+        "US-TX#252",
+        "US-TX#253",
+        "US-TX#254",
+        "US-TX#255",
+        "US-TX#256",
+        "US-TX#257",
+        "US-TX#258",
+        "US-TX#259",
+        "US-TX#260",
+        "US-TX#261",
+        "US-TX#262",
+        "US-TX#263",
+        "US-TX#264",
+        "US-TX#265",
+        "US-TX#266",
+        "US-TX#267",
+        "US-TX#268"
       ],
       "ipv6Enabled": true,
       "city": "Dallas"
@@ -5134,8 +5647,7 @@
         "US-CO#58",
         "US-CO#59",
         "US-CO#60",
-        "US-CO#61",
-        "CH-US#3"
+        "US-CO#61"
       ],
       "ipv6Enabled": true,
       "city": "Denver"
@@ -5209,8 +5721,7 @@
         "US-CO#96",
         "US-CO#97",
         "US-CO#98",
-        "US-CO#99",
-        "CH-US#3"
+        "US-CO#99"
       ],
       "ipv6Enabled": true,
       "city": "Denver"
@@ -5286,6 +5797,41 @@
       "city": "Denver"
     },
     {
+      "ipv4": "95.173.221.92",
+      "ipv6": "2a02:6ea0:d704:5254::10",
+      "domain": "node-us-306.protonvpn.net",
+      "servers": [
+        "US-CO#135",
+        "US-CO#136",
+        "US-CO#137",
+        "US-CO#138",
+        "US-CO#139",
+        "US-CO#140",
+        "US-CO#141",
+        "US-CO#142",
+        "US-CO#143",
+        "US-CO#144",
+        "US-CO#145",
+        "US-CO#146",
+        "US-CO#147",
+        "US-CO#148",
+        "US-CO#149",
+        "US-CO#150",
+        "US-CO#151",
+        "US-CO#152",
+        "US-CO#153",
+        "US-CO#154",
+        "US-CO#155",
+        "US-CO#156",
+        "US-CO#157",
+        "US-CO#158",
+        "US-CO#159",
+        "US-CO#160"
+      ],
+      "ipv6Enabled": true,
+      "city": "Denver"
+    },
+    {
       "ipv4": "95.173.221.129",
       "ipv6": "2a02:6ea0:d704:5503::10",
       "domain": "node-us-361.protonvpn.net",
@@ -5355,6 +5901,43 @@
         "US-CO#240",
         "US-CO#241",
         "US-CO#242"
+      ],
+      "ipv6Enabled": true,
+      "city": "Denver"
+    },
+    {
+      "ipv4": "95.173.221.158",
+      "ipv6": "2a02:6ea0:d704:5506::10",
+      "domain": "node-us-363.protonvpn.net",
+      "servers": [
+        "US-CO#243",
+        "US-CO#244",
+        "US-CO#245",
+        "US-CO#246",
+        "US-CO#247",
+        "US-CO#248",
+        "US-CO#249",
+        "US-CO#250",
+        "US-CO#251",
+        "US-CO#252",
+        "US-CO#253",
+        "US-CO#254",
+        "US-CO#255",
+        "US-CO#256",
+        "US-CO#257",
+        "US-CO#258",
+        "US-CO#259",
+        "US-CO#260",
+        "US-CO#261",
+        "US-CO#262",
+        "US-CO#263",
+        "US-CO#264",
+        "US-CO#265",
+        "US-CO#266",
+        "US-CO#267",
+        "US-CO#268",
+        "US-CO#269",
+        "US-CO#270"
       ],
       "ipv6Enabled": true,
       "city": "Denver"
@@ -5463,8 +6046,7 @@
         "AE#13",
         "AE#14",
         "AE#15",
-        "AE#16",
-        "CH-AE#2"
+        "AE#16"
       ],
       "ipv6Enabled": true,
       "city": "Dubai"
@@ -5481,8 +6063,7 @@
         "AE#25",
         "AE#26",
         "AE#27",
-        "AE#28",
-        "IS-AE#1"
+        "AE#28"
       ],
       "ipv6Enabled": true,
       "city": "Dubai"
@@ -5495,9 +6076,7 @@
         "IE#1",
         "IE#2",
         "IE#3",
-        "IE#4",
-        "IS-IE#1",
-        "IS-IE#1"
+        "IE#4"
       ],
       "ipv6Enabled": false,
       "city": "Dublin"
@@ -5507,7 +6086,6 @@
       "ipv6": "2001:ac8:88:91::10",
       "domain": "node-ie-03.protonvpn.net",
       "servers": [
-        "IS-IE#1",
         "IE#10",
         "IE#11",
         "IE#12",
@@ -5524,8 +6102,7 @@
         "IE#6",
         "IE#7",
         "IE#8",
-        "IE#9",
-        "CH-IE#2"
+        "IE#9"
       ],
       "ipv6Enabled": true,
       "city": "Dublin"
@@ -5618,228 +6195,6 @@
       "city": "Edinburgh"
     },
     {
-      "ipv4": "217.138.216.98",
-      "ipv6": "2001:ac8:36:17::10",
-      "domain": "node-de-25.protonvpn.net",
-      "servers": [
-        "IS-DE#1",
-        "DE#214",
-        "DE#215",
-        "DE#216",
-        "DE#217",
-        "DE#218",
-        "DE#219",
-        "DE#220",
-        "DE#221",
-        "DE#222",
-        "DE#223",
-        "DE#224",
-        "DE#225",
-        "DE#226",
-        "DE#227",
-        "DE#228",
-        "DE#229",
-        "DE#230",
-        "DE#231",
-        "DE#232",
-        "DE#233",
-        "DE#234",
-        "DE#235",
-        "DE#236",
-        "DE#237",
-        "DE#238",
-        "DE#239",
-        "DE#240",
-        "DE#241"
-      ],
-      "ipv6Enabled": true,
-      "city": "Frankfurt"
-    },
-    {
-      "ipv4": "194.126.177.6",
-      "ipv6": null,
-      "domain": "node-de-12.protonvpn.net",
-      "servers": [
-        "IS-DE#1",
-        "DE#390",
-        "DE#391",
-        "DE#392",
-        "DE#393",
-        "DE#394",
-        "DE#395",
-        "DE#396",
-        "DE#397",
-        "DE#398",
-        "DE#399",
-        "DE#400",
-        "DE#401",
-        "DE#402",
-        "DE#403",
-        "DE#404",
-        "DE#405",
-        "DE#406",
-        "DE#407",
-        "DE#408",
-        "DE#409",
-        "DE#410",
-        "DE#411",
-        "DE#412",
-        "DE#413"
-      ],
-      "ipv6Enabled": true,
-      "city": "Frankfurt"
-    },
-    {
-      "ipv4": "194.126.177.7",
-      "ipv6": null,
-      "domain": "node-de-13.protonvpn.net",
-      "servers": [
-        "IS-DE#1",
-        "DE#414",
-        "DE#415",
-        "DE#416",
-        "DE#417",
-        "DE#418",
-        "DE#419",
-        "DE#420",
-        "DE#421",
-        "DE#422",
-        "DE#423",
-        "DE#424",
-        "DE#425",
-        "DE#426",
-        "DE#427",
-        "DE#428",
-        "DE#429",
-        "DE#430",
-        "DE#431",
-        "DE#432",
-        "DE#433",
-        "DE#434",
-        "DE#435",
-        "DE#436",
-        "DE#437"
-      ],
-      "ipv6Enabled": true,
-      "city": "Frankfurt"
-    },
-    {
-      "ipv4": "194.126.177.8",
-      "ipv6": null,
-      "domain": "node-de-14.protonvpn.net",
-      "servers": [
-        "IS-DE#1",
-        "DE#486",
-        "DE#487",
-        "DE#488",
-        "DE#489",
-        "DE#490",
-        "DE#491",
-        "DE#492",
-        "DE#493",
-        "DE#494",
-        "DE#495",
-        "DE#496",
-        "DE#497",
-        "DE#498",
-        "DE#499",
-        "DE#500",
-        "DE#501",
-        "DE#502",
-        "DE#503",
-        "DE#504",
-        "DE#505",
-        "DE#506",
-        "DE#507",
-        "DE#508",
-        "DE#509"
-      ],
-      "ipv6Enabled": true,
-      "city": "Frankfurt"
-    },
-    {
-      "ipv4": "217.138.216.162",
-      "ipv6": null,
-      "domain": "node-de-26.protonvpn.net",
-      "servers": [
-        "IS-DE#1",
-        "DE#1",
-        "DE#10",
-        "DE#11",
-        "DE#12",
-        "DE#2",
-        "DE#3",
-        "DE#4",
-        "DE#5",
-        "DE#6",
-        "DE#7",
-        "DE#8",
-        "DE#9"
-      ],
-      "ipv6Enabled": true,
-      "city": "Frankfurt"
-    },
-    {
-      "ipv4": "149.88.24.129",
-      "ipv6": "2a02:6ea0:1703:5033::10",
-      "domain": "node-de-30.protonvpn.net",
-      "servers": [
-        "IS-DE#1",
-        "DE#627",
-        "DE#628",
-        "DE#629",
-        "DE#630",
-        "DE#631",
-        "DE#632",
-        "DE#633",
-        "DE#634",
-        "DE#635",
-        "DE#636",
-        "DE#637",
-        "DE#638",
-        "DE#639",
-        "DE#640",
-        "DE#641",
-        "DE#642",
-        "DE#643",
-        "DE#644",
-        "DE#645",
-        "DE#646",
-        "DE#647",
-        "DE#648",
-        "DE#649",
-        "DE#650",
-        "DE#651",
-        "DE#652",
-        "DE#653",
-        "DE#654",
-        "DE#655",
-        "DE#656",
-        "DE#657",
-        "DE#658",
-        "DE#659",
-        "DE#660",
-        "DE#661",
-        "DE#662",
-        "DE#663",
-        "DE#664",
-        "DE#665",
-        "DE#666",
-        "DE#667",
-        "DE#668",
-        "DE#669",
-        "DE#670",
-        "DE#671",
-        "DE#672",
-        "DE#673",
-        "DE#674",
-        "DE#675",
-        "DE#676"
-      ],
-      "ipv6Enabled": true,
-      "city": "Frankfurt"
-    },
-    {
       "ipv4": "194.126.177.9",
       "ipv6": null,
       "domain": "de-53-tor.protonvpn.net",
@@ -5924,8 +6279,7 @@
         "DE#325",
         "DE#326",
         "DE#327",
-        "DE#328",
-        "CH-DE#2"
+        "DE#328"
       ],
       "ipv6Enabled": true,
       "city": "Frankfurt"
@@ -5951,8 +6305,7 @@
         "DE#342",
         "DE#343",
         "DE#344",
-        "DE#345",
-        "CH-DE#2"
+        "DE#345"
       ],
       "ipv6Enabled": true,
       "city": "Frankfurt"
@@ -6020,6 +6373,72 @@
       "city": "Frankfurt"
     },
     {
+      "ipv4": "194.126.177.6",
+      "ipv6": null,
+      "domain": "node-de-12.protonvpn.net",
+      "servers": [
+        "DE#390",
+        "DE#391",
+        "DE#392",
+        "DE#393",
+        "DE#394",
+        "DE#395",
+        "DE#396",
+        "DE#397",
+        "DE#398",
+        "DE#399",
+        "DE#400",
+        "DE#401",
+        "DE#402",
+        "DE#403",
+        "DE#404",
+        "DE#405",
+        "DE#406",
+        "DE#407",
+        "DE#408",
+        "DE#409",
+        "DE#410",
+        "DE#411",
+        "DE#412",
+        "DE#413"
+      ],
+      "ipv6Enabled": false,
+      "city": "Frankfurt"
+    },
+    {
+      "ipv4": "194.126.177.7",
+      "ipv6": null,
+      "domain": "node-de-13.protonvpn.net",
+      "servers": [
+        "DE#414",
+        "DE#415",
+        "DE#416",
+        "DE#417",
+        "DE#418",
+        "DE#419",
+        "DE#420",
+        "DE#421",
+        "DE#422",
+        "DE#423",
+        "DE#424",
+        "DE#425",
+        "DE#426",
+        "DE#427",
+        "DE#428",
+        "DE#429",
+        "DE#430",
+        "DE#431",
+        "DE#432",
+        "DE#433",
+        "DE#434",
+        "DE#435",
+        "DE#436",
+        "DE#437"
+      ],
+      "ipv6Enabled": false,
+      "city": "Frankfurt"
+    },
+    {
       "ipv4": "194.126.177.14",
       "ipv6": "2a07:b941:e40::1:e",
       "domain": "node-de-17.protonvpn.net",
@@ -6047,8 +6466,7 @@
         "DE#458",
         "DE#459",
         "DE#460",
-        "DE#461",
-        "CH-DE#2"
+        "DE#461"
       ],
       "ipv6Enabled": true,
       "city": "Frankfurt"
@@ -6081,10 +6499,42 @@
         "DE#482",
         "DE#483",
         "DE#484",
-        "DE#485",
-        "CH-DE#2"
+        "DE#485"
       ],
       "ipv6Enabled": true,
+      "city": "Frankfurt"
+    },
+    {
+      "ipv4": "194.126.177.8",
+      "ipv6": null,
+      "domain": "node-de-14.protonvpn.net",
+      "servers": [
+        "DE#486",
+        "DE#487",
+        "DE#488",
+        "DE#489",
+        "DE#490",
+        "DE#491",
+        "DE#492",
+        "DE#493",
+        "DE#494",
+        "DE#495",
+        "DE#496",
+        "DE#497",
+        "DE#498",
+        "DE#499",
+        "DE#500",
+        "DE#501",
+        "DE#502",
+        "DE#503",
+        "DE#504",
+        "DE#505",
+        "DE#506",
+        "DE#507",
+        "DE#508",
+        "DE#509"
+      ],
+      "ipv6Enabled": false,
       "city": "Frankfurt"
     },
     {
@@ -6142,6 +6592,65 @@
         "DE#574",
         "DE#575",
         "DE#576"
+      ],
+      "ipv6Enabled": true,
+      "city": "Frankfurt"
+    },
+    {
+      "ipv4": "149.88.24.129",
+      "ipv6": "2a02:6ea0:1703:5033::10",
+      "domain": "node-de-30.protonvpn.net",
+      "servers": [
+        "DE#627",
+        "DE#628",
+        "DE#629",
+        "DE#630",
+        "DE#631",
+        "DE#632",
+        "DE#633",
+        "DE#634",
+        "DE#635",
+        "DE#636",
+        "DE#637",
+        "DE#638",
+        "DE#639",
+        "DE#640",
+        "DE#641",
+        "DE#642",
+        "DE#643",
+        "DE#644",
+        "DE#645",
+        "DE#646",
+        "DE#647",
+        "DE#648",
+        "DE#649",
+        "DE#650",
+        "DE#651",
+        "DE#652",
+        "DE#653",
+        "DE#654",
+        "DE#655",
+        "DE#656",
+        "DE#657",
+        "DE#658",
+        "DE#659",
+        "DE#660",
+        "DE#661",
+        "DE#662",
+        "DE#663",
+        "DE#664",
+        "DE#665",
+        "DE#666",
+        "DE#667",
+        "DE#668",
+        "DE#669",
+        "DE#670",
+        "DE#671",
+        "DE#672",
+        "DE#673",
+        "DE#674",
+        "DE#675",
+        "DE#676"
       ],
       "ipv6Enabled": true,
       "city": "Frankfurt"
@@ -6280,8 +6789,7 @@
         "FI#1",
         "FI#2",
         "FI#3",
-        "FI#4",
-        "CH-FI#2"
+        "FI#4"
       ],
       "ipv6Enabled": false,
       "city": "Helsinki"
@@ -6324,8 +6832,7 @@
         "FI#26",
         "FI#27",
         "FI#28",
-        "FI#29",
-        "CH-FI#2"
+        "FI#29"
       ],
       "ipv6Enabled": false,
       "city": "Helsinki"
@@ -6352,11 +6859,20 @@
       "city": "Helsinki"
     },
     {
+      "ipv4": "156.146.45.139",
+      "ipv6": null,
+      "domain": "hk-27-tor.protonvpn.net",
+      "servers": [
+        "HK#27-TOR"
+      ],
+      "ipv6Enabled": false,
+      "city": "Hong Kong"
+    },
+    {
       "ipv4": "146.70.113.114",
       "ipv6": "2001:ac8:a:5::10",
       "domain": "node-hk-05.protonvpn.net",
       "servers": [
-        "IS-HK#1",
         "HK#28",
         "HK#29",
         "HK#30",
@@ -6371,43 +6887,6 @@
         "HK#39"
       ],
       "ipv6Enabled": true,
-      "city": "Hong Kong"
-    },
-    {
-      "ipv4": "156.146.45.129",
-      "ipv6": "2a02:6ea0:d60f:2188::10",
-      "domain": "node-hk-04.protonvpn.net",
-      "servers": [
-        "IS-HK#1",
-        "HK#52",
-        "HK#53",
-        "HK#54",
-        "HK#55",
-        "HK#56",
-        "HK#57",
-        "HK#58",
-        "HK#59",
-        "HK#60",
-        "HK#61",
-        "HK#62",
-        "HK#63",
-        "HK#64",
-        "HK#65",
-        "HK#66",
-        "HK#67",
-        "HK#68"
-      ],
-      "ipv6Enabled": true,
-      "city": "Hong Kong"
-    },
-    {
-      "ipv4": "156.146.45.139",
-      "ipv6": null,
-      "domain": "hk-27-tor.protonvpn.net",
-      "servers": [
-        "HK#27-TOR"
-      ],
-      "ipv6Enabled": false,
       "city": "Hong Kong"
     },
     {
@@ -6426,8 +6905,33 @@
         "HK#48",
         "HK#49",
         "HK#50",
-        "HK#51",
-        "CH-HK#2"
+        "HK#51"
+      ],
+      "ipv6Enabled": true,
+      "city": "Hong Kong"
+    },
+    {
+      "ipv4": "156.146.45.129",
+      "ipv6": "2a02:6ea0:d60f:2188::10",
+      "domain": "node-hk-04.protonvpn.net",
+      "servers": [
+        "HK#52",
+        "HK#53",
+        "HK#54",
+        "HK#55",
+        "HK#56",
+        "HK#57",
+        "HK#58",
+        "HK#59",
+        "HK#60",
+        "HK#61",
+        "HK#62",
+        "HK#63",
+        "HK#64",
+        "HK#65",
+        "HK#66",
+        "HK#67",
+        "HK#68"
       ],
       "ipv6Enabled": true,
       "city": "Hong Kong"
@@ -6535,8 +7039,7 @@
         "ID#4",
         "ID#5",
         "ID#7",
-        "ID#8",
-        "CH-ID#2"
+        "ID#8"
       ],
       "ipv6Enabled": true,
       "city": "Jakarta"
@@ -6577,30 +7080,7 @@
         "ZA#32",
         "ZA#33",
         "ZA#34",
-        "ZA#35",
-        "CH-ZA#1"
-      ],
-      "ipv6Enabled": false,
-      "city": "Johannesburg"
-    },
-    {
-      "ipv4": "196.197.28.130",
-      "ipv6": null,
-      "domain": "node-za-03.protonvpn.net",
-      "servers": [
-        "CH-ZA#1",
-        "ZA#36",
-        "ZA#37",
-        "ZA#38",
-        "ZA#39",
-        "ZA#40",
-        "ZA#41",
-        "ZA#42",
-        "ZA#43",
-        "ZA#44",
-        "ZA#45",
-        "ZA#46",
-        "ZA#47"
+        "ZA#35"
       ],
       "ipv6Enabled": false,
       "city": "Johannesburg"
@@ -6627,6 +7107,27 @@
       "city": "Johannesburg"
     },
     {
+      "ipv4": "196.197.28.130",
+      "ipv6": null,
+      "domain": "node-za-03.protonvpn.net",
+      "servers": [
+        "ZA#36",
+        "ZA#37",
+        "ZA#38",
+        "ZA#39",
+        "ZA#40",
+        "ZA#41",
+        "ZA#42",
+        "ZA#43",
+        "ZA#44",
+        "ZA#45",
+        "ZA#46",
+        "ZA#47"
+      ],
+      "ipv6Enabled": false,
+      "city": "Johannesburg"
+    },
+    {
       "ipv4": "37.0.12.226",
       "ipv6": null,
       "domain": "node-my-01.protonvpn.net",
@@ -6642,8 +7143,7 @@
         "MY#41",
         "MY#42",
         "MY#43",
-        "MY#44",
-        "CH-MY#2"
+        "MY#44"
       ],
       "ipv6Enabled": false,
       "city": "Johor Bahru"
@@ -6965,8 +7465,7 @@
         "UA#49",
         "UA#50",
         "UA#51",
-        "UA#52",
-        "CH-UA#2"
+        "UA#52"
       ],
       "ipv6Enabled": true,
       "city": "Kyiv"
@@ -7050,7 +7549,6 @@
       "ipv6": "2a10:9007:3:a::10",
       "domain": "node-pe-04.protonvpn.net",
       "servers": [
-        "IS-PE#1",
         "PE#25",
         "PE#26",
         "PE#27",
@@ -7077,8 +7575,7 @@
         "CY#6",
         "CY#7",
         "CY#8",
-        "CY#9",
-        "CH-CY#2"
+        "CY#9"
       ],
       "ipv6Enabled": true,
       "city": "Limassol"
@@ -7095,8 +7592,7 @@
         "PT#9",
         "PT#10",
         "PT#11",
-        "PT#12",
-        "CH-PT#2"
+        "PT#12"
       ],
       "ipv6Enabled": true,
       "city": "Lisbon"
@@ -7127,7 +7623,6 @@
       "ipv6": null,
       "domain": "node-pt-04.protonvpn.net",
       "servers": [
-        "IS-PT#1",
         "PT#25",
         "PT#26",
         "PT#27",
@@ -7172,8 +7667,7 @@
         "SI#5",
         "SI#6",
         "SI#7",
-        "SI#8",
-        "CH-SI#2"
+        "SI#8"
       ],
       "ipv6Enabled": false,
       "city": "Ljubljana"
@@ -7299,225 +7793,6 @@
       "city": "Lomé"
     },
     {
-      "ipv4": "154.47.24.193",
-      "ipv6": "2a02:6ea0:1a01:2649::10",
-      "domain": "node-uk-19.protonvpn.net",
-      "servers": [
-        "IS-UK#1",
-        "UK#1",
-        "UK#10",
-        "UK#11",
-        "UK#12",
-        "UK#13",
-        "UK#14",
-        "UK#15",
-        "UK#16",
-        "UK#17",
-        "UK#18",
-        "UK#19",
-        "UK#2",
-        "UK#20",
-        "UK#21",
-        "UK#22",
-        "UK#23",
-        "UK#24",
-        "UK#3",
-        "UK#4",
-        "UK#5",
-        "UK#6",
-        "UK#7",
-        "UK#8",
-        "UK#9"
-      ],
-      "ipv6Enabled": true,
-      "city": "London"
-    },
-    {
-      "ipv4": "146.70.83.66",
-      "ipv6": "2001:ac8:31:50c::10",
-      "domain": "node-uk-12.protonvpn.net",
-      "servers": [
-        "IS-UK#1",
-        "UK#295",
-        "UK#296",
-        "UK#297",
-        "UK#298",
-        "UK#299",
-        "UK#300",
-        "UK#301",
-        "UK#302",
-        "UK#303",
-        "UK#304",
-        "UK#305",
-        "UK#306",
-        "UK#307",
-        "UK#308",
-        "UK#309",
-        "UK#310",
-        "UK#311"
-      ],
-      "ipv6Enabled": true,
-      "city": "London"
-    },
-    {
-      "ipv4": "146.70.179.50",
-      "ipv6": "2001:ac8:31:233::10",
-      "domain": "node-uk-15.protonvpn.net",
-      "servers": [
-        "IS-UK#1",
-        "UK#355",
-        "UK#356",
-        "UK#357",
-        "UK#358",
-        "UK#359",
-        "UK#360",
-        "UK#361",
-        "UK#362",
-        "UK#363",
-        "UK#364",
-        "UK#365",
-        "UK#366",
-        "UK#367",
-        "UK#368",
-        "UK#369",
-        "UK#370",
-        "UK#371"
-      ],
-      "ipv6Enabled": true,
-      "city": "London"
-    },
-    {
-      "ipv4": "146.70.179.34",
-      "ipv6": "2001:ac8:31:22f::10",
-      "domain": "node-uk-16.protonvpn.net",
-      "servers": [
-        "IS-UK#1",
-        "UK#389",
-        "UK#390",
-        "UK#391",
-        "UK#392",
-        "UK#393",
-        "UK#394",
-        "UK#395",
-        "UK#396",
-        "UK#397",
-        "UK#398",
-        "UK#399",
-        "UK#400",
-        "UK#401",
-        "UK#402",
-        "UK#403",
-        "UK#404",
-        "UK#405"
-      ],
-      "ipv6Enabled": true,
-      "city": "London"
-    },
-    {
-      "ipv4": "146.70.133.130",
-      "ipv6": "2001:ac8:8b:2f::10",
-      "domain": "node-uk-14.protonvpn.net",
-      "servers": [
-        "IS-UK#1",
-        "UK#423",
-        "UK#424",
-        "UK#425",
-        "UK#426",
-        "UK#427",
-        "UK#428",
-        "UK#429",
-        "UK#430",
-        "UK#431",
-        "UK#432",
-        "UK#433",
-        "UK#434",
-        "UK#435",
-        "UK#436",
-        "UK#437",
-        "UK#438",
-        "UK#439",
-        "UK#440"
-      ],
-      "ipv6Enabled": true,
-      "city": "London"
-    },
-    {
-      "ipv4": "79.127.146.101",
-      "ipv6": "2a02:6ea0:1a01:5257::10",
-      "domain": "node-uk-26.protonvpn.net",
-      "servers": [
-        "IS-UK#1",
-        "UK#497",
-        "UK#498",
-        "UK#499",
-        "UK#500",
-        "UK#501",
-        "UK#502",
-        "UK#503",
-        "UK#504",
-        "UK#505",
-        "UK#506",
-        "UK#507",
-        "UK#508",
-        "UK#509",
-        "UK#510",
-        "UK#511",
-        "UK#512",
-        "UK#513",
-        "UK#514",
-        "UK#515",
-        "UK#516",
-        "UK#517",
-        "UK#518",
-        "UK#519",
-        "UK#520",
-        "UK#521",
-        "UK#522",
-        "UK#523",
-        "UK#524"
-      ],
-      "ipv6Enabled": true,
-      "city": "London"
-    },
-    {
-      "ipv4": "79.127.146.1",
-      "ipv6": "2a02:6ea0:1a01:5258::10",
-      "domain": "node-uk-27.protonvpn.net",
-      "servers": [
-        "IS-UK#1",
-        "UK#525",
-        "UK#526",
-        "UK#527",
-        "UK#528",
-        "UK#529",
-        "UK#530",
-        "UK#531",
-        "UK#532",
-        "UK#533",
-        "UK#534",
-        "UK#535",
-        "UK#536",
-        "UK#537",
-        "UK#538",
-        "UK#539",
-        "UK#540",
-        "UK#541",
-        "UK#542",
-        "UK#543",
-        "UK#544",
-        "UK#545",
-        "UK#546",
-        "UK#547",
-        "UK#548",
-        "UK#549",
-        "UK#550",
-        "UK#551",
-        "UK#552"
-      ],
-      "ipv6Enabled": true,
-      "city": "London"
-    },
-    {
       "ipv4": "149.40.48.65",
       "ipv6": "2a02:6ea0:1a01:3448::10",
       "domain": "node-uk-21.protonvpn.net",
@@ -7588,6 +7863,39 @@
       "city": "London"
     },
     {
+      "ipv4": "154.47.24.193",
+      "ipv6": "2a02:6ea0:1a01:2649::10",
+      "domain": "node-uk-19.protonvpn.net",
+      "servers": [
+        "UK#1",
+        "UK#10",
+        "UK#11",
+        "UK#12",
+        "UK#13",
+        "UK#14",
+        "UK#15",
+        "UK#16",
+        "UK#17",
+        "UK#18",
+        "UK#19",
+        "UK#2",
+        "UK#20",
+        "UK#21",
+        "UK#22",
+        "UK#23",
+        "UK#24",
+        "UK#3",
+        "UK#4",
+        "UK#5",
+        "UK#6",
+        "UK#7",
+        "UK#8",
+        "UK#9"
+      ],
+      "ipv6Enabled": true,
+      "city": "London"
+    },
+    {
       "ipv4": "146.70.204.162",
       "ipv6": "2001:ac8:31:366::10",
       "domain": "node-uk-09.protonvpn.net",
@@ -7635,6 +7943,32 @@
         "UK#292",
         "UK#293",
         "UK#294"
+      ],
+      "ipv6Enabled": true,
+      "city": "London"
+    },
+    {
+      "ipv4": "146.70.83.66",
+      "ipv6": "2001:ac8:31:50c::10",
+      "domain": "node-uk-12.protonvpn.net",
+      "servers": [
+        "UK#295",
+        "UK#296",
+        "UK#297",
+        "UK#298",
+        "UK#299",
+        "UK#300",
+        "UK#301",
+        "UK#302",
+        "UK#303",
+        "UK#304",
+        "UK#305",
+        "UK#306",
+        "UK#307",
+        "UK#308",
+        "UK#309",
+        "UK#310",
+        "UK#311"
       ],
       "ipv6Enabled": true,
       "city": "London"
@@ -7701,6 +8035,32 @@
       "city": "London"
     },
     {
+      "ipv4": "146.70.179.50",
+      "ipv6": "2001:ac8:31:233::10",
+      "domain": "node-uk-15.protonvpn.net",
+      "servers": [
+        "UK#355",
+        "UK#356",
+        "UK#357",
+        "UK#358",
+        "UK#359",
+        "UK#360",
+        "UK#361",
+        "UK#362",
+        "UK#363",
+        "UK#364",
+        "UK#365",
+        "UK#366",
+        "UK#367",
+        "UK#368",
+        "UK#369",
+        "UK#370",
+        "UK#371"
+      ],
+      "ipv6Enabled": true,
+      "city": "London"
+    },
+    {
       "ipv4": "146.70.179.98",
       "ipv6": "2001:ac8:31:21e::10",
       "domain": "node-uk-18.protonvpn.net",
@@ -7721,8 +8081,33 @@
         "UK#385",
         "UK#386",
         "UK#387",
-        "UK#388",
-        "CH-UK#2"
+        "UK#388"
+      ],
+      "ipv6Enabled": true,
+      "city": "London"
+    },
+    {
+      "ipv4": "146.70.179.34",
+      "ipv6": "2001:ac8:31:22f::10",
+      "domain": "node-uk-16.protonvpn.net",
+      "servers": [
+        "UK#389",
+        "UK#390",
+        "UK#391",
+        "UK#392",
+        "UK#393",
+        "UK#394",
+        "UK#395",
+        "UK#396",
+        "UK#397",
+        "UK#398",
+        "UK#399",
+        "UK#400",
+        "UK#401",
+        "UK#402",
+        "UK#403",
+        "UK#404",
+        "UK#405"
       ],
       "ipv6Enabled": true,
       "city": "London"
@@ -7748,8 +8133,7 @@
         "UK#419",
         "UK#420",
         "UK#421",
-        "UK#422",
-        "CH-UK#2"
+        "UK#422"
       ],
       "ipv6Enabled": true,
       "city": "London"
@@ -7824,6 +8208,80 @@
         "UK#496"
       ],
       "ipv6Enabled": false,
+      "city": "London"
+    },
+    {
+      "ipv4": "79.127.146.101",
+      "ipv6": "2a02:6ea0:1a01:5257::10",
+      "domain": "node-uk-26.protonvpn.net",
+      "servers": [
+        "UK#497",
+        "UK#498",
+        "UK#499",
+        "UK#500",
+        "UK#501",
+        "UK#502",
+        "UK#503",
+        "UK#504",
+        "UK#505",
+        "UK#506",
+        "UK#507",
+        "UK#508",
+        "UK#509",
+        "UK#510",
+        "UK#511",
+        "UK#512",
+        "UK#513",
+        "UK#514",
+        "UK#515",
+        "UK#516",
+        "UK#517",
+        "UK#518",
+        "UK#519",
+        "UK#520",
+        "UK#521",
+        "UK#522",
+        "UK#523",
+        "UK#524"
+      ],
+      "ipv6Enabled": true,
+      "city": "London"
+    },
+    {
+      "ipv4": "79.127.146.1",
+      "ipv6": "2a02:6ea0:1a01:5258::10",
+      "domain": "node-uk-27.protonvpn.net",
+      "servers": [
+        "UK#525",
+        "UK#526",
+        "UK#527",
+        "UK#528",
+        "UK#529",
+        "UK#530",
+        "UK#531",
+        "UK#532",
+        "UK#533",
+        "UK#534",
+        "UK#535",
+        "UK#536",
+        "UK#537",
+        "UK#538",
+        "UK#539",
+        "UK#540",
+        "UK#541",
+        "UK#542",
+        "UK#543",
+        "UK#544",
+        "UK#545",
+        "UK#546",
+        "UK#547",
+        "UK#548",
+        "UK#549",
+        "UK#550",
+        "UK#551",
+        "UK#552"
+      ],
+      "ipv6Enabled": true,
       "city": "London"
     },
     {
@@ -8172,6 +8630,28 @@
       "city": "London"
     },
     {
+      "ipv4": "138.199.35.97",
+      "ipv6": "2a02:6ea0:c803:2109::10",
+      "domain": "node-us-122.protonvpn.net",
+      "servers": [
+        "US-CA#89",
+        "US-CA#90",
+        "US-CA#91",
+        "US-CA#92",
+        "US-CA#93",
+        "US-CA#94",
+        "US-CA#95",
+        "US-CA#96",
+        "US-CA#97",
+        "US-CA#98",
+        "US-CA#99",
+        "US-CA#100",
+        "US-CA#141"
+      ],
+      "ipv6Enabled": true,
+      "city": "Los Angeles"
+    },
+    {
       "ipv4": "89.45.4.2",
       "ipv6": "2a0d:5600:8:109::10",
       "domain": "node-us-164.protonvpn.net",
@@ -8410,8 +8890,7 @@
         "US-CA#327",
         "US-CA#328",
         "US-CA#329",
-        "US-CA#330",
-        "CH-US#3"
+        "US-CA#330"
       ],
       "ipv6Enabled": true,
       "city": "Los Angeles"
@@ -8432,8 +8911,7 @@
         "US-CA#315",
         "US-CA#316",
         "US-CA#317",
-        "US-CA#318",
-        "CH-US#3"
+        "US-CA#318"
       ],
       "ipv6Enabled": true,
       "city": "Los Angeles"
@@ -8454,8 +8932,7 @@
         "US-CA#303",
         "US-CA#304",
         "US-CA#305",
-        "US-CA#306",
-        "CH-US#3"
+        "US-CA#306"
       ],
       "ipv6Enabled": true,
       "city": "Los Angeles"
@@ -8476,8 +8953,7 @@
         "US-CA#291",
         "US-CA#292",
         "US-CA#293",
-        "US-CA#294",
-        "CH-US#3"
+        "US-CA#294"
       ],
       "ipv6Enabled": true,
       "city": "Los Angeles"
@@ -8721,6 +9197,80 @@
       "city": "Los Angeles"
     },
     {
+      "ipv4": "149.88.30.59",
+      "ipv6": "2a02:6ea0:c803:5511::10",
+      "domain": "node-us-358.protonvpn.net",
+      "servers": [
+        "US-CA#595",
+        "US-CA#596",
+        "US-CA#597",
+        "US-CA#598",
+        "US-CA#599",
+        "US-CA#600",
+        "US-CA#601",
+        "US-CA#602",
+        "US-CA#603",
+        "US-CA#604",
+        "US-CA#605",
+        "US-CA#606",
+        "US-CA#607",
+        "US-CA#608",
+        "US-CA#609",
+        "US-CA#610",
+        "US-CA#611",
+        "US-CA#612",
+        "US-CA#613",
+        "US-CA#614",
+        "US-CA#615",
+        "US-CA#616",
+        "US-CA#617",
+        "US-CA#618",
+        "US-CA#619",
+        "US-CA#620",
+        "US-CA#621",
+        "US-CA#622"
+      ],
+      "ipv6Enabled": true,
+      "city": "Los Angeles"
+    },
+    {
+      "ipv4": "149.88.30.30",
+      "ipv6": "2a02:6ea0:c803:5512::10",
+      "domain": "node-us-359.protonvpn.net",
+      "servers": [
+        "US-CA#623",
+        "US-CA#624",
+        "US-CA#625",
+        "US-CA#626",
+        "US-CA#627",
+        "US-CA#628",
+        "US-CA#629",
+        "US-CA#630",
+        "US-CA#631",
+        "US-CA#632",
+        "US-CA#633",
+        "US-CA#634",
+        "US-CA#635",
+        "US-CA#636",
+        "US-CA#637",
+        "US-CA#638",
+        "US-CA#639",
+        "US-CA#640",
+        "US-CA#641",
+        "US-CA#642",
+        "US-CA#643",
+        "US-CA#644",
+        "US-CA#645",
+        "US-CA#646",
+        "US-CA#647",
+        "US-CA#648",
+        "US-CA#649",
+        "US-CA#650"
+      ],
+      "ipv6Enabled": true,
+      "city": "Los Angeles"
+    },
+    {
       "ipv4": "149.102.228.221",
       "ipv6": "2a02:6ea0:c803:5947::10",
       "domain": "node-us-383.protonvpn.net",
@@ -8793,6 +9343,150 @@
       "city": "Los Angeles"
     },
     {
+      "ipv4": "149.102.228.85",
+      "ipv6": "2a02:6ea0:c803:5957::10",
+      "domain": "node-us-385.protonvpn.net",
+      "servers": [
+        "US-CA#705",
+        "US-CA#706",
+        "US-CA#707",
+        "US-CA#708",
+        "US-CA#709",
+        "US-CA#710",
+        "US-CA#711",
+        "US-CA#712",
+        "US-CA#713",
+        "US-CA#714",
+        "US-CA#715",
+        "US-CA#716",
+        "US-CA#717",
+        "US-CA#718",
+        "US-CA#719",
+        "US-CA#720",
+        "US-CA#721",
+        "US-CA#722",
+        "US-CA#723",
+        "US-CA#724",
+        "US-CA#725",
+        "US-CA#726",
+        "US-CA#727",
+        "US-CA#728",
+        "US-CA#729",
+        "US-CA#730",
+        "US-CA#731"
+      ],
+      "ipv6Enabled": true,
+      "city": "Los Angeles"
+    },
+    {
+      "ipv4": "149.102.228.1",
+      "ipv6": "2a02:6ea0:c803:5949::10",
+      "domain": "node-us-386.protonvpn.net",
+      "servers": [
+        "US-CA#732",
+        "US-CA#733",
+        "US-CA#734",
+        "US-CA#735",
+        "US-CA#736",
+        "US-CA#737",
+        "US-CA#738",
+        "US-CA#739",
+        "US-CA#740",
+        "US-CA#741",
+        "US-CA#742",
+        "US-CA#743",
+        "US-CA#744",
+        "US-CA#745",
+        "US-CA#746",
+        "US-CA#747",
+        "US-CA#748",
+        "US-CA#749",
+        "US-CA#750",
+        "US-CA#751",
+        "US-CA#752",
+        "US-CA#753",
+        "US-CA#754",
+        "US-CA#755",
+        "US-CA#756",
+        "US-CA#757",
+        "US-CA#758"
+      ],
+      "ipv6Enabled": true,
+      "city": "Los Angeles"
+    },
+    {
+      "ipv4": "149.102.228.29",
+      "ipv6": "2a02:6ea0:c803:5950::10",
+      "domain": "node-us-387.protonvpn.net",
+      "servers": [
+        "US-CA#759",
+        "US-CA#760",
+        "US-CA#761",
+        "US-CA#762",
+        "US-CA#763",
+        "US-CA#764",
+        "US-CA#765",
+        "US-CA#766",
+        "US-CA#767",
+        "US-CA#768",
+        "US-CA#769",
+        "US-CA#770",
+        "US-CA#771",
+        "US-CA#772",
+        "US-CA#773",
+        "US-CA#774",
+        "US-CA#775",
+        "US-CA#776",
+        "US-CA#777",
+        "US-CA#778",
+        "US-CA#779",
+        "US-CA#780",
+        "US-CA#781",
+        "US-CA#782",
+        "US-CA#783",
+        "US-CA#784",
+        "US-CA#785"
+      ],
+      "ipv6Enabled": true,
+      "city": "Los Angeles"
+    },
+    {
+      "ipv4": "149.102.228.57",
+      "ipv6": "2a02:6ea0:c803:5951::10",
+      "domain": "node-us-388.protonvpn.net",
+      "servers": [
+        "US-CA#786",
+        "US-CA#787",
+        "US-CA#788",
+        "US-CA#789",
+        "US-CA#790",
+        "US-CA#791",
+        "US-CA#792",
+        "US-CA#793",
+        "US-CA#794",
+        "US-CA#795",
+        "US-CA#796",
+        "US-CA#797",
+        "US-CA#798",
+        "US-CA#799",
+        "US-CA#800",
+        "US-CA#801",
+        "US-CA#802",
+        "US-CA#803",
+        "US-CA#804",
+        "US-CA#805",
+        "US-CA#806",
+        "US-CA#807",
+        "US-CA#808",
+        "US-CA#809",
+        "US-CA#810",
+        "US-CA#811",
+        "US-CA#812"
+      ],
+      "ipv6Enabled": true,
+      "city": "Los Angeles"
+    },
+    {
       "ipv4": "74.118.126.8",
       "ipv6": null,
       "domain": "ao-03.protonvpn.net",
@@ -8837,9 +9531,7 @@
         "LU#41",
         "LU#42",
         "LU#43",
-        "LU#44",
-        "CH-LU#2",
-        "CH-LU#2"
+        "LU#44"
       ],
       "ipv6Enabled": true,
       "city": "Luxembourg"
@@ -8870,7 +9562,6 @@
       "ipv6": "2a02:6ea0:c31f:1783::10",
       "domain": "node-es-04.protonvpn.net",
       "servers": [
-        "IS-ES#1",
         "ES#30",
         "ES#31",
         "ES#32",
@@ -8894,7 +9585,6 @@
       "ipv6": "2a02:6ea0:c31f:1788::10",
       "domain": "node-es-05.protonvpn.net",
       "servers": [
-        "IS-ES#1",
         "ES#44",
         "ES#45",
         "ES#46",
@@ -8909,44 +9599,6 @@
         "ES#55",
         "ES#56",
         "ES#57"
-      ],
-      "ipv6Enabled": true,
-      "city": "Madrid"
-    },
-    {
-      "ipv4": "149.102.236.222",
-      "ipv6": "2a02:6ea0:c31f:5499::10",
-      "domain": "node-es-11.protonvpn.net",
-      "servers": [
-        "IS-ES#1",
-        "ES#172",
-        "ES#173",
-        "ES#174",
-        "ES#175",
-        "ES#176",
-        "ES#177",
-        "ES#178",
-        "ES#179",
-        "ES#180",
-        "ES#181",
-        "ES#182",
-        "ES#183",
-        "ES#184",
-        "ES#185",
-        "ES#186",
-        "ES#187",
-        "ES#188",
-        "ES#189",
-        "ES#190",
-        "ES#191",
-        "ES#192",
-        "ES#193",
-        "ES#194",
-        "ES#195",
-        "ES#196",
-        "ES#197",
-        "ES#198",
-        "ES#199"
       ],
       "ipv6Enabled": true,
       "city": "Madrid"
@@ -8994,8 +9646,7 @@
         "ES#84",
         "ES#85",
         "ES#86",
-        "ES#87",
-        "CH-ES#2"
+        "ES#87"
       ],
       "ipv6Enabled": true,
       "city": "Madrid"
@@ -9033,6 +9684,43 @@
         "ES#169",
         "ES#170",
         "ES#171"
+      ],
+      "ipv6Enabled": true,
+      "city": "Madrid"
+    },
+    {
+      "ipv4": "149.102.236.222",
+      "ipv6": "2a02:6ea0:c31f:5499::10",
+      "domain": "node-es-11.protonvpn.net",
+      "servers": [
+        "ES#172",
+        "ES#173",
+        "ES#174",
+        "ES#175",
+        "ES#176",
+        "ES#177",
+        "ES#178",
+        "ES#179",
+        "ES#180",
+        "ES#181",
+        "ES#182",
+        "ES#183",
+        "ES#184",
+        "ES#185",
+        "ES#186",
+        "ES#187",
+        "ES#188",
+        "ES#189",
+        "ES#190",
+        "ES#191",
+        "ES#192",
+        "ES#193",
+        "ES#194",
+        "ES#195",
+        "ES#196",
+        "ES#197",
+        "ES#198",
+        "ES#199"
       ],
       "ipv6Enabled": true,
       "city": "Madrid"
@@ -9245,8 +9933,34 @@
         "UK#244",
         "UK#245",
         "UK#246",
-        "UK#247",
-        "CH-UK#2"
+        "UK#247"
+      ],
+      "ipv6Enabled": true,
+      "city": "Manchester"
+    },
+    {
+      "ipv4": "146.70.133.130",
+      "ipv6": "2001:ac8:8b:2f::10",
+      "domain": "node-uk-14.protonvpn.net",
+      "servers": [
+        "UK#423",
+        "UK#424",
+        "UK#425",
+        "UK#426",
+        "UK#427",
+        "UK#428",
+        "UK#429",
+        "UK#430",
+        "UK#431",
+        "UK#432",
+        "UK#433",
+        "UK#434",
+        "UK#435",
+        "UK#436",
+        "UK#437",
+        "UK#438",
+        "UK#439",
+        "UK#440"
       ],
       "ipv6Enabled": true,
       "city": "Manchester"
@@ -9698,8 +10412,7 @@
         "AU#162",
         "AU#163",
         "AU#164",
-        "AU#165",
-        "CH-AU#2"
+        "AU#165"
       ],
       "ipv6Enabled": false,
       "city": "Melbourne"
@@ -9721,6 +10434,27 @@
         "AU#300",
         "AU#301",
         "AU#302"
+      ],
+      "ipv6Enabled": false,
+      "city": "Melbourne"
+    },
+    {
+      "ipv4": "144.48.38.98",
+      "ipv6": null,
+      "domain": "node-au-26.protonvpn.net",
+      "servers": [
+        "AU#303",
+        "AU#304",
+        "AU#305",
+        "AU#306",
+        "AU#307",
+        "AU#308",
+        "AU#309",
+        "AU#310",
+        "AU#311",
+        "AU#312",
+        "AU#313",
+        "AU#314"
       ],
       "ipv6Enabled": false,
       "city": "Melbourne"
@@ -9824,8 +10558,7 @@
         "MX#6",
         "MX#7",
         "MX#8",
-        "MX#9",
-        "CH-MX#2"
+        "MX#9"
       ],
       "ipv6Enabled": true,
       "city": "Mexico City"
@@ -9860,6 +10593,27 @@
         "US-FL#161",
         "US-FL#162",
         "US-FL#163"
+      ],
+      "ipv6Enabled": true,
+      "city": "Miami"
+    },
+    {
+      "ipv4": "146.70.45.226",
+      "ipv6": "2a0d:5600:6:111::100",
+      "domain": "node-us-176.protonvpn.net",
+      "servers": [
+        "US-FL#53",
+        "US-FL#54",
+        "US-FL#55",
+        "US-FL#56",
+        "US-FL#57",
+        "US-FL#58",
+        "US-FL#59",
+        "US-FL#60",
+        "US-FL#61",
+        "US-FL#62",
+        "US-FL#63",
+        "US-FL#64"
       ],
       "ipv6Enabled": true,
       "city": "Miami"
@@ -9901,8 +10655,7 @@
         "US-FL#73",
         "US-FL#74",
         "US-FL#75",
-        "US-FL#76",
-        "CH-US#3"
+        "US-FL#76"
       ],
       "ipv6Enabled": true,
       "city": "Miami"
@@ -9923,8 +10676,7 @@
         "US-FL#85",
         "US-FL#86",
         "US-FL#87",
-        "US-FL#88",
-        "CH-US#3"
+        "US-FL#88"
       ],
       "ipv6Enabled": true,
       "city": "Miami"
@@ -9945,8 +10697,7 @@
         "US-FL#184",
         "US-FL#185",
         "US-FL#186",
-        "US-FL#187",
-        "CH-US#3"
+        "US-FL#187"
       ],
       "ipv6Enabled": true,
       "city": "Miami"
@@ -9967,8 +10718,7 @@
         "US-FL#196",
         "US-FL#197",
         "US-FL#198",
-        "US-FL#199",
-        "CH-US#3"
+        "US-FL#199"
       ],
       "ipv6Enabled": true,
       "city": "Miami"
@@ -10072,6 +10822,84 @@
       "city": "Miami"
     },
     {
+      "ipv4": "146.70.51.210",
+      "ipv6": "2a0d:5600:6:ad1e::10",
+      "domain": "node-us-182.protonvpn.net",
+      "servers": [
+        "US-FL#282",
+        "US-FL#283",
+        "US-FL#284",
+        "US-FL#285",
+        "US-FL#286",
+        "US-FL#287",
+        "US-FL#288",
+        "US-FL#289",
+        "US-FL#290",
+        "US-FL#291",
+        "US-FL#292",
+        "US-FL#293",
+        "US-FL#294",
+        "US-FL#295",
+        "US-FL#296",
+        "US-FL#297",
+        "US-FL#298"
+      ],
+      "ipv6Enabled": true,
+      "city": "Miami"
+    },
+    {
+      "ipv4": "45.87.214.18",
+      "ipv6": "2a0d:5600:6:204::10",
+      "domain": "node-us-183.protonvpn.net",
+      "servers": [
+        "US-FL#299",
+        "US-FL#300",
+        "US-FL#301",
+        "US-FL#302",
+        "US-FL#303",
+        "US-FL#304",
+        "US-FL#305",
+        "US-FL#306",
+        "US-FL#307",
+        "US-FL#308",
+        "US-FL#309",
+        "US-FL#310",
+        "US-FL#311",
+        "US-FL#312",
+        "US-FL#313",
+        "US-FL#314",
+        "US-FL#315"
+      ],
+      "ipv6Enabled": true,
+      "city": "Miami"
+    },
+    {
+      "ipv4": "146.70.45.114",
+      "ipv6": "2a0d:5600:6:ad1b::10",
+      "domain": "node-us-185.protonvpn.net",
+      "servers": [
+        "US-FL#316",
+        "US-FL#317",
+        "US-FL#318",
+        "US-FL#319",
+        "US-FL#320",
+        "US-FL#321",
+        "US-FL#322",
+        "US-FL#323",
+        "US-FL#324",
+        "US-FL#325",
+        "US-FL#326",
+        "US-FL#327",
+        "US-FL#328",
+        "US-FL#329",
+        "US-FL#330",
+        "US-FL#331",
+        "US-FL#332"
+      ],
+      "ipv6Enabled": true,
+      "city": "Miami"
+    },
+    {
       "ipv4": "146.70.183.130",
       "ipv6": "2a0d:5600:6:201::10",
       "domain": "node-us-215b.protonvpn.net",
@@ -10087,8 +10915,7 @@
         "US-FL#208",
         "US-FL#209",
         "US-FL#210",
-        "US-FL#211",
-        "CH-US#3"
+        "US-FL#211"
       ],
       "ipv6Enabled": true,
       "city": "Miami"
@@ -10165,8 +10992,7 @@
         "IT#25",
         "IT#26",
         "IT#27",
-        "IT#28",
-        "CH-IT#2"
+        "IT#28"
       ],
       "ipv6Enabled": true,
       "city": "Milan"
@@ -10187,8 +11013,7 @@
         "IT#37",
         "IT#38",
         "IT#39",
-        "IT#40",
-        "CH-IT#2"
+        "IT#40"
       ],
       "ipv6Enabled": true,
       "city": "Milan"
@@ -10209,8 +11034,7 @@
         "IT#49",
         "IT#50",
         "IT#51",
-        "IT#52",
-        "CH-IT#2"
+        "IT#52"
       ],
       "ipv6Enabled": true,
       "city": "Milan"
@@ -10278,8 +11102,28 @@
         "CA#93",
         "CA#94",
         "CA#95",
-        "CA#96",
-        "CH-CA#2"
+        "CA#96"
+      ],
+      "ipv6Enabled": true,
+      "city": "Montreal"
+    },
+    {
+      "ipv4": "146.70.198.34",
+      "ipv6": "2a0d:5600:9:a23::10",
+      "domain": "node-ca-17.protonvpn.net",
+      "servers": [
+        "CA#97",
+        "CA#98",
+        "CA#99",
+        "CA#100",
+        "CA#101",
+        "CA#102",
+        "CA#103",
+        "CA#104",
+        "CA#105",
+        "CA#106",
+        "CA#107",
+        "CA#108"
       ],
       "ipv6Enabled": true,
       "city": "Montreal"
@@ -10300,8 +11144,28 @@
         "CA#117",
         "CA#118",
         "CA#119",
-        "CA#120",
-        "CH-CA#2"
+        "CA#120"
+      ],
+      "ipv6Enabled": true,
+      "city": "Montreal"
+    },
+    {
+      "ipv4": "146.70.198.2",
+      "ipv6": "2a0d:5600:9:a21::10",
+      "domain": "node-ca-19.protonvpn.net",
+      "servers": [
+        "CA#121",
+        "CA#122",
+        "CA#123",
+        "CA#124",
+        "CA#125",
+        "CA#126",
+        "CA#127",
+        "CA#128",
+        "CA#129",
+        "CA#130",
+        "CA#131",
+        "CA#132"
       ],
       "ipv6Enabled": true,
       "city": "Montreal"
@@ -10318,8 +11182,7 @@
         "CA#137",
         "CA#138",
         "CA#139",
-        "CA#140",
-        "CH-CA#2"
+        "CA#140"
       ],
       "ipv6Enabled": true,
       "city": "Montreal"
@@ -10509,7 +11372,6 @@
       "ipv6": null,
       "domain": "node-ru-04.protonvpn.net",
       "servers": [
-        "IS-RU#1",
         "RU#17",
         "RU#18",
         "RU#19",
@@ -10521,8 +11383,7 @@
         "RU#25",
         "RU#26",
         "RU#27",
-        "RU#28",
-        "CH-RU#2"
+        "RU#28"
       ],
       "ipv6Enabled": false,
       "city": "Moscow"
@@ -10587,34 +11448,6 @@
       "city": "Moscow"
     },
     {
-      "ipv4": "146.70.142.82",
-      "ipv6": null,
-      "domain": "node-in-06.protonvpn.net",
-      "servers": [
-        "IS-IN#1",
-        "IN#26",
-        "IN#27",
-        "IN#28",
-        "IN#29",
-        "IN#30",
-        "IN#31",
-        "IN#32",
-        "IN#33",
-        "IN#34",
-        "IN#35",
-        "IN#36",
-        "IN#37",
-        "IN#38",
-        "IN#39",
-        "IN#40",
-        "IN#41",
-        "IN#42",
-        "CH-IN#2"
-      ],
-      "ipv6Enabled": false,
-      "city": "Mumbai"
-    },
-    {
       "ipv4": "146.70.142.18",
       "ipv6": "2001:ac8:2:1::10",
       "domain": "node-in-05.protonvpn.net",
@@ -10631,10 +11464,35 @@
         "IN#22",
         "IN#23",
         "IN#24",
-        "IN#25",
-        "CH-IN#2"
+        "IN#25"
       ],
       "ipv6Enabled": true,
+      "city": "Mumbai"
+    },
+    {
+      "ipv4": "146.70.142.82",
+      "ipv6": null,
+      "domain": "node-in-06.protonvpn.net",
+      "servers": [
+        "IN#26",
+        "IN#27",
+        "IN#28",
+        "IN#29",
+        "IN#30",
+        "IN#31",
+        "IN#32",
+        "IN#33",
+        "IN#34",
+        "IN#35",
+        "IN#36",
+        "IN#37",
+        "IN#38",
+        "IN#39",
+        "IN#40",
+        "IN#41",
+        "IN#42"
+      ],
+      "ipv6Enabled": false,
       "city": "Mumbai"
     },
     {
@@ -10710,1421 +11568,6 @@
       "city": "Nairobi"
     },
     {
-      "ipv4": "138.199.35.97",
-      "ipv6": "2a02:6ea0:c803:2109::10",
-      "domain": "node-us-122.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-CA#89",
-        "US-CA#90",
-        "US-CA#91",
-        "US-CA#92",
-        "US-CA#93",
-        "US-CA#94",
-        "US-CA#95",
-        "US-CA#96",
-        "US-CA#97",
-        "US-CA#98",
-        "US-CA#99",
-        "US-CA#100",
-        "US-CA#141"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "146.70.45.226",
-      "ipv6": "2a0d:5600:6:111::100",
-      "domain": "node-us-176.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-FL#53",
-        "US-FL#54",
-        "US-FL#55",
-        "US-FL#56",
-        "US-FL#57",
-        "US-FL#58",
-        "US-FL#59",
-        "US-FL#60",
-        "US-FL#61",
-        "US-FL#62",
-        "US-FL#63",
-        "US-FL#64"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "146.70.202.162",
-      "ipv6": "2a0d:5600:24:64::10",
-      "domain": "node-us-188.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-NY#178",
-        "US-NY#179",
-        "US-NY#180",
-        "US-NY#181",
-        "US-NY#182",
-        "US-NY#183",
-        "US-NY#184",
-        "US-NY#185",
-        "US-NY#186",
-        "US-NY#187",
-        "US-NY#188",
-        "US-NY#189"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "185.156.46.33",
-      "ipv6": "2a02:6ea0:e20d:2101::10",
-      "domain": "node-us-119.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-VA#1",
-        "US-VA#10",
-        "US-VA#11",
-        "US-VA#12",
-        "US-VA#13",
-        "US-VA#14",
-        "US-VA#15",
-        "US-VA#2",
-        "US-VA#3",
-        "US-VA#4",
-        "US-VA#5",
-        "US-VA#6",
-        "US-VA#7",
-        "US-VA#8",
-        "US-VA#9"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "163.5.171.56",
-      "ipv6": null,
-      "domain": "node-us-258.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-NJ#100",
-        "US-NJ#76",
-        "US-NJ#77",
-        "US-NJ#78",
-        "US-NJ#79",
-        "US-NJ#80",
-        "US-NJ#81",
-        "US-NJ#82",
-        "US-NJ#83",
-        "US-NJ#84",
-        "US-NJ#85",
-        "US-NJ#86",
-        "US-NJ#87",
-        "US-NJ#88",
-        "US-NJ#89",
-        "US-NJ#90",
-        "US-NJ#91",
-        "US-NJ#92",
-        "US-NJ#93",
-        "US-NJ#94",
-        "US-NJ#95",
-        "US-NJ#96",
-        "US-NJ#97",
-        "US-NJ#98",
-        "US-NJ#99"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "163.5.171.83",
-      "ipv6": null,
-      "domain": "node-us-259.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-NJ#101",
-        "US-NJ#102",
-        "US-NJ#103",
-        "US-NJ#104",
-        "US-NJ#105",
-        "US-NJ#106",
-        "US-NJ#107",
-        "US-NJ#108",
-        "US-NJ#109",
-        "US-NJ#110",
-        "US-NJ#111",
-        "US-NJ#112",
-        "US-NJ#113",
-        "US-NJ#114",
-        "US-NJ#115",
-        "US-NJ#116",
-        "US-NJ#117",
-        "US-NJ#118",
-        "US-NJ#119",
-        "US-NJ#120",
-        "US-NJ#121",
-        "US-NJ#122",
-        "US-NJ#123",
-        "US-NJ#124",
-        "US-NJ#125"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "154.47.22.65",
-      "ipv6": "2a02:6ea0:e20d:2691::10",
-      "domain": "node-us-207.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-VA#100",
-        "US-VA#101",
-        "US-VA#102",
-        "US-VA#103",
-        "US-VA#104",
-        "US-VA#105",
-        "US-VA#106",
-        "US-VA#107",
-        "US-VA#108",
-        "US-VA#109",
-        "US-VA#110",
-        "US-VA#111",
-        "US-VA#98",
-        "US-VA#99"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "89.187.164.241",
-      "ipv6": "2a02:6ea0:d213:1793::10",
-      "domain": "node-us-108.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-TX#128",
-        "US-TX#129",
-        "US-TX#130",
-        "US-TX#131",
-        "US-TX#132",
-        "US-TX#133",
-        "US-TX#134",
-        "US-TX#135",
-        "US-TX#136",
-        "US-TX#137",
-        "US-TX#138",
-        "US-TX#139",
-        "US-TX#140",
-        "US-TX#141",
-        "US-TX#142",
-        "US-TX#143",
-        "US-TX#144",
-        "US-TX#145",
-        "US-TX#146"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "89.187.180.27",
-      "ipv6": "2a02:6ea0:c603:2121::10",
-      "domain": "node-us-130.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-IL#248",
-        "US-IL#249",
-        "US-IL#250",
-        "US-IL#251",
-        "US-IL#252",
-        "US-IL#253",
-        "US-IL#254",
-        "US-IL#255",
-        "US-IL#256",
-        "US-IL#257",
-        "US-IL#258",
-        "US-IL#259",
-        "US-IL#260"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "89.187.164.246",
-      "ipv6": "2a02:6ea0:d213:1798::10",
-      "domain": "node-us-109.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-TX#161",
-        "US-TX#162",
-        "US-TX#163",
-        "US-TX#164",
-        "US-TX#165",
-        "US-TX#166",
-        "US-TX#167",
-        "US-TX#168",
-        "US-TX#169",
-        "US-TX#170",
-        "US-TX#171",
-        "US-TX#172",
-        "US-TX#173",
-        "US-TX#174"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.102.226.193",
-      "ipv6": "2a02:6ea0:c412:2659::10",
-      "domain": "node-us-201.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-NY#435",
-        "US-NY#436",
-        "US-NY#437",
-        "US-NY#438",
-        "US-NY#439",
-        "US-NY#440",
-        "US-NY#441",
-        "US-NY#442",
-        "US-NY#443",
-        "US-NY#444",
-        "US-NY#445",
-        "US-NY#446",
-        "US-NY#447",
-        "US-NY#448",
-        "US-NY#449"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "37.19.200.27",
-      "ipv6": "2a02:6ea0:d213:2718::10",
-      "domain": "node-us-222.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-TX#203",
-        "US-TX#204",
-        "US-TX#205",
-        "US-TX#206",
-        "US-TX#207",
-        "US-TX#208",
-        "US-TX#209",
-        "US-TX#210",
-        "US-TX#211",
-        "US-TX#212",
-        "US-TX#213",
-        "US-TX#214",
-        "US-TX#215",
-        "US-TX#216"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.36.48.141",
-      "ipv6": "2a02:6ea0:e606:2641::10",
-      "domain": "node-us-199.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-CA#539",
-        "US-CA#540",
-        "US-CA#541",
-        "US-CA#542",
-        "US-CA#543",
-        "US-CA#544",
-        "US-CA#545",
-        "US-CA#546",
-        "US-CA#547",
-        "US-CA#548",
-        "US-CA#549",
-        "US-CA#550",
-        "US-CA#551",
-        "US-CA#552",
-        "US-CA#553"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "146.70.51.210",
-      "ipv6": "2a0d:5600:6:ad1e::10",
-      "domain": "node-us-182.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-FL#282",
-        "US-FL#283",
-        "US-FL#284",
-        "US-FL#285",
-        "US-FL#286",
-        "US-FL#287",
-        "US-FL#288",
-        "US-FL#289",
-        "US-FL#290",
-        "US-FL#291",
-        "US-FL#292",
-        "US-FL#293",
-        "US-FL#294",
-        "US-FL#295",
-        "US-FL#296",
-        "US-FL#297",
-        "US-FL#298"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "45.87.214.18",
-      "ipv6": "2a0d:5600:6:204::10",
-      "domain": "node-us-183.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-FL#299",
-        "US-FL#300",
-        "US-FL#301",
-        "US-FL#302",
-        "US-FL#303",
-        "US-FL#304",
-        "US-FL#305",
-        "US-FL#306",
-        "US-FL#307",
-        "US-FL#308",
-        "US-FL#309",
-        "US-FL#310",
-        "US-FL#311",
-        "US-FL#312",
-        "US-FL#313",
-        "US-FL#314",
-        "US-FL#315"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "146.70.72.130",
-      "ipv6": "2a0d:5600:24:a::10",
-      "domain": "node-us-144.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-NY#516",
-        "US-NY#517",
-        "US-NY#518",
-        "US-NY#519",
-        "US-NY#520",
-        "US-NY#521",
-        "US-NY#522",
-        "US-NY#523",
-        "US-NY#524",
-        "US-NY#525",
-        "US-NY#526",
-        "US-NY#527",
-        "US-NY#528",
-        "US-NY#529",
-        "US-NY#530",
-        "US-NY#531",
-        "US-NY#532"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "146.70.45.114",
-      "ipv6": "2a0d:5600:6:ad1b::10",
-      "domain": "node-us-185.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-FL#316",
-        "US-FL#317",
-        "US-FL#318",
-        "US-FL#319",
-        "US-FL#320",
-        "US-FL#321",
-        "US-FL#322",
-        "US-FL#323",
-        "US-FL#324",
-        "US-FL#325",
-        "US-FL#326",
-        "US-FL#327",
-        "US-FL#328",
-        "US-FL#329",
-        "US-FL#330",
-        "US-FL#331",
-        "US-FL#332"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "146.70.202.18",
-      "ipv6": "2a0d:5600:24:3d::10",
-      "domain": "node-us-197.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-NY#614",
-        "US-NY#615",
-        "US-NY#616",
-        "US-NY#617",
-        "US-NY#618",
-        "US-NY#619",
-        "US-NY#620",
-        "US-NY#621",
-        "US-NY#622",
-        "US-NY#623",
-        "US-NY#624",
-        "US-NY#625",
-        "US-NY#626",
-        "US-NY#627",
-        "US-NY#628",
-        "US-NY#629",
-        "US-NY#630"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "156.146.51.65",
-      "ipv6": "2a02:6ea0:d802:2111::10",
-      "domain": "node-us-124.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-WA#126",
-        "US-WA#127",
-        "US-WA#128",
-        "US-WA#129",
-        "US-WA#130",
-        "US-WA#131",
-        "US-WA#132",
-        "US-WA#133",
-        "US-WA#134",
-        "US-WA#135",
-        "US-WA#136",
-        "US-WA#137",
-        "US-WA#138",
-        "US-WA#139",
-        "US-WA#140",
-        "US-WA#141",
-        "US-WA#142"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "95.173.217.29",
-      "ipv6": "2a02:6ea0:d213:4415::10",
-      "domain": "node-us-299.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-TX#243",
-        "US-TX#244",
-        "US-TX#245",
-        "US-TX#246",
-        "US-TX#247",
-        "US-TX#248",
-        "US-TX#249",
-        "US-TX#250",
-        "US-TX#251",
-        "US-TX#252",
-        "US-TX#253",
-        "US-TX#254",
-        "US-TX#255",
-        "US-TX#256",
-        "US-TX#257",
-        "US-TX#258",
-        "US-TX#259",
-        "US-TX#260",
-        "US-TX#261",
-        "US-TX#262",
-        "US-TX#263",
-        "US-TX#264",
-        "US-TX#265",
-        "US-TX#266",
-        "US-TX#267",
-        "US-TX#268"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "95.173.217.2",
-      "ipv6": "2a02:6ea0:d213:4416::10",
-      "domain": "node-us-298.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-TX#217",
-        "US-TX#218",
-        "US-TX#219",
-        "US-TX#220",
-        "US-TX#221",
-        "US-TX#222",
-        "US-TX#223",
-        "US-TX#224",
-        "US-TX#225",
-        "US-TX#226",
-        "US-TX#227",
-        "US-TX#228",
-        "US-TX#229",
-        "US-TX#230",
-        "US-TX#231",
-        "US-TX#232",
-        "US-TX#233",
-        "US-TX#234",
-        "US-TX#235",
-        "US-TX#236",
-        "US-TX#237",
-        "US-TX#238",
-        "US-TX#239",
-        "US-TX#240",
-        "US-TX#241",
-        "US-TX#242"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "79.127.220.251",
-      "ipv6": "2a02:6ea0:c603:4899::10",
-      "domain": "node-us-300.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-IL#296",
-        "US-IL#297",
-        "US-IL#298",
-        "US-IL#299",
-        "US-IL#300",
-        "US-IL#301",
-        "US-IL#302",
-        "US-IL#303",
-        "US-IL#304",
-        "US-IL#305",
-        "US-IL#306",
-        "US-IL#307",
-        "US-IL#308",
-        "US-IL#309",
-        "US-IL#310",
-        "US-IL#311",
-        "US-IL#312",
-        "US-IL#313",
-        "US-IL#314",
-        "US-IL#315",
-        "US-IL#316",
-        "US-IL#317",
-        "US-IL#318",
-        "US-IL#319",
-        "US-IL#320",
-        "US-IL#321"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "193.37.254.66",
-      "ipv6": "2a0d:5600:2:19::10",
-      "domain": "node-us-126.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-AZ#100",
-        "US-AZ#101",
-        "US-AZ#102",
-        "US-AZ#103",
-        "US-AZ#104",
-        "US-AZ#81",
-        "US-AZ#82",
-        "US-AZ#83",
-        "US-AZ#84",
-        "US-AZ#85",
-        "US-AZ#86",
-        "US-AZ#87",
-        "US-AZ#88",
-        "US-AZ#89",
-        "US-AZ#90",
-        "US-AZ#91",
-        "US-AZ#92",
-        "US-AZ#93",
-        "US-AZ#94",
-        "US-AZ#95",
-        "US-AZ#96",
-        "US-AZ#97",
-        "US-AZ#98",
-        "US-AZ#99"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "79.127.136.65",
-      "ipv6": "2a02:6ea0:c603:5252::10",
-      "domain": "node-us-304.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-IL#348",
-        "US-IL#349",
-        "US-IL#350",
-        "US-IL#351",
-        "US-IL#352",
-        "US-IL#353",
-        "US-IL#354",
-        "US-IL#355",
-        "US-IL#356",
-        "US-IL#357",
-        "US-IL#358",
-        "US-IL#359",
-        "US-IL#360",
-        "US-IL#361",
-        "US-IL#362",
-        "US-IL#363",
-        "US-IL#364",
-        "US-IL#365",
-        "US-IL#366",
-        "US-IL#367",
-        "US-IL#368",
-        "US-IL#369",
-        "US-IL#370",
-        "US-IL#371",
-        "US-IL#372",
-        "US-IL#373"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "95.173.221.92",
-      "ipv6": "2a02:6ea0:d704:5254::10",
-      "domain": "node-us-306.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-CO#135",
-        "US-CO#136",
-        "US-CO#137",
-        "US-CO#138",
-        "US-CO#139",
-        "US-CO#140",
-        "US-CO#141",
-        "US-CO#142",
-        "US-CO#143",
-        "US-CO#144",
-        "US-CO#145",
-        "US-CO#146",
-        "US-CO#147",
-        "US-CO#148",
-        "US-CO#149",
-        "US-CO#150",
-        "US-CO#151",
-        "US-CO#152",
-        "US-CO#153",
-        "US-CO#154",
-        "US-CO#155",
-        "US-CO#156",
-        "US-CO#157",
-        "US-CO#158",
-        "US-CO#159",
-        "US-CO#160"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "217.138.198.246",
-      "ipv6": null,
-      "domain": "node-us-237.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-DC#100",
-        "US-DC#101",
-        "US-DC#102",
-        "US-DC#103",
-        "US-DC#104",
-        "US-DC#105",
-        "US-DC#106",
-        "US-DC#107",
-        "US-DC#108",
-        "US-DC#109",
-        "US-DC#110",
-        "US-DC#111",
-        "US-DC#112",
-        "US-DC#113",
-        "US-DC#114",
-        "US-DC#115",
-        "US-DC#116",
-        "US-DC#117",
-        "US-DC#118",
-        "US-DC#119",
-        "US-DC#120",
-        "US-DC#121",
-        "US-DC#122",
-        "US-DC#123",
-        "US-DC#124",
-        "US-DC#125",
-        "US-DC#126",
-        "US-DC#127",
-        "US-DC#128",
-        "US-DC#129",
-        "US-DC#130",
-        "US-DC#131",
-        "US-DC#132",
-        "US-DC#133",
-        "US-DC#134",
-        "US-DC#135",
-        "US-DC#136",
-        "US-DC#137",
-        "US-DC#138",
-        "US-DC#139",
-        "US-DC#140",
-        "US-DC#141",
-        "US-DC#142",
-        "US-DC#143",
-        "US-DC#144",
-        "US-DC#145",
-        "US-DC#146",
-        "US-DC#147",
-        "US-DC#148",
-        "US-DC#149",
-        "US-DC#150",
-        "US-DC#151",
-        "US-DC#152",
-        "US-DC#153",
-        "US-DC#154",
-        "US-DC#155",
-        "US-DC#156",
-        "US-DC#157",
-        "US-DC#158",
-        "US-DC#159",
-        "US-DC#160",
-        "US-DC#161",
-        "US-DC#62",
-        "US-DC#63",
-        "US-DC#64",
-        "US-DC#65",
-        "US-DC#66",
-        "US-DC#67",
-        "US-DC#68",
-        "US-DC#69",
-        "US-DC#70",
-        "US-DC#71",
-        "US-DC#72",
-        "US-DC#73",
-        "US-DC#74",
-        "US-DC#75",
-        "US-DC#76",
-        "US-DC#77",
-        "US-DC#78",
-        "US-DC#79",
-        "US-DC#80",
-        "US-DC#81",
-        "US-DC#82",
-        "US-DC#83",
-        "US-DC#84",
-        "US-DC#85",
-        "US-DC#86",
-        "US-DC#87",
-        "US-DC#88",
-        "US-DC#89",
-        "US-DC#90",
-        "US-DC#91",
-        "US-DC#92",
-        "US-DC#93",
-        "US-DC#94",
-        "US-DC#95",
-        "US-DC#96",
-        "US-DC#97",
-        "US-DC#98",
-        "US-DC#99"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.40.62.62",
-      "ipv6": "2a02:6ea0:d802:5501::10",
-      "domain": "node-us-355.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-WA#160",
-        "US-WA#161",
-        "US-WA#162",
-        "US-WA#163",
-        "US-WA#164",
-        "US-WA#165",
-        "US-WA#166",
-        "US-WA#167",
-        "US-WA#168",
-        "US-WA#169",
-        "US-WA#170",
-        "US-WA#171",
-        "US-WA#172",
-        "US-WA#173",
-        "US-WA#174",
-        "US-WA#175",
-        "US-WA#176",
-        "US-WA#177",
-        "US-WA#178",
-        "US-WA#179",
-        "US-WA#180",
-        "US-WA#181",
-        "US-WA#182",
-        "US-WA#183",
-        "US-WA#184",
-        "US-WA#185",
-        "US-WA#186",
-        "US-WA#187"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.22.88.149",
-      "ipv6": "2a02:6ea0:d802:5515::10",
-      "domain": "node-us-368.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-WA#216",
-        "US-WA#217",
-        "US-WA#218",
-        "US-WA#219",
-        "US-WA#220",
-        "US-WA#221",
-        "US-WA#222",
-        "US-WA#223",
-        "US-WA#224",
-        "US-WA#225",
-        "US-WA#226",
-        "US-WA#227",
-        "US-WA#228",
-        "US-WA#229",
-        "US-WA#230",
-        "US-WA#231",
-        "US-WA#232",
-        "US-WA#233",
-        "US-WA#234",
-        "US-WA#235",
-        "US-WA#236",
-        "US-WA#237",
-        "US-WA#238",
-        "US-WA#239",
-        "US-WA#240",
-        "US-WA#241",
-        "US-WA#242",
-        "US-WA#243"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "95.173.221.158",
-      "ipv6": "2a02:6ea0:d704:5506::10",
-      "domain": "node-us-363.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-CO#243",
-        "US-CO#244",
-        "US-CO#245",
-        "US-CO#246",
-        "US-CO#247",
-        "US-CO#248",
-        "US-CO#249",
-        "US-CO#250",
-        "US-CO#251",
-        "US-CO#252",
-        "US-CO#253",
-        "US-CO#254",
-        "US-CO#255",
-        "US-CO#256",
-        "US-CO#257",
-        "US-CO#258",
-        "US-CO#259",
-        "US-CO#260",
-        "US-CO#261",
-        "US-CO#262",
-        "US-CO#263",
-        "US-CO#264",
-        "US-CO#265",
-        "US-CO#266",
-        "US-CO#267",
-        "US-CO#268",
-        "US-CO#269",
-        "US-CO#270"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.88.21.1",
-      "ipv6": "2a02:6ea0:c412:5514::10",
-      "domain": "node-us-360.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-NY#648",
-        "US-NY#649",
-        "US-NY#650",
-        "US-NY#651",
-        "US-NY#652",
-        "US-NY#653",
-        "US-NY#654",
-        "US-NY#655",
-        "US-NY#656",
-        "US-NY#657",
-        "US-NY#658",
-        "US-NY#659",
-        "US-NY#660",
-        "US-NY#661",
-        "US-NY#662",
-        "US-NY#663",
-        "US-NY#664",
-        "US-NY#665",
-        "US-NY#666",
-        "US-NY#667",
-        "US-NY#668",
-        "US-NY#669",
-        "US-NY#670",
-        "US-NY#671",
-        "US-NY#672",
-        "US-NY#673",
-        "US-NY#674",
-        "US-NY#675"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.88.30.59",
-      "ipv6": "2a02:6ea0:c803:5511::10",
-      "domain": "node-us-358.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-CA#595",
-        "US-CA#596",
-        "US-CA#597",
-        "US-CA#598",
-        "US-CA#599",
-        "US-CA#600",
-        "US-CA#601",
-        "US-CA#602",
-        "US-CA#603",
-        "US-CA#604",
-        "US-CA#605",
-        "US-CA#606",
-        "US-CA#607",
-        "US-CA#608",
-        "US-CA#609",
-        "US-CA#610",
-        "US-CA#611",
-        "US-CA#612",
-        "US-CA#613",
-        "US-CA#614",
-        "US-CA#615",
-        "US-CA#616",
-        "US-CA#617",
-        "US-CA#618",
-        "US-CA#619",
-        "US-CA#620",
-        "US-CA#621",
-        "US-CA#622"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.88.30.30",
-      "ipv6": "2a02:6ea0:c803:5512::10",
-      "domain": "node-us-359.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-CA#623",
-        "US-CA#624",
-        "US-CA#625",
-        "US-CA#626",
-        "US-CA#627",
-        "US-CA#628",
-        "US-CA#629",
-        "US-CA#630",
-        "US-CA#631",
-        "US-CA#632",
-        "US-CA#633",
-        "US-CA#634",
-        "US-CA#635",
-        "US-CA#636",
-        "US-CA#637",
-        "US-CA#638",
-        "US-CA#639",
-        "US-CA#640",
-        "US-CA#641",
-        "US-CA#642",
-        "US-CA#643",
-        "US-CA#644",
-        "US-CA#645",
-        "US-CA#646",
-        "US-CA#647",
-        "US-CA#648",
-        "US-CA#649",
-        "US-CA#650"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "79.127.187.156",
-      "ipv6": "2a02:6ea0:c603:5507::10",
-      "domain": "node-us-364.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-IL#484",
-        "US-IL#485",
-        "US-IL#486",
-        "US-IL#487",
-        "US-IL#488",
-        "US-IL#489",
-        "US-IL#490",
-        "US-IL#491",
-        "US-IL#492",
-        "US-IL#493",
-        "US-IL#494",
-        "US-IL#495",
-        "US-IL#496",
-        "US-IL#497",
-        "US-IL#498",
-        "US-IL#499",
-        "US-IL#500",
-        "US-IL#501",
-        "US-IL#502",
-        "US-IL#503",
-        "US-IL#504",
-        "US-IL#505",
-        "US-IL#506",
-        "US-IL#507",
-        "US-IL#508",
-        "US-IL#509",
-        "US-IL#510",
-        "US-IL#511"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "79.127.136.193",
-      "ipv6": "2a02:6ea0:c603:5508::10",
-      "domain": "node-us-365.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-IL#512",
-        "US-IL#513",
-        "US-IL#514",
-        "US-IL#515",
-        "US-IL#516",
-        "US-IL#517",
-        "US-IL#518",
-        "US-IL#519",
-        "US-IL#520",
-        "US-IL#521",
-        "US-IL#522",
-        "US-IL#523",
-        "US-IL#524",
-        "US-IL#525",
-        "US-IL#526",
-        "US-IL#527",
-        "US-IL#528",
-        "US-IL#529",
-        "US-IL#530",
-        "US-IL#531",
-        "US-IL#532",
-        "US-IL#533",
-        "US-IL#534",
-        "US-IL#535",
-        "US-IL#536",
-        "US-IL#537",
-        "US-IL#538",
-        "US-IL#539"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "79.127.187.214",
-      "ipv6": "2a02:6ea0:c603:5513::10",
-      "domain": "node-us-367.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-IL#568",
-        "US-IL#569",
-        "US-IL#570",
-        "US-IL#571",
-        "US-IL#572",
-        "US-IL#573",
-        "US-IL#574",
-        "US-IL#575",
-        "US-IL#576",
-        "US-IL#577",
-        "US-IL#578",
-        "US-IL#579",
-        "US-IL#580",
-        "US-IL#581",
-        "US-IL#582",
-        "US-IL#583",
-        "US-IL#584",
-        "US-IL#585",
-        "US-IL#586",
-        "US-IL#587",
-        "US-IL#588",
-        "US-IL#589",
-        "US-IL#590",
-        "US-IL#591",
-        "US-IL#592",
-        "US-IL#593",
-        "US-IL#594",
-        "US-IL#595"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "193.37.254.178",
-      "ipv6": "2a0d:5600:2:20::10",
-      "domain": "node-us-208.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-AZ#150",
-        "US-AZ#151",
-        "US-AZ#152",
-        "US-AZ#153",
-        "US-AZ#154",
-        "US-AZ#155",
-        "US-AZ#156",
-        "US-AZ#157",
-        "US-AZ#158",
-        "US-AZ#159",
-        "US-AZ#160",
-        "US-AZ#161",
-        "US-AZ#162",
-        "US-AZ#163",
-        "US-AZ#164",
-        "US-AZ#165",
-        "US-AZ#166"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "79.127.136.222",
-      "ipv6": "2a02:6ea0:c603:5953::10",
-      "domain": "node-us-389.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-IL#596",
-        "US-IL#597",
-        "US-IL#598",
-        "US-IL#599",
-        "US-IL#600",
-        "US-IL#601",
-        "US-IL#602",
-        "US-IL#603",
-        "US-IL#604",
-        "US-IL#605",
-        "US-IL#606",
-        "US-IL#607",
-        "US-IL#608",
-        "US-IL#609",
-        "US-IL#610",
-        "US-IL#611",
-        "US-IL#612",
-        "US-IL#613",
-        "US-IL#614",
-        "US-IL#615",
-        "US-IL#616",
-        "US-IL#617",
-        "US-IL#618",
-        "US-IL#619",
-        "US-IL#620",
-        "US-IL#621",
-        "US-IL#622",
-        "US-IL#623"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.102.228.1",
-      "ipv6": "2a02:6ea0:c803:5949::10",
-      "domain": "node-us-386.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-CA#732",
-        "US-CA#733",
-        "US-CA#734",
-        "US-CA#735",
-        "US-CA#736",
-        "US-CA#737",
-        "US-CA#738",
-        "US-CA#739",
-        "US-CA#740",
-        "US-CA#741",
-        "US-CA#742",
-        "US-CA#743",
-        "US-CA#744",
-        "US-CA#745",
-        "US-CA#746",
-        "US-CA#747",
-        "US-CA#748",
-        "US-CA#749",
-        "US-CA#750",
-        "US-CA#751",
-        "US-CA#752",
-        "US-CA#753",
-        "US-CA#754",
-        "US-CA#755",
-        "US-CA#756",
-        "US-CA#757",
-        "US-CA#758"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.102.228.29",
-      "ipv6": "2a02:6ea0:c803:5950::10",
-      "domain": "node-us-387.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-CA#759",
-        "US-CA#760",
-        "US-CA#761",
-        "US-CA#762",
-        "US-CA#763",
-        "US-CA#764",
-        "US-CA#765",
-        "US-CA#766",
-        "US-CA#767",
-        "US-CA#768",
-        "US-CA#769",
-        "US-CA#770",
-        "US-CA#771",
-        "US-CA#772",
-        "US-CA#773",
-        "US-CA#774",
-        "US-CA#775",
-        "US-CA#776",
-        "US-CA#777",
-        "US-CA#778",
-        "US-CA#779",
-        "US-CA#780",
-        "US-CA#781",
-        "US-CA#782",
-        "US-CA#783",
-        "US-CA#784",
-        "US-CA#785"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.102.228.57",
-      "ipv6": "2a02:6ea0:c803:5951::10",
-      "domain": "node-us-388.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-CA#786",
-        "US-CA#787",
-        "US-CA#788",
-        "US-CA#789",
-        "US-CA#790",
-        "US-CA#791",
-        "US-CA#792",
-        "US-CA#793",
-        "US-CA#794",
-        "US-CA#795",
-        "US-CA#796",
-        "US-CA#797",
-        "US-CA#798",
-        "US-CA#799",
-        "US-CA#800",
-        "US-CA#801",
-        "US-CA#802",
-        "US-CA#803",
-        "US-CA#804",
-        "US-CA#805",
-        "US-CA#806",
-        "US-CA#807",
-        "US-CA#808",
-        "US-CA#809",
-        "US-CA#810",
-        "US-CA#811",
-        "US-CA#812"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.102.228.85",
-      "ipv6": "2a02:6ea0:c803:5957::10",
-      "domain": "node-us-385.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-CA#705",
-        "US-CA#706",
-        "US-CA#707",
-        "US-CA#708",
-        "US-CA#709",
-        "US-CA#710",
-        "US-CA#711",
-        "US-CA#712",
-        "US-CA#713",
-        "US-CA#714",
-        "US-CA#715",
-        "US-CA#716",
-        "US-CA#717",
-        "US-CA#718",
-        "US-CA#719",
-        "US-CA#720",
-        "US-CA#721",
-        "US-CA#722",
-        "US-CA#723",
-        "US-CA#724",
-        "US-CA#725",
-        "US-CA#726",
-        "US-CA#727",
-        "US-CA#728",
-        "US-CA#729",
-        "US-CA#730",
-        "US-CA#731"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
-      "ipv4": "149.40.49.30",
-      "ipv6": "2a02:6ea0:c412:5956::10",
-      "domain": "node-us-381.protonvpn.net",
-      "servers": [
-        "IS-US#1",
-        "US-NY#704",
-        "US-NY#705",
-        "US-NY#706",
-        "US-NY#707",
-        "US-NY#708",
-        "US-NY#709",
-        "US-NY#710",
-        "US-NY#711",
-        "US-NY#712",
-        "US-NY#713",
-        "US-NY#714",
-        "US-NY#715",
-        "US-NY#716",
-        "US-NY#717",
-        "US-NY#718",
-        "US-NY#719",
-        "US-NY#720",
-        "US-NY#721",
-        "US-NY#722",
-        "US-NY#723",
-        "US-NY#724",
-        "US-NY#725",
-        "US-NY#726",
-        "US-NY#727",
-        "US-NY#728",
-        "US-NY#729",
-        "US-NY#730",
-        "US-NY#731"
-      ],
-      "ipv6Enabled": true,
-      "city": "New York"
-    },
-    {
       "ipv4": "143.244.44.181",
       "ipv6": "2a02:6ea0:c412:2354::10",
       "domain": "node-us-159.protonvpn.net",
@@ -12166,8 +11609,28 @@
         "US-NY#174",
         "US-NY#175",
         "US-NY#176",
-        "US-NY#177",
-        "CH-US#3"
+        "US-NY#177"
+      ],
+      "ipv6Enabled": true,
+      "city": "New York"
+    },
+    {
+      "ipv4": "146.70.202.162",
+      "ipv6": "2a0d:5600:24:64::10",
+      "domain": "node-us-188.protonvpn.net",
+      "servers": [
+        "US-NY#178",
+        "US-NY#179",
+        "US-NY#180",
+        "US-NY#181",
+        "US-NY#182",
+        "US-NY#183",
+        "US-NY#184",
+        "US-NY#185",
+        "US-NY#186",
+        "US-NY#187",
+        "US-NY#188",
+        "US-NY#189"
       ],
       "ipv6Enabled": true,
       "city": "New York"
@@ -12188,8 +11651,7 @@
         "US-NY#198",
         "US-NY#199",
         "US-NY#200",
-        "US-NY#201",
-        "CH-US#3"
+        "US-NY#201"
       ],
       "ipv6Enabled": true,
       "city": "New York"
@@ -12223,8 +11685,7 @@
         "US-NY#294",
         "US-NY#295",
         "US-NY#296",
-        "US-NY#297",
-        "CH-US#3"
+        "US-NY#297"
       ],
       "ipv6Enabled": true,
       "city": "New York"
@@ -12246,8 +11707,31 @@
         "US-NY#431",
         "US-NY#432",
         "US-NY#433",
-        "US-NY#434",
-        "CH-US#3"
+        "US-NY#434"
+      ],
+      "ipv6Enabled": true,
+      "city": "New York"
+    },
+    {
+      "ipv4": "149.102.226.193",
+      "ipv6": "2a02:6ea0:c412:2659::10",
+      "domain": "node-us-201.protonvpn.net",
+      "servers": [
+        "US-NY#435",
+        "US-NY#436",
+        "US-NY#437",
+        "US-NY#438",
+        "US-NY#439",
+        "US-NY#440",
+        "US-NY#441",
+        "US-NY#442",
+        "US-NY#443",
+        "US-NY#444",
+        "US-NY#445",
+        "US-NY#446",
+        "US-NY#447",
+        "US-NY#448",
+        "US-NY#449"
       ],
       "ipv6Enabled": true,
       "city": "New York"
@@ -12323,8 +11807,7 @@
         "US-NY#495",
         "US-NY#496",
         "US-NY#497",
-        "US-NY#498",
-        "CH-US#3"
+        "US-NY#498"
       ],
       "ipv6Enabled": true,
       "city": "New York"
@@ -12351,6 +11834,32 @@
         "US-NY#513",
         "US-NY#514",
         "US-NY#515"
+      ],
+      "ipv6Enabled": true,
+      "city": "New York"
+    },
+    {
+      "ipv4": "146.70.72.130",
+      "ipv6": "2a0d:5600:24:a::10",
+      "domain": "node-us-144.protonvpn.net",
+      "servers": [
+        "US-NY#516",
+        "US-NY#517",
+        "US-NY#518",
+        "US-NY#519",
+        "US-NY#520",
+        "US-NY#521",
+        "US-NY#522",
+        "US-NY#523",
+        "US-NY#524",
+        "US-NY#525",
+        "US-NY#526",
+        "US-NY#527",
+        "US-NY#528",
+        "US-NY#529",
+        "US-NY#530",
+        "US-NY#531",
+        "US-NY#532"
       ],
       "ipv6Enabled": true,
       "city": "New York"
@@ -12402,8 +11911,7 @@
         "US-NY#563",
         "US-NY#564",
         "US-NY#565",
-        "US-NY#566",
-        "CH-US#3"
+        "US-NY#566"
       ],
       "ipv6Enabled": true,
       "city": "New York"
@@ -12483,6 +11991,32 @@
       "city": "New York"
     },
     {
+      "ipv4": "146.70.202.18",
+      "ipv6": "2a0d:5600:24:3d::10",
+      "domain": "node-us-197.protonvpn.net",
+      "servers": [
+        "US-NY#614",
+        "US-NY#615",
+        "US-NY#616",
+        "US-NY#617",
+        "US-NY#618",
+        "US-NY#619",
+        "US-NY#620",
+        "US-NY#621",
+        "US-NY#622",
+        "US-NY#623",
+        "US-NY#624",
+        "US-NY#625",
+        "US-NY#626",
+        "US-NY#627",
+        "US-NY#628",
+        "US-NY#629",
+        "US-NY#630"
+      ],
+      "ipv6Enabled": true,
+      "city": "New York"
+    },
+    {
       "ipv4": "31.13.189.242",
       "ipv6": "2a0d:5600:24:84::10",
       "domain": "node-us-217.protonvpn.net",
@@ -12503,8 +12037,44 @@
         "US-NY#644",
         "US-NY#645",
         "US-NY#646",
-        "US-NY#647",
-        "CH-US#3"
+        "US-NY#647"
+      ],
+      "ipv6Enabled": true,
+      "city": "New York"
+    },
+    {
+      "ipv4": "149.88.21.1",
+      "ipv6": "2a02:6ea0:c412:5514::10",
+      "domain": "node-us-360.protonvpn.net",
+      "servers": [
+        "US-NY#648",
+        "US-NY#649",
+        "US-NY#650",
+        "US-NY#651",
+        "US-NY#652",
+        "US-NY#653",
+        "US-NY#654",
+        "US-NY#655",
+        "US-NY#656",
+        "US-NY#657",
+        "US-NY#658",
+        "US-NY#659",
+        "US-NY#660",
+        "US-NY#661",
+        "US-NY#662",
+        "US-NY#663",
+        "US-NY#664",
+        "US-NY#665",
+        "US-NY#666",
+        "US-NY#667",
+        "US-NY#668",
+        "US-NY#669",
+        "US-NY#670",
+        "US-NY#671",
+        "US-NY#672",
+        "US-NY#673",
+        "US-NY#674",
+        "US-NY#675"
       ],
       "ipv6Enabled": true,
       "city": "New York"
@@ -12542,6 +12112,43 @@
         "US-NY#701",
         "US-NY#702",
         "US-NY#703"
+      ],
+      "ipv6Enabled": true,
+      "city": "New York"
+    },
+    {
+      "ipv4": "149.40.49.30",
+      "ipv6": "2a02:6ea0:c412:5956::10",
+      "domain": "node-us-381.protonvpn.net",
+      "servers": [
+        "US-NY#704",
+        "US-NY#705",
+        "US-NY#706",
+        "US-NY#707",
+        "US-NY#708",
+        "US-NY#709",
+        "US-NY#710",
+        "US-NY#711",
+        "US-NY#712",
+        "US-NY#713",
+        "US-NY#714",
+        "US-NY#715",
+        "US-NY#716",
+        "US-NY#717",
+        "US-NY#718",
+        "US-NY#719",
+        "US-NY#720",
+        "US-NY#721",
+        "US-NY#722",
+        "US-NY#723",
+        "US-NY#724",
+        "US-NY#725",
+        "US-NY#726",
+        "US-NY#727",
+        "US-NY#728",
+        "US-NY#729",
+        "US-NY#730",
+        "US-NY#731"
       ],
       "ipv6Enabled": true,
       "city": "New York"
@@ -12643,8 +12250,7 @@
         "BA#6",
         "BA#7",
         "BA#8",
-        "BA#9",
-        "CH-BA#2"
+        "BA#9"
       ],
       "ipv6Enabled": false,
       "city": "Novi Travnik"
@@ -12684,7 +12290,6 @@
       "ipv6": "2001:ac8:38:58::10",
       "domain": "node-no-03.protonvpn.net",
       "servers": [
-        "IS-NO#1",
         "NO#13",
         "NO#14",
         "NO#15",
@@ -12709,8 +12314,7 @@
         "NO#29",
         "NO#30",
         "NO#31",
-        "NO#32",
-        "CH-NO#2"
+        "NO#32"
       ],
       "ipv6Enabled": true,
       "city": "Oslo"
@@ -12731,8 +12335,7 @@
         "NO#41",
         "NO#42",
         "NO#43",
-        "NO#44",
-        "CH-NO#2"
+        "NO#44"
       ],
       "ipv6Enabled": true,
       "city": "Oslo"
@@ -12915,8 +12518,7 @@
         "FR#93",
         "FR#94",
         "FR#95",
-        "FR#96",
-        "CH-FR#2"
+        "FR#96"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -12937,8 +12539,7 @@
         "FR#105",
         "FR#106",
         "FR#107",
-        "FR#108",
-        "CH-FR#2"
+        "FR#108"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -12959,8 +12560,7 @@
         "FR#117",
         "FR#118",
         "FR#119",
-        "FR#120",
-        "CH-FR#2"
+        "FR#120"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -12981,8 +12581,7 @@
         "FR#178",
         "FR#179",
         "FR#180",
-        "FR#181",
-        "CH-FR#2"
+        "FR#181"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -13003,8 +12602,7 @@
         "FR#129",
         "FR#130",
         "FR#131",
-        "FR#132",
-        "CH-FR#2"
+        "FR#132"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -13025,8 +12623,7 @@
         "FR#166",
         "FR#167",
         "FR#168",
-        "FR#169",
-        "CH-FR#2"
+        "FR#169"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -13047,8 +12644,7 @@
         "FR#154",
         "FR#155",
         "FR#156",
-        "FR#157",
-        "CH-FR#2"
+        "FR#157"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -13069,8 +12665,7 @@
         "FR#141",
         "FR#142",
         "FR#143",
-        "FR#144",
-        "CH-FR#2"
+        "FR#144"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -13131,8 +12726,7 @@
         "FR#273",
         "FR#274",
         "FR#275",
-        "FR#276",
-        "IS-FR#1"
+        "FR#276"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -13167,8 +12761,7 @@
         "FR#299",
         "FR#300",
         "FR#301",
-        "FR#302",
-        "IS-FR#1"
+        "FR#302"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -13203,8 +12796,7 @@
         "FR#325",
         "FR#326",
         "FR#327",
-        "FR#328",
-        "IS-FR#1"
+        "FR#328"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -13245,44 +12837,6 @@
       "city": "Paris"
     },
     {
-      "ipv4": "79.127.169.1",
-      "ipv6": "2a02:6ea0:c90f:5496::10",
-      "domain": "node-fr-30.protonvpn.net",
-      "servers": [
-        "IS-FR#1",
-        "FR#383",
-        "FR#384",
-        "FR#385",
-        "FR#386",
-        "FR#387",
-        "FR#388",
-        "FR#389",
-        "FR#390",
-        "FR#391",
-        "FR#392",
-        "FR#393",
-        "FR#394",
-        "FR#395",
-        "FR#396",
-        "FR#397",
-        "FR#398",
-        "FR#399",
-        "FR#400",
-        "FR#401",
-        "FR#402",
-        "FR#403",
-        "FR#404",
-        "FR#405",
-        "FR#406",
-        "FR#407",
-        "FR#408",
-        "FR#409",
-        "FR#410"
-      ],
-      "ipv6Enabled": true,
-      "city": "Paris"
-    },
-    {
       "ipv4": "79.127.169.59",
       "ipv6": "2a02:6ea0:c90f:5495::10",
       "domain": "node-fr-29.protonvpn.net",
@@ -13315,6 +12869,43 @@
         "FR#380",
         "FR#381",
         "FR#382"
+      ],
+      "ipv6Enabled": true,
+      "city": "Paris"
+    },
+    {
+      "ipv4": "79.127.169.1",
+      "ipv6": "2a02:6ea0:c90f:5496::10",
+      "domain": "node-fr-30.protonvpn.net",
+      "servers": [
+        "FR#383",
+        "FR#384",
+        "FR#385",
+        "FR#386",
+        "FR#387",
+        "FR#388",
+        "FR#389",
+        "FR#390",
+        "FR#391",
+        "FR#392",
+        "FR#393",
+        "FR#394",
+        "FR#395",
+        "FR#396",
+        "FR#397",
+        "FR#398",
+        "FR#399",
+        "FR#400",
+        "FR#401",
+        "FR#402",
+        "FR#403",
+        "FR#404",
+        "FR#405",
+        "FR#406",
+        "FR#407",
+        "FR#408",
+        "FR#409",
+        "FR#410"
       ],
       "ipv6Enabled": true,
       "city": "Paris"
@@ -13612,6 +13203,28 @@
       "city": "Perth"
     },
     {
+      "ipv4": "103.108.231.18",
+      "ipv6": "2404:f780:8:3136::10",
+      "domain": "node-au-13.protonvpn.net",
+      "servers": [
+        "AU#230",
+        "AU#231",
+        "AU#232",
+        "AU#233",
+        "AU#234",
+        "AU#235",
+        "AU#236",
+        "AU#237",
+        "AU#238",
+        "AU#239",
+        "AU#240",
+        "AU#241",
+        "AU#242"
+      ],
+      "ipv6Enabled": true,
+      "city": "Perth"
+    },
+    {
       "ipv4": "103.108.231.242",
       "ipv6": null,
       "domain": "node-au-23.protonvpn.net",
@@ -13631,6 +13244,40 @@
       ],
       "ipv6Enabled": false,
       "city": "Perth"
+    },
+    {
+      "ipv4": "103.108.231.226",
+      "ipv6": null,
+      "domain": "node-au-24.protonvpn.net",
+      "servers": [
+        "AU#279",
+        "AU#280",
+        "AU#281",
+        "AU#282",
+        "AU#283",
+        "AU#284",
+        "AU#285",
+        "AU#286",
+        "AU#287",
+        "AU#288",
+        "AU#289",
+        "AU#290"
+      ],
+      "ipv6Enabled": false,
+      "city": "Perth"
+    },
+    {
+      "ipv4": "185.185.134.146",
+      "ipv6": null,
+      "domain": "node-il-03.protonvpn.net",
+      "servers": [
+        "IL#9",
+        "IL#10",
+        "IL#11",
+        "IL#12"
+      ],
+      "ipv6Enabled": false,
+      "city": "Petah Tikva"
     },
     {
       "ipv4": "146.70.156.2",
@@ -13755,6 +13402,65 @@
       "city": "Phoenix"
     },
     {
+      "ipv4": "193.37.254.66",
+      "ipv6": "2a0d:5600:2:19::10",
+      "domain": "node-us-126.protonvpn.net",
+      "servers": [
+        "US-AZ#100",
+        "US-AZ#101",
+        "US-AZ#102",
+        "US-AZ#103",
+        "US-AZ#104",
+        "US-AZ#81",
+        "US-AZ#82",
+        "US-AZ#83",
+        "US-AZ#84",
+        "US-AZ#85",
+        "US-AZ#86",
+        "US-AZ#87",
+        "US-AZ#88",
+        "US-AZ#89",
+        "US-AZ#90",
+        "US-AZ#91",
+        "US-AZ#92",
+        "US-AZ#93",
+        "US-AZ#94",
+        "US-AZ#95",
+        "US-AZ#96",
+        "US-AZ#97",
+        "US-AZ#98",
+        "US-AZ#99"
+      ],
+      "ipv6Enabled": true,
+      "city": "Phoenix"
+    },
+    {
+      "ipv4": "193.37.254.178",
+      "ipv6": "2a0d:5600:2:20::10",
+      "domain": "node-us-208.protonvpn.net",
+      "servers": [
+        "US-AZ#150",
+        "US-AZ#151",
+        "US-AZ#152",
+        "US-AZ#153",
+        "US-AZ#154",
+        "US-AZ#155",
+        "US-AZ#156",
+        "US-AZ#157",
+        "US-AZ#158",
+        "US-AZ#159",
+        "US-AZ#160",
+        "US-AZ#161",
+        "US-AZ#162",
+        "US-AZ#163",
+        "US-AZ#164",
+        "US-AZ#165",
+        "US-AZ#166"
+      ],
+      "ipv6Enabled": true,
+      "city": "Phoenix"
+    },
+    {
       "ipv4": "79.135.105.88",
       "ipv6": null,
       "domain": "me-02.protonvpn.net",
@@ -13796,8 +13502,7 @@
         "CZ#41",
         "CZ#42",
         "CZ#43",
-        "CZ#44",
-        "IS-CZ#1"
+        "CZ#44"
       ],
       "ipv6Enabled": true,
       "city": "Prague"
@@ -13823,8 +13528,7 @@
         "CZ#58",
         "CZ#59",
         "CZ#60",
-        "CZ#61",
-        "CH-CZ#2"
+        "CZ#61"
       ],
       "ipv6Enabled": true,
       "city": "Prague"
@@ -13913,8 +13617,7 @@
         "EC#5",
         "EC#6",
         "EC#7",
-        "EC#8",
-        "IS-EC#1"
+        "EC#8"
       ],
       "ipv6Enabled": true,
       "city": "Quito"
@@ -14024,9 +13727,7 @@
         "LV#5",
         "LV#6",
         "LV#7",
-        "LV#8",
-        "CH-LV#2",
-        "CH-LV#2"
+        "LV#8"
       ],
       "ipv6Enabled": false,
       "city": "Riga"
@@ -14297,8 +13998,7 @@
         "US-CA#85",
         "US-CA#86",
         "US-CA#87",
-        "US-CA#88",
-        "CH-US#3"
+        "US-CA#88"
       ],
       "ipv6Enabled": true,
       "city": "San Jose"
@@ -14432,8 +14132,7 @@
         "US-CA#6",
         "US-CA#7",
         "US-CA#8",
-        "US-CA#9",
-        "CH-US#3"
+        "US-CA#9"
       ],
       "ipv6Enabled": true,
       "city": "San Jose"
@@ -14469,6 +14168,30 @@
         "US-CA#536",
         "US-CA#537",
         "US-CA#538"
+      ],
+      "ipv6Enabled": true,
+      "city": "San Jose"
+    },
+    {
+      "ipv4": "149.36.48.141",
+      "ipv6": "2a02:6ea0:e606:2641::10",
+      "domain": "node-us-199.protonvpn.net",
+      "servers": [
+        "US-CA#539",
+        "US-CA#540",
+        "US-CA#541",
+        "US-CA#542",
+        "US-CA#543",
+        "US-CA#544",
+        "US-CA#545",
+        "US-CA#546",
+        "US-CA#547",
+        "US-CA#548",
+        "US-CA#549",
+        "US-CA#550",
+        "US-CA#551",
+        "US-CA#552",
+        "US-CA#553"
       ],
       "ipv6Enabled": true,
       "city": "San Jose"
@@ -14810,8 +14533,7 @@
         "PR#5",
         "PR#6",
         "PR#7",
-        "PR#8",
-        "IS-PR#1"
+        "PR#8"
       ],
       "ipv6Enabled": true,
       "city": "San Juan"
@@ -14905,7 +14627,6 @@
       "ipv6": "2a10:9007:3:2::10",
       "domain": "node-cl-04.protonvpn.net",
       "servers": [
-        "IS-CL#1",
         "CL#25",
         "CL#26",
         "CL#27",
@@ -15009,8 +14730,33 @@
         "US-WA#122",
         "US-WA#123",
         "US-WA#124",
-        "US-WA#125",
-        "CH-US#3"
+        "US-WA#125"
+      ],
+      "ipv6Enabled": true,
+      "city": "Seattle"
+    },
+    {
+      "ipv4": "156.146.51.65",
+      "ipv6": "2a02:6ea0:d802:2111::10",
+      "domain": "node-us-124.protonvpn.net",
+      "servers": [
+        "US-WA#126",
+        "US-WA#127",
+        "US-WA#128",
+        "US-WA#129",
+        "US-WA#130",
+        "US-WA#131",
+        "US-WA#132",
+        "US-WA#133",
+        "US-WA#134",
+        "US-WA#135",
+        "US-WA#136",
+        "US-WA#137",
+        "US-WA#138",
+        "US-WA#139",
+        "US-WA#140",
+        "US-WA#141",
+        "US-WA#142"
       ],
       "ipv6Enabled": true,
       "city": "Seattle"
@@ -15036,8 +14782,7 @@
         "US-WA#156",
         "US-WA#157",
         "US-WA#158",
-        "US-WA#159",
-        "CH-US#3"
+        "US-WA#159"
       ],
       "ipv6Enabled": true,
       "city": "Seattle"
@@ -15082,6 +14827,43 @@
       "city": "Seattle"
     },
     {
+      "ipv4": "149.40.62.62",
+      "ipv6": "2a02:6ea0:d802:5501::10",
+      "domain": "node-us-355.protonvpn.net",
+      "servers": [
+        "US-WA#160",
+        "US-WA#161",
+        "US-WA#162",
+        "US-WA#163",
+        "US-WA#164",
+        "US-WA#165",
+        "US-WA#166",
+        "US-WA#167",
+        "US-WA#168",
+        "US-WA#169",
+        "US-WA#170",
+        "US-WA#171",
+        "US-WA#172",
+        "US-WA#173",
+        "US-WA#174",
+        "US-WA#175",
+        "US-WA#176",
+        "US-WA#177",
+        "US-WA#178",
+        "US-WA#179",
+        "US-WA#180",
+        "US-WA#181",
+        "US-WA#182",
+        "US-WA#183",
+        "US-WA#184",
+        "US-WA#185",
+        "US-WA#186",
+        "US-WA#187"
+      ],
+      "ipv6Enabled": true,
+      "city": "Seattle"
+    },
+    {
       "ipv4": "149.40.62.91",
       "ipv6": "2a02:6ea0:d802:5502::10",
       "domain": "node-us-356.protonvpn.net",
@@ -15114,6 +14896,43 @@
         "US-WA#213",
         "US-WA#214",
         "US-WA#215"
+      ],
+      "ipv6Enabled": true,
+      "city": "Seattle"
+    },
+    {
+      "ipv4": "149.22.88.149",
+      "ipv6": "2a02:6ea0:d802:5515::10",
+      "domain": "node-us-368.protonvpn.net",
+      "servers": [
+        "US-WA#216",
+        "US-WA#217",
+        "US-WA#218",
+        "US-WA#219",
+        "US-WA#220",
+        "US-WA#221",
+        "US-WA#222",
+        "US-WA#223",
+        "US-WA#224",
+        "US-WA#225",
+        "US-WA#226",
+        "US-WA#227",
+        "US-WA#228",
+        "US-WA#229",
+        "US-WA#230",
+        "US-WA#231",
+        "US-WA#232",
+        "US-WA#233",
+        "US-WA#234",
+        "US-WA#235",
+        "US-WA#236",
+        "US-WA#237",
+        "US-WA#238",
+        "US-WA#239",
+        "US-WA#240",
+        "US-WA#241",
+        "US-WA#242",
+        "US-WA#243"
       ],
       "ipv6Enabled": true,
       "city": "Seattle"
@@ -15196,6 +15015,74 @@
         "US-NJ#73",
         "US-NJ#74",
         "US-NJ#75"
+      ],
+      "ipv6Enabled": false,
+      "city": "Secaucus"
+    },
+    {
+      "ipv4": "163.5.171.56",
+      "ipv6": null,
+      "domain": "node-us-258.protonvpn.net",
+      "servers": [
+        "US-NJ#100",
+        "US-NJ#76",
+        "US-NJ#77",
+        "US-NJ#78",
+        "US-NJ#79",
+        "US-NJ#80",
+        "US-NJ#81",
+        "US-NJ#82",
+        "US-NJ#83",
+        "US-NJ#84",
+        "US-NJ#85",
+        "US-NJ#86",
+        "US-NJ#87",
+        "US-NJ#88",
+        "US-NJ#89",
+        "US-NJ#90",
+        "US-NJ#91",
+        "US-NJ#92",
+        "US-NJ#93",
+        "US-NJ#94",
+        "US-NJ#95",
+        "US-NJ#96",
+        "US-NJ#97",
+        "US-NJ#98",
+        "US-NJ#99"
+      ],
+      "ipv6Enabled": false,
+      "city": "Secaucus"
+    },
+    {
+      "ipv4": "163.5.171.83",
+      "ipv6": null,
+      "domain": "node-us-259.protonvpn.net",
+      "servers": [
+        "US-NJ#101",
+        "US-NJ#102",
+        "US-NJ#103",
+        "US-NJ#104",
+        "US-NJ#105",
+        "US-NJ#106",
+        "US-NJ#107",
+        "US-NJ#108",
+        "US-NJ#109",
+        "US-NJ#110",
+        "US-NJ#111",
+        "US-NJ#112",
+        "US-NJ#113",
+        "US-NJ#114",
+        "US-NJ#115",
+        "US-NJ#116",
+        "US-NJ#117",
+        "US-NJ#118",
+        "US-NJ#119",
+        "US-NJ#120",
+        "US-NJ#121",
+        "US-NJ#122",
+        "US-NJ#123",
+        "US-NJ#124",
+        "US-NJ#125"
       ],
       "ipv6Enabled": false,
       "city": "Secaucus"
@@ -15483,8 +15370,7 @@
         "LT#62",
         "LT#63",
         "LT#64",
-        "LT#65",
-        "CH-LT#2"
+        "LT#65"
       ],
       "ipv6Enabled": false,
       "city": "Siauliai"
@@ -15501,8 +15387,7 @@
         "SG#73",
         "SG#74",
         "SG#75",
-        "SG#76",
-        "CH-SG#2"
+        "SG#76"
       ],
       "ipv6Enabled": true,
       "city": "Singapore"
@@ -15830,8 +15715,7 @@
         "MK#01",
         "MK#02",
         "MK#03",
-        "MK#04",
-        "CH-MK#2"
+        "MK#04"
       ],
       "ipv6Enabled": false,
       "city": "Skopje"
@@ -16295,11 +16179,32 @@
       "city": "Stockholm"
     },
     {
+      "ipv4": "138.199.33.236",
+      "ipv6": "2a02:6ea0:db0a:2333::10",
+      "domain": "node-au-11.protonvpn.net",
+      "servers": [
+        "AU#1",
+        "AU#10",
+        "AU#11",
+        "AU#12",
+        "AU#13",
+        "AU#2",
+        "AU#3",
+        "AU#4",
+        "AU#5",
+        "AU#6",
+        "AU#7",
+        "AU#8",
+        "AU#9"
+      ],
+      "ipv6Enabled": true,
+      "city": "Sydney"
+    },
+    {
       "ipv4": "138.199.33.225",
       "ipv6": "2a02:6ea0:db0a:2334::10",
       "domain": "node-au-12.protonvpn.net",
       "servers": [
-        "IS-AU#1",
         "AU#14",
         "AU#15",
         "AU#16",
@@ -16318,42 +16223,10 @@
       "city": "Sydney"
     },
     {
-      "ipv4": "144.48.39.226",
-      "ipv6": null,
-      "domain": "node-au-18.protonvpn.net",
-      "servers": [
-        "IS-AU#1",
-        "AU#166",
-        "AU#167",
-        "AU#168",
-        "AU#169",
-        "AU#170",
-        "AU#171",
-        "AU#172",
-        "AU#173",
-        "AU#174",
-        "AU#175",
-        "AU#176",
-        "AU#177",
-        "AU#178",
-        "AU#179",
-        "AU#180",
-        "AU#181",
-        "AU#182",
-        "AU#183",
-        "AU#184",
-        "AU#185",
-        "AU#186"
-      ],
-      "ipv6Enabled": true,
-      "city": "Sydney"
-    },
-    {
       "ipv4": "180.149.229.130",
       "ipv6": null,
       "domain": "node-au-14.protonvpn.net",
       "servers": [
-        "IS-AU#1",
         "AU#200",
         "AU#201",
         "AU#202",
@@ -16368,163 +16241,7 @@
         "AU#211",
         "AU#212"
       ],
-      "ipv6Enabled": true,
-      "city": "Sydney"
-    },
-    {
-      "ipv4": "103.108.231.18",
-      "ipv6": "2404:f780:8:3136::10",
-      "domain": "node-au-13.protonvpn.net",
-      "servers": [
-        "IS-AU#1",
-        "AU#230",
-        "AU#231",
-        "AU#232",
-        "AU#233",
-        "AU#234",
-        "AU#235",
-        "AU#236",
-        "AU#237",
-        "AU#238",
-        "AU#239",
-        "AU#240",
-        "AU#241",
-        "AU#242"
-      ],
-      "ipv6Enabled": true,
-      "city": "Sydney"
-    },
-    {
-      "ipv4": "180.149.228.82",
-      "ipv6": null,
-      "domain": "node-au-22.protonvpn.net",
-      "servers": [
-        "IS-AU#1",
-        "AU#255",
-        "AU#256",
-        "AU#257",
-        "AU#258",
-        "AU#259",
-        "AU#260",
-        "AU#261",
-        "AU#262",
-        "AU#263",
-        "AU#264",
-        "AU#265",
-        "AU#266"
-      ],
-      "ipv6Enabled": true,
-      "city": "Sydney"
-    },
-    {
-      "ipv4": "103.108.231.226",
-      "ipv6": null,
-      "domain": "node-au-24.protonvpn.net",
-      "servers": [
-        "IS-AU#1",
-        "AU#279",
-        "AU#280",
-        "AU#281",
-        "AU#282",
-        "AU#283",
-        "AU#284",
-        "AU#285",
-        "AU#286",
-        "AU#287",
-        "AU#288",
-        "AU#289",
-        "AU#290"
-      ],
-      "ipv6Enabled": true,
-      "city": "Sydney"
-    },
-    {
-      "ipv4": "144.48.38.98",
-      "ipv6": null,
-      "domain": "node-au-26.protonvpn.net",
-      "servers": [
-        "IS-AU#1",
-        "AU#303",
-        "AU#304",
-        "AU#305",
-        "AU#306",
-        "AU#307",
-        "AU#308",
-        "AU#309",
-        "AU#310",
-        "AU#311",
-        "AU#312",
-        "AU#313",
-        "AU#314"
-      ],
-      "ipv6Enabled": true,
-      "city": "Sydney"
-    },
-    {
-      "ipv4": "103.25.57.130",
-      "ipv6": null,
-      "domain": "node-au-28.protonvpn.net",
-      "servers": [
-        "IS-AU#1",
-        "AU#327",
-        "AU#328",
-        "AU#329",
-        "AU#330",
-        "AU#331",
-        "AU#332",
-        "AU#333",
-        "AU#334",
-        "AU#335",
-        "AU#336",
-        "AU#337",
-        "AU#338"
-      ],
-      "ipv6Enabled": true,
-      "city": "Sydney"
-    },
-    {
-      "ipv4": "103.216.220.162",
-      "ipv6": null,
-      "domain": "node-au-30.protonvpn.net",
-      "servers": [
-        "IS-AU#1",
-        "AU#351",
-        "AU#352",
-        "AU#353",
-        "AU#354",
-        "AU#355",
-        "AU#356",
-        "AU#357",
-        "AU#358",
-        "AU#359",
-        "AU#360",
-        "AU#361",
-        "AU#362"
-      ],
-      "ipv6Enabled": true,
-      "city": "Sydney"
-    },
-    {
-      "ipv4": "138.199.33.236",
-      "ipv6": "2a02:6ea0:db0a:2333::10",
-      "domain": "node-au-11.protonvpn.net",
-      "servers": [
-        "AU#1",
-        "AU#10",
-        "AU#11",
-        "AU#12",
-        "AU#13",
-        "AU#2",
-        "AU#3",
-        "AU#4",
-        "AU#5",
-        "AU#6",
-        "AU#7",
-        "AU#8",
-        "AU#9",
-        "CH-AU#2"
-      ],
-      "ipv6Enabled": true,
+      "ipv6Enabled": false,
       "city": "Sydney"
     },
     {
@@ -16549,11 +16266,31 @@
       "city": "Sydney"
     },
     {
+      "ipv4": "180.149.228.82",
+      "ipv6": null,
+      "domain": "node-au-22.protonvpn.net",
+      "servers": [
+        "AU#255",
+        "AU#256",
+        "AU#257",
+        "AU#258",
+        "AU#259",
+        "AU#260",
+        "AU#261",
+        "AU#262",
+        "AU#263",
+        "AU#264",
+        "AU#265",
+        "AU#266"
+      ],
+      "ipv6Enabled": false,
+      "city": "Sydney"
+    },
+    {
       "ipv4": "149.102.251.97",
       "ipv6": "2a02:6ea0:d012:2078::10",
       "domain": "node-br-04.protonvpn.net",
       "servers": [
-        "IS-BR#2",
         "BR#21",
         "BR#22",
         "BR#23",
@@ -16639,8 +16376,7 @@
         "BR#70",
         "BR#71",
         "BR#72",
-        "BR#73",
-        "CH-BR#2"
+        "BR#73"
       ],
       "ipv6Enabled": true,
       "city": "São Paulo"
@@ -16715,8 +16451,7 @@
         "TW#17",
         "TW#18",
         "TW#19",
-        "TW#20",
-        "CH-TW#2"
+        "TW#20"
       ],
       "ipv6Enabled": false,
       "city": "Taichung City"
@@ -16754,8 +16489,7 @@
         "EE#5",
         "EE#6",
         "EE#7",
-        "EE#8",
-        "CH-EE#2"
+        "EE#8"
       ],
       "ipv6Enabled": false,
       "city": "Tallinn"
@@ -16866,20 +16600,6 @@
       "city": "Tbilisi"
     },
     {
-      "ipv4": "185.185.134.146",
-      "ipv6": null,
-      "domain": "node-il-03.protonvpn.net",
-      "servers": [
-        "IS-IL#1",
-        "IL#9",
-        "IL#10",
-        "IL#11",
-        "IL#12"
-      ],
-      "ipv6Enabled": false,
-      "city": "Tel Aviv"
-    },
-    {
       "ipv4": "169.150.226.161",
       "ipv6": null,
       "domain": "node-il-04.protonvpn.net",
@@ -16984,8 +16704,7 @@
         "JP#158",
         "JP#159",
         "JP#160",
-        "JP#161",
-        "CH-JP#2"
+        "JP#161"
       ],
       "ipv6Enabled": true,
       "city": "Tokyo"
@@ -17099,8 +16818,7 @@
         "JP#240",
         "JP#241",
         "JP#242",
-        "JP#243",
-        "CH-JP#2"
+        "JP#243"
       ],
       "ipv6Enabled": false,
       "city": "Tokyo"
@@ -17565,86 +17283,6 @@
       "city": "Tokyo"
     },
     {
-      "ipv4": "146.70.198.34",
-      "ipv6": "2a0d:5600:9:a23::10",
-      "domain": "node-ca-17.protonvpn.net",
-      "servers": [
-        "IS-CA#1",
-        "CA#97",
-        "CA#98",
-        "CA#99",
-        "CA#100",
-        "CA#101",
-        "CA#102",
-        "CA#103",
-        "CA#104",
-        "CA#105",
-        "CA#106",
-        "CA#107",
-        "CA#108"
-      ],
-      "ipv6Enabled": true,
-      "city": "Toronto"
-    },
-    {
-      "ipv4": "146.70.198.2",
-      "ipv6": "2a0d:5600:9:a21::10",
-      "domain": "node-ca-19.protonvpn.net",
-      "servers": [
-        "IS-CA#1",
-        "CA#121",
-        "CA#122",
-        "CA#123",
-        "CA#124",
-        "CA#125",
-        "CA#126",
-        "CA#127",
-        "CA#128",
-        "CA#129",
-        "CA#130",
-        "CA#131",
-        "CA#132"
-      ],
-      "ipv6Enabled": true,
-      "city": "Toronto"
-    },
-    {
-      "ipv4": "79.127.254.65",
-      "ipv6": null,
-      "domain": "node-ca-35.protonvpn.net",
-      "servers": [
-        "IS-CA#1",
-        "CA#524",
-        "CA#525",
-        "CA#526",
-        "CA#527",
-        "CA#528",
-        "CA#529",
-        "CA#530",
-        "CA#531",
-        "CA#532",
-        "CA#533",
-        "CA#534",
-        "CA#535",
-        "CA#536",
-        "CA#537",
-        "CA#538",
-        "CA#539",
-        "CA#540",
-        "CA#541",
-        "CA#542",
-        "CA#543",
-        "CA#544",
-        "CA#545",
-        "CA#546",
-        "CA#547",
-        "CA#548",
-        "CA#549"
-      ],
-      "ipv6Enabled": true,
-      "city": "Toronto"
-    },
-    {
       "ipv4": "178.249.214.65",
       "ipv6": "2a02:6ea0:de10:2126::10",
       "domain": "node-ca-09.protonvpn.net",
@@ -17660,8 +17298,7 @@
         "CA#57",
         "CA#58",
         "CA#59",
-        "CA#60",
-        "CH-CA#2"
+        "CA#60"
       ],
       "ipv6Enabled": true,
       "city": "Toronto"
@@ -17678,8 +17315,7 @@
         "CA#73",
         "CA#74",
         "CA#75",
-        "CA#76",
-        "CH-CA#2"
+        "CA#76"
       ],
       "ipv6Enabled": true,
       "city": "Toronto"
@@ -17871,8 +17507,7 @@
         "CA#20",
         "CA#21",
         "CA#22",
-        "CA#9",
-        "CH-CA#2"
+        "CA#9"
       ],
       "ipv6Enabled": true,
       "city": "Toronto"
@@ -18375,8 +18010,7 @@
         "MT#5",
         "MT#6",
         "MT#7",
-        "MT#8",
-        "IS-MT#1"
+        "MT#8"
       ],
       "ipv6Enabled": true,
       "city": "Valletta"
@@ -18393,8 +18027,7 @@
         "CA#153",
         "CA#154",
         "CA#155",
-        "CA#156",
-        "CH-CA#2"
+        "CA#156"
       ],
       "ipv6Enabled": true,
       "city": "Vancouver"
@@ -18411,8 +18044,7 @@
         "CA#145",
         "CA#146",
         "CA#147",
-        "CA#148",
-        "CH-CA#2"
+        "CA#148"
       ],
       "ipv6Enabled": true,
       "city": "Vancouver"
@@ -18518,6 +18150,41 @@
         "CA#521",
         "CA#522",
         "CA#523"
+      ],
+      "ipv6Enabled": false,
+      "city": "Vancouver"
+    },
+    {
+      "ipv4": "79.127.254.65",
+      "ipv6": null,
+      "domain": "node-ca-35.protonvpn.net",
+      "servers": [
+        "CA#524",
+        "CA#525",
+        "CA#526",
+        "CA#527",
+        "CA#528",
+        "CA#529",
+        "CA#530",
+        "CA#531",
+        "CA#532",
+        "CA#533",
+        "CA#534",
+        "CA#535",
+        "CA#536",
+        "CA#537",
+        "CA#538",
+        "CA#539",
+        "CA#540",
+        "CA#541",
+        "CA#542",
+        "CA#543",
+        "CA#544",
+        "CA#545",
+        "CA#546",
+        "CA#547",
+        "CA#548",
+        "CA#549"
       ],
       "ipv6Enabled": false,
       "city": "Vancouver"
@@ -18857,8 +18524,7 @@
         "AT#71",
         "AT#72",
         "AT#73",
-        "AT#74",
-        "CH-AT#2"
+        "AT#74"
       ],
       "ipv6Enabled": true,
       "city": "Vienna"
@@ -18881,8 +18547,7 @@
         "AT#85",
         "AT#86",
         "AT#87",
-        "AT#88",
-        "CH-AT#2"
+        "AT#88"
       ],
       "ipv6Enabled": true,
       "city": "Vienna"
@@ -18948,8 +18613,7 @@
         "AT#133",
         "AT#134",
         "AT#135",
-        "AT#136",
-        "CH-AT#2"
+        "AT#136"
       ],
       "ipv6Enabled": false,
       "city": "Vienna"
@@ -19045,8 +18709,7 @@
         "PL#57",
         "PL#58",
         "PL#59",
-        "PL#60",
-        "CH-PL#2"
+        "PL#60"
       ],
       "ipv6Enabled": true,
       "city": "Warsaw"
@@ -19067,46 +18730,7 @@
         "PL#69",
         "PL#70",
         "PL#71",
-        "PL#72",
-        "IS-PL#1"
-      ],
-      "ipv6Enabled": true,
-      "city": "Warsaw"
-    },
-    {
-      "ipv4": "79.127.186.222",
-      "ipv6": null,
-      "domain": "node-pl-16.protonvpn.net",
-      "servers": [
-        "IS-PL#1",
-        "PL#101",
-        "PL#102",
-        "PL#103",
-        "PL#104",
-        "PL#105",
-        "PL#106",
-        "PL#107",
-        "PL#108",
-        "PL#109",
-        "PL#110",
-        "PL#111",
-        "PL#112",
-        "PL#113",
-        "PL#114",
-        "PL#115",
-        "PL#116",
-        "PL#117",
-        "PL#118",
-        "PL#119",
-        "PL#120",
-        "PL#121",
-        "PL#122",
-        "PL#123",
-        "PL#124",
-        "PL#125",
-        "PL#126",
-        "PL#127",
-        "PL#128"
+        "PL#72"
       ],
       "ipv6Enabled": true,
       "city": "Warsaw"
@@ -19145,8 +18769,7 @@
         "PL#6",
         "PL#7",
         "PL#8",
-        "PL#9",
-        "CH-PL#2"
+        "PL#9"
       ],
       "ipv6Enabled": true,
       "city": "Warsaw"
@@ -19184,6 +18807,43 @@
         "PL#97",
         "PL#98",
         "PL#99"
+      ],
+      "ipv6Enabled": false,
+      "city": "Warsaw"
+    },
+    {
+      "ipv4": "79.127.186.222",
+      "ipv6": null,
+      "domain": "node-pl-16.protonvpn.net",
+      "servers": [
+        "PL#101",
+        "PL#102",
+        "PL#103",
+        "PL#104",
+        "PL#105",
+        "PL#106",
+        "PL#107",
+        "PL#108",
+        "PL#109",
+        "PL#110",
+        "PL#111",
+        "PL#112",
+        "PL#113",
+        "PL#114",
+        "PL#115",
+        "PL#116",
+        "PL#117",
+        "PL#118",
+        "PL#119",
+        "PL#120",
+        "PL#121",
+        "PL#122",
+        "PL#123",
+        "PL#124",
+        "PL#125",
+        "PL#126",
+        "PL#127",
+        "PL#128"
       ],
       "ipv6Enabled": false,
       "city": "Warsaw"
@@ -19438,10 +19098,118 @@
         "US-DC#34",
         "US-DC#35",
         "US-DC#36",
-        "US-DC#37",
-        "CH-US#3"
+        "US-DC#37"
       ],
       "ipv6Enabled": true,
+      "city": "Washington"
+    },
+    {
+      "ipv4": "217.138.198.246",
+      "ipv6": null,
+      "domain": "node-us-237.protonvpn.net",
+      "servers": [
+        "US-DC#100",
+        "US-DC#101",
+        "US-DC#102",
+        "US-DC#103",
+        "US-DC#104",
+        "US-DC#105",
+        "US-DC#106",
+        "US-DC#107",
+        "US-DC#108",
+        "US-DC#109",
+        "US-DC#110",
+        "US-DC#111",
+        "US-DC#112",
+        "US-DC#113",
+        "US-DC#114",
+        "US-DC#115",
+        "US-DC#116",
+        "US-DC#117",
+        "US-DC#118",
+        "US-DC#119",
+        "US-DC#120",
+        "US-DC#121",
+        "US-DC#122",
+        "US-DC#123",
+        "US-DC#124",
+        "US-DC#125",
+        "US-DC#126",
+        "US-DC#127",
+        "US-DC#128",
+        "US-DC#129",
+        "US-DC#130",
+        "US-DC#131",
+        "US-DC#132",
+        "US-DC#133",
+        "US-DC#134",
+        "US-DC#135",
+        "US-DC#136",
+        "US-DC#137",
+        "US-DC#138",
+        "US-DC#139",
+        "US-DC#140",
+        "US-DC#141",
+        "US-DC#142",
+        "US-DC#143",
+        "US-DC#144",
+        "US-DC#145",
+        "US-DC#146",
+        "US-DC#147",
+        "US-DC#148",
+        "US-DC#149",
+        "US-DC#150",
+        "US-DC#151",
+        "US-DC#152",
+        "US-DC#153",
+        "US-DC#154",
+        "US-DC#155",
+        "US-DC#156",
+        "US-DC#157",
+        "US-DC#158",
+        "US-DC#159",
+        "US-DC#160",
+        "US-DC#161",
+        "US-DC#62",
+        "US-DC#63",
+        "US-DC#64",
+        "US-DC#65",
+        "US-DC#66",
+        "US-DC#67",
+        "US-DC#68",
+        "US-DC#69",
+        "US-DC#70",
+        "US-DC#71",
+        "US-DC#72",
+        "US-DC#73",
+        "US-DC#74",
+        "US-DC#75",
+        "US-DC#76",
+        "US-DC#77",
+        "US-DC#78",
+        "US-DC#79",
+        "US-DC#80",
+        "US-DC#81",
+        "US-DC#82",
+        "US-DC#83",
+        "US-DC#84",
+        "US-DC#85",
+        "US-DC#86",
+        "US-DC#87",
+        "US-DC#88",
+        "US-DC#89",
+        "US-DC#90",
+        "US-DC#91",
+        "US-DC#92",
+        "US-DC#93",
+        "US-DC#94",
+        "US-DC#95",
+        "US-DC#96",
+        "US-DC#97",
+        "US-DC#98",
+        "US-DC#99"
+      ],
+      "ipv6Enabled": false,
       "city": "Washington"
     },
     {
@@ -19502,8 +19270,7 @@
         "MM#05",
         "MM#06",
         "MM#07",
-        "MM#08",
-        "CH-MM#2"
+        "MM#08"
       ],
       "ipv6Enabled": true,
       "city": "Yangon"
@@ -19557,8 +19324,7 @@
         "HR#5",
         "HR#6",
         "HR#7",
-        "HR#8",
-        "CH-HR#2"
+        "HR#8"
       ],
       "ipv6Enabled": false,
       "city": "Zagreb"

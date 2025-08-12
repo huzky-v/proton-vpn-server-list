@@ -105,7 +105,9 @@ async function main() {
     };
 
     grouped[baseName].push(entryObj);
-    if (!entryObj.Name.startsWith("SE-") ) allEntries.push(entryObj);
+    if (!entryObj.Name.startsWith("SE-") 
+    && !entryObj.Name.startsWith("CH-") 
+    && !entryObj.Name.startsWith("IS-") ) allEntries.push(entryObj);
   }
 
   // Write grouped-by-baseName JSON
