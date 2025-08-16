@@ -6,17 +6,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"
@@ -30,17 +34,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"
@@ -54,17 +62,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"
@@ -78,17 +90,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"
@@ -102,17 +118,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"
@@ -126,17 +146,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"
@@ -150,17 +174,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"
@@ -174,17 +202,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"
@@ -198,17 +230,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"
@@ -222,17 +258,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"
@@ -246,17 +286,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"
@@ -270,17 +314,21 @@
       "ipv4": [
         "74.63.204.210"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2607:ff68:6:11::10"
+      ]
     },
     "City": "Salt Lake City",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-us-226.protonvpn.net",
         "ipv4": [
           "74.63.204.210"
         ],
-        "ipv6": [],
+        "ipv6": [
+          "2607:ff68:6:11::10"
+        ],
         "X25519PublicKey": "fDSDNxB7yfHbaemo7cAFMWBsEm31bVAAradL4hbBEG0=",
         "EntryIP": "74.63.204.210",
         "ExitIP": "74.63.204.210"

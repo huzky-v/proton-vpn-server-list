@@ -1,5 +1,5 @@
 {
-  "genDate": "2025-08-12T20:23:34.936Z",
+  "genDate": "2025-08-16T18:37:32.568Z",
   "data": [
     {
       "ipv4": "185.76.11.27",
@@ -10248,35 +10248,6 @@
       "city": "Marseille"
     },
     {
-      "ipv4": "217.79.104.2",
-      "ipv6": "2a02:6ea0:dc0e:6208::10",
-      "domain": "node-fr-32.protonvpn.net",
-      "servers": [
-        "FR#720",
-        "FR#721",
-        "FR#722",
-        "FR#723",
-        "FR#724",
-        "FR#725",
-        "FR#726",
-        "FR#727",
-        "FR#728",
-        "FR#729",
-        "FR#730",
-        "FR#731",
-        "FR#732",
-        "FR#733",
-        "FR#734",
-        "FR#735",
-        "FR#736",
-        "FR#737",
-        "FR#738",
-        "FR#739"
-      ],
-      "ipv6Enabled": true,
-      "city": "Marseille"
-    },
-    {
       "ipv4": "79.127.147.3",
       "ipv6": null,
       "domain": "node-us-308.protonvpn.net",
@@ -13267,19 +13238,6 @@
       "city": "Perth"
     },
     {
-      "ipv4": "185.185.134.146",
-      "ipv6": null,
-      "domain": "node-il-03.protonvpn.net",
-      "servers": [
-        "IL#9",
-        "IL#10",
-        "IL#11",
-        "IL#12"
-      ],
-      "ipv6Enabled": false,
-      "city": "Petah Tikva"
-    },
-    {
       "ipv4": "146.70.156.2",
       "ipv6": null,
       "domain": "node-us-312.protonvpn.net",
@@ -13768,7 +13726,7 @@
     },
     {
       "ipv4": "74.63.204.210",
-      "ipv6": null,
+      "ipv6": "2607:ff68:6:11::10",
       "domain": "node-us-226.protonvpn.net",
       "servers": [
         "US-UT#41",
@@ -13784,7 +13742,7 @@
         "US-UT#51",
         "US-UT#52"
       ],
-      "ipv6Enabled": false,
+      "ipv6Enabled": true,
       "city": "Salt Lake City"
     },
     {
