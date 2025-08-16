@@ -55,7 +55,7 @@ function groupByIPv4(allEntries) {
             city: entry.City
           });
         }
-        map.get(ipv4Addr).servers.push(entry.Name);
+        if (map.get(ipv4Addr).servers.indexOf(entry.Name) == -1) map.get(ipv4Addr).servers.push(entry.Name);
       }
     }
   }

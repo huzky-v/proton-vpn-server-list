@@ -1,5 +1,5 @@
 {
-  "genDate": "2025-08-16T18:37:32.568Z",
+  "genDate": "2025-08-16T18:59:44.960Z",
   "data": [
     {
       "ipv4": "185.76.11.27",
@@ -239,9 +239,6 @@
       "ipv6": "2a00:7c80::3a4:10",
       "domain": "node-nl-108.protonvpn.net",
       "servers": [
-        "NL-FREE#79",
-        "NL-FREE#79",
-        "NL-FREE#79",
         "NL-FREE#79"
       ],
       "ipv6Enabled": true,
@@ -252,9 +249,6 @@
       "ipv6": "2a00:7c80::3c5:10",
       "domain": "node-nl-138.protonvpn.net",
       "servers": [
-        "NL-FREE#102",
-        "NL-FREE#102",
-        "NL-FREE#102",
         "NL-FREE#102"
       ],
       "ipv6Enabled": true,
@@ -265,9 +259,6 @@
       "ipv6": "2a00:7c80::3c6:10",
       "domain": "node-nl-139.protonvpn.net",
       "servers": [
-        "NL-FREE#103",
-        "NL-FREE#103",
-        "NL-FREE#103",
         "NL-FREE#103"
       ],
       "ipv6Enabled": true,
@@ -278,9 +269,6 @@
       "ipv6": "2a00:7c80::3c7:10",
       "domain": "node-nl-140.protonvpn.net",
       "servers": [
-        "NL-FREE#104",
-        "NL-FREE#104",
-        "NL-FREE#104",
         "NL-FREE#104"
       ],
       "ipv6Enabled": true,
@@ -291,9 +279,6 @@
       "ipv6": "2a00:7c80::3c8:10",
       "domain": "node-nl-141.protonvpn.net",
       "servers": [
-        "NL-FREE#105",
-        "NL-FREE#105",
-        "NL-FREE#105",
         "NL-FREE#105"
       ],
       "ipv6Enabled": true,
@@ -304,9 +289,6 @@
       "ipv6": "2a00:7c80::3c9:10",
       "domain": "node-nl-142.protonvpn.net",
       "servers": [
-        "NL-FREE#106",
-        "NL-FREE#106",
-        "NL-FREE#106",
         "NL-FREE#106"
       ],
       "ipv6Enabled": true,
@@ -317,9 +299,6 @@
       "ipv6": "2a02:6ea0:c041:2338::10",
       "domain": "node-nl-147.protonvpn.net",
       "servers": [
-        "NL-FREE#111",
-        "NL-FREE#111",
-        "NL-FREE#111",
         "NL-FREE#111"
       ],
       "ipv6Enabled": true,
@@ -330,9 +309,6 @@
       "ipv6": "2a02:6ea0:c041:2339::10",
       "domain": "node-nl-148.protonvpn.net",
       "servers": [
-        "NL-FREE#112",
-        "NL-FREE#112",
-        "NL-FREE#112",
         "NL-FREE#112"
       ],
       "ipv6Enabled": true,
@@ -343,9 +319,6 @@
       "ipv6": "2a02:6ea0:c041:2341::10",
       "domain": "node-nl-150.protonvpn.net",
       "servers": [
-        "NL-FREE#114",
-        "NL-FREE#114",
-        "NL-FREE#114",
         "NL-FREE#114"
       ],
       "ipv6Enabled": true,
@@ -356,9 +329,6 @@
       "ipv6": "2a02:6ea0:c041:2343::10",
       "domain": "node-nl-152.protonvpn.net",
       "servers": [
-        "NL-FREE#116",
-        "NL-FREE#116",
-        "NL-FREE#116",
         "NL-FREE#116"
       ],
       "ipv6Enabled": true,
@@ -369,9 +339,6 @@
       "ipv6": "2a02:6ea0:c041:2344::10",
       "domain": "node-nl-153.protonvpn.net",
       "servers": [
-        "NL-FREE#117",
-        "NL-FREE#117",
-        "NL-FREE#117",
         "NL-FREE#117"
       ],
       "ipv6Enabled": true,
@@ -382,9 +349,6 @@
       "ipv6": "2a02:6ea0:c041:2345::10",
       "domain": "node-nl-154.protonvpn.net",
       "servers": [
-        "NL-FREE#118",
-        "NL-FREE#118",
-        "NL-FREE#118",
         "NL-FREE#118"
       ],
       "ipv6Enabled": true,
@@ -395,9 +359,6 @@
       "ipv6": "2a02:6ea0:c041:2346::10",
       "domain": "node-nl-155.protonvpn.net",
       "servers": [
-        "NL-FREE#119",
-        "NL-FREE#119",
-        "NL-FREE#119",
         "NL-FREE#119"
       ],
       "ipv6Enabled": true,
@@ -408,9 +369,6 @@
       "ipv6": "2a02:6ea0:c041:2347::10",
       "domain": "node-nl-156.protonvpn.net",
       "servers": [
-        "NL-FREE#120",
-        "NL-FREE#120",
-        "NL-FREE#120",
         "NL-FREE#120"
       ],
       "ipv6Enabled": true,
@@ -421,9 +379,6 @@
       "ipv6": "2a02:6ea0:c041:2348::10",
       "domain": "node-nl-157.protonvpn.net",
       "servers": [
-        "NL-FREE#121",
-        "NL-FREE#121",
-        "NL-FREE#121",
         "NL-FREE#121"
       ],
       "ipv6Enabled": true,
@@ -434,9 +389,6 @@
       "ipv6": "2a02:6ea0:c041:2349::10",
       "domain": "node-nl-158.protonvpn.net",
       "servers": [
-        "NL-FREE#122",
-        "NL-FREE#122",
-        "NL-FREE#122",
         "NL-FREE#122"
       ],
       "ipv6Enabled": true,
@@ -447,9 +399,6 @@
       "ipv6": null,
       "domain": "node-nl-162.protonvpn.net",
       "servers": [
-        "NL-FREE#126",
-        "NL-FREE#126",
-        "NL-FREE#126",
         "NL-FREE#126"
       ],
       "ipv6Enabled": false,
@@ -460,9 +409,6 @@
       "ipv6": null,
       "domain": "node-nl-161.protonvpn.net",
       "servers": [
-        "NL-FREE#125",
-        "NL-FREE#125",
-        "NL-FREE#125",
         "NL-FREE#125"
       ],
       "ipv6Enabled": false,
@@ -473,9 +419,6 @@
       "ipv6": null,
       "domain": "node-nl-163.protonvpn.net",
       "servers": [
-        "NL-FREE#127",
-        "NL-FREE#127",
-        "NL-FREE#127",
         "NL-FREE#127"
       ],
       "ipv6Enabled": false,
@@ -486,9 +429,6 @@
       "ipv6": null,
       "domain": "node-nl-164.protonvpn.net",
       "servers": [
-        "NL-FREE#128",
-        "NL-FREE#128",
-        "NL-FREE#128",
         "NL-FREE#128"
       ],
       "ipv6Enabled": false,
@@ -499,9 +439,6 @@
       "ipv6": null,
       "domain": "node-nl-159.protonvpn.net",
       "servers": [
-        "NL-FREE#123",
-        "NL-FREE#123",
-        "NL-FREE#123",
         "NL-FREE#123"
       ],
       "ipv6Enabled": false,
@@ -512,9 +449,6 @@
       "ipv6": null,
       "domain": "node-nl-160.protonvpn.net",
       "servers": [
-        "NL-FREE#124",
-        "NL-FREE#124",
-        "NL-FREE#124",
         "NL-FREE#124"
       ],
       "ipv6Enabled": false,
@@ -525,9 +459,6 @@
       "ipv6": null,
       "domain": "node-nl-170.protonvpn.net",
       "servers": [
-        "NL-FREE#130",
-        "NL-FREE#130",
-        "NL-FREE#130",
         "NL-FREE#130"
       ],
       "ipv6Enabled": false,
@@ -538,9 +469,6 @@
       "ipv6": null,
       "domain": "node-nl-171.protonvpn.net",
       "servers": [
-        "NL-FREE#131",
-        "NL-FREE#131",
-        "NL-FREE#131",
         "NL-FREE#131"
       ],
       "ipv6Enabled": false,
@@ -551,9 +479,6 @@
       "ipv6": null,
       "domain": "node-nl-172.protonvpn.net",
       "servers": [
-        "NL-FREE#132",
-        "NL-FREE#132",
-        "NL-FREE#132",
         "NL-FREE#132"
       ],
       "ipv6Enabled": false,
@@ -564,9 +489,6 @@
       "ipv6": "2a00:7c80::3b0:10",
       "domain": "node-nl-169.protonvpn.net",
       "servers": [
-        "NL-FREE#129",
-        "NL-FREE#129",
-        "NL-FREE#129",
         "NL-FREE#129"
       ],
       "ipv6Enabled": true,
@@ -1183,20 +1105,6 @@
       "ipv6": null,
       "domain": "node-nl-224.protonvpn.net",
       "servers": [
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
-        "NL-FREE#198",
         "NL-FREE#198"
       ],
       "ipv6Enabled": false,
@@ -1207,20 +1115,6 @@
       "ipv6": null,
       "domain": "node-nl-238.protonvpn.net",
       "servers": [
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
-        "NL-FREE#212",
         "NL-FREE#212"
       ],
       "ipv6Enabled": false,
@@ -1231,20 +1125,6 @@
       "ipv6": null,
       "domain": "node-nl-239.protonvpn.net",
       "servers": [
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
-        "NL-FREE#213",
         "NL-FREE#213"
       ],
       "ipv6Enabled": false,
@@ -1255,20 +1135,6 @@
       "ipv6": null,
       "domain": "node-nl-240.protonvpn.net",
       "servers": [
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
-        "NL-FREE#214",
         "NL-FREE#214"
       ],
       "ipv6Enabled": false,
@@ -1279,19 +1145,6 @@
       "ipv6": null,
       "domain": "node-nl-248.protonvpn.net",
       "servers": [
-        "NL-FREE#222",
-        "NL-FREE#222",
-        "NL-FREE#222",
-        "NL-FREE#222",
-        "NL-FREE#222",
-        "NL-FREE#222",
-        "NL-FREE#222",
-        "NL-FREE#222",
-        "NL-FREE#222",
-        "NL-FREE#222",
-        "NL-FREE#222",
-        "NL-FREE#222",
-        "NL-FREE#222",
         "NL-FREE#222"
       ],
       "ipv6Enabled": false,
@@ -1302,19 +1155,6 @@
       "ipv6": null,
       "domain": "node-nl-249.protonvpn.net",
       "servers": [
-        "NL-FREE#223",
-        "NL-FREE#223",
-        "NL-FREE#223",
-        "NL-FREE#223",
-        "NL-FREE#223",
-        "NL-FREE#223",
-        "NL-FREE#223",
-        "NL-FREE#223",
-        "NL-FREE#223",
-        "NL-FREE#223",
-        "NL-FREE#223",
-        "NL-FREE#223",
-        "NL-FREE#223",
         "NL-FREE#223"
       ],
       "ipv6Enabled": false,
@@ -1325,19 +1165,6 @@
       "ipv6": null,
       "domain": "node-nl-250.protonvpn.net",
       "servers": [
-        "NL-FREE#224",
-        "NL-FREE#224",
-        "NL-FREE#224",
-        "NL-FREE#224",
-        "NL-FREE#224",
-        "NL-FREE#224",
-        "NL-FREE#224",
-        "NL-FREE#224",
-        "NL-FREE#224",
-        "NL-FREE#224",
-        "NL-FREE#224",
-        "NL-FREE#224",
-        "NL-FREE#224",
         "NL-FREE#224"
       ],
       "ipv6Enabled": false,
@@ -1348,19 +1175,6 @@
       "ipv6": null,
       "domain": "node-nl-251.protonvpn.net",
       "servers": [
-        "NL-FREE#225",
-        "NL-FREE#225",
-        "NL-FREE#225",
-        "NL-FREE#225",
-        "NL-FREE#225",
-        "NL-FREE#225",
-        "NL-FREE#225",
-        "NL-FREE#225",
-        "NL-FREE#225",
-        "NL-FREE#225",
-        "NL-FREE#225",
-        "NL-FREE#225",
-        "NL-FREE#225",
         "NL-FREE#225"
       ],
       "ipv6Enabled": false,
@@ -1371,20 +1185,6 @@
       "ipv6": null,
       "domain": "node-nl-252.protonvpn.net",
       "servers": [
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
-        "NL-FREE#226",
         "NL-FREE#226"
       ],
       "ipv6Enabled": false,
@@ -1395,20 +1195,6 @@
       "ipv6": null,
       "domain": "node-nl-272.protonvpn.net",
       "servers": [
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
-        "NL-FREE#246",
         "NL-FREE#246"
       ],
       "ipv6Enabled": false,
@@ -3577,17 +3363,6 @@
       "ipv6": null,
       "domain": "node-ro-12.protonvpn.net",
       "servers": [
-        "RO-FREE#23",
-        "RO-FREE#23",
-        "RO-FREE#23",
-        "RO-FREE#23",
-        "RO-FREE#23",
-        "RO-FREE#23",
-        "RO-FREE#23",
-        "RO-FREE#23",
-        "RO-FREE#23",
-        "RO-FREE#23",
-        "RO-FREE#23",
         "RO-FREE#23"
       ],
       "ipv6Enabled": false,
@@ -3598,17 +3373,6 @@
       "ipv6": null,
       "domain": "node-ro-13.protonvpn.net",
       "servers": [
-        "RO-FREE#24",
-        "RO-FREE#24",
-        "RO-FREE#24",
-        "RO-FREE#24",
-        "RO-FREE#24",
-        "RO-FREE#24",
-        "RO-FREE#24",
-        "RO-FREE#24",
-        "RO-FREE#24",
-        "RO-FREE#24",
-        "RO-FREE#24",
         "RO-FREE#24"
       ],
       "ipv6Enabled": false,
@@ -3619,17 +3383,6 @@
       "ipv6": null,
       "domain": "node-ro-14.protonvpn.net",
       "servers": [
-        "RO-FREE#25",
-        "RO-FREE#25",
-        "RO-FREE#25",
-        "RO-FREE#25",
-        "RO-FREE#25",
-        "RO-FREE#25",
-        "RO-FREE#25",
-        "RO-FREE#25",
-        "RO-FREE#25",
-        "RO-FREE#25",
-        "RO-FREE#25",
         "RO-FREE#25"
       ],
       "ipv6Enabled": false,
@@ -3640,17 +3393,6 @@
       "ipv6": null,
       "domain": "node-ro-15.protonvpn.net",
       "servers": [
-        "RO-FREE#26",
-        "RO-FREE#26",
-        "RO-FREE#26",
-        "RO-FREE#26",
-        "RO-FREE#26",
-        "RO-FREE#26",
-        "RO-FREE#26",
-        "RO-FREE#26",
-        "RO-FREE#26",
-        "RO-FREE#26",
-        "RO-FREE#26",
         "RO-FREE#26"
       ],
       "ipv6Enabled": false,
@@ -4160,9 +3902,6 @@
       "ipv6": "2a02:6ea0:c603:2234::10",
       "domain": "node-us-156.protonvpn.net",
       "servers": [
-        "US-FREE#46",
-        "US-FREE#46",
-        "US-FREE#46",
         "US-FREE#46"
       ],
       "ipv6Enabled": true,
@@ -6941,9 +6680,6 @@
       "ipv6": "2a02:6ea0:e00a:2241::10",
       "domain": "node-us-155.protonvpn.net",
       "servers": [
-        "US-FREE#47",
-        "US-FREE#47",
-        "US-FREE#47",
         "US-FREE#47"
       ],
       "ipv6Enabled": true,
@@ -6954,9 +6690,6 @@
       "ipv6": "2a02:6ea0:e00a:2239::10",
       "domain": "node-us-153.protonvpn.net",
       "servers": [
-        "US-FREE#44",
-        "US-FREE#44",
-        "US-FREE#44",
         "US-FREE#44"
       ],
       "ipv6Enabled": true,
@@ -6967,9 +6700,6 @@
       "ipv6": "2a02:6ea0:e00a:2242::10",
       "domain": "node-us-154.protonvpn.net",
       "servers": [
-        "US-FREE#45",
-        "US-FREE#45",
-        "US-FREE#45",
         "US-FREE#45"
       ],
       "ipv6Enabled": true,
@@ -8866,9 +8596,6 @@
       "ipv6": "2a0d:5600:8:110::10",
       "domain": "node-us-175.protonvpn.net",
       "servers": [
-        "US-FREE#54",
-        "US-FREE#54",
-        "US-FREE#54",
         "US-FREE#54"
       ],
       "ipv6Enabled": true,
@@ -9125,9 +8852,6 @@
       "ipv6": null,
       "domain": "node-us-290.protonvpn.net",
       "servers": [
-        "US-FREE#92",
-        "US-FREE#92",
-        "US-FREE#92",
         "US-FREE#92"
       ],
       "ipv6Enabled": false,
@@ -9138,9 +8862,6 @@
       "ipv6": null,
       "domain": "node-us-291.protonvpn.net",
       "servers": [
-        "US-FREE#93",
-        "US-FREE#93",
-        "US-FREE#93",
         "US-FREE#93"
       ],
       "ipv6Enabled": false,
@@ -9151,9 +8872,6 @@
       "ipv6": null,
       "domain": "node-us-292.protonvpn.net",
       "servers": [
-        "US-FREE#94",
-        "US-FREE#94",
-        "US-FREE#94",
         "US-FREE#94"
       ],
       "ipv6Enabled": false,
@@ -10539,9 +10257,6 @@
       "ipv6": "2a0d:5600:6:ad1c::10",
       "domain": "node-us-184.protonvpn.net",
       "servers": [
-        "US-FREE#52",
-        "US-FREE#52",
-        "US-FREE#52",
         "US-FREE#52"
       ],
       "ipv6Enabled": true,
@@ -10896,10 +10611,6 @@
       "ipv6": "2a02:6ea0:cc02:5478::10",
       "domain": "node-us-335.protonvpn.net",
       "servers": [
-        "US-FREE#87",
-        "US-FREE#87",
-        "US-FREE#87",
-        "US-FREE#87",
         "US-FREE#87"
       ],
       "ipv6Enabled": true,
@@ -10910,10 +10621,6 @@
       "ipv6": "2a02:6ea0:cc02:5480::10",
       "domain": "node-us-337.protonvpn.net",
       "servers": [
-        "US-FREE#88",
-        "US-FREE#88",
-        "US-FREE#88",
-        "US-FREE#88",
         "US-FREE#88"
       ],
       "ipv6Enabled": true,
@@ -10924,10 +10631,6 @@
       "ipv6": "2a02:6ea0:cc02:5481::10",
       "domain": "node-us-338.protonvpn.net",
       "servers": [
-        "US-FREE#89",
-        "US-FREE#89",
-        "US-FREE#89",
-        "US-FREE#89",
         "US-FREE#89"
       ],
       "ipv6Enabled": true,
@@ -10938,10 +10641,6 @@
       "ipv6": "2a02:6ea0:cc02:5516::10",
       "domain": "node-us-336.protonvpn.net",
       "servers": [
-        "US-FREE#106",
-        "US-FREE#106",
-        "US-FREE#106",
-        "US-FREE#106",
         "US-FREE#106"
       ],
       "ipv6Enabled": true,
@@ -11543,9 +11242,6 @@
       "ipv6": "2a02:6ea0:c412:2354::10",
       "domain": "node-us-159.protonvpn.net",
       "servers": [
-        "US-FREE#49",
-        "US-FREE#49",
-        "US-FREE#49",
         "US-FREE#49"
       ],
       "ipv6Enabled": true,
@@ -11556,9 +11252,6 @@
       "ipv6": "2a02:6ea0:c412:2408::10",
       "domain": "node-us-162.protonvpn.net",
       "servers": [
-        "US-FREE#154",
-        "US-FREE#154",
-        "US-FREE#154",
         "US-FREE#154"
       ],
       "ipv6Enabled": true,
@@ -11632,9 +11325,6 @@
       "ipv6": "2a0d:5600:24:4c::10",
       "domain": "node-us-191.protonvpn.net",
       "servers": [
-        "US-FREE#55",
-        "US-FREE#55",
-        "US-FREE#55",
         "US-FREE#55"
       ],
       "ipv6Enabled": true,
@@ -14159,9 +13849,6 @@
       "ipv6": null,
       "domain": "node-us-285.protonvpn.net",
       "servers": [
-        "US-FREE#77",
-        "US-FREE#77",
-        "US-FREE#77",
         "US-FREE#77"
       ],
       "ipv6Enabled": false,
@@ -14172,9 +13859,6 @@
       "ipv6": null,
       "domain": "node-us-286.protonvpn.net",
       "servers": [
-        "US-FREE#78",
-        "US-FREE#78",
-        "US-FREE#78",
         "US-FREE#78"
       ],
       "ipv6Enabled": false,
@@ -14185,9 +13869,6 @@
       "ipv6": null,
       "domain": "node-us-287.protonvpn.net",
       "servers": [
-        "US-FREE#79",
-        "US-FREE#79",
-        "US-FREE#79",
         "US-FREE#79"
       ],
       "ipv6Enabled": false,
@@ -14198,9 +13879,6 @@
       "ipv6": null,
       "domain": "node-us-288.protonvpn.net",
       "servers": [
-        "US-FREE#90",
-        "US-FREE#90",
-        "US-FREE#90",
         "US-FREE#90"
       ],
       "ipv6Enabled": false,
@@ -14211,9 +13889,6 @@
       "ipv6": null,
       "domain": "node-us-289.protonvpn.net",
       "servers": [
-        "US-FREE#91",
-        "US-FREE#91",
-        "US-FREE#91",
         "US-FREE#91"
       ],
       "ipv6Enabled": false,
@@ -14750,9 +14425,6 @@
       "ipv6": null,
       "domain": "node-us-279.protonvpn.net",
       "servers": [
-        "US-FREE#33",
-        "US-FREE#33",
-        "US-FREE#33",
         "US-FREE#33"
       ],
       "ipv6Enabled": false,
@@ -14763,9 +14435,6 @@
       "ipv6": null,
       "domain": "node-us-280.protonvpn.net",
       "servers": [
-        "US-FREE#34",
-        "US-FREE#34",
-        "US-FREE#34",
         "US-FREE#34"
       ],
       "ipv6Enabled": false,
@@ -14776,9 +14445,6 @@
       "ipv6": null,
       "domain": "node-us-281.protonvpn.net",
       "servers": [
-        "US-FREE#35",
-        "US-FREE#35",
-        "US-FREE#35",
         "US-FREE#35"
       ],
       "ipv6Enabled": false,
@@ -16693,9 +16359,6 @@
       "ipv6": "2001:ac8:40:26::10",
       "domain": "node-jp-31.protonvpn.net",
       "servers": [
-        "JP-FREE#16",
-        "JP-FREE#16",
-        "JP-FREE#16",
         "JP-FREE#16"
       ],
       "ipv6Enabled": true,
@@ -16706,9 +16369,6 @@
       "ipv6": "2001:ac8:40:27::10",
       "domain": "node-jp-32.protonvpn.net",
       "servers": [
-        "JP-FREE#17",
-        "JP-FREE#17",
-        "JP-FREE#17",
         "JP-FREE#17"
       ],
       "ipv6Enabled": true,
@@ -16786,29 +16446,6 @@
       "ipv6": null,
       "domain": "node-jp-35.protonvpn.net",
       "servers": [
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
-        "JP-FREE#20",
         "JP-FREE#20"
       ],
       "ipv6Enabled": false,
@@ -16819,29 +16456,6 @@
       "ipv6": null,
       "domain": "node-jp-36.protonvpn.net",
       "servers": [
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
-        "JP-FREE#21",
         "JP-FREE#21"
       ],
       "ipv6Enabled": false,
@@ -16852,29 +16466,6 @@
       "ipv6": null,
       "domain": "node-jp-37.protonvpn.net",
       "servers": [
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
-        "JP-FREE#22",
         "JP-FREE#22"
       ],
       "ipv6Enabled": false,
@@ -16885,29 +16476,6 @@
       "ipv6": null,
       "domain": "node-jp-38.protonvpn.net",
       "servers": [
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
-        "JP-FREE#23",
         "JP-FREE#23"
       ],
       "ipv6Enabled": false,
@@ -16918,29 +16486,6 @@
       "ipv6": null,
       "domain": "node-jp-39.protonvpn.net",
       "servers": [
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
-        "JP-FREE#24",
         "JP-FREE#24"
       ],
       "ipv6Enabled": false,
@@ -16951,17 +16496,6 @@
       "ipv6": null,
       "domain": "node-jp-34.protonvpn.net",
       "servers": [
-        "JP-FREE#25",
-        "JP-FREE#25",
-        "JP-FREE#25",
-        "JP-FREE#25",
-        "JP-FREE#25",
-        "JP-FREE#25",
-        "JP-FREE#25",
-        "JP-FREE#25",
-        "JP-FREE#25",
-        "JP-FREE#25",
-        "JP-FREE#25",
         "JP-FREE#25"
       ],
       "ipv6Enabled": false,
@@ -18698,9 +18232,6 @@
       "ipv6": "2a02:6ea0:ce14:3035::10",
       "domain": "node-pl-12.protonvpn.net",
       "servers": [
-        "PL-FREE#13",
-        "PL-FREE#13",
-        "PL-FREE#13",
         "PL-FREE#13"
       ],
       "ipv6Enabled": true,
