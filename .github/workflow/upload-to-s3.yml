@@ -1,0 +1,26 @@
+# .github/workflows/upload-to-s3.yml
+name: Upload to S3
+
+on:
+  push:
+    branches:
+      - main   # or your target branch
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Upload file to S3
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --exact-timestamps
+        env:
+          AWS_S3_BUCKET:  ${{ secrets.PROTON_LIST_BUCKET_ID }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.PROTON_LIST_BUCKET_REGION }}
+          AWS_ENDPOINT_URL: ${{ secrets.PROTON_LIST_ENDPOINT }}
+          SOURCE_DIR: output-group/all.json
