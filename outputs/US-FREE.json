@@ -24,42 +24,6 @@
         "X25519PublicKey": "yB6ySO0kjqbgVWanDYKDgWoAMwM3X//nBiKXwaqmiwU=",
         "EntryIP": "89.187.180.55",
         "ExitIP": "89.187.180.55"
-      },
-      {
-        "Domain": "node-us-156.protonvpn.net",
-        "ipv4": [
-          "89.187.180.55"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c603:2234::10"
-        ],
-        "X25519PublicKey": "yB6ySO0kjqbgVWanDYKDgWoAMwM3X//nBiKXwaqmiwU=",
-        "EntryIP": "89.187.180.55",
-        "ExitIP": "89.187.180.55"
-      },
-      {
-        "Domain": "node-us-156.protonvpn.net",
-        "ipv4": [
-          "89.187.180.55"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c603:2234::10"
-        ],
-        "X25519PublicKey": "yB6ySO0kjqbgVWanDYKDgWoAMwM3X//nBiKXwaqmiwU=",
-        "EntryIP": "89.187.180.55",
-        "ExitIP": "89.187.180.55"
-      },
-      {
-        "Domain": "node-us-156.protonvpn.net",
-        "ipv4": [
-          "89.187.180.55"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c603:2234::10"
-        ],
-        "X25519PublicKey": "yB6ySO0kjqbgVWanDYKDgWoAMwM3X//nBiKXwaqmiwU=",
-        "EntryIP": "89.187.180.55",
-        "ExitIP": "89.187.180.55"
       }
     ]
   },
@@ -77,42 +41,6 @@
     "City": "Houston",
     "ipv6Enabled": true,
     "Servers": [
-      {
-        "Domain": "node-us-155.protonvpn.net",
-        "ipv4": [
-          "37.19.221.198"
-        ],
-        "ipv6": [
-          "2a02:6ea0:e00a:2241::10"
-        ],
-        "X25519PublicKey": "ksK3faRBQlFLul2FcKPphBR9LYR+6/FbP1etg0T2liA=",
-        "EntryIP": "37.19.221.198",
-        "ExitIP": "37.19.221.198"
-      },
-      {
-        "Domain": "node-us-155.protonvpn.net",
-        "ipv4": [
-          "37.19.221.198"
-        ],
-        "ipv6": [
-          "2a02:6ea0:e00a:2241::10"
-        ],
-        "X25519PublicKey": "ksK3faRBQlFLul2FcKPphBR9LYR+6/FbP1etg0T2liA=",
-        "EntryIP": "37.19.221.198",
-        "ExitIP": "37.19.221.198"
-      },
-      {
-        "Domain": "node-us-155.protonvpn.net",
-        "ipv4": [
-          "37.19.221.198"
-        ],
-        "ipv6": [
-          "2a02:6ea0:e00a:2241::10"
-        ],
-        "X25519PublicKey": "ksK3faRBQlFLul2FcKPphBR9LYR+6/FbP1etg0T2liA=",
-        "EntryIP": "37.19.221.198",
-        "ExitIP": "37.19.221.198"
-      },
       {
         "Domain": "node-us-155.protonvpn.net",
         "ipv4": [
@@ -152,42 +80,6 @@
         "X25519PublicKey": "4wqoqnWaoR8FLWkihmN4DVma/8lFn1fXQMRVs/4TD0A=",
         "EntryIP": "37.19.221.196",
         "ExitIP": "37.19.221.196"
-      },
-      {
-        "Domain": "node-us-153.protonvpn.net",
-        "ipv4": [
-          "37.19.221.196"
-        ],
-        "ipv6": [
-          "2a02:6ea0:e00a:2239::10"
-        ],
-        "X25519PublicKey": "4wqoqnWaoR8FLWkihmN4DVma/8lFn1fXQMRVs/4TD0A=",
-        "EntryIP": "37.19.221.196",
-        "ExitIP": "37.19.221.196"
-      },
-      {
-        "Domain": "node-us-153.protonvpn.net",
-        "ipv4": [
-          "37.19.221.196"
-        ],
-        "ipv6": [
-          "2a02:6ea0:e00a:2239::10"
-        ],
-        "X25519PublicKey": "4wqoqnWaoR8FLWkihmN4DVma/8lFn1fXQMRVs/4TD0A=",
-        "EntryIP": "37.19.221.196",
-        "ExitIP": "37.19.221.196"
-      },
-      {
-        "Domain": "node-us-153.protonvpn.net",
-        "ipv4": [
-          "37.19.221.196"
-        ],
-        "ipv6": [
-          "2a02:6ea0:e00a:2239::10"
-        ],
-        "X25519PublicKey": "4wqoqnWaoR8FLWkihmN4DVma/8lFn1fXQMRVs/4TD0A=",
-        "EntryIP": "37.19.221.196",
-        "ExitIP": "37.19.221.196"
       }
     ]
   },
@@ -205,42 +97,6 @@
     "City": "Houston",
     "ipv6Enabled": true,
     "Servers": [
-      {
-        "Domain": "node-us-154.protonvpn.net",
-        "ipv4": [
-          "37.19.221.199"
-        ],
-        "ipv6": [
-          "2a02:6ea0:e00a:2242::10"
-        ],
-        "X25519PublicKey": "qBUTSloO8PKGUl0ZrfTx1AZwwCwJRB+9kGD0hquFqVQ=",
-        "EntryIP": "37.19.221.199",
-        "ExitIP": "37.19.221.199"
-      },
-      {
-        "Domain": "node-us-154.protonvpn.net",
-        "ipv4": [
-          "37.19.221.199"
-        ],
-        "ipv6": [
-          "2a02:6ea0:e00a:2242::10"
-        ],
-        "X25519PublicKey": "qBUTSloO8PKGUl0ZrfTx1AZwwCwJRB+9kGD0hquFqVQ=",
-        "EntryIP": "37.19.221.199",
-        "ExitIP": "37.19.221.199"
-      },
-      {
-        "Domain": "node-us-154.protonvpn.net",
-        "ipv4": [
-          "37.19.221.199"
-        ],
-        "ipv6": [
-          "2a02:6ea0:e00a:2242::10"
-        ],
-        "X25519PublicKey": "qBUTSloO8PKGUl0ZrfTx1AZwwCwJRB+9kGD0hquFqVQ=",
-        "EntryIP": "37.19.221.199",
-        "ExitIP": "37.19.221.199"
-      },
       {
         "Domain": "node-us-154.protonvpn.net",
         "ipv4": [
@@ -280,42 +136,6 @@
         "X25519PublicKey": "QFE4bdNgpp+yfB6FzgcOn4taoW65WBYEh0nEebKk3Fs=",
         "EntryIP": "143.244.44.181",
         "ExitIP": "143.244.44.181"
-      },
-      {
-        "Domain": "node-us-159.protonvpn.net",
-        "ipv4": [
-          "143.244.44.181"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c412:2354::10"
-        ],
-        "X25519PublicKey": "QFE4bdNgpp+yfB6FzgcOn4taoW65WBYEh0nEebKk3Fs=",
-        "EntryIP": "143.244.44.181",
-        "ExitIP": "143.244.44.181"
-      },
-      {
-        "Domain": "node-us-159.protonvpn.net",
-        "ipv4": [
-          "143.244.44.181"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c412:2354::10"
-        ],
-        "X25519PublicKey": "QFE4bdNgpp+yfB6FzgcOn4taoW65WBYEh0nEebKk3Fs=",
-        "EntryIP": "143.244.44.181",
-        "ExitIP": "143.244.44.181"
-      },
-      {
-        "Domain": "node-us-159.protonvpn.net",
-        "ipv4": [
-          "143.244.44.181"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c412:2354::10"
-        ],
-        "X25519PublicKey": "QFE4bdNgpp+yfB6FzgcOn4taoW65WBYEh0nEebKk3Fs=",
-        "EntryIP": "143.244.44.181",
-        "ExitIP": "143.244.44.181"
       }
     ]
   },
@@ -333,42 +153,6 @@
     "City": "New York",
     "ipv6Enabled": true,
     "Servers": [
-      {
-        "Domain": "node-us-162.protonvpn.net",
-        "ipv4": [
-          "138.199.52.193"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c412:2408::10"
-        ],
-        "X25519PublicKey": "93rOlHiU4A7ACRTdqButvAjwrccdOgOIHwFMumODvgo=",
-        "EntryIP": "138.199.52.193",
-        "ExitIP": "138.199.52.193"
-      },
-      {
-        "Domain": "node-us-162.protonvpn.net",
-        "ipv4": [
-          "138.199.52.193"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c412:2408::10"
-        ],
-        "X25519PublicKey": "93rOlHiU4A7ACRTdqButvAjwrccdOgOIHwFMumODvgo=",
-        "EntryIP": "138.199.52.193",
-        "ExitIP": "138.199.52.193"
-      },
-      {
-        "Domain": "node-us-162.protonvpn.net",
-        "ipv4": [
-          "138.199.52.193"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c412:2408::10"
-        ],
-        "X25519PublicKey": "93rOlHiU4A7ACRTdqButvAjwrccdOgOIHwFMumODvgo=",
-        "EntryIP": "138.199.52.193",
-        "ExitIP": "138.199.52.193"
-      },
       {
         "Domain": "node-us-162.protonvpn.net",
         "ipv4": [
@@ -408,42 +192,6 @@
         "X25519PublicKey": "+X9DFBhm20MXz/f6H2uoApgNF+ZMmizfUXp0uW2XZiQ=",
         "EntryIP": "146.70.45.82",
         "ExitIP": "146.70.45.82"
-      },
-      {
-        "Domain": "node-us-184.protonvpn.net",
-        "ipv4": [
-          "146.70.45.82"
-        ],
-        "ipv6": [
-          "2a0d:5600:6:ad1c::10"
-        ],
-        "X25519PublicKey": "+X9DFBhm20MXz/f6H2uoApgNF+ZMmizfUXp0uW2XZiQ=",
-        "EntryIP": "146.70.45.82",
-        "ExitIP": "146.70.45.82"
-      },
-      {
-        "Domain": "node-us-184.protonvpn.net",
-        "ipv4": [
-          "146.70.45.82"
-        ],
-        "ipv6": [
-          "2a0d:5600:6:ad1c::10"
-        ],
-        "X25519PublicKey": "+X9DFBhm20MXz/f6H2uoApgNF+ZMmizfUXp0uW2XZiQ=",
-        "EntryIP": "146.70.45.82",
-        "ExitIP": "146.70.45.82"
-      },
-      {
-        "Domain": "node-us-184.protonvpn.net",
-        "ipv4": [
-          "146.70.45.82"
-        ],
-        "ipv6": [
-          "2a0d:5600:6:ad1c::10"
-        ],
-        "X25519PublicKey": "+X9DFBhm20MXz/f6H2uoApgNF+ZMmizfUXp0uW2XZiQ=",
-        "EntryIP": "146.70.45.82",
-        "ExitIP": "146.70.45.82"
       }
     ]
   },
@@ -461,42 +209,6 @@
     "City": "Los Angeles",
     "ipv6Enabled": true,
     "Servers": [
-      {
-        "Domain": "node-us-175.protonvpn.net",
-        "ipv4": [
-          "185.236.200.242"
-        ],
-        "ipv6": [
-          "2a0d:5600:8:110::10"
-        ],
-        "X25519PublicKey": "/w2ZK1nw2HLb7kJn1KSddcwcVepCmxvAo71A4HGYyWY=",
-        "EntryIP": "185.236.200.242",
-        "ExitIP": "185.236.200.242"
-      },
-      {
-        "Domain": "node-us-175.protonvpn.net",
-        "ipv4": [
-          "185.236.200.242"
-        ],
-        "ipv6": [
-          "2a0d:5600:8:110::10"
-        ],
-        "X25519PublicKey": "/w2ZK1nw2HLb7kJn1KSddcwcVepCmxvAo71A4HGYyWY=",
-        "EntryIP": "185.236.200.242",
-        "ExitIP": "185.236.200.242"
-      },
-      {
-        "Domain": "node-us-175.protonvpn.net",
-        "ipv4": [
-          "185.236.200.242"
-        ],
-        "ipv6": [
-          "2a0d:5600:8:110::10"
-        ],
-        "X25519PublicKey": "/w2ZK1nw2HLb7kJn1KSddcwcVepCmxvAo71A4HGYyWY=",
-        "EntryIP": "185.236.200.242",
-        "ExitIP": "185.236.200.242"
-      },
       {
         "Domain": "node-us-175.protonvpn.net",
         "ipv4": [
@@ -536,42 +248,6 @@
         "X25519PublicKey": "emDk8M7Wj/jgZapGgPA7wyiWRaLimr09vk3jpw5PIyY=",
         "EntryIP": "146.70.202.114",
         "ExitIP": "146.70.202.114"
-      },
-      {
-        "Domain": "node-us-191.protonvpn.net",
-        "ipv4": [
-          "146.70.202.114"
-        ],
-        "ipv6": [
-          "2a0d:5600:24:4c::10"
-        ],
-        "X25519PublicKey": "emDk8M7Wj/jgZapGgPA7wyiWRaLimr09vk3jpw5PIyY=",
-        "EntryIP": "146.70.202.114",
-        "ExitIP": "146.70.202.114"
-      },
-      {
-        "Domain": "node-us-191.protonvpn.net",
-        "ipv4": [
-          "146.70.202.114"
-        ],
-        "ipv6": [
-          "2a0d:5600:24:4c::10"
-        ],
-        "X25519PublicKey": "emDk8M7Wj/jgZapGgPA7wyiWRaLimr09vk3jpw5PIyY=",
-        "EntryIP": "146.70.202.114",
-        "ExitIP": "146.70.202.114"
-      },
-      {
-        "Domain": "node-us-191.protonvpn.net",
-        "ipv4": [
-          "146.70.202.114"
-        ],
-        "ipv6": [
-          "2a0d:5600:24:4c::10"
-        ],
-        "X25519PublicKey": "emDk8M7Wj/jgZapGgPA7wyiWRaLimr09vk3jpw5PIyY=",
-        "EntryIP": "146.70.202.114",
-        "ExitIP": "146.70.202.114"
       }
     ]
   },
@@ -587,36 +263,6 @@
     "City": "Seattle",
     "ipv6Enabled": false,
     "Servers": [
-      {
-        "Domain": "node-us-279.protonvpn.net",
-        "ipv4": [
-          "149.102.254.90"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "SOXFyakZ9HI9TeiMRyMoy3PXYEzJJ/IDJcMvxZ3uWSE=",
-        "EntryIP": "149.102.254.90",
-        "ExitIP": "149.102.254.90"
-      },
-      {
-        "Domain": "node-us-279.protonvpn.net",
-        "ipv4": [
-          "149.102.254.90"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "SOXFyakZ9HI9TeiMRyMoy3PXYEzJJ/IDJcMvxZ3uWSE=",
-        "EntryIP": "149.102.254.90",
-        "ExitIP": "149.102.254.90"
-      },
-      {
-        "Domain": "node-us-279.protonvpn.net",
-        "ipv4": [
-          "149.102.254.90"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "SOXFyakZ9HI9TeiMRyMoy3PXYEzJJ/IDJcMvxZ3uWSE=",
-        "EntryIP": "149.102.254.90",
-        "ExitIP": "149.102.254.90"
-      },
       {
         "Domain": "node-us-279.protonvpn.net",
         "ipv4": [
@@ -650,36 +296,6 @@
         "X25519PublicKey": "zLHCHCqpUPL9mypYmlDoEpbkl9+60DCBs9Iu1suiJmI=",
         "EntryIP": "149.102.254.89",
         "ExitIP": "149.102.254.89"
-      },
-      {
-        "Domain": "node-us-280.protonvpn.net",
-        "ipv4": [
-          "149.102.254.89"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "zLHCHCqpUPL9mypYmlDoEpbkl9+60DCBs9Iu1suiJmI=",
-        "EntryIP": "149.102.254.89",
-        "ExitIP": "149.102.254.89"
-      },
-      {
-        "Domain": "node-us-280.protonvpn.net",
-        "ipv4": [
-          "149.102.254.89"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "zLHCHCqpUPL9mypYmlDoEpbkl9+60DCBs9Iu1suiJmI=",
-        "EntryIP": "149.102.254.89",
-        "ExitIP": "149.102.254.89"
-      },
-      {
-        "Domain": "node-us-280.protonvpn.net",
-        "ipv4": [
-          "149.102.254.89"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "zLHCHCqpUPL9mypYmlDoEpbkl9+60DCBs9Iu1suiJmI=",
-        "EntryIP": "149.102.254.89",
-        "ExitIP": "149.102.254.89"
       }
     ]
   },
@@ -695,36 +311,6 @@
     "City": "Seattle",
     "ipv6Enabled": false,
     "Servers": [
-      {
-        "Domain": "node-us-281.protonvpn.net",
-        "ipv4": [
-          "149.102.254.91"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "QVosX58sjG9xnJdleIkOGJJkzu1fu9DyYQKtlQImHEQ=",
-        "EntryIP": "149.102.254.91",
-        "ExitIP": "149.102.254.91"
-      },
-      {
-        "Domain": "node-us-281.protonvpn.net",
-        "ipv4": [
-          "149.102.254.91"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "QVosX58sjG9xnJdleIkOGJJkzu1fu9DyYQKtlQImHEQ=",
-        "EntryIP": "149.102.254.91",
-        "ExitIP": "149.102.254.91"
-      },
-      {
-        "Domain": "node-us-281.protonvpn.net",
-        "ipv4": [
-          "149.102.254.91"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "QVosX58sjG9xnJdleIkOGJJkzu1fu9DyYQKtlQImHEQ=",
-        "EntryIP": "149.102.254.91",
-        "ExitIP": "149.102.254.91"
-      },
       {
         "Domain": "node-us-281.protonvpn.net",
         "ipv4": [
@@ -758,36 +344,6 @@
         "X25519PublicKey": "4R1OAr1fQR4ZHNq7T4Gkage3p7LyqMfOyhCqfu04gno=",
         "EntryIP": "149.22.84.144",
         "ExitIP": "149.22.84.144"
-      },
-      {
-        "Domain": "node-us-285.protonvpn.net",
-        "ipv4": [
-          "149.22.84.144"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "4R1OAr1fQR4ZHNq7T4Gkage3p7LyqMfOyhCqfu04gno=",
-        "EntryIP": "149.22.84.144",
-        "ExitIP": "149.22.84.144"
-      },
-      {
-        "Domain": "node-us-285.protonvpn.net",
-        "ipv4": [
-          "149.22.84.144"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "4R1OAr1fQR4ZHNq7T4Gkage3p7LyqMfOyhCqfu04gno=",
-        "EntryIP": "149.22.84.144",
-        "ExitIP": "149.22.84.144"
-      },
-      {
-        "Domain": "node-us-285.protonvpn.net",
-        "ipv4": [
-          "149.22.84.144"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "4R1OAr1fQR4ZHNq7T4Gkage3p7LyqMfOyhCqfu04gno=",
-        "EntryIP": "149.22.84.144",
-        "ExitIP": "149.22.84.144"
       }
     ]
   },
@@ -803,36 +359,6 @@
     "City": "San Jose",
     "ipv6Enabled": false,
     "Servers": [
-      {
-        "Domain": "node-us-286.protonvpn.net",
-        "ipv4": [
-          "149.22.84.134"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "s2T8s4nQ9QSLxZm8JHGtaKgErj+/iFhPyjSvLLIM2S8=",
-        "EntryIP": "149.22.84.134",
-        "ExitIP": "149.22.84.134"
-      },
-      {
-        "Domain": "node-us-286.protonvpn.net",
-        "ipv4": [
-          "149.22.84.134"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "s2T8s4nQ9QSLxZm8JHGtaKgErj+/iFhPyjSvLLIM2S8=",
-        "EntryIP": "149.22.84.134",
-        "ExitIP": "149.22.84.134"
-      },
-      {
-        "Domain": "node-us-286.protonvpn.net",
-        "ipv4": [
-          "149.22.84.134"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "s2T8s4nQ9QSLxZm8JHGtaKgErj+/iFhPyjSvLLIM2S8=",
-        "EntryIP": "149.22.84.134",
-        "ExitIP": "149.22.84.134"
-      },
       {
         "Domain": "node-us-286.protonvpn.net",
         "ipv4": [
@@ -866,36 +392,6 @@
         "X25519PublicKey": "igHNlAQgaI70R0w0OdWC9XR11xagXRcib1V4tPuU4RQ=",
         "EntryIP": "149.22.84.139",
         "ExitIP": "149.22.84.139"
-      },
-      {
-        "Domain": "node-us-287.protonvpn.net",
-        "ipv4": [
-          "149.22.84.139"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "igHNlAQgaI70R0w0OdWC9XR11xagXRcib1V4tPuU4RQ=",
-        "EntryIP": "149.22.84.139",
-        "ExitIP": "149.22.84.139"
-      },
-      {
-        "Domain": "node-us-287.protonvpn.net",
-        "ipv4": [
-          "149.22.84.139"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "igHNlAQgaI70R0w0OdWC9XR11xagXRcib1V4tPuU4RQ=",
-        "EntryIP": "149.22.84.139",
-        "ExitIP": "149.22.84.139"
-      },
-      {
-        "Domain": "node-us-287.protonvpn.net",
-        "ipv4": [
-          "149.22.84.139"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "igHNlAQgaI70R0w0OdWC9XR11xagXRcib1V4tPuU4RQ=",
-        "EntryIP": "149.22.84.139",
-        "ExitIP": "149.22.84.139"
       }
     ]
   },
@@ -911,36 +407,6 @@
     "City": "San Jose",
     "ipv6Enabled": false,
     "Servers": [
-      {
-        "Domain": "node-us-288.protonvpn.net",
-        "ipv4": [
-          "149.22.84.154"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "TaxwFJ2ajJdHlowb91UhfBxl60lsjBicCxC+dE2wDEE=",
-        "EntryIP": "149.22.84.154",
-        "ExitIP": "149.22.84.154"
-      },
-      {
-        "Domain": "node-us-288.protonvpn.net",
-        "ipv4": [
-          "149.22.84.154"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "TaxwFJ2ajJdHlowb91UhfBxl60lsjBicCxC+dE2wDEE=",
-        "EntryIP": "149.22.84.154",
-        "ExitIP": "149.22.84.154"
-      },
-      {
-        "Domain": "node-us-288.protonvpn.net",
-        "ipv4": [
-          "149.22.84.154"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "TaxwFJ2ajJdHlowb91UhfBxl60lsjBicCxC+dE2wDEE=",
-        "EntryIP": "149.22.84.154",
-        "ExitIP": "149.22.84.154"
-      },
       {
         "Domain": "node-us-288.protonvpn.net",
         "ipv4": [
@@ -974,36 +440,6 @@
         "X25519PublicKey": "lqpUGVCjx+PWmhdxC36zbJZopUc/9XM2EG5SNKoqqE4=",
         "EntryIP": "149.22.84.155",
         "ExitIP": "149.22.84.155"
-      },
-      {
-        "Domain": "node-us-289.protonvpn.net",
-        "ipv4": [
-          "149.22.84.155"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "lqpUGVCjx+PWmhdxC36zbJZopUc/9XM2EG5SNKoqqE4=",
-        "EntryIP": "149.22.84.155",
-        "ExitIP": "149.22.84.155"
-      },
-      {
-        "Domain": "node-us-289.protonvpn.net",
-        "ipv4": [
-          "149.22.84.155"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "lqpUGVCjx+PWmhdxC36zbJZopUc/9XM2EG5SNKoqqE4=",
-        "EntryIP": "149.22.84.155",
-        "ExitIP": "149.22.84.155"
-      },
-      {
-        "Domain": "node-us-289.protonvpn.net",
-        "ipv4": [
-          "149.22.84.155"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "lqpUGVCjx+PWmhdxC36zbJZopUc/9XM2EG5SNKoqqE4=",
-        "EntryIP": "149.22.84.155",
-        "ExitIP": "149.22.84.155"
       }
     ]
   },
@@ -1019,36 +455,6 @@
     "City": "Los Angeles",
     "ipv6Enabled": false,
     "Servers": [
-      {
-        "Domain": "node-us-290.protonvpn.net",
-        "ipv4": [
-          "149.22.80.119"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "trRwfcfw5Bxfo0HdQVcl1j/Ky7de7igWXlOGKlz+nTY=",
-        "EntryIP": "149.22.80.119",
-        "ExitIP": "149.22.80.119"
-      },
-      {
-        "Domain": "node-us-290.protonvpn.net",
-        "ipv4": [
-          "149.22.80.119"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "trRwfcfw5Bxfo0HdQVcl1j/Ky7de7igWXlOGKlz+nTY=",
-        "EntryIP": "149.22.80.119",
-        "ExitIP": "149.22.80.119"
-      },
-      {
-        "Domain": "node-us-290.protonvpn.net",
-        "ipv4": [
-          "149.22.80.119"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "trRwfcfw5Bxfo0HdQVcl1j/Ky7de7igWXlOGKlz+nTY=",
-        "EntryIP": "149.22.80.119",
-        "ExitIP": "149.22.80.119"
-      },
       {
         "Domain": "node-us-290.protonvpn.net",
         "ipv4": [
@@ -1082,36 +488,6 @@
         "X25519PublicKey": "n7NGyGju3MfMZyro31ipakztpW1i9XW9ArrN3C8SZSE=",
         "EntryIP": "149.22.80.109",
         "ExitIP": "149.22.80.109"
-      },
-      {
-        "Domain": "node-us-291.protonvpn.net",
-        "ipv4": [
-          "149.22.80.109"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "n7NGyGju3MfMZyro31ipakztpW1i9XW9ArrN3C8SZSE=",
-        "EntryIP": "149.22.80.109",
-        "ExitIP": "149.22.80.109"
-      },
-      {
-        "Domain": "node-us-291.protonvpn.net",
-        "ipv4": [
-          "149.22.80.109"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "n7NGyGju3MfMZyro31ipakztpW1i9XW9ArrN3C8SZSE=",
-        "EntryIP": "149.22.80.109",
-        "ExitIP": "149.22.80.109"
-      },
-      {
-        "Domain": "node-us-291.protonvpn.net",
-        "ipv4": [
-          "149.22.80.109"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "n7NGyGju3MfMZyro31ipakztpW1i9XW9ArrN3C8SZSE=",
-        "EntryIP": "149.22.80.109",
-        "ExitIP": "149.22.80.109"
       }
     ]
   },
@@ -1127,36 +503,6 @@
     "City": "Los Angeles",
     "ipv6Enabled": false,
     "Servers": [
-      {
-        "Domain": "node-us-292.protonvpn.net",
-        "ipv4": [
-          "149.22.80.114"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "0t8cQ6GkwX1CYTO8AuIwDjbBZKYFrYZjEDqkUNCBAzQ=",
-        "EntryIP": "149.22.80.114",
-        "ExitIP": "149.22.80.114"
-      },
-      {
-        "Domain": "node-us-292.protonvpn.net",
-        "ipv4": [
-          "149.22.80.114"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "0t8cQ6GkwX1CYTO8AuIwDjbBZKYFrYZjEDqkUNCBAzQ=",
-        "EntryIP": "149.22.80.114",
-        "ExitIP": "149.22.80.114"
-      },
-      {
-        "Domain": "node-us-292.protonvpn.net",
-        "ipv4": [
-          "149.22.80.114"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "0t8cQ6GkwX1CYTO8AuIwDjbBZKYFrYZjEDqkUNCBAzQ=",
-        "EntryIP": "149.22.80.114",
-        "ExitIP": "149.22.80.114"
-      },
       {
         "Domain": "node-us-292.protonvpn.net",
         "ipv4": [
@@ -1183,54 +529,6 @@
     "City": "Miami",
     "ipv6Enabled": true,
     "Servers": [
-      {
-        "Domain": "node-us-335.protonvpn.net",
-        "ipv4": [
-          "149.102.224.53"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5478::10"
-        ],
-        "X25519PublicKey": "q5gaJCz8PxEeE6f8P1lekbR+Q4IP1tyjStnsorQLY3k=",
-        "EntryIP": "149.102.224.53",
-        "ExitIP": "149.102.224.53"
-      },
-      {
-        "Domain": "node-us-335.protonvpn.net",
-        "ipv4": [
-          "149.102.224.53"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5478::10"
-        ],
-        "X25519PublicKey": "q5gaJCz8PxEeE6f8P1lekbR+Q4IP1tyjStnsorQLY3k=",
-        "EntryIP": "149.102.224.53",
-        "ExitIP": "149.102.224.53"
-      },
-      {
-        "Domain": "node-us-335.protonvpn.net",
-        "ipv4": [
-          "149.102.224.53"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5478::10"
-        ],
-        "X25519PublicKey": "q5gaJCz8PxEeE6f8P1lekbR+Q4IP1tyjStnsorQLY3k=",
-        "EntryIP": "149.102.224.53",
-        "ExitIP": "149.102.224.53"
-      },
-      {
-        "Domain": "node-us-335.protonvpn.net",
-        "ipv4": [
-          "149.102.224.53"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5478::10"
-        ],
-        "X25519PublicKey": "q5gaJCz8PxEeE6f8P1lekbR+Q4IP1tyjStnsorQLY3k=",
-        "EntryIP": "149.102.224.53",
-        "ExitIP": "149.102.224.53"
-      },
       {
         "Domain": "node-us-335.protonvpn.net",
         "ipv4": [
@@ -1270,54 +568,6 @@
         "X25519PublicKey": "gow8oSZwAXmv3bv2yaYye5b7GxZVni6gNcz8PxKvWgA=",
         "EntryIP": "138.199.50.139",
         "ExitIP": "138.199.50.139"
-      },
-      {
-        "Domain": "node-us-337.protonvpn.net",
-        "ipv4": [
-          "138.199.50.139"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5480::10"
-        ],
-        "X25519PublicKey": "gow8oSZwAXmv3bv2yaYye5b7GxZVni6gNcz8PxKvWgA=",
-        "EntryIP": "138.199.50.139",
-        "ExitIP": "138.199.50.139"
-      },
-      {
-        "Domain": "node-us-337.protonvpn.net",
-        "ipv4": [
-          "138.199.50.139"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5480::10"
-        ],
-        "X25519PublicKey": "gow8oSZwAXmv3bv2yaYye5b7GxZVni6gNcz8PxKvWgA=",
-        "EntryIP": "138.199.50.139",
-        "ExitIP": "138.199.50.139"
-      },
-      {
-        "Domain": "node-us-337.protonvpn.net",
-        "ipv4": [
-          "138.199.50.139"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5480::10"
-        ],
-        "X25519PublicKey": "gow8oSZwAXmv3bv2yaYye5b7GxZVni6gNcz8PxKvWgA=",
-        "EntryIP": "138.199.50.139",
-        "ExitIP": "138.199.50.139"
-      },
-      {
-        "Domain": "node-us-337.protonvpn.net",
-        "ipv4": [
-          "138.199.50.139"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5480::10"
-        ],
-        "X25519PublicKey": "gow8oSZwAXmv3bv2yaYye5b7GxZVni6gNcz8PxKvWgA=",
-        "EntryIP": "138.199.50.139",
-        "ExitIP": "138.199.50.139"
       }
     ]
   },
@@ -1346,54 +596,6 @@
         "X25519PublicKey": "A1lZjTXsjqmvmehp9i0zV+jzl89Vf2y2fXxeMRSjp18=",
         "EntryIP": "138.199.50.129",
         "ExitIP": "138.199.50.129"
-      },
-      {
-        "Domain": "node-us-338.protonvpn.net",
-        "ipv4": [
-          "138.199.50.129"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5481::10"
-        ],
-        "X25519PublicKey": "A1lZjTXsjqmvmehp9i0zV+jzl89Vf2y2fXxeMRSjp18=",
-        "EntryIP": "138.199.50.129",
-        "ExitIP": "138.199.50.129"
-      },
-      {
-        "Domain": "node-us-338.protonvpn.net",
-        "ipv4": [
-          "138.199.50.129"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5481::10"
-        ],
-        "X25519PublicKey": "A1lZjTXsjqmvmehp9i0zV+jzl89Vf2y2fXxeMRSjp18=",
-        "EntryIP": "138.199.50.129",
-        "ExitIP": "138.199.50.129"
-      },
-      {
-        "Domain": "node-us-338.protonvpn.net",
-        "ipv4": [
-          "138.199.50.129"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5481::10"
-        ],
-        "X25519PublicKey": "A1lZjTXsjqmvmehp9i0zV+jzl89Vf2y2fXxeMRSjp18=",
-        "EntryIP": "138.199.50.129",
-        "ExitIP": "138.199.50.129"
-      },
-      {
-        "Domain": "node-us-338.protonvpn.net",
-        "ipv4": [
-          "138.199.50.129"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5481::10"
-        ],
-        "X25519PublicKey": "A1lZjTXsjqmvmehp9i0zV+jzl89Vf2y2fXxeMRSjp18=",
-        "EntryIP": "138.199.50.129",
-        "ExitIP": "138.199.50.129"
       }
     ]
   },
@@ -1411,54 +613,6 @@
     "City": "Miami",
     "ipv6Enabled": true,
     "Servers": [
-      {
-        "Domain": "node-us-336.protonvpn.net",
-        "ipv4": [
-          "138.199.50.134"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5516::10"
-        ],
-        "X25519PublicKey": "/iPQhCh0/kEzS60D5ysFOQHSyUAFV9sx77AckhzA9Xw=",
-        "EntryIP": "138.199.50.134",
-        "ExitIP": "138.199.50.134"
-      },
-      {
-        "Domain": "node-us-336.protonvpn.net",
-        "ipv4": [
-          "138.199.50.134"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5516::10"
-        ],
-        "X25519PublicKey": "/iPQhCh0/kEzS60D5ysFOQHSyUAFV9sx77AckhzA9Xw=",
-        "EntryIP": "138.199.50.134",
-        "ExitIP": "138.199.50.134"
-      },
-      {
-        "Domain": "node-us-336.protonvpn.net",
-        "ipv4": [
-          "138.199.50.134"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5516::10"
-        ],
-        "X25519PublicKey": "/iPQhCh0/kEzS60D5ysFOQHSyUAFV9sx77AckhzA9Xw=",
-        "EntryIP": "138.199.50.134",
-        "ExitIP": "138.199.50.134"
-      },
-      {
-        "Domain": "node-us-336.protonvpn.net",
-        "ipv4": [
-          "138.199.50.134"
-        ],
-        "ipv6": [
-          "2a02:6ea0:cc02:5516::10"
-        ],
-        "X25519PublicKey": "/iPQhCh0/kEzS60D5ysFOQHSyUAFV9sx77AckhzA9Xw=",
-        "EntryIP": "138.199.50.134",
-        "ExitIP": "138.199.50.134"
-      },
       {
         "Domain": "node-us-336.protonvpn.net",
         "ipv4": [

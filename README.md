@@ -1,10 +1,10 @@
 # proton-vpn-server-list
 
-This is a list for quick checking on ipv4 / ipv6 address of the proton vpn servers (As of 2025-08-17), grouped by the location.  
+This is a list for quick checking on ipv4 / ipv6 address of the proton vpn servers (As of 2025-08-18), grouped by the location.  
 You can also have a quick check on [this list](https://list.proton.huzky.dev/) also created by me.  
 This list will not include the multihop config because there is some data inconsistency with the country config.   
 
-This list will not update in regular basis as there is no easy way to automate this.  
+This list will not update in regular basis as there is no easy way to automate this (at least I don't want a login email everytime I run the script).  
 
 Data include:
 - Server Name

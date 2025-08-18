@@ -1,6 +1,6 @@
 [
   {
-    "Name": "IS-BR#2",
+    "Name": "IS-BR#1",
     "Domain": {
       "domain": "is-br-01.protonvpn.net",
       "ipv4": [],
@@ -10,16 +10,28 @@
     "ipv6Enabled": true,
     "Servers": [
       {
-        "Domain": "node-br-04.protonvpn.net",
+        "Domain": "node-br-06.protonvpn.net",
         "ipv4": [
-          "149.102.251.97"
+          "146.70.98.98"
         ],
         "ipv6": [
-          "2a02:6ea0:d012:2078::10"
+          "2a0d:5600:35:7::10"
         ],
-        "X25519PublicKey": "0FnhfTGup0LHPmBCsuDN4tVqlgOaItDwayQokhWapFQ=",
-        "EntryIP": "185.159.158.177",
-        "ExitIP": "185.159.158.177"
+        "X25519PublicKey": "uuIq8uVHFloPPDpl0dKcCiGmnSWARGpj6Wcy/XI+6z8=",
+        "EntryIP": "185.159.158.239",
+        "ExitIP": "185.159.158.239"
+      },
+      {
+        "Domain": "node-br-07b.protonvpn.net",
+        "ipv4": [
+          "146.70.98.130"
+        ],
+        "ipv6": [
+          "2a0d:5600:35:8::10"
+        ],
+        "X25519PublicKey": "ECpPKv2/sxck/VZIcVVk+0FZfZIe9PkXI1Lcpf9KODU=",
+        "EntryIP": "185.159.158.238",
+        "ExitIP": "185.159.158.238"
       }
     ]
   }

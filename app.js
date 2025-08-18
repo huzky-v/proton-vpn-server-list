@@ -101,7 +101,7 @@ async function main() {
       Domain: resolvedDomain,
       City: logical.City || null,
       ipv6Enabled,
-      Servers: servers,
+      Servers: [...new Set(servers.map(r => JSON.stringify(r)))].map(r => JSON.parse(r)),
     };
 
     grouped[baseName].push(entryObj);
