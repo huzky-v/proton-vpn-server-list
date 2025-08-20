@@ -25,7 +25,9 @@
         "EntryIP": "185.163.44.137",
         "ExitIP": "185.163.44.137"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "MD#10",
@@ -53,7 +55,9 @@
         "EntryIP": "185.163.44.137",
         "ExitIP": "185.163.44.137"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "MD#11",
@@ -81,7 +85,9 @@
         "EntryIP": "185.163.44.137",
         "ExitIP": "185.163.44.137"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "MD#12",
@@ -109,7 +115,9 @@
         "EntryIP": "185.163.44.137",
         "ExitIP": "185.163.44.137"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "MD#13",
@@ -137,7 +145,9 @@
         "EntryIP": "185.163.44.137",
         "ExitIP": "185.163.44.137"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "MD#14",
@@ -165,7 +175,9 @@
         "EntryIP": "185.163.44.137",
         "ExitIP": "185.163.44.137"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "MD#15",
@@ -193,7 +205,9 @@
         "EntryIP": "185.163.44.137",
         "ExitIP": "185.163.44.137"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "MD#16",
@@ -221,7 +235,9 @@
         "EntryIP": "185.163.44.137",
         "ExitIP": "185.163.44.137"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "MD#17",
@@ -249,7 +265,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#18",
@@ -277,7 +295,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#19",
@@ -305,7 +325,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#20",
@@ -333,7 +355,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#21",
@@ -361,7 +385,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#22",
@@ -389,7 +415,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#23",
@@ -417,7 +445,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#24",
@@ -445,7 +475,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#25",
@@ -473,7 +505,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#26",
@@ -501,7 +535,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#27",
@@ -529,7 +565,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#28",
@@ -557,7 +595,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#29",
@@ -585,7 +625,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#30",
@@ -613,7 +655,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#31",
@@ -641,7 +685,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#32",
@@ -669,7 +715,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#33",
@@ -697,7 +745,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#34",
@@ -725,7 +775,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#35",
@@ -753,7 +805,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#36",
@@ -781,7 +835,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#37",
@@ -809,7 +865,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#38",
@@ -837,7 +895,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#39",
@@ -865,7 +925,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#40",
@@ -893,7 +955,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#41",
@@ -921,7 +985,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#42",
@@ -949,7 +1015,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#43",
@@ -977,7 +1045,9 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "MD#44",
@@ -1005,6 +1075,8 @@
         "EntryIP": "130.195.240.2",
         "ExitIP": "130.195.240.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

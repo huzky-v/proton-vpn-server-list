@@ -21,7 +21,9 @@
         "EntryIP": "146.70.246.98",
         "ExitIP": "146.70.246.98"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "RO-FREE#24",
@@ -45,7 +47,9 @@
         "EntryIP": "146.70.246.114",
         "ExitIP": "146.70.246.114"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "RO-FREE#25",
@@ -69,7 +73,9 @@
         "EntryIP": "185.45.15.34",
         "ExitIP": "185.45.15.34"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "RO-FREE#26",
@@ -93,6 +99,8 @@
         "EntryIP": "185.252.220.146",
         "ExitIP": "185.252.220.146"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   }
 ]

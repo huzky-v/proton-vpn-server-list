@@ -25,7 +25,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#2",
@@ -53,7 +55,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#3",
@@ -81,7 +85,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#4",
@@ -109,7 +115,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#5",
@@ -137,7 +145,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#6",
@@ -165,7 +175,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#7",
@@ -193,7 +205,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#8",
@@ -221,7 +235,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#9",
@@ -249,7 +265,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#10",
@@ -277,7 +295,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#11",
@@ -305,7 +325,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#12",
@@ -333,7 +355,9 @@
         "EntryIP": "185.76.11.27",
         "ExitIP": "185.76.11.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NG#13",
@@ -357,7 +381,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#14",
@@ -381,7 +407,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#15",
@@ -405,7 +433,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#16",
@@ -429,7 +459,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#17",
@@ -453,7 +485,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#18",
@@ -477,7 +511,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#19",
@@ -501,7 +537,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#20",
@@ -525,7 +563,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#21",
@@ -549,7 +589,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#22",
@@ -573,7 +615,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#23",
@@ -597,7 +641,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#24",
@@ -621,7 +667,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#25",
@@ -645,7 +693,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#26",
@@ -669,7 +719,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#27",
@@ -693,7 +745,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#28",
@@ -717,7 +771,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#29",
@@ -741,7 +797,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#30",
@@ -765,7 +823,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#31",
@@ -789,7 +849,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#32",
@@ -813,7 +875,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#33",
@@ -837,7 +901,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#34",
@@ -861,7 +927,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#35",
@@ -885,7 +953,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#36",
@@ -909,7 +979,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#37",
@@ -933,7 +1005,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#38",
@@ -957,7 +1031,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#39",
@@ -981,7 +1057,9 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "NG#40",
@@ -1005,6 +1083,8 @@
         "EntryIP": "79.127.149.65",
         "ExitIP": "79.127.149.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

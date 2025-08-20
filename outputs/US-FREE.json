@@ -25,7 +25,9 @@
         "EntryIP": "89.187.180.55",
         "ExitIP": "89.187.180.55"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#47",
@@ -53,7 +55,9 @@
         "EntryIP": "37.19.221.198",
         "ExitIP": "37.19.221.198"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#44",
@@ -81,7 +85,9 @@
         "EntryIP": "37.19.221.196",
         "ExitIP": "37.19.221.196"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#45",
@@ -109,7 +115,9 @@
         "EntryIP": "37.19.221.199",
         "ExitIP": "37.19.221.199"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#49",
@@ -137,7 +145,9 @@
         "EntryIP": "143.244.44.181",
         "ExitIP": "143.244.44.181"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#154",
@@ -165,7 +175,9 @@
         "EntryIP": "138.199.52.193",
         "ExitIP": "138.199.52.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#52",
@@ -193,7 +205,9 @@
         "EntryIP": "146.70.45.82",
         "ExitIP": "146.70.45.82"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#54",
@@ -221,7 +235,9 @@
         "EntryIP": "185.236.200.242",
         "ExitIP": "185.236.200.242"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#55",
@@ -249,7 +265,9 @@
         "EntryIP": "146.70.202.114",
         "ExitIP": "146.70.202.114"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#33",
@@ -273,7 +291,9 @@
         "EntryIP": "149.102.254.90",
         "ExitIP": "149.102.254.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#34",
@@ -297,7 +317,9 @@
         "EntryIP": "149.102.254.89",
         "ExitIP": "149.102.254.89"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#35",
@@ -321,7 +343,9 @@
         "EntryIP": "149.102.254.91",
         "ExitIP": "149.102.254.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#77",
@@ -345,7 +369,9 @@
         "EntryIP": "149.22.84.144",
         "ExitIP": "149.22.84.144"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#78",
@@ -369,7 +395,9 @@
         "EntryIP": "149.22.84.134",
         "ExitIP": "149.22.84.134"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#79",
@@ -393,7 +421,9 @@
         "EntryIP": "149.22.84.139",
         "ExitIP": "149.22.84.139"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#90",
@@ -417,7 +447,9 @@
         "EntryIP": "149.22.84.154",
         "ExitIP": "149.22.84.154"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#91",
@@ -441,7 +473,9 @@
         "EntryIP": "149.22.84.155",
         "ExitIP": "149.22.84.155"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#92",
@@ -465,7 +499,9 @@
         "EntryIP": "149.22.80.119",
         "ExitIP": "149.22.80.119"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#93",
@@ -489,7 +525,9 @@
         "EntryIP": "149.22.80.109",
         "ExitIP": "149.22.80.109"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#94",
@@ -513,7 +551,9 @@
         "EntryIP": "149.22.80.114",
         "ExitIP": "149.22.80.114"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#87",
@@ -541,7 +581,9 @@
         "EntryIP": "149.102.224.53",
         "ExitIP": "149.102.224.53"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#88",
@@ -569,7 +611,9 @@
         "EntryIP": "138.199.50.139",
         "ExitIP": "138.199.50.139"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#89",
@@ -597,7 +641,9 @@
         "EntryIP": "138.199.50.129",
         "ExitIP": "138.199.50.129"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "US-FREE#106",
@@ -625,6 +671,8 @@
         "EntryIP": "138.199.50.134",
         "ExitIP": "138.199.50.134"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   }
 ]

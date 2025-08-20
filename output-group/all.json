@@ -1,5 +1,5 @@
 {
-  "genDate": "2025-08-18T08:04:52.405Z",
+  "genDate": "2025-08-20T10:04:17.973Z",
   "data": [
     {
       "ipv4": "185.76.11.27",
@@ -20,7 +20,9 @@
         "NG#12"
       ],
       "ipv6Enabled": true,
-      "city": "Abuja"
+      "city": "Abuja",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "74.118.126.72",
@@ -33,7 +35,9 @@
         "GH#4"
       ],
       "ipv6Enabled": false,
-      "city": "Accra"
+      "city": "Accra",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.64",
@@ -46,7 +50,9 @@
         "ET#8"
       ],
       "ipv6Enabled": false,
-      "city": "Addisababa"
+      "city": "Addisababa",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "103.214.20.210",
@@ -67,7 +73,9 @@
         "AU#120"
       ],
       "ipv6Enabled": true,
-      "city": "Adelaide"
+      "city": "Adelaide",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.214.20.98",
@@ -89,7 +97,9 @@
         "AU#199"
       ],
       "ipv6Enabled": false,
-      "city": "Adelaide"
+      "city": "Adelaide",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.25.57.50",
@@ -110,7 +120,9 @@
         "AU#326"
       ],
       "ipv6Enabled": false,
-      "city": "Adelaide"
+      "city": "Adelaide",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.25.57.130",
@@ -131,7 +143,9 @@
         "AU#338"
       ],
       "ipv6Enabled": false,
-      "city": "Adelaide"
+      "city": "Adelaide",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.137.1",
@@ -164,7 +178,9 @@
         "DZ#9"
       ],
       "ipv6Enabled": false,
-      "city": "Algiers"
+      "city": "Algiers",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.48",
@@ -177,7 +193,9 @@
         "DZ#32"
       ],
       "ipv6Enabled": false,
-      "city": "Algiers"
+      "city": "Algiers",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "74.118.126.104",
@@ -190,7 +208,9 @@
         "JO#9"
       ],
       "ipv6Enabled": false,
-      "city": "Amman"
+      "city": "Amman",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "138.199.7.129",
@@ -211,7 +231,9 @@
         "NL#96"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.86.114",
@@ -232,7 +254,9 @@
         "NL#238"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.177.124.84",
@@ -242,7 +266,9 @@
         "NL-FREE#79"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "212.8.243.7",
@@ -252,7 +278,9 @@
         "NL-FREE#102"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "212.8.253.154",
@@ -262,7 +290,9 @@
         "NL-FREE#103"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "212.8.253.137",
@@ -272,7 +302,9 @@
         "NL-FREE#104"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.182.193.5",
@@ -282,7 +314,9 @@
         "NL-FREE#105"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.182.193.107",
@@ -292,7 +326,9 @@
         "NL-FREE#106"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "138.199.7.181",
@@ -302,7 +338,9 @@
         "NL-FREE#111"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.34.244.129",
@@ -312,7 +350,9 @@
         "NL-FREE#112"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.34.244.139",
@@ -322,7 +362,9 @@
         "NL-FREE#114"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.34.244.149",
@@ -332,7 +374,9 @@
         "NL-FREE#116"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.34.244.154",
@@ -342,7 +386,9 @@
         "NL-FREE#117"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.34.244.159",
@@ -352,7 +398,9 @@
         "NL-FREE#118"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.34.244.164",
@@ -362,7 +410,9 @@
         "NL-FREE#119"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.34.244.169",
@@ -372,7 +422,9 @@
         "NL-FREE#120"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.34.244.174",
@@ -382,7 +434,9 @@
         "NL-FREE#121"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.34.244.179",
@@ -392,7 +446,9 @@
         "NL-FREE#122"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.107.56.69",
@@ -402,7 +458,9 @@
         "NL-FREE#126"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.107.56.49",
@@ -412,7 +470,9 @@
         "NL-FREE#125"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.107.56.75",
@@ -422,7 +482,9 @@
         "NL-FREE#127"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.107.56.235",
@@ -432,7 +494,9 @@
         "NL-FREE#128"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.107.56.28",
@@ -442,7 +506,9 @@
         "NL-FREE#123"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.107.56.44",
@@ -452,7 +518,9 @@
         "NL-FREE#124"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.107.56.133",
@@ -462,7 +530,9 @@
         "NL-FREE#130"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.107.56.138",
@@ -472,7 +542,9 @@
         "NL-FREE#131"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.107.56.123",
@@ -482,7 +554,9 @@
         "NL-FREE#132"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "89.38.99.72",
@@ -492,7 +566,9 @@
         "NL-FREE#129"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.107.44.200",
@@ -512,7 +588,9 @@
         "NL#349"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.107.44.110",
@@ -533,7 +611,9 @@
         "NL#326"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "77.247.178.54",
@@ -554,7 +634,9 @@
         "NL#266"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "62.112.9.164",
@@ -570,7 +652,9 @@
         "NL#356"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "190.2.146.180",
@@ -586,7 +670,9 @@
         "NL#363"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "190.2.132.139",
@@ -602,7 +688,9 @@
         "NL#370"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "190.2.132.124",
@@ -618,7 +706,9 @@
         "NL#377"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "190.2.131.156",
@@ -634,7 +724,9 @@
         "NL#7"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "212.92.104.193",
@@ -653,7 +745,9 @@
         "NL#387"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "212.92.104.209",
@@ -672,7 +766,9 @@
         "NL#397"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "212.92.104.241",
@@ -691,7 +787,9 @@
         "NL#407"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "212.92.104.225",
@@ -710,7 +808,9 @@
         "NL#417"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.69.224.5",
@@ -749,7 +849,9 @@
         "NL#447"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.69.224.2",
@@ -788,7 +890,9 @@
         "NL#507"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.69.224.3",
@@ -827,7 +931,9 @@
         "NL#537"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.69.224.4",
@@ -866,7 +972,9 @@
         "NL#567"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.69.224.6",
@@ -905,7 +1013,9 @@
         "NL#477"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "46.29.25.3",
@@ -944,7 +1054,9 @@
         "NL#657"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "46.29.25.5",
@@ -983,7 +1095,9 @@
         "NL#687"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "46.29.25.6",
@@ -1022,7 +1136,9 @@
         "NL#717"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "46.29.25.2",
@@ -1060,7 +1176,9 @@
         "NL#596"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "46.29.25.4",
@@ -1098,7 +1216,9 @@
         "NL#625"
       ],
       "ipv6Enabled": true,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.165.241.179",
@@ -1108,7 +1228,9 @@
         "NL-FREE#198"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.132.178.52",
@@ -1118,7 +1240,9 @@
         "NL-FREE#212"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.184.192.216",
@@ -1128,7 +1252,9 @@
         "NL-FREE#213"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.132.178.104",
@@ -1138,7 +1264,9 @@
         "NL-FREE#214"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.165.243.20",
@@ -1148,7 +1276,9 @@
         "NL-FREE#222"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.132.133.79",
@@ -1158,7 +1288,9 @@
         "NL-FREE#223"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "190.2.154.217",
@@ -1168,7 +1300,9 @@
         "NL-FREE#224"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.132.134.35",
@@ -1178,7 +1312,9 @@
         "NL-FREE#225"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "190.2.152.224",
@@ -1188,7 +1324,21 @@
         "NL-FREE#226"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
+    },
+    {
+      "ipv4": "185.100.234.7",
+      "ipv6": null,
+      "domain": "node-nl-262.protonvpn.net",
+      "servers": [
+        "NL-FREE#236"
+      ],
+      "ipv6Enabled": false,
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "212.8.243.27",
@@ -1198,7 +1348,9 @@
         "NL-FREE#246"
       ],
       "ipv6Enabled": false,
-      "city": "Amsterdam"
+      "city": "Amsterdam",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.156.46.33",
@@ -1222,7 +1374,9 @@
         "US-VA#9"
       ],
       "ipv6Enabled": true,
-      "city": "Ashburn"
+      "city": "Ashburn",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.18.193",
@@ -1257,7 +1411,9 @@
         "US-VA#97"
       ],
       "ipv6Enabled": true,
-      "city": "Ashburn"
+      "city": "Ashburn",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.22.65",
@@ -1280,7 +1436,9 @@
         "US-VA#99"
       ],
       "ipv6Enabled": true,
-      "city": "Ashburn"
+      "city": "Ashburn",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.22.77",
@@ -1304,7 +1462,9 @@
         "US-VA#126"
       ],
       "ipv6Enabled": true,
-      "city": "Ashburn"
+      "city": "Ashburn",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.22.90",
@@ -1328,7 +1488,9 @@
         "US-VA#141"
       ],
       "ipv6Enabled": true,
-      "city": "Ashburn"
+      "city": "Ashburn",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.227.1",
@@ -1365,7 +1527,9 @@
         "US-VA#43"
       ],
       "ipv6Enabled": true,
-      "city": "Ashburn"
+      "city": "Ashburn",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.227.30",
@@ -1402,7 +1566,9 @@
         "US-VA#71"
       ],
       "ipv6Enabled": true,
-      "city": "Ashburn"
+      "city": "Ashburn",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.100.65",
@@ -1428,7 +1594,9 @@
         "US-VA#158"
       ],
       "ipv6Enabled": true,
-      "city": "Ashburn"
+      "city": "Ashburn",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.100.66",
@@ -1453,7 +1621,9 @@
         "US-VA#174"
       ],
       "ipv6Enabled": true,
-      "city": "Ashburn"
+      "city": "Ashburn",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.100.67",
@@ -1478,7 +1648,9 @@
         "US-VA#190"
       ],
       "ipv6Enabled": true,
-      "city": "Ashburn"
+      "city": "Ashburn",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.135.105.188",
@@ -1491,7 +1663,9 @@
         "TM#28"
       ],
       "ipv6Enabled": false,
-      "city": "Ashgabat"
+      "city": "Ashgabat",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.60",
@@ -1504,7 +1678,9 @@
         "ER#8"
       ],
       "ipv6Enabled": false,
-      "city": "Asmara"
+      "city": "Asmara",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "79.135.105.80",
@@ -1517,7 +1693,9 @@
         "KZ#28"
       ],
       "ipv6Enabled": false,
-      "city": "Astana"
+      "city": "Astana",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "217.138.11.2",
@@ -1546,7 +1724,9 @@
         "KZ#9"
       ],
       "ipv6Enabled": true,
-      "city": "Astana"
+      "city": "Astana",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.51.134.194",
@@ -1563,7 +1743,9 @@
         "GR#8"
       ],
       "ipv6Enabled": false,
-      "city": "Athens"
+      "city": "Athens",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "45.92.33.162",
@@ -1600,7 +1782,9 @@
         "GR#9"
       ],
       "ipv6Enabled": true,
-      "city": "Athens"
+      "city": "Athens",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.85.193",
@@ -1637,7 +1821,9 @@
         "GR#64"
       ],
       "ipv6Enabled": false,
-      "city": "Athens"
+      "city": "Athens",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.171.248",
@@ -1647,7 +1833,9 @@
         "US-GA#29-TOR"
       ],
       "ipv6Enabled": false,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.22.94.28",
@@ -1682,7 +1870,9 @@
         "US-GA#158"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.94.55",
@@ -1717,7 +1907,9 @@
         "US-GA#184"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.94.1",
@@ -1752,7 +1944,9 @@
         "US-GA#210"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.170.135",
@@ -1775,7 +1969,9 @@
         "US-GA#224"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.171.239",
@@ -1798,7 +1994,9 @@
         "US-GA#238"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.134.140.33",
@@ -1821,7 +2019,9 @@
         "US-GA#252"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.134.140.46",
@@ -1844,7 +2044,9 @@
         "US-GA#266"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.94.86",
@@ -1879,7 +2081,9 @@
         "US-GA#292"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "45.134.140.59",
@@ -1914,7 +2118,9 @@
         "US-GA#318"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.94.113",
@@ -1949,7 +2155,9 @@
         "US-GA#344"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.242.30",
@@ -1986,7 +2194,9 @@
         "US-GA#372"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.242.59",
@@ -2023,7 +2233,9 @@
         "US-GA#400"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.242.1",
@@ -2060,7 +2272,9 @@
         "US-GA#428"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.103.1",
@@ -2086,7 +2300,9 @@
         "US-GA#445"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.103.7",
@@ -2112,7 +2328,9 @@
         "US-GA#462"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.103.5",
@@ -2138,7 +2356,9 @@
         "US-GA#479"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.103.4",
@@ -2164,7 +2384,9 @@
         "US-GA#496"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.103.6",
@@ -2190,7 +2412,9 @@
         "US-GA#513"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.103.2",
@@ -2216,7 +2440,9 @@
         "US-GA#530"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.103.3",
@@ -2242,7 +2468,9 @@
         "US-GA#564"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.103.8",
@@ -2268,7 +2496,9 @@
         "US-GA#581"
       ],
       "ipv6Enabled": true,
-      "city": "Atlanta"
+      "city": "Atlanta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "116.90.74.178",
@@ -2285,7 +2515,9 @@
         "NZ#20"
       ],
       "ipv6Enabled": true,
-      "city": "Auckland"
+      "city": "Auckland",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "103.75.11.18",
@@ -2307,7 +2539,9 @@
         "NZ#33"
       ],
       "ipv6Enabled": false,
-      "city": "Auckland"
+      "city": "Auckland",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.75.11.130",
@@ -2328,7 +2562,9 @@
         "NZ#45"
       ],
       "ipv6Enabled": false,
-      "city": "Auckland"
+      "city": "Auckland",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.75.11.178",
@@ -2349,7 +2585,9 @@
         "NZ#57"
       ],
       "ipv6Enabled": false,
-      "city": "Auckland"
+      "city": "Auckland",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.75.11.162",
@@ -2370,7 +2608,9 @@
         "NZ#69"
       ],
       "ipv6Enabled": false,
-      "city": "Auckland"
+      "city": "Auckland",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.96",
@@ -2383,7 +2623,9 @@
         "IQ#8"
       ],
       "ipv6Enabled": false,
-      "city": "Baghdad"
+      "city": "Baghdad",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "45.83.124.1",
@@ -2416,7 +2658,9 @@
         "AZ#9"
       ],
       "ipv6Enabled": false,
-      "city": "Baku"
+      "city": "Baku",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "217.138.89.2",
@@ -2453,7 +2697,9 @@
         "AZ#57"
       ],
       "ipv6Enabled": true,
-      "city": "Baku"
+      "city": "Baku",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "109.111.197.130",
@@ -2491,7 +2737,9 @@
         "BN#9"
       ],
       "ipv6Enabled": false,
-      "city": "Bandar Seri Begawan"
+      "city": "Bandar Seri Begawan",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.19.201.129",
@@ -2508,7 +2756,9 @@
         "TH#8"
       ],
       "ipv6Enabled": true,
-      "city": "Bangkok"
+      "city": "Bangkok",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "130.195.242.2",
@@ -2545,7 +2795,9 @@
         "TH#9"
       ],
       "ipv6Enabled": true,
-      "city": "Bangkok"
+      "city": "Bangkok",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "130.195.250.66",
@@ -2582,7 +2834,9 @@
         "ES#99"
       ],
       "ipv6Enabled": true,
-      "city": "Barcelona"
+      "city": "Barcelona",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "130.195.250.98",
@@ -2619,7 +2873,9 @@
         "ES#143"
       ],
       "ipv6Enabled": true,
-      "city": "Barcelona"
+      "city": "Barcelona",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "130.195.223.2",
@@ -2657,7 +2913,9 @@
         "UK#693"
       ],
       "ipv6Enabled": false,
-      "city": "Belfast"
+      "city": "Belfast",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.146.222.226",
@@ -2678,7 +2936,9 @@
         "RS#9"
       ],
       "ipv6Enabled": false,
-      "city": "Belgrade"
+      "city": "Belgrade",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.221.130",
@@ -2715,7 +2975,9 @@
         "RS#48"
       ],
       "ipv6Enabled": true,
-      "city": "Belgrade"
+      "city": "Belgrade",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.46.115.5",
@@ -2732,7 +2994,9 @@
         "RS#8"
       ],
       "ipv6Enabled": true,
-      "city": "Belgrade"
+      "city": "Belgrade",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "217.138.216.130",
@@ -2769,7 +3033,9 @@
         "DE#213"
       ],
       "ipv6Enabled": true,
-      "city": "Berlin"
+      "city": "Berlin",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "217.138.216.98",
@@ -2806,7 +3072,9 @@
         "DE#241"
       ],
       "ipv6Enabled": true,
-      "city": "Berlin"
+      "city": "Berlin",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.36.76.130",
@@ -2832,7 +3100,9 @@
         "DE#526"
       ],
       "ipv6Enabled": true,
-      "city": "Berlin"
+      "city": "Berlin",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "217.138.216.162",
@@ -2853,7 +3123,9 @@
         "DE#9"
       ],
       "ipv6Enabled": false,
-      "city": "Berlin"
+      "city": "Berlin",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "193.29.106.18",
@@ -2874,7 +3146,9 @@
         "DE#24"
       ],
       "ipv6Enabled": false,
-      "city": "Berlin"
+      "city": "Berlin",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.16.81",
@@ -2891,7 +3165,9 @@
         "CO#24"
       ],
       "ipv6Enabled": true,
-      "city": "Bogota"
+      "city": "Bogota",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.136.35",
@@ -2912,7 +3188,9 @@
         "CO#36"
       ],
       "ipv6Enabled": true,
-      "city": "Bogota"
+      "city": "Bogota",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.160.187",
@@ -2949,7 +3227,9 @@
         "US-MA#9"
       ],
       "ipv6Enabled": false,
-      "city": "Boston"
+      "city": "Boston",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.160.158",
@@ -2986,7 +3266,9 @@
         "US-MA#56"
       ],
       "ipv6Enabled": false,
-      "city": "Boston"
+      "city": "Boston",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.160.129",
@@ -3023,7 +3305,9 @@
         "US-MA#84"
       ],
       "ipv6Enabled": false,
-      "city": "Boston"
+      "city": "Boston",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "196.245.151.210",
@@ -3040,7 +3324,9 @@
         "SK#8"
       ],
       "ipv6Enabled": false,
-      "city": "Bratislava"
+      "city": "Bratislava",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.34.193",
@@ -3077,7 +3363,9 @@
         "SK#62"
       ],
       "ipv6Enabled": false,
-      "city": "Bratislava"
+      "city": "Bratislava",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.245.85.130",
@@ -3112,7 +3400,9 @@
         "SK#9"
       ],
       "ipv6Enabled": true,
-      "city": "Bratislava"
+      "city": "Bratislava",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "144.48.39.226",
@@ -3142,7 +3432,9 @@
         "AU#186"
       ],
       "ipv6Enabled": false,
-      "city": "Brisbane"
+      "city": "Brisbane",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.216.220.98",
@@ -3168,7 +3460,9 @@
         "AU#229"
       ],
       "ipv6Enabled": true,
-      "city": "Brisbane"
+      "city": "Brisbane",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.216.220.178",
@@ -3189,7 +3483,9 @@
         "AU#350"
       ],
       "ipv6Enabled": false,
-      "city": "Brisbane"
+      "city": "Brisbane",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.216.220.162",
@@ -3210,7 +3506,9 @@
         "AU#362"
       ],
       "ipv6Enabled": false,
-      "city": "Brisbane"
+      "city": "Brisbane",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "91.90.123.50",
@@ -3231,7 +3529,9 @@
         "BE#40"
       ],
       "ipv6Enabled": true,
-      "city": "Brussels"
+      "city": "Brussels",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "91.90.123.178",
@@ -3257,7 +3557,9 @@
         "BE#57"
       ],
       "ipv6Enabled": true,
-      "city": "Brussels"
+      "city": "Brussels",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.128.133.226",
@@ -3279,7 +3581,9 @@
         "BE#70"
       ],
       "ipv6Enabled": false,
-      "city": "Brussels"
+      "city": "Brussels",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.164.65",
@@ -3316,7 +3620,9 @@
         "BE#98"
       ],
       "ipv6Enabled": false,
-      "city": "Brussels"
+      "city": "Brussels",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.53.225",
@@ -3335,7 +3641,9 @@
         "RO#18"
       ],
       "ipv6Enabled": true,
-      "city": "Bucharest"
+      "city": "Bucharest",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.181.100.178",
@@ -3356,7 +3664,9 @@
         "RO#30"
       ],
       "ipv6Enabled": true,
-      "city": "Bucharest"
+      "city": "Bucharest",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.246.98",
@@ -3366,7 +3676,9 @@
         "RO-FREE#23"
       ],
       "ipv6Enabled": false,
-      "city": "Bucharest"
+      "city": "Bucharest",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.246.114",
@@ -3376,7 +3688,9 @@
         "RO-FREE#24"
       ],
       "ipv6Enabled": false,
-      "city": "Bucharest"
+      "city": "Bucharest",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.45.15.34",
@@ -3386,7 +3700,9 @@
         "RO-FREE#25"
       ],
       "ipv6Enabled": false,
-      "city": "Bucharest"
+      "city": "Bucharest",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.252.220.146",
@@ -3396,7 +3712,9 @@
         "RO-FREE#26"
       ],
       "ipv6Enabled": false,
-      "city": "Bucharest"
+      "city": "Bucharest",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.102.239.34",
@@ -3433,7 +3751,9 @@
         "RO#58"
       ],
       "ipv6Enabled": true,
-      "city": "Bucharest"
+      "city": "Bucharest",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.239.33",
@@ -3469,7 +3789,9 @@
         "RO#85"
       ],
       "ipv6Enabled": false,
-      "city": "Bucharest"
+      "city": "Bucharest",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.163.110.98",
@@ -3506,7 +3828,9 @@
         "RO#99"
       ],
       "ipv6Enabled": false,
-      "city": "Bucharest"
+      "city": "Bucharest",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.120.146",
@@ -3527,7 +3851,9 @@
         "HU#36"
       ],
       "ipv6Enabled": true,
-      "city": "Budapest"
+      "city": "Budapest",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.120.210",
@@ -3548,7 +3874,9 @@
         "HU#24"
       ],
       "ipv6Enabled": true,
-      "city": "Budapest"
+      "city": "Budapest",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.182.65",
@@ -3585,7 +3913,9 @@
         "HU#64"
       ],
       "ipv6Enabled": false,
-      "city": "Budapest"
+      "city": "Budapest",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.224.161",
@@ -3602,7 +3932,9 @@
         "AR#32"
       ],
       "ipv6Enabled": true,
-      "city": "Buenos Aires"
+      "city": "Buenos Aires",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "188.214.122.82",
@@ -3623,7 +3955,9 @@
         "EG#12"
       ],
       "ipv6Enabled": true,
-      "city": "Cairo"
+      "city": "Cairo",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "74.118.126.56",
@@ -3636,7 +3970,9 @@
         "EG#20"
       ],
       "ipv6Enabled": false,
-      "city": "Cairo"
+      "city": "Cairo",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "45.83.145.1",
@@ -3669,7 +4005,9 @@
         "VE#9"
       ],
       "ipv6Enabled": false,
-      "city": "Caracas"
+      "city": "Caracas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.145.25",
@@ -3701,7 +4039,9 @@
         "VE#47"
       ],
       "ipv6Enabled": false,
-      "city": "Caracas"
+      "city": "Caracas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.145.50",
@@ -3733,7 +4073,9 @@
         "VE#70"
       ],
       "ipv6Enabled": false,
-      "city": "Caracas"
+      "city": "Caracas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.145.74",
@@ -3746,7 +4088,9 @@
         "VE#74"
       ],
       "ipv6Enabled": false,
-      "city": "Caracas"
+      "city": "Caracas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.145.79",
@@ -3759,7 +4103,9 @@
         "VE#78"
       ],
       "ipv6Enabled": false,
-      "city": "Caracas"
+      "city": "Caracas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.145.84",
@@ -3772,7 +4118,9 @@
         "VE#82"
       ],
       "ipv6Enabled": false,
-      "city": "Caracas"
+      "city": "Caracas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.145.89",
@@ -3785,7 +4133,9 @@
         "VE#86"
       ],
       "ipv6Enabled": false,
-      "city": "Caracas"
+      "city": "Caracas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.145.94",
@@ -3798,7 +4148,9 @@
         "VE#90"
       ],
       "ipv6Enabled": false,
-      "city": "Caracas"
+      "city": "Caracas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "86.106.121.3",
@@ -3836,7 +4188,9 @@
         "VE#99"
       ],
       "ipv6Enabled": false,
-      "city": "Caracas"
+      "city": "Caracas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.130.187.2",
@@ -3874,7 +4228,9 @@
         "UK#722"
       ],
       "ipv6Enabled": false,
-      "city": "Cardiff"
+      "city": "Cardiff",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.180.14",
@@ -3895,7 +4251,9 @@
         "US-IL#48"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.180.55",
@@ -3905,7 +4263,9 @@
         "US-FREE#46"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "154.47.25.193",
@@ -3926,7 +4286,9 @@
         "US-IL#126"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "87.249.134.138",
@@ -3961,7 +4323,9 @@
         "US-IL#152"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "87.249.134.139",
@@ -3996,7 +4360,9 @@
         "US-IL#178"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.25.129",
@@ -4030,7 +4396,9 @@
         "US-IL#224"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.25.161",
@@ -4062,7 +4430,9 @@
         "US-IL#247"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.180.27",
@@ -4084,7 +4454,9 @@
         "US-IL#260"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.180.40",
@@ -4106,7 +4478,9 @@
         "US-IL#273"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.25.145",
@@ -4137,7 +4511,9 @@
         "US-IL#295"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.220.251",
@@ -4172,7 +4548,9 @@
         "US-IL#321"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.220.243",
@@ -4207,7 +4585,9 @@
         "US-IL#347"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.136.65",
@@ -4242,7 +4622,9 @@
         "US-IL#373"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.136.92",
@@ -4277,7 +4659,9 @@
         "US-IL#399"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.25.206",
@@ -4314,7 +4698,9 @@
         "US-IL#455"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.136.58",
@@ -4351,7 +4737,9 @@
         "US-IL#483"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.136.46",
@@ -4388,7 +4776,9 @@
         "US-IL#9"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.187.156",
@@ -4425,7 +4815,9 @@
         "US-IL#511"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.136.193",
@@ -4462,7 +4854,9 @@
         "US-IL#539"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.187.185",
@@ -4499,7 +4893,9 @@
         "US-IL#567"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.187.214",
@@ -4536,7 +4932,9 @@
         "US-IL#595"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.136.222",
@@ -4573,7 +4971,9 @@
         "US-IL#623"
       ],
       "ipv6Enabled": true,
-      "city": "Chicago"
+      "city": "Chicago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.163.44.137",
@@ -4590,7 +4990,9 @@
         "MD#16"
       ],
       "ipv6Enabled": true,
-      "city": "Chisinau"
+      "city": "Chisinau",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "130.195.240.2",
@@ -4627,7 +5029,9 @@
         "MD#44"
       ],
       "ipv6Enabled": true,
-      "city": "Chisinau"
+      "city": "Chisinau",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.127.1",
@@ -4660,7 +5064,9 @@
         "LK#9"
       ],
       "ipv6Enabled": false,
-      "city": "Colombo"
+      "city": "Colombo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.229.3",
@@ -4697,7 +5103,9 @@
         "LK#52"
       ],
       "ipv6Enabled": false,
-      "city": "Colombo"
+      "city": "Colombo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.84.2",
@@ -4735,7 +5143,9 @@
         "US-OH#9"
       ],
       "ipv6Enabled": false,
-      "city": "Columbus"
+      "city": "Columbus",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "193.29.107.242",
@@ -4752,7 +5162,9 @@
         "DK#20"
       ],
       "ipv6Enabled": false,
-      "city": "Copenhagen"
+      "city": "Copenhagen",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "193.29.107.162",
@@ -4778,7 +5190,9 @@
         "DK#65"
       ],
       "ipv6Enabled": true,
-      "city": "Copenhagen"
+      "city": "Copenhagen",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "193.29.107.98",
@@ -4804,7 +5218,9 @@
         "DK#82"
       ],
       "ipv6Enabled": true,
-      "city": "Copenhagen"
+      "city": "Copenhagen",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.50.217.161",
@@ -4839,7 +5255,9 @@
         "DK#99"
       ],
       "ipv6Enabled": false,
-      "city": "Copenhagen"
+      "city": "Copenhagen",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "185.111.109.1",
@@ -4874,7 +5292,9 @@
         "DK#134"
       ],
       "ipv6Enabled": false,
-      "city": "Copenhagen"
+      "city": "Copenhagen",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.144.1",
@@ -4907,7 +5327,9 @@
         "SN#9"
       ],
       "ipv6Enabled": false,
-      "city": "Dakar"
+      "city": "Dakar",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.200",
@@ -4920,7 +5342,9 @@
         "SN#36"
       ],
       "ipv6Enabled": false,
-      "city": "Dakar"
+      "city": "Dakar",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.58.130",
@@ -4941,7 +5365,9 @@
         "US-TX#40"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.217.98",
@@ -4978,7 +5404,9 @@
         "US-TX#99"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.217.66",
@@ -5015,7 +5443,9 @@
         "US-TX#90"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.164.241",
@@ -5043,7 +5473,9 @@
         "US-TX#146"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.175.129",
@@ -5066,7 +5498,9 @@
         "US-TX#160"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.164.246",
@@ -5089,7 +5523,9 @@
         "US-TX#174"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.19.200.26",
@@ -5113,7 +5549,9 @@
         "US-TX#189"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.175.132",
@@ -5135,7 +5573,9 @@
         "US-TX#202"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.19.200.27",
@@ -5158,7 +5598,9 @@
         "US-TX#216"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.217.2",
@@ -5193,7 +5635,9 @@
         "US-TX#242"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.217.29",
@@ -5228,7 +5672,9 @@
         "US-TX#268"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.217.158",
@@ -5265,7 +5711,9 @@
         "US-TX#381"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.217.129",
@@ -5302,7 +5750,9 @@
         "US-TX#409"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.217.187",
@@ -5339,7 +5789,9 @@
         "US-TX#437"
       ],
       "ipv6Enabled": true,
-      "city": "Dallas"
+      "city": "Dallas",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.212",
@@ -5352,7 +5804,9 @@
         "SY#9"
       ],
       "ipv6Enabled": false,
-      "city": "Damascus"
+      "city": "Damascus",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "84.17.63.17",
@@ -5362,7 +5816,9 @@
         "US-CO#21-TOR"
       ],
       "ipv6Enabled": false,
-      "city": "Denver"
+      "city": "Denver",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "212.102.44.166",
@@ -5389,7 +5845,9 @@
         "US-CO#61"
       ],
       "ipv6Enabled": true,
-      "city": "Denver"
+      "city": "Denver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.17.63.54",
@@ -5412,7 +5870,9 @@
         "US-CO#75"
       ],
       "ipv6Enabled": true,
-      "city": "Denver"
+      "city": "Denver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.17.63.8",
@@ -5438,7 +5898,9 @@
         "US-CO#92"
       ],
       "ipv6Enabled": true,
-      "city": "Denver"
+      "city": "Denver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "212.102.44.161",
@@ -5463,7 +5925,9 @@
         "US-CO#99"
       ],
       "ipv6Enabled": true,
-      "city": "Denver"
+      "city": "Denver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.221.33",
@@ -5498,7 +5962,9 @@
         "US-CO#134"
       ],
       "ipv6Enabled": true,
-      "city": "Denver"
+      "city": "Denver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.221.65",
@@ -5533,7 +5999,9 @@
         "US-CO#186"
       ],
       "ipv6Enabled": true,
-      "city": "Denver"
+      "city": "Denver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.221.92",
@@ -5568,7 +6036,9 @@
         "US-CO#160"
       ],
       "ipv6Enabled": true,
-      "city": "Denver"
+      "city": "Denver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.221.129",
@@ -5605,7 +6075,9 @@
         "US-CO#214"
       ],
       "ipv6Enabled": true,
-      "city": "Denver"
+      "city": "Denver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.221.187",
@@ -5642,7 +6114,9 @@
         "US-CO#242"
       ],
       "ipv6Enabled": true,
-      "city": "Denver"
+      "city": "Denver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.221.158",
@@ -5679,7 +6153,9 @@
         "US-CO#270"
       ],
       "ipv6Enabled": true,
-      "city": "Denver"
+      "city": "Denver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "36.50.238.1",
@@ -5712,7 +6188,9 @@
         "BD#9"
       ],
       "ipv6Enabled": false,
-      "city": "Dhaka"
+      "city": "Dhaka",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.228",
@@ -5725,7 +6203,9 @@
         "TZ#8"
       ],
       "ipv6Enabled": false,
-      "city": "Dodoma"
+      "city": "Dodoma",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.136.1",
@@ -5758,7 +6238,9 @@
         "QA#9"
       ],
       "ipv6Enabled": false,
-      "city": "Doha"
+      "city": "Doha",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.180",
@@ -5771,7 +6253,9 @@
         "QA#40"
       ],
       "ipv6Enabled": false,
-      "city": "Doha"
+      "city": "Doha",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "217.138.193.98",
@@ -5788,7 +6272,9 @@
         "AE#16"
       ],
       "ipv6Enabled": true,
-      "city": "Dubai"
+      "city": "Dubai",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "178.249.212.162",
@@ -5805,7 +6291,9 @@
         "AE#28"
       ],
       "ipv6Enabled": true,
-      "city": "Dubai"
+      "city": "Dubai",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "5.157.13.2",
@@ -5818,7 +6306,9 @@
         "IE#4"
       ],
       "ipv6Enabled": false,
-      "city": "Dublin"
+      "city": "Dublin",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.48.2",
@@ -5844,7 +6334,9 @@
         "IE#9"
       ],
       "ipv6Enabled": true,
-      "city": "Dublin"
+      "city": "Dublin",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.145.65",
@@ -5881,7 +6373,9 @@
         "IE#49"
       ],
       "ipv6Enabled": false,
-      "city": "Dublin"
+      "city": "Dublin",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.135.105.184",
@@ -5894,7 +6388,9 @@
         "TJ#4"
       ],
       "ipv6Enabled": false,
-      "city": "Dushanbe"
+      "city": "Dushanbe",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "188.240.57.226",
@@ -5931,7 +6427,9 @@
         "UK#664"
       ],
       "ipv6Enabled": false,
-      "city": "Edinburgh"
+      "city": "Edinburgh",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "194.126.177.9",
@@ -5941,7 +6439,9 @@
         "DE#53-TOR"
       ],
       "ipv6Enabled": false,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.88.102.46",
@@ -5968,7 +6468,9 @@
         "DE#259"
       ],
       "ipv6Enabled": true,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.102.33",
@@ -5995,7 +6497,9 @@
         "DE#277"
       ],
       "ipv6Enabled": true,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.19.225",
@@ -6021,7 +6525,9 @@
         "DE#328"
       ],
       "ipv6Enabled": true,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.19.238",
@@ -6047,7 +6553,9 @@
         "DE#345"
       ],
       "ipv6Enabled": true,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.102.97",
@@ -6078,7 +6586,9 @@
         "DE#367"
       ],
       "ipv6Enabled": true,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.102.110",
@@ -6109,7 +6619,9 @@
         "DE#389"
       ],
       "ipv6Enabled": true,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "194.126.177.6",
@@ -6142,7 +6654,9 @@
         "DE#413"
       ],
       "ipv6Enabled": false,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "194.126.177.7",
@@ -6175,7 +6689,9 @@
         "DE#437"
       ],
       "ipv6Enabled": false,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "194.126.177.14",
@@ -6208,7 +6724,9 @@
         "DE#461"
       ],
       "ipv6Enabled": true,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "194.126.177.13",
@@ -6241,7 +6759,9 @@
         "DE#485"
       ],
       "ipv6Enabled": true,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "194.126.177.8",
@@ -6274,7 +6794,9 @@
         "DE#509"
       ],
       "ipv6Enabled": false,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.24.180",
@@ -6333,7 +6855,9 @@
         "DE#576"
       ],
       "ipv6Enabled": true,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.24.129",
@@ -6392,7 +6916,9 @@
         "DE#676"
       ],
       "ipv6Enabled": true,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.141.1",
@@ -6451,7 +6977,9 @@
         "DE#626"
       ],
       "ipv6Enabled": true,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "194.126.177.15",
@@ -6461,7 +6989,9 @@
         "DE#677"
       ],
       "ipv6Enabled": false,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "194.126.177.128",
@@ -6497,7 +7027,9 @@
         "DE#704"
       ],
       "ipv6Enabled": false,
-      "city": "Frankfurt"
+      "city": "Frankfurt",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "188.214.152.226",
@@ -6518,7 +7050,9 @@
         "VN#12"
       ],
       "ipv6Enabled": true,
-      "city": "Hanoi"
+      "city": "Hanoi",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "194.34.132.55",
@@ -6531,7 +7065,9 @@
         "FI#4"
       ],
       "ipv6Enabled": false,
-      "city": "Helsinki"
+      "city": "Helsinki",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "196.196.203.202",
@@ -6548,7 +7084,9 @@
         "FI#12"
       ],
       "ipv6Enabled": false,
-      "city": "Helsinki"
+      "city": "Helsinki",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "185.90.60.210",
@@ -6574,7 +7112,9 @@
         "FI#29"
       ],
       "ipv6Enabled": false,
-      "city": "Helsinki"
+      "city": "Helsinki",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "130.195.221.162",
@@ -6595,7 +7135,9 @@
         "FI#41"
       ],
       "ipv6Enabled": false,
-      "city": "Helsinki"
+      "city": "Helsinki",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "156.146.45.139",
@@ -6605,7 +7147,9 @@
         "HK#27-TOR"
       ],
       "ipv6Enabled": false,
-      "city": "Hong Kong"
+      "city": "Hong Kong",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.113.114",
@@ -6626,7 +7170,9 @@
         "HK#39"
       ],
       "ipv6Enabled": true,
-      "city": "Hong Kong"
+      "city": "Hong Kong",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.113.98",
@@ -6647,7 +7193,9 @@
         "HK#51"
       ],
       "ipv6Enabled": true,
-      "city": "Hong Kong"
+      "city": "Hong Kong",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "156.146.45.129",
@@ -6673,7 +7221,9 @@
         "HK#68"
       ],
       "ipv6Enabled": true,
-      "city": "Hong Kong"
+      "city": "Hong Kong",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.19.221.198",
@@ -6683,7 +7233,9 @@
         "US-FREE#47"
       ],
       "ipv6Enabled": true,
-      "city": "Houston"
+      "city": "Houston",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "37.19.221.196",
@@ -6693,7 +7245,9 @@
         "US-FREE#44"
       ],
       "ipv6Enabled": true,
-      "city": "Houston"
+      "city": "Houston",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "37.19.221.199",
@@ -6703,7 +7257,9 @@
         "US-FREE#45"
       ],
       "ipv6Enabled": true,
-      "city": "Houston"
+      "city": "Houston",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "87.249.139.170",
@@ -6720,7 +7276,9 @@
         "TR#24"
       ],
       "ipv6Enabled": true,
-      "city": "Istanbul"
+      "city": "Istanbul",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "130.195.216.66",
@@ -6757,7 +7315,9 @@
         "TR#99"
       ],
       "ipv6Enabled": false,
-      "city": "Istanbul"
+      "city": "Istanbul",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.60.86",
@@ -6772,7 +7332,9 @@
         "ID#8"
       ],
       "ipv6Enabled": true,
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.14.19",
@@ -6793,7 +7355,9 @@
         "ID#9"
       ],
       "ipv6Enabled": false,
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "178.249.212.163",
@@ -6813,7 +7377,9 @@
         "ZA#35"
       ],
       "ipv6Enabled": false,
-      "city": "Johannesburg"
+      "city": "Johannesburg",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "188.214.158.34",
@@ -6834,7 +7400,9 @@
         "ZA#9"
       ],
       "ipv6Enabled": false,
-      "city": "Johannesburg"
+      "city": "Johannesburg",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "196.197.28.130",
@@ -6855,7 +7423,9 @@
         "ZA#47"
       ],
       "ipv6Enabled": false,
-      "city": "Johannesburg"
+      "city": "Johannesburg",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.0.12.226",
@@ -6876,7 +7446,9 @@
         "MY#44"
       ],
       "ipv6Enabled": false,
-      "city": "Johor Bahru"
+      "city": "Johor Bahru",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "193.9.38.1",
@@ -6909,7 +7481,9 @@
         "SS#9"
       ],
       "ipv6Enabled": false,
-      "city": "Juba"
+      "city": "Juba",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.208",
@@ -6922,7 +7496,9 @@
         "SS#32"
       ],
       "ipv6Enabled": false,
-      "city": "Juba"
+      "city": "Juba",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "74.118.126.2",
@@ -6933,7 +7509,9 @@
         "AF#5"
       ],
       "ipv6Enabled": false,
-      "city": "Kabul"
+      "city": "Kabul",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "217.113.171.2",
@@ -6970,7 +7548,9 @@
         "PK#54"
       ],
       "ipv6Enabled": true,
-      "city": "Karachi"
+      "city": "Karachi",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.125.1",
@@ -7003,7 +7583,9 @@
         "NP#9"
       ],
       "ipv6Enabled": false,
-      "city": "Kathmandu"
+      "city": "Kathmandu",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.252.2",
@@ -7040,7 +7622,9 @@
         "NP#52"
       ],
       "ipv6Enabled": false,
-      "city": "Kathmandu"
+      "city": "Kathmandu",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.188",
@@ -7053,7 +7637,9 @@
         "SD#32"
       ],
       "ipv6Enabled": false,
-      "city": "Khartoum"
+      "city": "Khartoum",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "193.9.37.1",
@@ -7086,7 +7672,9 @@
         "RW#9"
       ],
       "ipv6Enabled": false,
-      "city": "Kigali"
+      "city": "Kigali",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.135.105.129",
@@ -7098,7 +7686,9 @@
         "RW#27"
       ],
       "ipv6Enabled": false,
-      "city": "Kigali"
+      "city": "Kigali",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.126.1",
@@ -7131,7 +7721,9 @@
         "MY#9"
       ],
       "ipv6Enabled": false,
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.116",
@@ -7144,7 +7736,9 @@
         "KW#8"
       ],
       "ipv6Enabled": false,
-      "city": "Kuwait City"
+      "city": "Kuwait City",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "149.88.110.33",
@@ -7179,7 +7773,9 @@
         "UA#42"
       ],
       "ipv6Enabled": true,
-      "city": "Kyiv"
+      "city": "Kyiv",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "156.146.50.5",
@@ -7198,7 +7794,9 @@
         "UA#52"
       ],
       "ipv6Enabled": true,
-      "city": "Kyiv"
+      "city": "Kyiv",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "130.195.241.2",
@@ -7235,7 +7833,9 @@
         "UA#80"
       ],
       "ipv6Enabled": true,
-      "city": "Kyiv"
+      "city": "Kyiv",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.149.65",
@@ -7272,7 +7872,9 @@
         "NG#40"
       ],
       "ipv6Enabled": false,
-      "city": "Lagos"
+      "city": "Lagos",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.50.105",
@@ -7289,7 +7891,9 @@
         "PE#32"
       ],
       "ipv6Enabled": true,
-      "city": "Lima"
+      "city": "Lima",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "85.132.252.34",
@@ -7308,7 +7912,9 @@
         "CY#9"
       ],
       "ipv6Enabled": true,
-      "city": "Limassol"
+      "city": "Limassol",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "195.158.248.226",
@@ -7325,7 +7931,9 @@
         "PT#12"
       ],
       "ipv6Enabled": true,
-      "city": "Lisbon"
+      "city": "Lisbon",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.20.129",
@@ -7346,7 +7954,9 @@
         "PT#24"
       ],
       "ipv6Enabled": false,
-      "city": "Lisbon"
+      "city": "Lisbon",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.131.193",
@@ -7383,7 +7993,9 @@
         "PT#52"
       ],
       "ipv6Enabled": false,
-      "city": "Lisbon"
+      "city": "Lisbon",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "195.80.150.226",
@@ -7400,7 +8012,9 @@
         "SI#8"
       ],
       "ipv6Enabled": false,
-      "city": "Ljubljana"
+      "city": "Ljubljana",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "130.195.245.3",
@@ -7437,7 +8051,9 @@
         "SI#9"
       ],
       "ipv6Enabled": true,
-      "city": "Ljubljana"
+      "city": "Ljubljana",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "130.195.245.2",
@@ -7474,7 +8090,9 @@
         "SI#64"
       ],
       "ipv6Enabled": true,
-      "city": "Ljubljana"
+      "city": "Ljubljana",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "193.9.39.1",
@@ -7507,7 +8125,9 @@
         "TG#9"
       ],
       "ipv6Enabled": false,
-      "city": "Lomé"
+      "city": "Lomé",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.220",
@@ -7520,7 +8140,9 @@
         "TG#32"
       ],
       "ipv6Enabled": false,
-      "city": "Lomé"
+      "city": "Lomé",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "149.40.48.65",
@@ -7555,7 +8177,9 @@
         "UK#204"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.40.63.129",
@@ -7590,7 +8214,9 @@
         "UK#230"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.24.193",
@@ -7623,7 +8249,9 @@
         "UK#9"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.204.162",
@@ -7649,7 +8277,9 @@
         "UK#277"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.204.178",
@@ -7675,7 +8305,9 @@
         "UK#294"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.83.66",
@@ -7701,7 +8333,9 @@
         "UK#311"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.40.48.225",
@@ -7736,7 +8370,9 @@
         "UK#337"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.96.66",
@@ -7762,7 +8398,9 @@
         "UK#354"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.179.50",
@@ -7788,7 +8426,9 @@
         "UK#371"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.179.98",
@@ -7814,7 +8454,9 @@
         "UK#388"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.179.34",
@@ -7840,7 +8482,9 @@
         "UK#405"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.179.18",
@@ -7866,7 +8510,9 @@
         "UK#422"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.40.48.106",
@@ -7902,7 +8548,9 @@
         "UK#469"
       ],
       "ipv6Enabled": false,
-      "city": "London"
+      "city": "London",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.40.48.107",
@@ -7938,7 +8586,9 @@
         "UK#496"
       ],
       "ipv6Enabled": false,
-      "city": "London"
+      "city": "London",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.146.101",
@@ -7975,7 +8625,9 @@
         "UK#524"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.146.1",
@@ -8012,7 +8664,9 @@
         "UK#552"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.146.206",
@@ -8049,7 +8703,9 @@
         "UK#580"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.146.51",
@@ -8086,7 +8742,9 @@
         "UK#608"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.146.156",
@@ -8123,7 +8781,9 @@
         "UK#636"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.20.17.193",
@@ -8162,7 +8822,9 @@
         "UK#752"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.20.17.194",
@@ -8201,7 +8863,9 @@
         "UK#782"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.20.17.195",
@@ -8240,7 +8904,9 @@
         "UK#812"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.20.17.196",
@@ -8279,7 +8945,9 @@
         "UK#842"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.20.17.197",
@@ -8318,7 +8986,9 @@
         "UK#872"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.20.17.198",
@@ -8357,7 +9027,9 @@
         "UK#902"
       ],
       "ipv6Enabled": true,
-      "city": "London"
+      "city": "London",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.35.97",
@@ -8379,7 +9051,9 @@
         "US-CA#141"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.45.4.2",
@@ -8400,7 +9074,9 @@
         "US-CA#154"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.174.130",
@@ -8421,7 +9097,9 @@
         "US-CA#166"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.174.146",
@@ -8442,7 +9120,9 @@
         "US-CA#178"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.174.162",
@@ -8463,7 +9143,9 @@
         "US-CA#190"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.174.178",
@@ -8484,7 +9166,9 @@
         "US-CA#202"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.174.194",
@@ -8505,7 +9189,9 @@
         "US-CA#214"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.174.82",
@@ -8526,7 +9212,9 @@
         "US-CA#226"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.174.210",
@@ -8547,7 +9235,9 @@
         "US-CA#238"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.174.226",
@@ -8568,7 +9258,9 @@
         "US-CA#250"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.174.242",
@@ -8589,7 +9281,9 @@
         "US-CA#262"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.236.200.242",
@@ -8599,7 +9293,9 @@
         "US-FREE#54"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.195.98",
@@ -8620,7 +9316,9 @@
         "US-CA#330"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.127.242",
@@ -8641,7 +9339,9 @@
         "US-CA#318"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.195.34",
@@ -8662,7 +9362,9 @@
         "US-CA#306"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.195.82",
@@ -8683,7 +9385,9 @@
         "US-CA#294"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.80.1",
@@ -8718,7 +9422,9 @@
         "US-CA#356"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.80.28",
@@ -8753,7 +9459,9 @@
         "US-CA#382"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.80.55",
@@ -8788,7 +9496,9 @@
         "US-CA#408"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.80.82",
@@ -8823,7 +9533,9 @@
         "US-CA#512"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "185.230.126.146",
@@ -8845,7 +9557,9 @@
         "US-CA#566"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.80.119",
@@ -8855,7 +9569,9 @@
         "US-FREE#92"
       ],
       "ipv6Enabled": false,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.22.80.109",
@@ -8865,7 +9581,9 @@
         "US-FREE#93"
       ],
       "ipv6Enabled": false,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.22.80.114",
@@ -8875,7 +9593,9 @@
         "US-FREE#94"
       ],
       "ipv6Enabled": false,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.88.30.1",
@@ -8912,7 +9632,9 @@
         "US-CA#594"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.30.59",
@@ -8949,7 +9671,9 @@
         "US-CA#622"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.30.30",
@@ -8986,7 +9710,9 @@
         "US-CA#650"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.228.221",
@@ -9022,7 +9748,9 @@
         "US-CA#677"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.228.193",
@@ -9058,7 +9786,9 @@
         "US-CA#704"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.228.85",
@@ -9094,7 +9824,9 @@
         "US-CA#731"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.228.1",
@@ -9130,7 +9862,9 @@
         "US-CA#758"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.228.29",
@@ -9166,7 +9900,9 @@
         "US-CA#785"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.228.57",
@@ -9202,7 +9938,9 @@
         "US-CA#812"
       ],
       "ipv6Enabled": true,
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.8",
@@ -9215,7 +9953,9 @@
         "AO#8"
       ],
       "ipv6Enabled": false,
-      "city": "Luanda"
+      "city": "Luanda",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "5.253.204.162",
@@ -9252,7 +9992,9 @@
         "LU#44"
       ],
       "ipv6Enabled": true,
-      "city": "Luxembourg"
+      "city": "Luxembourg",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "5.253.204.194",
@@ -9273,7 +10015,9 @@
         "LU#9"
       ],
       "ipv6Enabled": true,
-      "city": "Luxembourg"
+      "city": "Luxembourg",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.76.11.17",
@@ -9296,7 +10040,9 @@
         "ES#43"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.76.11.22",
@@ -9319,7 +10065,9 @@
         "ES#57"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.19.214.1",
@@ -9342,7 +10090,9 @@
         "ES#71"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "195.181.167.193",
@@ -9367,7 +10117,9 @@
         "ES#87"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.139.129",
@@ -9404,7 +10156,9 @@
         "ES#171"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.236.222",
@@ -9441,7 +10195,9 @@
         "ES#199"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.139.162",
@@ -9470,7 +10226,9 @@
         "ES#219"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.139.159",
@@ -9499,7 +10257,9 @@
         "ES#239"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.139.160",
@@ -9528,7 +10288,9 @@
         "ES#259"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.139.161",
@@ -9557,7 +10319,9 @@
         "ES#279"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.139.158",
@@ -9586,7 +10350,9 @@
         "ES#299"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.139.163",
@@ -9615,7 +10381,9 @@
         "ES#319"
       ],
       "ipv6Enabled": true,
-      "city": "Madrid"
+      "city": "Madrid",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.16",
@@ -9628,7 +10396,9 @@
         "BH#8"
       ],
       "ipv6Enabled": false,
-      "city": "Manama"
+      "city": "Manama",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.181.34",
@@ -9654,7 +10424,9 @@
         "UK#247"
       ],
       "ipv6Enabled": true,
-      "city": "Manchester"
+      "city": "Manchester",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.133.130",
@@ -9681,7 +10453,9 @@
         "UK#440"
       ],
       "ipv6Enabled": true,
-      "city": "Manchester"
+      "city": "Manchester",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "188.214.125.162",
@@ -9702,7 +10476,9 @@
         "PH#12"
       ],
       "ipv6Enabled": true,
-      "city": "Manila"
+      "city": "Manila",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "193.9.36.1",
@@ -9735,7 +10511,9 @@
         "MZ#9"
       ],
       "ipv6Enabled": false,
-      "city": "Maputo"
+      "city": "Maputo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.156",
@@ -9748,7 +10526,9 @@
         "MZ#32"
       ],
       "ipv6Enabled": false,
-      "city": "Maputo"
+      "city": "Maputo",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "149.102.245.129",
@@ -9783,7 +10563,9 @@
         "FR#207"
       ],
       "ipv6Enabled": true,
-      "city": "Marseille"
+      "city": "Marseille",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.245.156",
@@ -9818,7 +10600,9 @@
         "FR#233"
       ],
       "ipv6Enabled": true,
-      "city": "Marseille"
+      "city": "Marseille",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "217.79.104.1",
@@ -9847,7 +10631,9 @@
         "FR#459"
       ],
       "ipv6Enabled": true,
-      "city": "Marseille"
+      "city": "Marseille",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "178.249.212.171",
@@ -9876,7 +10662,9 @@
         "FR#479"
       ],
       "ipv6Enabled": true,
-      "city": "Marseille"
+      "city": "Marseille",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "178.249.212.168",
@@ -9905,7 +10693,9 @@
         "FR#499"
       ],
       "ipv6Enabled": true,
-      "city": "Marseille"
+      "city": "Marseille",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "178.249.212.170",
@@ -9934,7 +10724,9 @@
         "FR#519"
       ],
       "ipv6Enabled": true,
-      "city": "Marseille"
+      "city": "Marseille",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "178.249.212.169",
@@ -9963,7 +10755,9 @@
         "FR#539"
       ],
       "ipv6Enabled": true,
-      "city": "Marseille"
+      "city": "Marseille",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.147.3",
@@ -10000,7 +10794,9 @@
         "US-TX#296"
       ],
       "ipv6Enabled": false,
-      "city": "McAllen"
+      "city": "McAllen",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.147.1",
@@ -10037,7 +10833,9 @@
         "US-TX#324"
       ],
       "ipv6Enabled": false,
-      "city": "McAllen"
+      "city": "McAllen",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.147.2",
@@ -10074,7 +10872,9 @@
         "US-TX#352"
       ],
       "ipv6Enabled": false,
-      "city": "McAllen"
+      "city": "McAllen",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.108.229.18",
@@ -10104,7 +10904,9 @@
         "AU#165"
       ],
       "ipv6Enabled": false,
-      "city": "Melbourne"
+      "city": "Melbourne",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "144.48.38.178",
@@ -10125,7 +10927,9 @@
         "AU#302"
       ],
       "ipv6Enabled": false,
-      "city": "Melbourne"
+      "city": "Melbourne",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "144.48.38.98",
@@ -10146,7 +10950,9 @@
         "AU#314"
       ],
       "ipv6Enabled": false,
-      "city": "Melbourne"
+      "city": "Melbourne",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.8.2",
@@ -10184,7 +10990,9 @@
         "US-TN#9"
       ],
       "ipv6Enabled": false,
-      "city": "Memphis"
+      "city": "Memphis",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.252.113.9",
@@ -10217,7 +11025,9 @@
         "MX#48"
       ],
       "ipv6Enabled": false,
-      "city": "Mexico City"
+      "city": "Mexico City",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.50.107",
@@ -10250,7 +11060,9 @@
         "MX#9"
       ],
       "ipv6Enabled": true,
-      "city": "Mexico City"
+      "city": "Mexico City",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.45.82",
@@ -10260,7 +11072,9 @@
         "US-FREE#52"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.147.114",
@@ -10281,7 +11095,9 @@
         "US-FL#163"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.45.226",
@@ -10302,7 +11118,9 @@
         "US-FL#64"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.183.18",
@@ -10323,7 +11141,9 @@
         "US-FL#100"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.221.112.194",
@@ -10344,7 +11164,9 @@
         "US-FL#76"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.221.112.210",
@@ -10365,7 +11187,9 @@
         "US-FL#88"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.183.162",
@@ -10386,7 +11210,9 @@
         "US-FL#187"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.183.146",
@@ -10407,7 +11233,9 @@
         "US-FL#199"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.17.129",
@@ -10441,7 +11269,9 @@
         "US-FL#9"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.224.162",
@@ -10473,7 +11303,9 @@
         "US-FL#258"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.224.175",
@@ -10505,7 +11337,9 @@
         "US-FL#281"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.51.210",
@@ -10531,7 +11365,9 @@
         "US-FL#298"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.87.214.18",
@@ -10557,7 +11393,9 @@
         "US-FL#315"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.45.114",
@@ -10583,7 +11421,9 @@
         "US-FL#332"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.183.130",
@@ -10604,7 +11444,9 @@
         "US-FL#211"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.224.53",
@@ -10614,7 +11456,9 @@
         "US-FREE#87"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "138.199.50.139",
@@ -10624,7 +11468,9 @@
         "US-FREE#88"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "138.199.50.129",
@@ -10634,7 +11480,9 @@
         "US-FREE#89"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "138.199.50.134",
@@ -10644,7 +11492,9 @@
         "US-FREE#106"
       ],
       "ipv6Enabled": true,
-      "city": "Miami"
+      "city": "Miami",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.182.34",
@@ -10665,7 +11515,9 @@
         "IT#28"
       ],
       "ipv6Enabled": true,
-      "city": "Milan"
+      "city": "Milan",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.182.18",
@@ -10686,7 +11538,9 @@
         "IT#40"
       ],
       "ipv6Enabled": true,
-      "city": "Milan"
+      "city": "Milan",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.182.2",
@@ -10707,7 +11561,9 @@
         "IT#52"
       ],
       "ipv6Enabled": true,
-      "city": "Milan"
+      "city": "Milan",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.237.129",
@@ -10728,7 +11584,9 @@
         "IT#64"
       ],
       "ipv6Enabled": false,
-      "city": "Milan"
+      "city": "Milan",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.24",
@@ -10741,7 +11599,9 @@
         "BY#44"
       ],
       "ipv6Enabled": false,
-      "city": "Minsk"
+      "city": "Minsk",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "74.118.126.204",
@@ -10754,7 +11614,9 @@
         "SO#32"
       ],
       "ipv6Enabled": false,
-      "city": "Mogadishu"
+      "city": "Mogadishu",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.198.50",
@@ -10775,7 +11637,9 @@
         "CA#96"
       ],
       "ipv6Enabled": true,
-      "city": "Montreal"
+      "city": "Montreal",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.198.34",
@@ -10796,7 +11660,9 @@
         "CA#108"
       ],
       "ipv6Enabled": true,
-      "city": "Montreal"
+      "city": "Montreal",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.198.18",
@@ -10817,7 +11683,9 @@
         "CA#120"
       ],
       "ipv6Enabled": true,
-      "city": "Montreal"
+      "city": "Montreal",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.198.2",
@@ -10838,7 +11706,9 @@
         "CA#132"
       ],
       "ipv6Enabled": true,
-      "city": "Montreal"
+      "city": "Montreal",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "172.98.82.146",
@@ -10855,7 +11725,9 @@
         "CA#140"
       ],
       "ipv6Enabled": true,
-      "city": "Montreal"
+      "city": "Montreal",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "176.113.74.82",
@@ -10876,7 +11748,9 @@
         "CA#168"
       ],
       "ipv6Enabled": true,
-      "city": "Montreal"
+      "city": "Montreal",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "139.28.218.130",
@@ -10913,7 +11787,9 @@
         "CA#228"
       ],
       "ipv6Enabled": true,
-      "city": "Montreal"
+      "city": "Montreal",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "139.28.218.2",
@@ -10950,7 +11826,9 @@
         "CA#196"
       ],
       "ipv6Enabled": true,
-      "city": "Montreal"
+      "city": "Montreal",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.20.16.29",
@@ -10986,7 +11864,9 @@
         "CA#1235"
       ],
       "ipv6Enabled": false,
-      "city": "Montreal"
+      "city": "Montreal",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.20.16.1",
@@ -11022,7 +11902,9 @@
         "CA#1262"
       ],
       "ipv6Enabled": false,
-      "city": "Montreal"
+      "city": "Montreal",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.112",
@@ -11035,7 +11917,9 @@
         "KM#32"
       ],
       "ipv6Enabled": false,
-      "city": "Moroni"
+      "city": "Moroni",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "176.96.226.226",
@@ -11056,7 +11940,9 @@
         "RU#28"
       ],
       "ipv6Enabled": false,
-      "city": "Moscow"
+      "city": "Moscow",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "176.96.226.242",
@@ -11077,7 +11963,9 @@
         "RU#40"
       ],
       "ipv6Enabled": false,
-      "city": "Moscow"
+      "city": "Moscow",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.231.2",
@@ -11115,7 +12003,9 @@
         "RU#69"
       ],
       "ipv6Enabled": false,
-      "city": "Moscow"
+      "city": "Moscow",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.142.18",
@@ -11137,7 +12027,9 @@
         "IN#25"
       ],
       "ipv6Enabled": true,
-      "city": "Mumbai"
+      "city": "Mumbai",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.142.82",
@@ -11163,7 +12055,9 @@
         "IN#42"
       ],
       "ipv6Enabled": false,
-      "city": "Mumbai"
+      "city": "Mumbai",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.172",
@@ -11176,7 +12070,9 @@
         "OM#9"
       ],
       "ipv6Enabled": false,
-      "city": "Muscat"
+      "city": "Muscat",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.138.1",
@@ -11209,7 +12105,9 @@
         "TD#9"
       ],
       "ipv6Enabled": false,
-      "city": "N'Djamena"
+      "city": "N'Djamena",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.216",
@@ -11222,7 +12120,9 @@
         "TD#33"
       ],
       "ipv6Enabled": false,
-      "city": "N'Djamena"
+      "city": "N'Djamena",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "74.118.126.108",
@@ -11235,7 +12135,9 @@
         "KE#8"
       ],
       "ipv6Enabled": false,
-      "city": "Nairobi"
+      "city": "Nairobi",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "143.244.44.181",
@@ -11245,7 +12147,9 @@
         "US-FREE#49"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "138.199.52.193",
@@ -11255,7 +12159,9 @@
         "US-FREE#154"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.202.178",
@@ -11276,7 +12182,9 @@
         "US-NY#177"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.202.162",
@@ -11297,7 +12205,9 @@
         "US-NY#189"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.202.146",
@@ -11318,7 +12228,9 @@
         "US-NY#201"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.202.114",
@@ -11328,7 +12240,9 @@
         "US-FREE#55"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.115.162",
@@ -11349,7 +12263,9 @@
         "US-NY#297"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "143.244.44.186",
@@ -11371,7 +12287,9 @@
         "US-NY#434"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.226.193",
@@ -11395,7 +12313,9 @@
         "US-NY#449"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.226.225",
@@ -11419,7 +12339,9 @@
         "US-NY#464"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "89.187.178.173",
@@ -11445,7 +12367,9 @@
         "US-NY#481"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.72.162",
@@ -11471,7 +12395,9 @@
         "US-NY#498"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.202.130",
@@ -11497,7 +12423,9 @@
         "US-NY#515"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.72.130",
@@ -11523,7 +12451,9 @@
         "US-NY#532"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.202.98",
@@ -11549,7 +12479,9 @@
         "US-NY#549"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "31.13.189.226",
@@ -11575,7 +12507,9 @@
         "US-NY#566"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.202.66",
@@ -11601,7 +12535,9 @@
         "US-NY#583"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.202.50",
@@ -11627,7 +12563,9 @@
         "US-NY#600"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "193.148.18.82",
@@ -11649,7 +12587,9 @@
         "US-NY#613"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.202.18",
@@ -11675,7 +12615,9 @@
         "US-NY#630"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "31.13.189.242",
@@ -11701,7 +12643,9 @@
         "US-NY#647"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.21.1",
@@ -11738,7 +12682,9 @@
         "US-NY#675"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.40.49.1",
@@ -11775,7 +12721,9 @@
         "US-NY#703"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.40.49.30",
@@ -11812,7 +12760,9 @@
         "US-NY#731"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.21.30",
@@ -11849,7 +12799,9 @@
         "US-NY#759"
       ],
       "ipv6Enabled": true,
-      "city": "New York"
+      "city": "New York",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "45.83.139.1",
@@ -11882,7 +12834,9 @@
         "MR#9"
       ],
       "ipv6Enabled": false,
-      "city": "Nouakchott"
+      "city": "Nouakchott",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.144",
@@ -11895,7 +12849,9 @@
         "MR#32"
       ],
       "ipv6Enabled": false,
-      "city": "Nouakchott"
+      "city": "Nouakchott",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "185.212.111.98",
@@ -11914,7 +12870,9 @@
         "BA#9"
       ],
       "ipv6Enabled": false,
-      "city": "Novi Travnik"
+      "city": "Novi Travnik",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.14.71.6",
@@ -11944,7 +12902,9 @@
         "JP#220"
       ],
       "ipv6Enabled": true,
-      "city": "Osaka"
+      "city": "Osaka",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "84.247.50.178",
@@ -11957,7 +12917,9 @@
         "NO#16"
       ],
       "ipv6Enabled": true,
-      "city": "Oslo"
+      "city": "Oslo",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.170.18",
@@ -11978,7 +12940,9 @@
         "NO#32"
       ],
       "ipv6Enabled": true,
-      "city": "Oslo"
+      "city": "Oslo",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.170.2",
@@ -11999,7 +12963,9 @@
         "NO#44"
       ],
       "ipv6Enabled": true,
-      "city": "Oslo"
+      "city": "Oslo",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "95.173.205.129",
@@ -12036,7 +13002,9 @@
         "NO#72"
       ],
       "ipv6Enabled": false,
-      "city": "Oslo"
+      "city": "Oslo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.91.161",
@@ -12071,7 +13039,9 @@
         "IT#90"
       ],
       "ipv6Enabled": false,
-      "city": "Palermo"
+      "city": "Palermo",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "51.179.177.2",
@@ -12109,7 +13079,9 @@
         "PA#9"
       ],
       "ipv6Enabled": false,
-      "city": "Panama City"
+      "city": "Panama City",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.128.134.199",
@@ -12119,7 +13091,9 @@
         "FR#13-TOR"
       ],
       "ipv6Enabled": false,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "185.246.211.193",
@@ -12140,7 +13114,9 @@
         "FR#72"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.246.211.72",
@@ -12161,7 +13137,9 @@
         "FR#84"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.194.2",
@@ -12182,7 +13160,9 @@
         "FR#96"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.194.18",
@@ -12203,7 +13183,9 @@
         "FR#108"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.194.34",
@@ -12224,7 +13206,9 @@
         "FR#120"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.194.114",
@@ -12245,7 +13229,9 @@
         "FR#181"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.194.50",
@@ -12266,7 +13252,9 @@
         "FR#132"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.194.98",
@@ -12287,7 +13275,9 @@
         "FR#169"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.194.82",
@@ -12308,7 +13298,9 @@
         "FR#157"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.194.66",
@@ -12329,7 +13321,9 @@
         "FR#144"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.128.134.194",
@@ -12355,7 +13349,9 @@
         "FR#250"
       ],
       "ipv6Enabled": false,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.134.82",
@@ -12390,7 +13386,9 @@
         "FR#276"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.134.55",
@@ -12425,7 +13423,9 @@
         "FR#302"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.134.1",
@@ -12460,7 +13460,9 @@
         "FR#328"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.134.28",
@@ -12495,7 +13497,9 @@
         "FR#354"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.169.59",
@@ -12532,7 +13536,9 @@
         "FR#382"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.169.1",
@@ -12569,7 +13575,9 @@
         "FR#410"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.169.31",
@@ -12606,7 +13614,9 @@
         "FR#438"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.169.88",
@@ -12645,7 +13655,9 @@
         "FR#569"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.169.89",
@@ -12684,7 +13696,9 @@
         "FR#599"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.169.90",
@@ -12723,7 +13737,9 @@
         "FR#629"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.169.91",
@@ -12762,7 +13778,9 @@
         "FR#659"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.169.92",
@@ -12801,7 +13819,9 @@
         "FR#689"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.169.93",
@@ -12840,7 +13860,9 @@
         "FR#719"
       ],
       "ipv6Enabled": true,
-      "city": "Paris"
+      "city": "Paris",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.108.231.162",
@@ -12861,7 +13883,9 @@
         "AU#144"
       ],
       "ipv6Enabled": true,
-      "city": "Perth"
+      "city": "Perth",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.108.231.18",
@@ -12883,7 +13907,9 @@
         "AU#242"
       ],
       "ipv6Enabled": true,
-      "city": "Perth"
+      "city": "Perth",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.108.231.242",
@@ -12904,7 +13930,9 @@
         "AU#278"
       ],
       "ipv6Enabled": false,
-      "city": "Perth"
+      "city": "Perth",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.108.231.226",
@@ -12925,7 +13953,9 @@
         "AU#290"
       ],
       "ipv6Enabled": false,
-      "city": "Perth"
+      "city": "Perth",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.156.2",
@@ -12963,7 +13993,9 @@
         "US-PA#9"
       ],
       "ipv6Enabled": false,
-      "city": "Philadelphia"
+      "city": "Philadelphia",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "188.215.235.82",
@@ -12984,7 +14016,9 @@
         "KH#12"
       ],
       "ipv6Enabled": true,
-      "city": "Phnom Penh"
+      "city": "Phnom Penh",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "72.14.148.2",
@@ -13015,7 +14049,9 @@
         "US-AZ#126"
       ],
       "ipv6Enabled": false,
-      "city": "Phoenix"
+      "city": "Phoenix",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "72.14.148.25",
@@ -13047,7 +14083,9 @@
         "US-AZ#149"
       ],
       "ipv6Enabled": false,
-      "city": "Phoenix"
+      "city": "Phoenix",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "193.37.254.66",
@@ -13080,7 +14118,9 @@
         "US-AZ#99"
       ],
       "ipv6Enabled": true,
-      "city": "Phoenix"
+      "city": "Phoenix",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "193.37.254.178",
@@ -13106,7 +14146,9 @@
         "US-AZ#166"
       ],
       "ipv6Enabled": true,
-      "city": "Phoenix"
+      "city": "Phoenix",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.135.105.88",
@@ -13119,7 +14161,9 @@
         "ME#28"
       ],
       "ipv6Enabled": false,
-      "city": "Podgorica"
+      "city": "Podgorica",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.152",
@@ -13132,7 +14176,9 @@
         "MU#32"
       ],
       "ipv6Enabled": false,
-      "city": "Port Louis"
+      "city": "Port Louis",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "146.70.129.18",
@@ -13153,7 +14199,9 @@
         "CZ#44"
       ],
       "ipv6Enabled": true,
-      "city": "Prague"
+      "city": "Prague",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.235.33",
@@ -13179,7 +14227,9 @@
         "CZ#61"
       ],
       "ipv6Enabled": true,
-      "city": "Prague"
+      "city": "Prague",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.154.1",
@@ -13214,7 +14264,9 @@
         "CZ#87"
       ],
       "ipv6Enabled": true,
-      "city": "Prague"
+      "city": "Prague",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.180.1",
@@ -13251,7 +14303,9 @@
         "MX#76"
       ],
       "ipv6Enabled": false,
-      "city": "Queretaro"
+      "city": "Queretaro",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.50.103",
@@ -13268,7 +14322,9 @@
         "EC#8"
       ],
       "ipv6Enabled": true,
-      "city": "Quito"
+      "city": "Quito",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.136",
@@ -13281,7 +14337,9 @@
         "MA#16"
       ],
       "ipv6Enabled": false,
-      "city": "Rabat"
+      "city": "Rabat",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "130.195.217.2",
@@ -13319,7 +14377,9 @@
         "MA#45"
       ],
       "ipv6Enabled": false,
-      "city": "Rabat"
+      "city": "Rabat",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.159.158.1",
@@ -13340,7 +14400,9 @@
         "IS#21"
       ],
       "ipv6Enabled": false,
-      "city": "Reykjavik"
+      "city": "Reykjavik",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.159.158.2",
@@ -13361,7 +14423,9 @@
         "IS#33"
       ],
       "ipv6Enabled": false,
-      "city": "Reykjavik"
+      "city": "Reykjavik",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "196.240.54.114",
@@ -13378,7 +14442,9 @@
         "LV#8"
       ],
       "ipv6Enabled": false,
-      "city": "Riga"
+      "city": "Riga",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "85.203.39.226",
@@ -13399,7 +14465,9 @@
         "LV#9"
       ],
       "ipv6Enabled": false,
-      "city": "Riga"
+      "city": "Riga",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "74.118.126.184",
@@ -13412,7 +14480,9 @@
         "SA#20"
       ],
       "ipv6Enabled": false,
-      "city": "Riyadh"
+      "city": "Riyadh",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "74.63.204.210",
@@ -13433,7 +14503,9 @@
         "US-UT#52"
       ],
       "ipv6Enabled": true,
-      "city": "Salt Lake City"
+      "city": "Salt Lake City",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "68.169.42.240",
@@ -13472,7 +14544,9 @@
         "US-UT#99"
       ],
       "ipv6Enabled": false,
-      "city": "Salt Lake City"
+      "city": "Salt Lake City",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "68.169.42.241",
@@ -13511,7 +14585,9 @@
         "US-UT#142"
       ],
       "ipv6Enabled": false,
-      "city": "Salt Lake City"
+      "city": "Salt Lake City",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "68.169.42.242",
@@ -13550,7 +14626,9 @@
         "US-UT#172"
       ],
       "ipv6Enabled": false,
-      "city": "Salt Lake City"
+      "city": "Salt Lake City",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "68.169.42.225",
@@ -13589,7 +14667,9 @@
         "US-UT#202"
       ],
       "ipv6Enabled": false,
-      "city": "Salt Lake City"
+      "city": "Salt Lake City",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "68.169.42.239",
@@ -13628,7 +14708,9 @@
         "US-UT#82"
       ],
       "ipv6Enabled": false,
-      "city": "Salt Lake City"
+      "city": "Salt Lake City",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "156.146.54.97",
@@ -13649,7 +14731,9 @@
         "US-CA#88"
       ],
       "ipv6Enabled": true,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.36.48.153",
@@ -13684,7 +14768,9 @@
         "US-CA#434"
       ],
       "ipv6Enabled": true,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.36.48.154",
@@ -13719,7 +14805,9 @@
         "US-CA#460"
       ],
       "ipv6Enabled": true,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.36.48.155",
@@ -13754,7 +14842,9 @@
         "US-CA#486"
       ],
       "ipv6Enabled": true,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.36.48.129",
@@ -13783,7 +14873,9 @@
         "US-CA#9"
       ],
       "ipv6Enabled": true,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.84.89",
@@ -13818,7 +14910,9 @@
         "US-CA#538"
       ],
       "ipv6Enabled": true,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.36.48.141",
@@ -13842,7 +14936,9 @@
         "US-CA#553"
       ],
       "ipv6Enabled": true,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.84.144",
@@ -13852,7 +14948,9 @@
         "US-FREE#77"
       ],
       "ipv6Enabled": false,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.22.84.134",
@@ -13862,7 +14960,9 @@
         "US-FREE#78"
       ],
       "ipv6Enabled": false,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.22.84.139",
@@ -13872,7 +14972,9 @@
         "US-FREE#79"
       ],
       "ipv6Enabled": false,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.22.84.154",
@@ -13882,7 +14984,9 @@
         "US-FREE#90"
       ],
       "ipv6Enabled": false,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.22.84.155",
@@ -13892,7 +14996,9 @@
         "US-FREE#91"
       ],
       "ipv6Enabled": false,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "79.127.185.193",
@@ -13929,7 +15035,9 @@
         "US-CA#48"
       ],
       "ipv6Enabled": true,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.185.222",
@@ -13966,7 +15074,9 @@
         "US-CA#76"
       ],
       "ipv6Enabled": true,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.50.104",
@@ -14002,7 +15112,9 @@
         "CR#56"
       ],
       "ipv6Enabled": true,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.185.251",
@@ -14027,7 +15139,9 @@
         "US-CA#828"
       ],
       "ipv6Enabled": false,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.185.162",
@@ -14052,7 +15166,9 @@
         "US-CA#844"
       ],
       "ipv6Enabled": false,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.185.161",
@@ -14077,7 +15193,9 @@
         "US-CA#860"
       ],
       "ipv6Enabled": false,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.185.165",
@@ -14102,7 +15220,9 @@
         "US-CA#876"
       ],
       "ipv6Enabled": false,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.185.164",
@@ -14127,7 +15247,9 @@
         "US-CA#892"
       ],
       "ipv6Enabled": false,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.185.166",
@@ -14152,7 +15274,9 @@
         "US-CA#908"
       ],
       "ipv6Enabled": false,
-      "city": "San Jose"
+      "city": "San Jose",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.50.97",
@@ -14169,7 +15293,9 @@
         "PR#8"
       ],
       "ipv6Enabled": true,
-      "city": "San Juan"
+      "city": "San Juan",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "45.83.146.1",
@@ -14202,7 +15328,9 @@
         "SV#9"
       ],
       "ipv6Enabled": false,
-      "city": "San Salvador"
+      "city": "San Salvador",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.45.224.2",
@@ -14240,7 +15368,9 @@
         "SV#53"
       ],
       "ipv6Enabled": false,
-      "city": "San Salvador"
+      "city": "San Salvador",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.240",
@@ -14253,7 +15383,9 @@
         "YE#8"
       ],
       "ipv6Enabled": false,
-      "city": "Sana'a"
+      "city": "Sana'a",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "138.199.50.106",
@@ -14270,7 +15402,9 @@
         "CL#32"
       ],
       "ipv6Enabled": true,
-      "city": "Santiago"
+      "city": "Santiago",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.254.78",
@@ -14305,7 +15439,9 @@
         "US-WA#99"
       ],
       "ipv6Enabled": true,
-      "city": "Seattle"
+      "city": "Seattle",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.254.77",
@@ -14340,7 +15476,9 @@
         "US-WA#82"
       ],
       "ipv6Enabled": true,
-      "city": "Seattle"
+      "city": "Seattle",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "156.146.51.78",
@@ -14366,7 +15504,9 @@
         "US-WA#125"
       ],
       "ipv6Enabled": true,
-      "city": "Seattle"
+      "city": "Seattle",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "156.146.51.65",
@@ -14392,7 +15532,9 @@
         "US-WA#142"
       ],
       "ipv6Enabled": true,
-      "city": "Seattle"
+      "city": "Seattle",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.254.65",
@@ -14418,7 +15560,9 @@
         "US-WA#159"
       ],
       "ipv6Enabled": true,
-      "city": "Seattle"
+      "city": "Seattle",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.254.90",
@@ -14428,7 +15572,9 @@
         "US-FREE#33"
       ],
       "ipv6Enabled": false,
-      "city": "Seattle"
+      "city": "Seattle",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.102.254.89",
@@ -14438,7 +15584,9 @@
         "US-FREE#34"
       ],
       "ipv6Enabled": false,
-      "city": "Seattle"
+      "city": "Seattle",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.102.254.91",
@@ -14448,7 +15596,9 @@
         "US-FREE#35"
       ],
       "ipv6Enabled": false,
-      "city": "Seattle"
+      "city": "Seattle",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.40.62.62",
@@ -14485,7 +15635,9 @@
         "US-WA#187"
       ],
       "ipv6Enabled": true,
-      "city": "Seattle"
+      "city": "Seattle",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.40.62.91",
@@ -14522,7 +15674,9 @@
         "US-WA#215"
       ],
       "ipv6Enabled": true,
-      "city": "Seattle"
+      "city": "Seattle",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.88.149",
@@ -14559,7 +15713,9 @@
         "US-WA#243"
       ],
       "ipv6Enabled": true,
-      "city": "Seattle"
+      "city": "Seattle",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "69.10.63.242",
@@ -14572,7 +15728,9 @@
         "US-NJ#12"
       ],
       "ipv6Enabled": true,
-      "city": "Secaucus"
+      "city": "Secaucus",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "163.5.171.2",
@@ -14606,7 +15764,9 @@
         "US-NJ#49"
       ],
       "ipv6Enabled": false,
-      "city": "Secaucus"
+      "city": "Secaucus",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "163.5.171.29",
@@ -14641,7 +15801,9 @@
         "US-NJ#75"
       ],
       "ipv6Enabled": false,
-      "city": "Secaucus"
+      "city": "Secaucus",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "163.5.171.56",
@@ -14675,7 +15837,9 @@
         "US-NJ#99"
       ],
       "ipv6Enabled": false,
-      "city": "Secaucus"
+      "city": "Secaucus",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "163.5.171.83",
@@ -14709,7 +15873,9 @@
         "US-NJ#125"
       ],
       "ipv6Enabled": false,
-      "city": "Secaucus"
+      "city": "Secaucus",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "205.142.240.210",
@@ -14744,7 +15910,9 @@
         "US-NJ#151"
       ],
       "ipv6Enabled": false,
-      "city": "Secaucus"
+      "city": "Secaucus",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "151.243.141.2",
@@ -14783,7 +15951,9 @@
         "US-NJ#181"
       ],
       "ipv6Enabled": false,
-      "city": "Secaucus"
+      "city": "Secaucus",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "151.243.141.3",
@@ -14822,7 +15992,9 @@
         "US-NJ#211"
       ],
       "ipv6Enabled": false,
-      "city": "Secaucus"
+      "city": "Secaucus",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "151.243.141.4",
@@ -14861,7 +16033,9 @@
         "US-NJ#241"
       ],
       "ipv6Enabled": false,
-      "city": "Secaucus"
+      "city": "Secaucus",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "151.243.141.5",
@@ -14900,7 +16074,9 @@
         "US-NJ#271"
       ],
       "ipv6Enabled": false,
-      "city": "Secaucus"
+      "city": "Secaucus",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "151.243.141.6",
@@ -14939,7 +16115,9 @@
         "US-NJ#301"
       ],
       "ipv6Enabled": false,
-      "city": "Secaucus"
+      "city": "Secaucus",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.110.55.2",
@@ -14960,7 +16138,9 @@
         "KR#24"
       ],
       "ipv6Enabled": true,
-      "city": "Seoul"
+      "city": "Seoul",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.151.45.4",
@@ -14997,7 +16177,9 @@
         "LT#65"
       ],
       "ipv6Enabled": false,
-      "city": "Siauliai"
+      "city": "Siauliai",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.19.201.130",
@@ -15014,7 +16196,9 @@
         "SG#76"
       ],
       "ipv6Enabled": true,
-      "city": "Singapore"
+      "city": "Singapore",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.60.85",
@@ -15033,7 +16217,9 @@
         "SG#86"
       ],
       "ipv6Enabled": false,
-      "city": "Singapore"
+      "city": "Singapore",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.29.194",
@@ -15054,7 +16240,9 @@
         "SG#98"
       ],
       "ipv6Enabled": false,
-      "city": "Singapore"
+      "city": "Singapore",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.216.223.50",
@@ -15075,7 +16263,9 @@
         "SG#9"
       ],
       "ipv6Enabled": false,
-      "city": "Singapore"
+      "city": "Singapore",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.216.223.34",
@@ -15095,7 +16285,9 @@
         "SG#23"
       ],
       "ipv6Enabled": false,
-      "city": "Singapore"
+      "city": "Singapore",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.50.211.165",
@@ -15134,7 +16326,9 @@
         "SG#99"
       ],
       "ipv6Enabled": true,
-      "city": "Singapore"
+      "city": "Singapore",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.50.211.164",
@@ -15173,7 +16367,9 @@
         "SG#158"
       ],
       "ipv6Enabled": true,
-      "city": "Singapore"
+      "city": "Singapore",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.50.211.167",
@@ -15212,7 +16408,9 @@
         "SG#188"
       ],
       "ipv6Enabled": true,
-      "city": "Singapore"
+      "city": "Singapore",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.50.211.166",
@@ -15251,7 +16449,9 @@
         "SG#218"
       ],
       "ipv6Enabled": true,
-      "city": "Singapore"
+      "city": "Singapore",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.50.211.169",
@@ -15290,7 +16490,9 @@
         "SG#248"
       ],
       "ipv6Enabled": true,
-      "city": "Singapore"
+      "city": "Singapore",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.50.211.168",
@@ -15329,7 +16531,9 @@
         "SG#278"
       ],
       "ipv6Enabled": true,
-      "city": "Singapore"
+      "city": "Singapore",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.229.25.116",
@@ -15342,7 +16546,9 @@
         "MK#04"
       ],
       "ipv6Enabled": false,
-      "city": "Skopje"
+      "city": "Skopje",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "156.146.55.225",
@@ -15364,7 +16570,9 @@
         "BG#25"
       ],
       "ipv6Enabled": true,
-      "city": "Sofia"
+      "city": "Sofia",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.245.130",
@@ -15401,7 +16609,9 @@
         "BG#53"
       ],
       "ipv6Enabled": true,
-      "city": "Sofia"
+      "city": "Sofia",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.55.33",
@@ -15422,7 +16632,9 @@
         "SE#30"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.159.156.90",
@@ -15432,7 +16644,9 @@
         "SE#31-TOR"
       ],
       "ipv6Enabled": false,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.50.216.225",
@@ -15453,7 +16667,9 @@
         "SE#43"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.50.216.238",
@@ -15474,7 +16690,9 @@
         "SE#55"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.50.216.193",
@@ -15494,7 +16712,9 @@
         "SE#66"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.50.216.205",
@@ -15514,7 +16734,9 @@
         "SE#77"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "195.178.172.189",
@@ -15529,7 +16751,9 @@
         "SE#83"
       ],
       "ipv6Enabled": false,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "195.178.172.188",
@@ -15544,7 +16768,9 @@
         "SE#89"
       ],
       "ipv6Enabled": false,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.237.130",
@@ -15579,7 +16805,9 @@
         "SE#99"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "31.13.191.66",
@@ -15615,7 +16843,9 @@
         "SE#144"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "31.13.191.98",
@@ -15652,7 +16882,9 @@
         "SE#173"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "169.150.208.158",
@@ -15689,7 +16921,9 @@
         "SE#201"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "169.150.208.216",
@@ -15726,7 +16960,9 @@
         "SE#229"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "169.150.208.187",
@@ -15763,7 +16999,9 @@
         "SE#257"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "169.150.208.129",
@@ -15800,7 +17038,9 @@
         "SE#285"
       ],
       "ipv6Enabled": true,
-      "city": "Stockholm"
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.33.236",
@@ -15822,7 +17062,9 @@
         "AU#9"
       ],
       "ipv6Enabled": true,
-      "city": "Sydney"
+      "city": "Sydney",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.33.225",
@@ -15844,7 +17086,9 @@
         "AU#26"
       ],
       "ipv6Enabled": true,
-      "city": "Sydney"
+      "city": "Sydney",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "180.149.229.130",
@@ -15866,7 +17110,9 @@
         "AU#212"
       ],
       "ipv6Enabled": false,
-      "city": "Sydney"
+      "city": "Sydney",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "180.149.228.66",
@@ -15887,7 +17133,9 @@
         "AU#254"
       ],
       "ipv6Enabled": false,
-      "city": "Sydney"
+      "city": "Sydney",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "180.149.228.82",
@@ -15908,7 +17156,9 @@
         "AU#266"
       ],
       "ipv6Enabled": false,
-      "city": "Sydney"
+      "city": "Sydney",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.251.97",
@@ -15929,7 +17179,9 @@
         "BR#45"
       ],
       "ipv6Enabled": true,
-      "city": "São Paulo"
+      "city": "São Paulo",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.98.98",
@@ -15966,7 +17218,9 @@
         "BR#99"
       ],
       "ipv6Enabled": true,
-      "city": "São Paulo"
+      "city": "São Paulo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.98.162",
@@ -16003,7 +17257,9 @@
         "BR#73"
       ],
       "ipv6Enabled": true,
-      "city": "São Paulo"
+      "city": "São Paulo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "188.241.177.226",
@@ -16024,7 +17280,9 @@
         "BR#9"
       ],
       "ipv6Enabled": true,
-      "city": "São Paulo"
+      "city": "São Paulo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.98.130",
@@ -16061,7 +17319,9 @@
         "BR#129"
       ],
       "ipv6Enabled": true,
-      "city": "São Paulo"
+      "city": "São Paulo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "2.58.241.66",
@@ -16078,7 +17338,9 @@
         "TW#20"
       ],
       "ipv6Enabled": false,
-      "city": "Taichung City"
+      "city": "Taichung City",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "188.214.106.178",
@@ -16099,7 +17361,9 @@
         "TW#32"
       ],
       "ipv6Enabled": true,
-      "city": "Taipei"
+      "city": "Taipei",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "165.231.178.10",
@@ -16116,7 +17380,9 @@
         "EE#8"
       ],
       "ipv6Enabled": false,
-      "city": "Tallinn"
+      "city": "Tallinn",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "95.153.31.114",
@@ -16137,7 +17403,9 @@
         "EE#9"
       ],
       "ipv6Enabled": false,
-      "city": "Tallinn"
+      "city": "Tallinn",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.135.105.204",
@@ -16150,7 +17418,9 @@
         "UZ#28"
       ],
       "ipv6Enabled": false,
-      "city": "Tashkent"
+      "city": "Tashkent",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "217.138.10.130",
@@ -16185,7 +17455,9 @@
         "UZ#55"
       ],
       "ipv6Enabled": true,
-      "city": "Tashkent"
+      "city": "Tashkent",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.53.236",
@@ -16221,7 +17493,9 @@
         "GE#56"
       ],
       "ipv6Enabled": true,
-      "city": "Tbilisi"
+      "city": "Tbilisi",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "169.150.226.161",
@@ -16240,7 +17514,9 @@
         "IL#23"
       ],
       "ipv6Enabled": false,
-      "city": "Tel Aviv"
+      "city": "Tel Aviv",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "94.190.195.24",
@@ -16257,7 +17533,9 @@
         "BT#8"
       ],
       "ipv6Enabled": false,
-      "city": "Thimphu"
+      "city": "Thimphu",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.4",
@@ -16270,7 +17548,9 @@
         "AL#36"
       ],
       "ipv6Enabled": false,
-      "city": "Tirana"
+      "city": "Tirana",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "31.171.153.98",
@@ -16290,7 +17570,9 @@
         "AL#47"
       ],
       "ipv6Enabled": false,
-      "city": "Tirana"
+      "city": "Tirana",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.19.205.223",
@@ -16311,7 +17593,9 @@
         "JP#76"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "37.19.205.155",
@@ -16331,7 +17615,9 @@
         "JP#161"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.87.213.210",
@@ -16352,7 +17638,9 @@
         "JP#173"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "45.87.213.226",
@@ -16362,7 +17650,9 @@
         "JP-FREE#16"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "193.148.16.2",
@@ -16372,7 +17662,9 @@
         "JP-FREE#17"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "103.125.235.20",
@@ -16407,7 +17699,9 @@
         "JP#199"
       ],
       "ipv6Enabled": false,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "103.125.235.19",
@@ -16439,7 +17733,9 @@
         "JP#243"
       ],
       "ipv6Enabled": false,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "212.102.51.1",
@@ -16449,7 +17745,9 @@
         "JP-FREE#20"
       ],
       "ipv6Enabled": false,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "37.19.205.198",
@@ -16459,7 +17757,9 @@
         "JP-FREE#21"
       ],
       "ipv6Enabled": false,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "212.102.51.82",
@@ -16469,7 +17769,9 @@
         "JP-FREE#22"
       ],
       "ipv6Enabled": false,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "212.102.51.55",
@@ -16479,7 +17781,9 @@
         "JP-FREE#23"
       ],
       "ipv6Enabled": false,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "212.102.51.28",
@@ -16489,7 +17793,9 @@
         "JP-FREE#24"
       ],
       "ipv6Enabled": false,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "91.207.174.2",
@@ -16499,7 +17805,9 @@
         "JP-FREE#25"
       ],
       "ipv6Enabled": false,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "138.199.21.213",
@@ -16538,7 +17846,9 @@
         "JP#273"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.21.214",
@@ -16577,7 +17887,9 @@
         "JP#303"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.21.215",
@@ -16616,7 +17928,9 @@
         "JP#333"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "212.102.51.120",
@@ -16655,7 +17969,9 @@
         "JP#363"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "212.102.51.121",
@@ -16694,7 +18010,9 @@
         "JP#393"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "212.102.51.122",
@@ -16733,7 +18051,9 @@
         "JP#423"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "212.102.51.123",
@@ -16772,7 +18092,9 @@
         "JP#453"
       ],
       "ipv6Enabled": true,
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "178.249.214.65",
@@ -16793,7 +18115,9 @@
         "CA#60"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "169.150.204.44",
@@ -16810,7 +18134,9 @@
         "CA#76"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.97.97",
@@ -16831,7 +18157,9 @@
         "CA#342"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.97.122",
@@ -16852,7 +18180,9 @@
         "CA#354"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.97.110",
@@ -16874,7 +18204,9 @@
         "CA#367"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.82.55",
@@ -16909,7 +18241,9 @@
         "CA#393"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.82.28",
@@ -16944,7 +18278,9 @@
         "CA#419"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.82.1",
@@ -16979,7 +18315,9 @@
         "CA#445"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "169.150.204.33",
@@ -17002,7 +18340,9 @@
         "CA#9"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "104.254.95.98",
@@ -17039,7 +18379,9 @@
         "CA#603"
       ],
       "ipv6Enabled": false,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.82.88",
@@ -17076,7 +18418,9 @@
         "CA#631"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.17.129",
@@ -17113,7 +18457,9 @@
         "CA#636"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.17.158",
@@ -17145,7 +18491,9 @@
         "CA#835"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.111.110.4",
@@ -17176,7 +18524,9 @@
         "CA#857"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.111.110.1",
@@ -17207,7 +18557,9 @@
         "CA#879"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.111.110.2",
@@ -17238,7 +18590,9 @@
         "CA#901"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.111.110.3",
@@ -17269,7 +18623,9 @@
         "CA#923"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.111.110.65",
@@ -17300,7 +18656,9 @@
         "CA#999"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.111.110.66",
@@ -17331,7 +18689,9 @@
         "CA#1023"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.111.110.68",
@@ -17362,7 +18722,9 @@
         "CA#1045"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.111.110.67",
@@ -17393,7 +18755,9 @@
         "CA#1067"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.111.110.69",
@@ -17424,7 +18788,9 @@
         "CA#1191"
       ],
       "ipv6Enabled": true,
-      "city": "Toronto"
+      "city": "Toronto",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.132",
@@ -17437,7 +18803,9 @@
         "LY#8"
       ],
       "ipv6Enabled": false,
-      "city": "Tripoli"
+      "city": "Tripoli",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "74.118.126.224",
@@ -17450,7 +18818,9 @@
         "TN#8"
       ],
       "ipv6Enabled": false,
-      "city": "Tunis"
+      "city": "Tunis",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "37.191.127.2",
@@ -17488,7 +18858,9 @@
         "MN#9"
       ],
       "ipv6Enabled": false,
-      "city": "Ulaanbaatar"
+      "city": "Ulaanbaatar",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "178.249.212.161",
@@ -17505,7 +18877,9 @@
         "MT#8"
       ],
       "ipv6Enabled": true,
-      "city": "Valletta"
+      "city": "Valletta",
+      "P2P": true,
+      "Streaming": false
     },
     {
       "ipv4": "107.181.177.11",
@@ -17522,7 +18896,9 @@
         "CA#156"
       ],
       "ipv6Enabled": true,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "107.181.177.2",
@@ -17539,7 +18915,9 @@
         "CA#148"
       ],
       "ipv6Enabled": true,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.81.1",
@@ -17574,7 +18952,9 @@
         "CA#471"
       ],
       "ipv6Enabled": false,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.81.28",
@@ -17609,7 +18989,9 @@
         "CA#497"
       ],
       "ipv6Enabled": false,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.254.92",
@@ -17644,7 +19026,9 @@
         "CA#523"
       ],
       "ipv6Enabled": false,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.254.65",
@@ -17679,7 +19063,9 @@
         "CA#549"
       ],
       "ipv6Enabled": false,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.22.95.193",
@@ -17714,7 +19100,9 @@
         "CA#575"
       ],
       "ipv6Enabled": false,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.254.119",
@@ -17751,7 +19139,9 @@
         "CA#687"
       ],
       "ipv6Enabled": false,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.98.34",
@@ -17777,7 +19167,9 @@
         "CA#940"
       ],
       "ipv6Enabled": false,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.98.33",
@@ -17803,7 +19195,9 @@
         "CA#957"
       ],
       "ipv6Enabled": false,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.98.35",
@@ -17829,7 +19223,9 @@
         "CA#1084"
       ],
       "ipv6Enabled": true,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.98.39",
@@ -17855,7 +19251,9 @@
         "CA#1101"
       ],
       "ipv6Enabled": true,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.98.38",
@@ -17881,7 +19279,9 @@
         "CA#1118"
       ],
       "ipv6Enabled": true,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.98.36",
@@ -17907,7 +19307,9 @@
         "CA#1135"
       ],
       "ipv6Enabled": true,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.98.40",
@@ -17933,7 +19335,9 @@
         "CA#1152"
       ],
       "ipv6Enabled": true,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.98.37",
@@ -17959,7 +19363,9 @@
         "CA#1208"
       ],
       "ipv6Enabled": true,
-      "city": "Vancouver"
+      "city": "Vancouver",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "91.132.139.2",
@@ -17996,7 +19402,9 @@
         "AT#60"
       ],
       "ipv6Enabled": true,
-      "city": "Vienna"
+      "city": "Vienna",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.19.193",
@@ -18019,7 +19427,9 @@
         "AT#74"
       ],
       "ipv6Enabled": true,
-      "city": "Vienna"
+      "city": "Vienna",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "87.249.133.97",
@@ -18042,7 +19452,9 @@
         "AT#88"
       ],
       "ipv6Enabled": true,
-      "city": "Vienna"
+      "city": "Vienna",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.19.213",
@@ -18075,7 +19487,9 @@
         "AT#99"
       ],
       "ipv6Enabled": false,
-      "city": "Vienna"
+      "city": "Vienna",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "154.47.19.212",
@@ -18108,7 +19522,9 @@
         "AT#136"
       ],
       "ipv6Enabled": false,
-      "city": "Vienna"
+      "city": "Vienna",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "109.111.197.2",
@@ -18146,7 +19562,9 @@
         "LA#9"
       ],
       "ipv6Enabled": false,
-      "city": "Vientiane"
+      "city": "Vientiane",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "130.195.243.2",
@@ -18183,7 +19601,9 @@
         "LT#37"
       ],
       "ipv6Enabled": true,
-      "city": "Vilnius"
+      "city": "Vilnius",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.161.178",
@@ -18204,7 +19624,9 @@
         "PL#60"
       ],
       "ipv6Enabled": true,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.161.162",
@@ -18225,7 +19647,9 @@
         "PL#72"
       ],
       "ipv6Enabled": true,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.102.244.112",
@@ -18235,7 +19659,9 @@
         "PL-FREE#13"
       ],
       "ipv6Enabled": true,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.102.244.17",
@@ -18261,7 +19687,9 @@
         "PL#9"
       ],
       "ipv6Enabled": true,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.186.193",
@@ -18298,7 +19726,9 @@
         "PL#99"
       ],
       "ipv6Enabled": false,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.186.222",
@@ -18335,7 +19765,9 @@
         "PL#128"
       ],
       "ipv6Enabled": false,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.186.251",
@@ -18374,7 +19806,9 @@
         "PL#158"
       ],
       "ipv6Enabled": true,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.186.162",
@@ -18413,7 +19847,9 @@
         "PL#188"
       ],
       "ipv6Enabled": true,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.186.161",
@@ -18452,7 +19888,9 @@
         "PL#218"
       ],
       "ipv6Enabled": true,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.186.163",
@@ -18491,7 +19929,9 @@
         "PL#248"
       ],
       "ipv6Enabled": true,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.186.165",
@@ -18530,7 +19970,9 @@
         "PL#278"
       ],
       "ipv6Enabled": true,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.186.164",
@@ -18569,7 +20011,9 @@
         "PL#308"
       ],
       "ipv6Enabled": true,
-      "city": "Warsaw"
+      "city": "Warsaw",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.247.68.50",
@@ -18590,7 +20034,9 @@
         "US-DC#37"
       ],
       "ipv6Enabled": true,
-      "city": "Washington"
+      "city": "Washington",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "217.138.198.246",
@@ -18699,7 +20145,9 @@
         "US-DC#99"
       ],
       "ipv6Enabled": false,
-      "city": "Washington"
+      "city": "Washington",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "104.234.212.26",
@@ -18732,7 +20180,9 @@
         "US-DC#61"
       ],
       "ipv6Enabled": true,
-      "city": "Washington"
+      "city": "Washington",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "74.118.126.32",
@@ -18745,7 +20195,9 @@
         "CI#4"
       ],
       "ipv6Enabled": false,
-      "city": "Yamoussoukro"
+      "city": "Yamoussoukro",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.60.87",
@@ -18762,7 +20214,9 @@
         "MM#08"
       ],
       "ipv6Enabled": true,
-      "city": "Yangon"
+      "city": "Yangon",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "89.249.72.2",
@@ -18799,7 +20253,9 @@
         "AM#9"
       ],
       "ipv6Enabled": false,
-      "city": "Yerevan"
+      "city": "Yerevan",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "178.218.167.210",
@@ -18816,7 +20272,9 @@
         "HR#8"
       ],
       "ipv6Enabled": false,
-      "city": "Zagreb"
+      "city": "Zagreb",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "45.139.48.242",
@@ -18837,7 +20295,9 @@
         "HR#9"
       ],
       "ipv6Enabled": false,
-      "city": "Zagreb"
+      "city": "Zagreb",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.144.130",
@@ -18874,7 +20334,9 @@
         "HR#48"
       ],
       "ipv6Enabled": false,
-      "city": "Zagreb"
+      "city": "Zagreb",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.159.157.176",
@@ -18884,7 +20346,9 @@
         "CH#18-TOR"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "149.88.27.233",
@@ -18920,7 +20384,9 @@
         "CH#139"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.27.232",
@@ -18956,7 +20422,9 @@
         "CH#166"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.27.234",
@@ -18990,7 +20458,9 @@
         "CH#191"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.27.235",
@@ -19024,7 +20494,9 @@
         "CH#216"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.27.236",
@@ -19058,7 +20530,9 @@
         "CH#241"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.27.219",
@@ -19087,7 +20561,9 @@
         "CH#261"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.27.206",
@@ -19116,7 +20592,9 @@
         "CH#281"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "149.88.27.193",
@@ -19145,7 +20623,9 @@
         "CH#301"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": false,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.6.179",
@@ -19166,7 +20646,9 @@
         "CH#313"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.6.181",
@@ -19187,7 +20669,9 @@
         "CH#325"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.6.177",
@@ -19208,7 +20692,9 @@
         "CH#337"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "138.199.6.178",
@@ -19229,7 +20715,9 @@
         "CH#349"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.159.157.23",
@@ -19247,7 +20735,9 @@
         "CH#358"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.159.157.24",
@@ -19263,7 +20753,9 @@
         "CH#365"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.135.104.11",
@@ -19278,7 +20770,9 @@
         "CH#383"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.135.104.12",
@@ -19290,7 +20784,9 @@
         "CH#386"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.226.226",
@@ -19327,7 +20823,9 @@
         "CH#429"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.230.125.34",
@@ -19364,7 +20862,9 @@
         "CH#457"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "146.70.226.194",
@@ -19401,7 +20901,9 @@
         "CH#485"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "185.230.125.2",
@@ -19438,7 +20940,9 @@
         "CH#513"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.184.129",
@@ -19475,7 +20979,9 @@
         "CH#541"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.184.158",
@@ -19512,7 +21018,9 @@
         "CH#569"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.184.187",
@@ -19549,7 +21057,9 @@
         "CH#597"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.184.216",
@@ -19586,7 +21096,9 @@
         "CH#625"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.184.1",
@@ -19623,7 +21135,9 @@
         "CH#653"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "62.169.136.4",
@@ -19633,7 +21147,9 @@
         "CH#3"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "62.169.136.14",
@@ -19643,7 +21159,9 @@
         "CH#4"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.97.30",
@@ -19676,7 +21194,9 @@
         "CH#677"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.96.158",
@@ -19709,7 +21229,9 @@
         "CH#701"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.97.1",
@@ -19742,7 +21264,9 @@
         "CH#725"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.96.187",
@@ -19775,7 +21299,9 @@
         "CH#749"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.96.1",
@@ -19808,7 +21334,9 @@
         "CH#773"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.96.216",
@@ -19841,7 +21369,9 @@
         "CH#797"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "79.127.184.31",
@@ -19874,7 +21404,9 @@
         "CH#821"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.96.129",
@@ -19907,7 +21439,9 @@
         "CH#845"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.96.30",
@@ -19940,7 +21474,9 @@
         "CH#869"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "89.222.96.59",
@@ -19974,7 +21510,9 @@
         "CH#894"
       ],
       "ipv6Enabled": true,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "62.169.136.2",
@@ -20013,7 +21551,9 @@
         "CH#924"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     },
     {
       "ipv4": "62.169.136.3",
@@ -20052,7 +21592,9 @@
         "CH#954"
       ],
       "ipv6Enabled": false,
-      "city": "Zurich"
+      "city": "Zurich",
+      "P2P": true,
+      "Streaming": true
     }
   ]
 }

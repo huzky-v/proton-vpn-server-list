@@ -25,7 +25,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#101",
@@ -53,7 +55,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#102",
@@ -81,7 +85,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#103",
@@ -109,7 +115,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#104",
@@ -137,7 +145,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#105",
@@ -165,7 +175,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#106",
@@ -193,7 +205,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#107",
@@ -221,7 +235,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#108",
@@ -249,7 +265,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#57",
@@ -277,7 +295,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#58",
@@ -305,7 +325,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#59",
@@ -333,7 +355,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#60",
@@ -361,7 +385,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#61",
@@ -389,7 +415,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#62",
@@ -417,7 +445,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#63",
@@ -445,7 +475,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#64",
@@ -473,7 +505,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#65",
@@ -501,7 +535,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#66",
@@ -529,7 +565,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#67",
@@ -557,7 +595,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#68",
@@ -585,7 +625,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#69",
@@ -613,7 +655,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#70",
@@ -641,7 +685,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#71",
@@ -669,7 +715,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#72",
@@ -697,7 +745,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#73",
@@ -725,7 +775,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#74",
@@ -753,7 +805,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#75",
@@ -781,7 +835,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#76",
@@ -809,7 +865,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#77",
@@ -837,7 +895,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#78",
@@ -865,7 +925,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#79",
@@ -893,7 +955,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#80",
@@ -921,7 +985,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#81",
@@ -949,7 +1015,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#82",
@@ -977,7 +1045,9 @@
         "EntryIP": "149.102.254.77",
         "ExitIP": "149.102.254.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#83",
@@ -1005,7 +1075,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#84",
@@ -1033,7 +1105,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#85",
@@ -1061,7 +1135,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#86",
@@ -1089,7 +1165,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#87",
@@ -1117,7 +1195,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#88",
@@ -1145,7 +1225,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#89",
@@ -1173,7 +1255,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#90",
@@ -1201,7 +1285,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#91",
@@ -1229,7 +1315,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#92",
@@ -1257,7 +1345,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#93",
@@ -1285,7 +1375,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#94",
@@ -1313,7 +1405,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#95",
@@ -1341,7 +1435,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#96",
@@ -1369,7 +1465,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#97",
@@ -1397,7 +1495,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#98",
@@ -1425,7 +1525,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#99",
@@ -1453,7 +1555,9 @@
         "EntryIP": "149.102.254.78",
         "ExitIP": "149.102.254.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#109",
@@ -1481,7 +1585,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#110",
@@ -1509,7 +1615,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#111",
@@ -1537,7 +1645,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#112",
@@ -1565,7 +1675,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#113",
@@ -1593,7 +1705,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#114",
@@ -1621,7 +1735,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#115",
@@ -1649,7 +1765,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#116",
@@ -1677,7 +1795,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#117",
@@ -1705,7 +1825,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#118",
@@ -1733,7 +1855,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#119",
@@ -1761,7 +1885,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#120",
@@ -1789,7 +1915,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#121",
@@ -1817,7 +1945,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#122",
@@ -1845,7 +1975,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#123",
@@ -1873,7 +2005,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#124",
@@ -1901,7 +2035,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#125",
@@ -1929,7 +2065,9 @@
         "EntryIP": "156.146.51.78",
         "ExitIP": "156.146.51.78"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#126",
@@ -1957,7 +2095,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#127",
@@ -1985,7 +2125,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#128",
@@ -2013,7 +2155,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#129",
@@ -2041,7 +2185,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#130",
@@ -2069,7 +2215,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#131",
@@ -2097,7 +2245,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#132",
@@ -2125,7 +2275,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#133",
@@ -2153,7 +2305,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#134",
@@ -2181,7 +2335,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#135",
@@ -2209,7 +2365,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#136",
@@ -2237,7 +2395,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#137",
@@ -2265,7 +2425,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#138",
@@ -2293,7 +2455,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#139",
@@ -2321,7 +2485,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#140",
@@ -2349,7 +2515,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#141",
@@ -2377,7 +2545,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#142",
@@ -2405,7 +2575,9 @@
         "EntryIP": "156.146.51.65",
         "ExitIP": "156.146.51.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#143",
@@ -2433,7 +2605,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#144",
@@ -2461,7 +2635,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#145",
@@ -2489,7 +2665,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#146",
@@ -2517,7 +2695,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#147",
@@ -2545,7 +2725,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#148",
@@ -2573,7 +2755,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#149",
@@ -2601,7 +2785,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#150",
@@ -2629,7 +2815,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#151",
@@ -2657,7 +2845,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#152",
@@ -2685,7 +2875,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#153",
@@ -2713,7 +2905,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#154",
@@ -2741,7 +2935,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-WA#155",
@@ -2769,7 +2965,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#156",
@@ -2797,7 +2995,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#157",
@@ -2825,7 +3025,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#158",
@@ -2853,7 +3055,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#159",
@@ -2881,7 +3085,9 @@
         "EntryIP": "149.102.254.65",
         "ExitIP": "149.102.254.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#160",
@@ -2909,7 +3115,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#161",
@@ -2937,7 +3145,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#162",
@@ -2965,7 +3175,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#163",
@@ -2993,7 +3205,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#164",
@@ -3021,7 +3235,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#165",
@@ -3049,7 +3265,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#166",
@@ -3077,7 +3295,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#167",
@@ -3105,7 +3325,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#168",
@@ -3133,7 +3355,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#169",
@@ -3161,7 +3385,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#170",
@@ -3189,7 +3415,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#171",
@@ -3217,7 +3445,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#172",
@@ -3245,7 +3475,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#173",
@@ -3273,7 +3505,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#174",
@@ -3301,7 +3535,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#175",
@@ -3329,7 +3565,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#176",
@@ -3357,7 +3595,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#177",
@@ -3385,7 +3625,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#178",
@@ -3413,7 +3655,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#179",
@@ -3441,7 +3685,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#180",
@@ -3469,7 +3715,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#181",
@@ -3497,7 +3745,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#182",
@@ -3525,7 +3775,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#183",
@@ -3553,7 +3805,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#184",
@@ -3581,7 +3835,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#185",
@@ -3609,7 +3865,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#186",
@@ -3637,7 +3895,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#187",
@@ -3665,7 +3925,9 @@
         "EntryIP": "149.40.62.62",
         "ExitIP": "149.40.62.62"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#188",
@@ -3693,7 +3955,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#189",
@@ -3721,7 +3985,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#190",
@@ -3749,7 +4015,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#191",
@@ -3777,7 +4045,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#192",
@@ -3805,7 +4075,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#193",
@@ -3833,7 +4105,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#194",
@@ -3861,7 +4135,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#195",
@@ -3889,7 +4165,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#196",
@@ -3917,7 +4195,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#197",
@@ -3945,7 +4225,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#198",
@@ -3973,7 +4255,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#199",
@@ -4001,7 +4285,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#200",
@@ -4029,7 +4315,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#201",
@@ -4057,7 +4345,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#202",
@@ -4085,7 +4375,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#203",
@@ -4113,7 +4405,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#204",
@@ -4141,7 +4435,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#205",
@@ -4169,7 +4465,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#206",
@@ -4197,7 +4495,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#207",
@@ -4225,7 +4525,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#208",
@@ -4253,7 +4555,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#209",
@@ -4281,7 +4585,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#210",
@@ -4309,7 +4615,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#211",
@@ -4337,7 +4645,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#212",
@@ -4365,7 +4675,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#213",
@@ -4393,7 +4705,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#214",
@@ -4421,7 +4735,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#215",
@@ -4449,7 +4765,9 @@
         "EntryIP": "149.40.62.91",
         "ExitIP": "149.40.62.91"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#216",
@@ -4477,7 +4795,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#217",
@@ -4505,7 +4825,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#218",
@@ -4533,7 +4855,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#219",
@@ -4561,7 +4885,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#220",
@@ -4589,7 +4915,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#221",
@@ -4617,7 +4945,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#222",
@@ -4645,7 +4975,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#223",
@@ -4673,7 +5005,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#224",
@@ -4701,7 +5035,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#225",
@@ -4729,7 +5065,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#226",
@@ -4757,7 +5095,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#227",
@@ -4785,7 +5125,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#228",
@@ -4813,7 +5155,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#229",
@@ -4841,7 +5185,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#230",
@@ -4869,7 +5215,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#231",
@@ -4897,7 +5245,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#232",
@@ -4925,7 +5275,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#233",
@@ -4953,7 +5305,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#234",
@@ -4981,7 +5335,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#235",
@@ -5009,7 +5365,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#236",
@@ -5037,7 +5395,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#237",
@@ -5065,7 +5425,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#238",
@@ -5093,7 +5455,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#239",
@@ -5121,7 +5485,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#240",
@@ -5149,7 +5515,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#241",
@@ -5177,7 +5545,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#242",
@@ -5205,7 +5575,9 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-WA#243",
@@ -5233,6 +5605,8 @@
         "EntryIP": "149.22.88.149",
         "ExitIP": "149.22.88.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   }
 ]

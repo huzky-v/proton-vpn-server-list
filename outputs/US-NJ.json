@@ -25,7 +25,9 @@
         "EntryIP": "69.10.63.242",
         "ExitIP": "69.10.63.242"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#10",
@@ -53,7 +55,9 @@
         "EntryIP": "69.10.63.242",
         "ExitIP": "69.10.63.242"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#11",
@@ -81,7 +85,9 @@
         "EntryIP": "69.10.63.242",
         "ExitIP": "69.10.63.242"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#12",
@@ -109,7 +115,9 @@
         "EntryIP": "69.10.63.242",
         "ExitIP": "69.10.63.242"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#25",
@@ -133,7 +141,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#26",
@@ -157,7 +167,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#27",
@@ -181,7 +193,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#28",
@@ -205,7 +219,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#29",
@@ -229,7 +245,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#30",
@@ -253,7 +271,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#31",
@@ -277,7 +297,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#32",
@@ -301,7 +323,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#33",
@@ -325,7 +349,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#34",
@@ -349,7 +375,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#35",
@@ -373,7 +401,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#36",
@@ -397,7 +427,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#37",
@@ -421,7 +453,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#38",
@@ -445,7 +479,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#39",
@@ -469,7 +505,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#40",
@@ -493,7 +531,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#41",
@@ -517,7 +557,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#42",
@@ -541,7 +583,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#43",
@@ -565,7 +609,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#44",
@@ -589,7 +635,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#45",
@@ -613,7 +661,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#46",
@@ -637,7 +687,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#47",
@@ -661,7 +713,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#48",
@@ -685,7 +739,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#49",
@@ -709,7 +765,9 @@
         "EntryIP": "163.5.171.2",
         "ExitIP": "163.5.171.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#50",
@@ -733,7 +791,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#51",
@@ -757,7 +817,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#52",
@@ -781,7 +843,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#53",
@@ -805,7 +869,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#54",
@@ -829,7 +895,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#55",
@@ -853,7 +921,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#56",
@@ -877,7 +947,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#57",
@@ -901,7 +973,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#58",
@@ -925,7 +999,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#59",
@@ -949,7 +1025,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#60",
@@ -973,7 +1051,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#61",
@@ -997,7 +1077,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#62",
@@ -1021,7 +1103,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#63",
@@ -1045,7 +1129,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#64",
@@ -1069,7 +1155,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#65",
@@ -1093,7 +1181,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#66",
@@ -1117,7 +1207,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#67",
@@ -1141,7 +1233,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#68",
@@ -1165,7 +1259,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#69",
@@ -1189,7 +1285,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#70",
@@ -1213,7 +1311,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#71",
@@ -1237,7 +1337,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#72",
@@ -1261,7 +1363,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#73",
@@ -1285,7 +1389,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#74",
@@ -1309,7 +1415,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#75",
@@ -1333,7 +1441,9 @@
         "EntryIP": "163.5.171.29",
         "ExitIP": "163.5.171.29"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#100",
@@ -1357,7 +1467,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#76",
@@ -1381,7 +1493,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#77",
@@ -1405,7 +1519,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#78",
@@ -1429,7 +1545,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#79",
@@ -1453,7 +1571,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#80",
@@ -1477,7 +1597,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#81",
@@ -1501,7 +1623,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#82",
@@ -1525,7 +1649,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#83",
@@ -1549,7 +1675,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#84",
@@ -1573,7 +1701,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#85",
@@ -1597,7 +1727,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#86",
@@ -1621,7 +1753,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#87",
@@ -1645,7 +1779,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#88",
@@ -1669,7 +1805,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#89",
@@ -1693,7 +1831,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#90",
@@ -1717,7 +1857,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#91",
@@ -1741,7 +1883,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#92",
@@ -1765,7 +1909,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#93",
@@ -1789,7 +1935,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#94",
@@ -1813,7 +1961,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#95",
@@ -1837,7 +1987,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#96",
@@ -1861,7 +2013,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#97",
@@ -1885,7 +2039,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#98",
@@ -1909,7 +2065,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#99",
@@ -1933,7 +2091,9 @@
         "EntryIP": "163.5.171.56",
         "ExitIP": "163.5.171.56"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#101",
@@ -1957,7 +2117,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#102",
@@ -1981,7 +2143,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#103",
@@ -2005,7 +2169,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#104",
@@ -2029,7 +2195,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#105",
@@ -2053,7 +2221,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#106",
@@ -2077,7 +2247,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#107",
@@ -2101,7 +2273,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#108",
@@ -2125,7 +2299,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#109",
@@ -2149,7 +2325,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#110",
@@ -2173,7 +2351,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#111",
@@ -2197,7 +2377,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#112",
@@ -2221,7 +2403,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#113",
@@ -2245,7 +2429,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#114",
@@ -2269,7 +2455,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#115",
@@ -2293,7 +2481,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#116",
@@ -2317,7 +2507,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#117",
@@ -2341,7 +2533,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#118",
@@ -2365,7 +2559,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#119",
@@ -2389,7 +2585,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#120",
@@ -2413,7 +2611,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#121",
@@ -2437,7 +2637,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#122",
@@ -2461,7 +2663,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#123",
@@ -2485,7 +2689,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#124",
@@ -2509,7 +2715,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#125",
@@ -2533,7 +2741,9 @@
         "EntryIP": "163.5.171.83",
         "ExitIP": "163.5.171.83"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#126",
@@ -2557,7 +2767,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#127",
@@ -2581,7 +2793,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#128",
@@ -2605,7 +2819,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#129",
@@ -2629,7 +2845,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#130",
@@ -2653,7 +2871,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#131",
@@ -2677,7 +2897,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#132",
@@ -2701,7 +2923,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#133",
@@ -2725,7 +2949,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#134",
@@ -2749,7 +2975,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#135",
@@ -2773,7 +3001,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#136",
@@ -2797,7 +3027,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#137",
@@ -2821,7 +3053,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#138",
@@ -2845,7 +3079,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#139",
@@ -2869,7 +3105,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#140",
@@ -2893,7 +3131,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#141",
@@ -2917,7 +3157,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#142",
@@ -2941,7 +3183,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#143",
@@ -2965,7 +3209,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#144",
@@ -2989,7 +3235,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#145",
@@ -3013,7 +3261,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#146",
@@ -3037,7 +3287,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#147",
@@ -3061,7 +3313,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#148",
@@ -3085,7 +3339,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#149",
@@ -3109,7 +3365,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#150",
@@ -3133,7 +3391,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#151",
@@ -3157,7 +3417,9 @@
         "EntryIP": "205.142.240.210",
         "ExitIP": "205.142.240.210"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#152",
@@ -3181,7 +3443,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#153",
@@ -3205,7 +3469,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#154",
@@ -3229,7 +3495,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#155",
@@ -3253,7 +3521,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#156",
@@ -3277,7 +3547,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#157",
@@ -3301,7 +3573,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#158",
@@ -3325,7 +3599,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#159",
@@ -3349,7 +3625,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#160",
@@ -3373,7 +3651,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#161",
@@ -3397,7 +3677,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#162",
@@ -3421,7 +3703,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#163",
@@ -3445,7 +3729,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#164",
@@ -3469,7 +3755,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#165",
@@ -3493,7 +3781,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#166",
@@ -3517,7 +3807,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#167",
@@ -3541,7 +3833,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#168",
@@ -3565,7 +3859,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#169",
@@ -3589,7 +3885,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#170",
@@ -3613,7 +3911,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#171",
@@ -3637,7 +3937,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#172",
@@ -3661,7 +3963,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#173",
@@ -3685,7 +3989,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#174",
@@ -3709,7 +4015,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#175",
@@ -3733,7 +4041,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#176",
@@ -3757,7 +4067,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#177",
@@ -3781,7 +4093,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#178",
@@ -3805,7 +4119,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#179",
@@ -3829,7 +4145,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#180",
@@ -3853,7 +4171,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#181",
@@ -3877,7 +4197,9 @@
         "EntryIP": "151.243.141.2",
         "ExitIP": "151.243.141.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#182",
@@ -3901,7 +4223,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#183",
@@ -3925,7 +4249,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#184",
@@ -3949,7 +4275,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#185",
@@ -3973,7 +4301,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#186",
@@ -3997,7 +4327,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#187",
@@ -4021,7 +4353,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#188",
@@ -4045,7 +4379,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#189",
@@ -4069,7 +4405,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#190",
@@ -4093,7 +4431,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#191",
@@ -4117,7 +4457,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#192",
@@ -4141,7 +4483,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#193",
@@ -4165,7 +4509,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#194",
@@ -4189,7 +4535,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#195",
@@ -4213,7 +4561,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#196",
@@ -4237,7 +4587,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#197",
@@ -4261,7 +4613,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#198",
@@ -4285,7 +4639,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#199",
@@ -4309,7 +4665,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#200",
@@ -4333,7 +4691,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#201",
@@ -4357,7 +4717,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#202",
@@ -4381,7 +4743,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#203",
@@ -4405,7 +4769,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#204",
@@ -4429,7 +4795,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#205",
@@ -4453,7 +4821,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#206",
@@ -4477,7 +4847,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#207",
@@ -4501,7 +4873,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#208",
@@ -4525,7 +4899,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#209",
@@ -4549,7 +4925,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#210",
@@ -4573,7 +4951,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#211",
@@ -4597,7 +4977,9 @@
         "EntryIP": "151.243.141.3",
         "ExitIP": "151.243.141.3"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#212",
@@ -4621,7 +5003,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#213",
@@ -4645,7 +5029,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#214",
@@ -4669,7 +5055,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#215",
@@ -4693,7 +5081,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#216",
@@ -4717,7 +5107,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#217",
@@ -4741,7 +5133,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#218",
@@ -4765,7 +5159,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#219",
@@ -4789,7 +5185,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#220",
@@ -4813,7 +5211,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#221",
@@ -4837,7 +5237,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#222",
@@ -4861,7 +5263,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#223",
@@ -4885,7 +5289,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#224",
@@ -4909,7 +5315,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#225",
@@ -4933,7 +5341,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#226",
@@ -4957,7 +5367,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#227",
@@ -4981,7 +5393,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#228",
@@ -5005,7 +5419,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#229",
@@ -5029,7 +5445,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#230",
@@ -5053,7 +5471,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#231",
@@ -5077,7 +5497,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#232",
@@ -5101,7 +5523,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#233",
@@ -5125,7 +5549,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#234",
@@ -5149,7 +5575,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#235",
@@ -5173,7 +5601,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#236",
@@ -5197,7 +5627,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#237",
@@ -5221,7 +5653,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#238",
@@ -5245,7 +5679,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#239",
@@ -5269,7 +5705,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#240",
@@ -5293,7 +5731,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#241",
@@ -5317,7 +5757,9 @@
         "EntryIP": "151.243.141.4",
         "ExitIP": "151.243.141.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#242",
@@ -5341,7 +5783,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#243",
@@ -5365,7 +5809,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#244",
@@ -5389,7 +5835,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#245",
@@ -5413,7 +5861,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#246",
@@ -5437,7 +5887,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#247",
@@ -5461,7 +5913,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#248",
@@ -5485,7 +5939,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#249",
@@ -5509,7 +5965,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#250",
@@ -5533,7 +5991,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#251",
@@ -5557,7 +6017,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#252",
@@ -5581,7 +6043,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#253",
@@ -5605,7 +6069,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#254",
@@ -5629,7 +6095,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#255",
@@ -5653,7 +6121,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#256",
@@ -5677,7 +6147,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#257",
@@ -5701,7 +6173,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#258",
@@ -5725,7 +6199,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#259",
@@ -5749,7 +6225,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#260",
@@ -5773,7 +6251,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#261",
@@ -5797,7 +6277,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#262",
@@ -5821,7 +6303,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#263",
@@ -5845,7 +6329,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#264",
@@ -5869,7 +6355,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#265",
@@ -5893,7 +6381,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#266",
@@ -5917,7 +6407,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#267",
@@ -5941,7 +6433,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#268",
@@ -5965,7 +6459,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#269",
@@ -5989,7 +6485,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#270",
@@ -6013,7 +6511,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#271",
@@ -6037,7 +6537,9 @@
         "EntryIP": "151.243.141.5",
         "ExitIP": "151.243.141.5"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#272",
@@ -6061,7 +6563,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#273",
@@ -6085,7 +6589,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#274",
@@ -6109,7 +6615,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#275",
@@ -6133,7 +6641,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#276",
@@ -6157,7 +6667,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#277",
@@ -6181,7 +6693,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#278",
@@ -6205,7 +6719,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#279",
@@ -6229,7 +6745,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#280",
@@ -6253,7 +6771,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#281",
@@ -6277,7 +6797,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#282",
@@ -6301,7 +6823,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#283",
@@ -6325,7 +6849,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#284",
@@ -6349,7 +6875,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#285",
@@ -6373,7 +6901,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#286",
@@ -6397,7 +6927,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#287",
@@ -6421,7 +6953,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#288",
@@ -6445,7 +6979,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#289",
@@ -6469,7 +7005,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#290",
@@ -6493,7 +7031,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#291",
@@ -6517,7 +7057,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#292",
@@ -6541,7 +7083,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#293",
@@ -6565,7 +7109,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#294",
@@ -6589,7 +7135,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#295",
@@ -6613,7 +7161,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#296",
@@ -6637,7 +7187,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#297",
@@ -6661,7 +7213,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#298",
@@ -6685,7 +7239,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#299",
@@ -6709,7 +7265,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#300",
@@ -6733,7 +7291,9 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-NJ#301",
@@ -6757,6 +7317,8 @@
         "EntryIP": "151.243.141.6",
         "ExitIP": "151.243.141.6"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

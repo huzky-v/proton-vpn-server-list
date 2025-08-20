@@ -25,7 +25,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#10",
@@ -53,7 +55,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#11",
@@ -81,7 +85,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#12",
@@ -109,7 +115,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#13",
@@ -137,7 +145,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#14",
@@ -165,7 +175,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#15",
@@ -193,7 +205,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#2",
@@ -221,7 +235,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#3",
@@ -249,7 +265,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#4",
@@ -277,7 +295,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#5",
@@ -305,7 +325,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#6",
@@ -333,7 +355,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#7",
@@ -361,7 +385,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#8",
@@ -389,7 +415,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#9",
@@ -417,7 +445,9 @@
         "EntryIP": "185.156.46.33",
         "ExitIP": "185.156.46.33"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#72",
@@ -445,7 +475,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#73",
@@ -473,7 +505,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#74",
@@ -501,7 +535,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#75",
@@ -529,7 +565,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#76",
@@ -557,7 +595,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#77",
@@ -585,7 +625,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#78",
@@ -613,7 +655,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#79",
@@ -641,7 +685,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#80",
@@ -669,7 +715,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#81",
@@ -697,7 +745,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#82",
@@ -725,7 +775,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#83",
@@ -753,7 +805,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#84",
@@ -781,7 +835,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#85",
@@ -809,7 +865,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#86",
@@ -837,7 +895,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#87",
@@ -865,7 +925,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#88",
@@ -893,7 +955,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#89",
@@ -921,7 +985,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#90",
@@ -949,7 +1015,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#91",
@@ -977,7 +1045,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#92",
@@ -1005,7 +1075,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#93",
@@ -1033,7 +1105,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#94",
@@ -1061,7 +1135,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#95",
@@ -1089,7 +1165,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#96",
@@ -1117,7 +1195,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#97",
@@ -1145,7 +1225,9 @@
         "EntryIP": "149.88.18.193",
         "ExitIP": "149.88.18.193"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#100",
@@ -1173,7 +1255,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#101",
@@ -1201,7 +1285,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#102",
@@ -1229,7 +1315,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#103",
@@ -1257,7 +1345,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#104",
@@ -1285,7 +1375,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#105",
@@ -1313,7 +1405,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#106",
@@ -1341,7 +1435,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#107",
@@ -1369,7 +1465,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#108",
@@ -1397,7 +1495,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#109",
@@ -1425,7 +1525,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#110",
@@ -1453,7 +1555,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#111",
@@ -1481,7 +1585,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#98",
@@ -1509,7 +1615,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#99",
@@ -1537,7 +1645,9 @@
         "EntryIP": "154.47.22.65",
         "ExitIP": "154.47.22.65"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#112",
@@ -1565,7 +1675,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#113",
@@ -1593,7 +1705,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#114",
@@ -1621,7 +1735,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#115",
@@ -1649,7 +1765,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#116",
@@ -1677,7 +1795,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#117",
@@ -1705,7 +1825,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#118",
@@ -1733,7 +1855,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#119",
@@ -1761,7 +1885,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#120",
@@ -1789,7 +1915,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#121",
@@ -1817,7 +1945,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#122",
@@ -1845,7 +1975,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#123",
@@ -1873,7 +2005,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#124",
@@ -1901,7 +2035,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#125",
@@ -1929,7 +2065,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#126",
@@ -1957,7 +2095,9 @@
         "EntryIP": "154.47.22.77",
         "ExitIP": "154.47.22.77"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#127",
@@ -1985,7 +2125,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#128",
@@ -2013,7 +2155,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#129",
@@ -2041,7 +2185,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#130",
@@ -2069,7 +2215,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#131",
@@ -2097,7 +2245,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#132",
@@ -2125,7 +2275,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#133",
@@ -2153,7 +2305,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#134",
@@ -2181,7 +2335,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#135",
@@ -2209,7 +2365,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#136",
@@ -2237,7 +2395,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#137",
@@ -2265,7 +2425,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#138",
@@ -2293,7 +2455,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#139",
@@ -2321,7 +2485,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#140",
@@ -2349,7 +2515,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#141",
@@ -2377,7 +2545,9 @@
         "EntryIP": "154.47.22.90",
         "ExitIP": "154.47.22.90"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#16",
@@ -2405,7 +2575,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#17",
@@ -2433,7 +2605,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#18",
@@ -2461,7 +2635,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#19",
@@ -2489,7 +2665,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#20",
@@ -2517,7 +2695,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#21",
@@ -2545,7 +2725,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#22",
@@ -2573,7 +2755,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#23",
@@ -2601,7 +2785,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#24",
@@ -2629,7 +2815,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#25",
@@ -2657,7 +2845,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#26",
@@ -2685,7 +2875,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#27",
@@ -2713,7 +2905,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#28",
@@ -2741,7 +2935,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#29",
@@ -2769,7 +2965,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#30",
@@ -2797,7 +2995,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#31",
@@ -2825,7 +3025,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#32",
@@ -2853,7 +3055,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#33",
@@ -2881,7 +3085,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#34",
@@ -2909,7 +3115,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#35",
@@ -2937,7 +3145,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#36",
@@ -2965,7 +3175,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#37",
@@ -2993,7 +3205,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#38",
@@ -3021,7 +3235,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#39",
@@ -3049,7 +3265,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#40",
@@ -3077,7 +3295,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#41",
@@ -3105,7 +3325,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#42",
@@ -3133,7 +3355,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#43",
@@ -3161,7 +3385,9 @@
         "EntryIP": "149.102.227.1",
         "ExitIP": "149.102.227.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#44",
@@ -3189,7 +3415,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#45",
@@ -3217,7 +3445,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#46",
@@ -3245,7 +3475,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#47",
@@ -3273,7 +3505,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#48",
@@ -3301,7 +3535,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#49",
@@ -3329,7 +3565,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#50",
@@ -3357,7 +3595,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#51",
@@ -3385,7 +3625,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#52",
@@ -3413,7 +3655,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#53",
@@ -3441,7 +3685,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#54",
@@ -3469,7 +3715,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#55",
@@ -3497,7 +3745,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#56",
@@ -3525,7 +3775,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#57",
@@ -3553,7 +3805,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#58",
@@ -3581,7 +3835,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#59",
@@ -3609,7 +3865,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#60",
@@ -3637,7 +3895,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#61",
@@ -3665,7 +3925,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#62",
@@ -3693,7 +3955,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#63",
@@ -3721,7 +3985,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#64",
@@ -3749,7 +4015,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#65",
@@ -3777,7 +4045,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#66",
@@ -3805,7 +4075,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#67",
@@ -3833,7 +4105,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#68",
@@ -3861,7 +4135,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#69",
@@ -3889,7 +4165,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#70",
@@ -3917,7 +4195,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#71",
@@ -3945,7 +4225,9 @@
         "EntryIP": "149.102.227.30",
         "ExitIP": "149.102.227.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": true
   },
   {
     "Name": "US-VA#142",
@@ -3973,7 +4255,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#143",
@@ -4001,7 +4285,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#144",
@@ -4029,7 +4315,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#145",
@@ -4057,7 +4345,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#146",
@@ -4085,7 +4375,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#147",
@@ -4113,7 +4405,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#148",
@@ -4141,7 +4435,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#149",
@@ -4169,7 +4465,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#150",
@@ -4197,7 +4495,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#151",
@@ -4225,7 +4525,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#152",
@@ -4253,7 +4555,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#153",
@@ -4281,7 +4585,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#154",
@@ -4309,7 +4615,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#155",
@@ -4337,7 +4645,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#156",
@@ -4365,7 +4675,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#157",
@@ -4393,7 +4705,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#158",
@@ -4421,7 +4735,9 @@
         "EntryIP": "89.222.100.65",
         "ExitIP": "89.222.100.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#159",
@@ -4449,7 +4765,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#160",
@@ -4477,7 +4795,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#161",
@@ -4505,7 +4825,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#162",
@@ -4533,7 +4855,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#163",
@@ -4561,7 +4885,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#164",
@@ -4589,7 +4915,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#165",
@@ -4617,7 +4945,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#166",
@@ -4645,7 +4975,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#167",
@@ -4673,7 +5005,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#168",
@@ -4701,7 +5035,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#169",
@@ -4729,7 +5065,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#170",
@@ -4757,7 +5095,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#171",
@@ -4785,7 +5125,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#172",
@@ -4813,7 +5155,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#173",
@@ -4841,7 +5185,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#174",
@@ -4869,7 +5215,9 @@
         "EntryIP": "89.222.100.66",
         "ExitIP": "89.222.100.66"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#175",
@@ -4897,7 +5245,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#176",
@@ -4925,7 +5275,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#177",
@@ -4953,7 +5305,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#178",
@@ -4981,7 +5335,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#179",
@@ -5009,7 +5365,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#180",
@@ -5037,7 +5395,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#181",
@@ -5065,7 +5425,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#182",
@@ -5093,7 +5455,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#183",
@@ -5121,7 +5485,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#184",
@@ -5149,7 +5515,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#185",
@@ -5177,7 +5545,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#186",
@@ -5205,7 +5575,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#187",
@@ -5233,7 +5605,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#188",
@@ -5261,7 +5635,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#189",
@@ -5289,7 +5665,9 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "US-VA#190",
@@ -5317,6 +5695,8 @@
         "EntryIP": "89.222.100.67",
         "ExitIP": "89.222.100.67"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

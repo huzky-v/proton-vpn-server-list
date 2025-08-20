@@ -21,7 +21,9 @@
         "EntryIP": "74.118.126.224",
         "ExitIP": "74.118.126.224"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "TN#6",
@@ -45,7 +47,9 @@
         "EntryIP": "74.118.126.224",
         "ExitIP": "74.118.126.224"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "TN#7",
@@ -69,7 +73,9 @@
         "EntryIP": "74.118.126.224",
         "ExitIP": "74.118.126.224"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "TN#8",
@@ -93,6 +99,8 @@
         "EntryIP": "74.118.126.224",
         "ExitIP": "74.118.126.224"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   }
 ]

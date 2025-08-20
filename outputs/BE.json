@@ -25,7 +25,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#30",
@@ -53,7 +55,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#31",
@@ -81,7 +85,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#32",
@@ -109,7 +115,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#33",
@@ -137,7 +145,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#34",
@@ -165,7 +175,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#35",
@@ -193,7 +205,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#36",
@@ -221,7 +235,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#37",
@@ -249,7 +265,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#38",
@@ -277,7 +295,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#39",
@@ -305,7 +325,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#40",
@@ -333,7 +355,9 @@
         "EntryIP": "91.90.123.50",
         "ExitIP": "91.90.123.50"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#41",
@@ -361,7 +385,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#42",
@@ -389,7 +415,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#43",
@@ -417,7 +445,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#44",
@@ -445,7 +475,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#45",
@@ -473,7 +505,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#46",
@@ -501,7 +535,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#47",
@@ -529,7 +565,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#48",
@@ -557,7 +595,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#49",
@@ -585,7 +625,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#50",
@@ -613,7 +655,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#51",
@@ -641,7 +685,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#52",
@@ -669,7 +715,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#53",
@@ -697,7 +745,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#54",
@@ -725,7 +775,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#55",
@@ -753,7 +805,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#56",
@@ -781,7 +835,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#57",
@@ -809,7 +865,9 @@
         "EntryIP": "91.90.123.178",
         "ExitIP": "91.90.123.178"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#58",
@@ -833,7 +891,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#59",
@@ -857,7 +917,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#60",
@@ -881,7 +943,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#61",
@@ -905,7 +969,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#62",
@@ -929,7 +995,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#63",
@@ -953,7 +1021,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#64",
@@ -977,7 +1047,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#65",
@@ -1001,7 +1073,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#66",
@@ -1025,7 +1099,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#67",
@@ -1049,7 +1125,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#68",
@@ -1073,7 +1151,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#69",
@@ -1097,7 +1177,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#70",
@@ -1121,7 +1203,9 @@
         "EntryIP": "45.128.133.226",
         "ExitIP": "45.128.133.226"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#71",
@@ -1145,7 +1229,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#72",
@@ -1169,7 +1255,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#73",
@@ -1193,7 +1281,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#74",
@@ -1217,7 +1307,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#75",
@@ -1241,7 +1333,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#76",
@@ -1265,7 +1359,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#77",
@@ -1289,7 +1385,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#78",
@@ -1313,7 +1411,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#79",
@@ -1337,7 +1437,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#80",
@@ -1361,7 +1463,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#81",
@@ -1385,7 +1489,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#82",
@@ -1409,7 +1515,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#83",
@@ -1433,7 +1541,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#84",
@@ -1457,7 +1567,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#85",
@@ -1481,7 +1593,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#86",
@@ -1505,7 +1619,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#87",
@@ -1529,7 +1645,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#88",
@@ -1553,7 +1671,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#89",
@@ -1577,7 +1697,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#90",
@@ -1601,7 +1723,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#91",
@@ -1625,7 +1749,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#92",
@@ -1649,7 +1775,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#93",
@@ -1673,7 +1801,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#94",
@@ -1697,7 +1827,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#95",
@@ -1721,7 +1853,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#96",
@@ -1745,7 +1879,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#97",
@@ -1769,7 +1905,9 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BE#98",
@@ -1793,6 +1931,8 @@
         "EntryIP": "79.127.164.65",
         "ExitIP": "79.127.164.65"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

@@ -21,7 +21,9 @@
         "EntryIP": "74.118.126.24",
         "ExitIP": "74.118.126.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "BY#42",
@@ -45,7 +47,9 @@
         "EntryIP": "74.118.126.24",
         "ExitIP": "74.118.126.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "BY#43",
@@ -69,7 +73,9 @@
         "EntryIP": "74.118.126.24",
         "ExitIP": "74.118.126.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "BY#44",
@@ -93,6 +99,8 @@
         "EntryIP": "74.118.126.24",
         "ExitIP": "74.118.126.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   }
 ]

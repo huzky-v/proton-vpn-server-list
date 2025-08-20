@@ -21,7 +21,9 @@
         "EntryIP": "74.118.126.4",
         "ExitIP": "74.118.126.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "AL#34",
@@ -45,7 +47,9 @@
         "EntryIP": "74.118.126.4",
         "ExitIP": "74.118.126.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "AL#35",
@@ -69,7 +73,9 @@
         "EntryIP": "74.118.126.4",
         "ExitIP": "74.118.126.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "AL#36",
@@ -93,7 +99,9 @@
         "EntryIP": "74.118.126.4",
         "ExitIP": "74.118.126.4"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "AL#37",
@@ -117,7 +125,9 @@
         "EntryIP": "31.171.153.98",
         "ExitIP": "31.171.153.98"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "AL#38",
@@ -141,7 +151,9 @@
         "EntryIP": "31.171.153.98",
         "ExitIP": "31.171.153.98"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "AL#39",
@@ -165,7 +177,9 @@
         "EntryIP": "31.171.153.98",
         "ExitIP": "31.171.153.98"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "AL#40",
@@ -189,7 +203,9 @@
         "EntryIP": "31.171.153.98",
         "ExitIP": "31.171.153.98"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "AL#41",
@@ -213,7 +229,9 @@
         "EntryIP": "31.171.153.98",
         "ExitIP": "31.171.153.98"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "AL#42",
@@ -237,7 +255,9 @@
         "EntryIP": "31.171.153.98",
         "ExitIP": "31.171.153.98"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "AL#43",
@@ -261,7 +281,9 @@
         "EntryIP": "31.171.153.98",
         "ExitIP": "31.171.153.98"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "AL#44",
@@ -285,7 +307,9 @@
         "EntryIP": "31.171.153.98",
         "ExitIP": "31.171.153.98"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "AL#45",
@@ -309,7 +333,9 @@
         "EntryIP": "31.171.153.98",
         "ExitIP": "31.171.153.98"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "AL#46",
@@ -333,7 +359,9 @@
         "EntryIP": "31.171.153.98",
         "ExitIP": "31.171.153.98"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "AL#47",
@@ -357,6 +385,8 @@
         "EntryIP": "31.171.153.98",
         "ExitIP": "31.171.153.98"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

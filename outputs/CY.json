@@ -25,7 +25,9 @@
         "EntryIP": "85.132.252.34",
         "ExitIP": "85.132.252.34"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "CY#10",
@@ -53,7 +55,9 @@
         "EntryIP": "85.132.252.34",
         "ExitIP": "85.132.252.34"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "CY#2",
@@ -81,7 +85,9 @@
         "EntryIP": "85.132.252.34",
         "ExitIP": "85.132.252.34"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "CY#3",
@@ -109,7 +115,9 @@
         "EntryIP": "85.132.252.34",
         "ExitIP": "85.132.252.34"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "CY#4",
@@ -137,7 +145,9 @@
         "EntryIP": "85.132.252.34",
         "ExitIP": "85.132.252.34"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "CY#5",
@@ -165,7 +175,9 @@
         "EntryIP": "85.132.252.34",
         "ExitIP": "85.132.252.34"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "CY#6",
@@ -193,7 +205,9 @@
         "EntryIP": "85.132.252.34",
         "ExitIP": "85.132.252.34"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "CY#7",
@@ -221,7 +235,9 @@
         "EntryIP": "85.132.252.34",
         "ExitIP": "85.132.252.34"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "CY#8",
@@ -249,7 +265,9 @@
         "EntryIP": "85.132.252.34",
         "ExitIP": "85.132.252.34"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "CY#9",
@@ -277,6 +295,8 @@
         "EntryIP": "85.132.252.34",
         "ExitIP": "85.132.252.34"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

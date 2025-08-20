@@ -21,7 +21,9 @@
         "EntryIP": "79.135.105.88",
         "ExitIP": "79.135.105.88"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "ME#26",
@@ -45,7 +47,9 @@
         "EntryIP": "79.135.105.88",
         "ExitIP": "79.135.105.88"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "ME#27",
@@ -69,7 +73,9 @@
         "EntryIP": "79.135.105.88",
         "ExitIP": "79.135.105.88"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "ME#28",
@@ -93,6 +99,8 @@
         "EntryIP": "79.135.105.88",
         "ExitIP": "79.135.105.88"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

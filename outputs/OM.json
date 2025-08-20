@@ -21,7 +21,9 @@
         "EntryIP": "74.118.126.172",
         "ExitIP": "74.118.126.172"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "OM#11",
@@ -45,7 +47,9 @@
         "EntryIP": "74.118.126.172",
         "ExitIP": "74.118.126.172"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "OM#12",
@@ -69,7 +73,9 @@
         "EntryIP": "74.118.126.172",
         "ExitIP": "74.118.126.172"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "OM#9",
@@ -93,6 +99,8 @@
         "EntryIP": "74.118.126.172",
         "ExitIP": "74.118.126.172"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

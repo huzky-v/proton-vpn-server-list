@@ -21,7 +21,9 @@
         "EntryIP": "74.118.126.96",
         "ExitIP": "74.118.126.96"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "IQ#6",
@@ -45,7 +47,9 @@
         "EntryIP": "74.118.126.96",
         "ExitIP": "74.118.126.96"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "IQ#7",
@@ -69,7 +73,9 @@
         "EntryIP": "74.118.126.96",
         "ExitIP": "74.118.126.96"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "IQ#8",
@@ -93,6 +99,8 @@
         "EntryIP": "74.118.126.96",
         "ExitIP": "74.118.126.96"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": false
   }
 ]

@@ -21,7 +21,9 @@
         "EntryIP": "94.190.195.24",
         "ExitIP": "94.190.195.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BT#2",
@@ -45,7 +47,9 @@
         "EntryIP": "94.190.195.24",
         "ExitIP": "94.190.195.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BT#3",
@@ -69,7 +73,9 @@
         "EntryIP": "94.190.195.24",
         "ExitIP": "94.190.195.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BT#4",
@@ -93,7 +99,9 @@
         "EntryIP": "94.190.195.24",
         "ExitIP": "94.190.195.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BT#5",
@@ -117,7 +125,9 @@
         "EntryIP": "94.190.195.24",
         "ExitIP": "94.190.195.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BT#6",
@@ -141,7 +151,9 @@
         "EntryIP": "94.190.195.24",
         "ExitIP": "94.190.195.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BT#7",
@@ -165,7 +177,9 @@
         "EntryIP": "94.190.195.24",
         "ExitIP": "94.190.195.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "BT#8",
@@ -189,6 +203,8 @@
         "EntryIP": "94.190.195.24",
         "ExitIP": "94.190.195.24"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

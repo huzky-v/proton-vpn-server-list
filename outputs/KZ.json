@@ -21,7 +21,9 @@
         "EntryIP": "79.135.105.80",
         "ExitIP": "79.135.105.80"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#26",
@@ -45,7 +47,9 @@
         "EntryIP": "79.135.105.80",
         "ExitIP": "79.135.105.80"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#27",
@@ -69,7 +73,9 @@
         "EntryIP": "79.135.105.80",
         "ExitIP": "79.135.105.80"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#28",
@@ -93,7 +99,9 @@
         "EntryIP": "79.135.105.80",
         "ExitIP": "79.135.105.80"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#1",
@@ -121,7 +129,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#10",
@@ -149,7 +159,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#11",
@@ -177,7 +189,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#12",
@@ -205,7 +219,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#13",
@@ -233,7 +249,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#14",
@@ -261,7 +279,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#15",
@@ -289,7 +309,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#16",
@@ -317,7 +339,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#17",
@@ -345,7 +369,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#18",
@@ -373,7 +399,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#19",
@@ -401,7 +429,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#2",
@@ -429,7 +459,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#20",
@@ -457,7 +489,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#3",
@@ -485,7 +519,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#4",
@@ -513,7 +549,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#5",
@@ -541,7 +579,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#6",
@@ -569,7 +609,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#7",
@@ -597,7 +639,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#8",
@@ -625,7 +669,9 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   },
   {
     "Name": "KZ#9",
@@ -653,6 +699,8 @@
         "EntryIP": "217.138.11.2",
         "ExitIP": "217.138.11.2"
       }
-    ]
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

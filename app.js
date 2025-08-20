@@ -6,6 +6,11 @@ const inputFile = 'response.json';
 const outputDir = 'outputs';
 const outputGroupDir = 'output-group';
 
+//ENUM is here https://github.com/ProtonVPN/python-proton-vpn-api-core/blob/bbb8c535fdd9c4993590ba00a178ccba7366477e/proton/vpn/session/servers/types.py#L37
+const P2P = 4;
+const STREAMING = 8;
+const IPV6 = 16;
+
 const dnsCache = {};
 
 async function resolveDomain(domain) {
@@ -52,7 +57,9 @@ function groupByIPv4(allEntries) {
             domain: server.Domain,
             servers: [],
             ipv6Enabled: entry.ipv6Enabled,
-            city: entry.City
+            city: entry.City,
+            P2P: entry.P2P,
+            Streaming: entry.Streaming
           });
         }
         if (map.get(ipv4Addr).servers.indexOf(entry.Name) == -1) map.get(ipv4Addr).servers.push(entry.Name);
@@ -84,24 +91,26 @@ async function main() {
     const servers = [];
     for (const server of logical.Servers) {
       const resolved = await resolveDomain(server.Domain);
+      
       servers.push({
         Domain: resolved.domain,
         ipv4: resolved.ipv4,
         ipv6: resolved.ipv6,
         X25519PublicKey: server.X25519PublicKey,
         EntryIP: server.EntryIP,
-        ExitIP: server.ExitIP,
+        ExitIP: server.ExitIP
       });
     }
 
     const ipv6Enabled = checkIPv6Enabled(resolvedDomain, servers);
-
     const entryObj = {
       Name: logical.Name,
       Domain: resolvedDomain,
       City: logical.City || null,
       ipv6Enabled,
       Servers: [...new Set(servers.map(r => JSON.stringify(r)))].map(r => JSON.parse(r)),
+      P2P: ((logical.Features & P2P) !== 0)?true:false,
+      Streaming: ((logical.Features & STREAMING) !== 0)?true:false
     };
 
     grouped[baseName].push(entryObj);

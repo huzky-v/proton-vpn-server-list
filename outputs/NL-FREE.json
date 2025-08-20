@@ -25,7 +25,9 @@
         "EntryIP": "185.177.124.84",
         "ExitIP": "185.177.124.84"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#102",
@@ -53,7 +55,9 @@
         "EntryIP": "212.8.243.68",
         "ExitIP": "212.8.243.68"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#103",
@@ -81,7 +85,9 @@
         "EntryIP": "212.8.253.155",
         "ExitIP": "212.8.253.155"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#104",
@@ -109,7 +115,9 @@
         "EntryIP": "212.8.253.138",
         "ExitIP": "212.8.253.138"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#105",
@@ -137,7 +145,9 @@
         "EntryIP": "185.182.193.5",
         "ExitIP": "185.182.193.5"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#106",
@@ -165,7 +175,9 @@
         "EntryIP": "185.182.193.108",
         "ExitIP": "185.182.193.108"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#111",
@@ -193,7 +205,9 @@
         "EntryIP": "138.199.7.181",
         "ExitIP": "138.199.7.181"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#112",
@@ -221,7 +235,9 @@
         "EntryIP": "149.34.244.129",
         "ExitIP": "149.34.244.129"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#114",
@@ -249,7 +265,9 @@
         "EntryIP": "149.34.244.139",
         "ExitIP": "149.34.244.139"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#116",
@@ -277,7 +295,9 @@
         "EntryIP": "149.34.244.149",
         "ExitIP": "149.34.244.149"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#117",
@@ -305,7 +325,9 @@
         "EntryIP": "149.34.244.154",
         "ExitIP": "149.34.244.154"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#118",
@@ -333,7 +355,9 @@
         "EntryIP": "149.34.244.159",
         "ExitIP": "149.34.244.159"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#119",
@@ -361,7 +385,9 @@
         "EntryIP": "149.34.244.164",
         "ExitIP": "149.34.244.164"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#120",
@@ -389,7 +415,9 @@
         "EntryIP": "149.34.244.169",
         "ExitIP": "149.34.244.169"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#121",
@@ -417,7 +445,9 @@
         "EntryIP": "149.34.244.174",
         "ExitIP": "149.34.244.174"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#122",
@@ -445,7 +475,9 @@
         "EntryIP": "149.34.244.179",
         "ExitIP": "149.34.244.179"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#126",
@@ -469,7 +501,9 @@
         "EntryIP": "185.107.56.69",
         "ExitIP": "185.107.56.69"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#125",
@@ -493,7 +527,9 @@
         "EntryIP": "185.107.56.61",
         "ExitIP": "185.107.56.61"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#127",
@@ -517,7 +553,9 @@
         "EntryIP": "185.107.56.76",
         "ExitIP": "185.107.56.76"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#128",
@@ -541,7 +579,9 @@
         "EntryIP": "185.107.56.236",
         "ExitIP": "185.107.56.236"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#123",
@@ -565,7 +605,9 @@
         "EntryIP": "185.107.56.30",
         "ExitIP": "185.107.56.30"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#124",
@@ -589,7 +631,9 @@
         "EntryIP": "185.107.56.46",
         "ExitIP": "185.107.56.46"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#130",
@@ -613,7 +657,9 @@
         "EntryIP": "185.107.56.134",
         "ExitIP": "185.107.56.134"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#131",
@@ -637,7 +683,9 @@
         "EntryIP": "185.107.56.138",
         "ExitIP": "185.107.56.138"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#132",
@@ -661,7 +709,9 @@
         "EntryIP": "185.107.56.123",
         "ExitIP": "185.107.56.123"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#129",
@@ -689,7 +739,9 @@
         "EntryIP": "89.38.99.72",
         "ExitIP": "89.38.99.72"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#198",
@@ -713,7 +765,9 @@
         "EntryIP": "185.165.241.179",
         "ExitIP": "185.165.241.179"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#212",
@@ -737,7 +791,9 @@
         "EntryIP": "185.132.178.52",
         "ExitIP": "185.132.178.52"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#213",
@@ -761,7 +817,9 @@
         "EntryIP": "185.184.192.216",
         "ExitIP": "185.184.192.216"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#214",
@@ -785,7 +843,9 @@
         "EntryIP": "185.132.178.104",
         "ExitIP": "185.132.178.104"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#222",
@@ -809,7 +869,9 @@
         "EntryIP": "185.165.243.20",
         "ExitIP": "185.165.243.20"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#223",
@@ -833,7 +895,9 @@
         "EntryIP": "185.132.133.79",
         "ExitIP": "185.132.133.79"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#224",
@@ -857,7 +921,9 @@
         "EntryIP": "190.2.154.217",
         "ExitIP": "190.2.154.217"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#225",
@@ -881,7 +947,9 @@
         "EntryIP": "185.132.134.35",
         "ExitIP": "185.132.134.35"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#226",
@@ -905,7 +973,35 @@
         "EntryIP": "190.2.152.224",
         "ExitIP": "190.2.152.224"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "NL-FREE#236",
+    "Domain": {
+      "domain": "node-nl-262.protonvpn.net",
+      "ipv4": [
+        "185.100.234.7"
+      ],
+      "ipv6": []
+    },
+    "City": "Amsterdam",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-nl-262.protonvpn.net",
+        "ipv4": [
+          "185.100.234.7"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "GdVK8Ws3Zn65hDwau9lnhrCJhr8MtK9Tm2CvFL6WeCM=",
+        "EntryIP": "185.100.234.7",
+        "ExitIP": "185.100.234.7"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "NL-FREE#246",
@@ -929,6 +1025,8 @@
         "EntryIP": "212.8.243.27",
         "ExitIP": "212.8.243.27"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   }
 ]

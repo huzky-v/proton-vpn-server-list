@@ -29,6 +29,8 @@
         "EntryIP": "79.135.104.100",
         "ExitIP": "79.135.104.100"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   }
 ]

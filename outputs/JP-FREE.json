@@ -25,7 +25,9 @@
         "EntryIP": "45.87.213.226",
         "ExitIP": "45.87.213.226"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "JP-FREE#17",
@@ -53,7 +55,9 @@
         "EntryIP": "193.148.16.2",
         "ExitIP": "193.148.16.2"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "JP-FREE#20",
@@ -77,7 +81,9 @@
         "EntryIP": "212.102.51.1",
         "ExitIP": "212.102.51.1"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "JP-FREE#21",
@@ -101,7 +107,9 @@
         "EntryIP": "37.19.205.198",
         "ExitIP": "37.19.205.198"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "JP-FREE#22",
@@ -125,7 +133,9 @@
         "EntryIP": "212.102.51.82",
         "ExitIP": "212.102.51.82"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "JP-FREE#23",
@@ -149,7 +159,9 @@
         "EntryIP": "212.102.51.55",
         "ExitIP": "212.102.51.55"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "JP-FREE#24",
@@ -173,7 +185,9 @@
         "EntryIP": "212.102.51.28",
         "ExitIP": "212.102.51.28"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   },
   {
     "Name": "JP-FREE#25",
@@ -197,6 +211,8 @@
         "EntryIP": "91.207.174.2",
         "ExitIP": "91.207.174.2"
       }
-    ]
+    ],
+    "P2P": false,
+    "Streaming": false
   }
 ]
