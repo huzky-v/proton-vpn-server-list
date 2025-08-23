@@ -1,0 +1,80 @@
+[
+  {
+    "Name": "SG-FREE#3",
+    "Domain": {
+      "domain": "node-sg-19.protonvpn.net",
+      "ipv4": [
+        "149.50.211.139"
+      ],
+      "ipv6": []
+    },
+    "City": "Singapore",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-sg-19.protonvpn.net",
+        "ipv4": [
+          "149.50.211.139"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "9lzYRM9SNjGGkYjc0FcYCWFO9ZWEFRwHboW6RLeUnBU=",
+        "EntryIP": "149.50.211.139",
+        "ExitIP": "149.50.211.139"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "SG-FREE#6",
+    "Domain": {
+      "domain": "node-sg-22.protonvpn.net",
+      "ipv4": [
+        "149.50.211.134"
+      ],
+      "ipv6": []
+    },
+    "City": "Singapore",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-sg-22.protonvpn.net",
+        "ipv4": [
+          "149.50.211.134"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "AMrYsHq/kc8SLUxR5Z9OXuNCcF9YvsOl9Ch60hc+Q2U=",
+        "EntryIP": "149.50.211.134",
+        "ExitIP": "149.50.211.134"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "SG-FREE#8",
+    "Domain": {
+      "domain": "node-sg-24.protonvpn.net",
+      "ipv4": [
+        "149.88.23.112"
+      ],
+      "ipv6": []
+    },
+    "City": "Singapore",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-sg-24.protonvpn.net",
+        "ipv4": [
+          "149.88.23.112"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "1Q+YAWvSjyl8ooypm+O1OFsCOjyI3ZAaesASMloFVW8=",
+        "EntryIP": "149.88.23.112",
+        "ExitIP": "149.88.23.112"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

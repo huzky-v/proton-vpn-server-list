@@ -1,5 +1,5 @@
 {
-  "genDate": "2025-08-20T10:04:17.973Z",
+  "genDate": "2025-08-23T07:21:07.087Z",
   "data": [
     {
       "ipv4": "185.76.11.27",
@@ -16243,6 +16243,42 @@
       "city": "Singapore",
       "P2P": true,
       "Streaming": true
+    },
+    {
+      "ipv4": "149.50.211.139",
+      "ipv6": null,
+      "domain": "node-sg-19.protonvpn.net",
+      "servers": [
+        "SG-FREE#3"
+      ],
+      "ipv6Enabled": false,
+      "city": "Singapore",
+      "P2P": false,
+      "Streaming": false
+    },
+    {
+      "ipv4": "149.50.211.134",
+      "ipv6": null,
+      "domain": "node-sg-22.protonvpn.net",
+      "servers": [
+        "SG-FREE#6"
+      ],
+      "ipv6Enabled": false,
+      "city": "Singapore",
+      "P2P": false,
+      "Streaming": false
+    },
+    {
+      "ipv4": "149.88.23.112",
+      "ipv6": null,
+      "domain": "node-sg-24.protonvpn.net",
+      "servers": [
+        "SG-FREE#8"
+      ],
+      "ipv6Enabled": false,
+      "city": "Singapore",
+      "P2P": false,
+      "Streaming": false
     },
     {
       "ipv4": "103.216.223.50",
