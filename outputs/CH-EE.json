@@ -12,12 +12,22 @@
       {
         "Domain": "node-ee-01.protonvpn.net",
         "ipv4": [
-          "165.231.178.10"
+          "165.231.183.2"
         ],
         "ipv6": [],
         "X25519PublicKey": "fHGPlsNkuvuyLoqKp/Yfh3R31jdGN5JWRZ5cE1aW/UM=",
         "EntryIP": "62.169.136.106",
         "ExitIP": "62.169.136.106"
+      },
+      {
+        "Domain": "node-ee-02.protonvpn.net",
+        "ipv4": [
+          "95.153.31.114"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dq6F8vkRFuDM8jw4rSm+d4q21K8gAS8/6qgDSwdIFEk=",
+        "EntryIP": "79.135.104.28",
+        "ExitIP": "79.135.104.28"
       }
     ],
     "P2P": false,

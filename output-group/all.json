@@ -1,5 +1,5 @@
 {
-  "genDate": "2025-08-29T06:51:44.588Z",
+  "genDate": "2025-09-06T18:17:29.406Z",
   "data": [
     {
       "ipv4": "185.76.11.27",
@@ -16198,6 +16198,45 @@
       "Streaming": true
     },
     {
+      "ipv4": "141.98.213.194",
+      "ipv6": null,
+      "domain": "node-kr-04.protonvpn.net",
+      "servers": [
+        "KR#25",
+        "KR#26",
+        "KR#27",
+        "KR#28",
+        "KR#29",
+        "KR#30",
+        "KR#31",
+        "KR#32",
+        "KR#33",
+        "KR#34",
+        "KR#35",
+        "KR#36",
+        "KR#37",
+        "KR#38",
+        "KR#39",
+        "KR#40",
+        "KR#41",
+        "KR#42",
+        "KR#43",
+        "KR#44",
+        "KR#45",
+        "KR#46",
+        "KR#47",
+        "KR#48",
+        "KR#49",
+        "KR#50",
+        "KR#51",
+        "KR#52"
+      ],
+      "ipv6Enabled": false,
+      "city": "Seoul",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
       "ipv4": "45.151.45.4",
       "ipv6": null,
       "domain": "node-lt-01b.protonvpn.net",
@@ -17915,6 +17954,18 @@
         "JP-FREE#25"
       ],
       "ipv6Enabled": false,
+      "city": "Tokyo",
+      "P2P": false,
+      "Streaming": false
+    },
+    {
+      "ipv4": "149.88.103.161",
+      "ipv6": "2a02:6ea0:d33b:6282::10",
+      "domain": "node-jp-58.protonvpn.net",
+      "servers": [
+        "JP-FREE#33"
+      ],
+      "ipv6Enabled": true,
       "city": "Tokyo",
       "P2P": false,
       "Streaming": false

@@ -358,5 +358,733 @@
     ],
     "P2P": true,
     "Streaming": true
+  },
+  {
+    "Name": "KR#25",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#26",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#27",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#28",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#29",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#30",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#31",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#32",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#33",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#34",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#35",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#36",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#37",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#38",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#39",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#40",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#41",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#42",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#43",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#44",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#45",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#46",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#47",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#48",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#49",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#50",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#51",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "KR#52",
+    "Domain": {
+      "domain": "node-kr-04.protonvpn.net",
+      "ipv4": [
+        "141.98.213.194"
+      ],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "141.98.213.194",
+        "ExitIP": "141.98.213.194"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

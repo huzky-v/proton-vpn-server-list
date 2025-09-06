@@ -214,5 +214,35 @@
     ],
     "P2P": false,
     "Streaming": false
+  },
+  {
+    "Name": "JP-FREE#33",
+    "Domain": {
+      "domain": "node-jp-58.protonvpn.net",
+      "ipv4": [
+        "149.88.103.161"
+      ],
+      "ipv6": [
+        "2a02:6ea0:d33b:6282::10"
+      ]
+    },
+    "City": "Tokyo",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-jp-58.protonvpn.net",
+        "ipv4": [
+          "149.88.103.161"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d33b:6282::10"
+        ],
+        "X25519PublicKey": "qhEO97nKps2D1JsZjw3AiSuVJVbrBROV3Gpvong0hgI=",
+        "EntryIP": "149.88.103.161",
+        "ExitIP": "149.88.103.161"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
   }
 ]
