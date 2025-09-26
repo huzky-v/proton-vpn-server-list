@@ -6,9 +6,31 @@
       "ipv4": [],
       "ipv6": []
     },
-    "City": "Toronto",
-    "ipv6Enabled": false,
+    "City": "Vancouver",
+    "ipv6Enabled": true,
     "Servers": [
+      {
+        "Domain": "node-ca-37.protonvpn.net",
+        "ipv4": [
+          "104.254.95.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "SFesR+3u5/vyQGeaCSREjs4m2WznwFlWAQ9CE3QSnRg=",
+        "EntryIP": "185.159.156.142",
+        "ExitIP": "185.159.156.142"
+      },
+      {
+        "Domain": "node-ca-40.protonvpn.net",
+        "ipv4": [
+          "154.47.17.129"
+        ],
+        "ipv6": [
+          "2a02:6ea0:de10:5427::10"
+        ],
+        "X25519PublicKey": "47Y5endlEtxoo7Y2e33GVTpj/fAzrXtIK6ta+hSt5gg=",
+        "EntryIP": "185.159.156.149",
+        "ExitIP": "185.159.156.149"
+      },
       {
         "Domain": "node-ca-14.protonvpn.net",
         "ipv4": [

@@ -1,5 +1,5 @@
 {
-  "genDate": "2025-09-19T20:04:17.424Z",
+  "genDate": "2025-09-26T09:16:19.750Z",
   "data": [
     {
       "ipv4": "185.76.11.27",
@@ -4095,81 +4095,6 @@
         "VE#68",
         "VE#69",
         "VE#70"
-      ],
-      "ipv6Enabled": false,
-      "city": "Caracas",
-      "P2P": true,
-      "Streaming": true
-    },
-    {
-      "ipv4": "45.83.145.74",
-      "ipv6": null,
-      "domain": "ve-04.protonvpn.net",
-      "servers": [
-        "VE#71",
-        "VE#72",
-        "VE#73",
-        "VE#74"
-      ],
-      "ipv6Enabled": false,
-      "city": "Caracas",
-      "P2P": true,
-      "Streaming": true
-    },
-    {
-      "ipv4": "45.83.145.79",
-      "ipv6": null,
-      "domain": "ve-05.protonvpn.net",
-      "servers": [
-        "VE#75",
-        "VE#76",
-        "VE#77",
-        "VE#78"
-      ],
-      "ipv6Enabled": false,
-      "city": "Caracas",
-      "P2P": true,
-      "Streaming": true
-    },
-    {
-      "ipv4": "45.83.145.84",
-      "ipv6": null,
-      "domain": "ve-06.protonvpn.net",
-      "servers": [
-        "VE#79",
-        "VE#80",
-        "VE#81",
-        "VE#82"
-      ],
-      "ipv6Enabled": false,
-      "city": "Caracas",
-      "P2P": true,
-      "Streaming": true
-    },
-    {
-      "ipv4": "45.83.145.89",
-      "ipv6": null,
-      "domain": "ve-07.protonvpn.net",
-      "servers": [
-        "VE#83",
-        "VE#84",
-        "VE#85",
-        "VE#86"
-      ],
-      "ipv6Enabled": false,
-      "city": "Caracas",
-      "P2P": true,
-      "Streaming": true
-    },
-    {
-      "ipv4": "45.83.145.94",
-      "ipv6": null,
-      "domain": "ve-08.protonvpn.net",
-      "servers": [
-        "VE#87",
-        "VE#88",
-        "VE#89",
-        "VE#90"
       ],
       "ipv6Enabled": false,
       "city": "Caracas",
@@ -17791,7 +17716,6 @@
         "HN#25",
         "HN#26",
         "HN#27",
-        "HN#28",
         "HN#29",
         "HN#3",
         "HN#4",

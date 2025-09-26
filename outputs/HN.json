@@ -520,32 +520,6 @@
     "Streaming": true
   },
   {
-    "Name": "HN#28",
-    "Domain": {
-      "domain": "node-hn-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.130"
-      ],
-      "ipv6": []
-    },
-    "City": "Tegucigalpa",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-hn-01.protonvpn.net",
-        "ipv4": [
-          "89.238.174.130"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "W+Jm9aOU/Z0Oz0bqK9BsoafbUgWDeygnDSwTJNQP8wE=",
-        "EntryIP": "89.238.174.130",
-        "ExitIP": "89.238.174.130"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "HN#29",
     "Domain": {
       "domain": "node-hn-01.protonvpn.net",
