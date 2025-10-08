@@ -30,36 +30,6 @@
     "Streaming": false
   },
   {
-    "Name": "ID#3",
-    "Domain": {
-      "domain": "node-id-01.protonvpn.net",
-      "ipv4": [
-        "138.199.60.86"
-      ],
-      "ipv6": [
-        "2a10:9007:5:5::10"
-      ]
-    },
-    "City": "Jakarta",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-id-01.protonvpn.net",
-        "ipv4": [
-          "138.199.60.86"
-        ],
-        "ipv6": [
-          "2a10:9007:5:5::10"
-        ],
-        "X25519PublicKey": "HClQJ3bkFS1VZPcbGv50OSwWXR1XBqNf/kakHIciHFk=",
-        "EntryIP": "138.199.60.86",
-        "ExitIP": "138.199.60.86"
-      }
-    ],
-    "P2P": true,
-    "Streaming": false
-  },
-  {
     "Name": "ID#4",
     "Domain": {
       "domain": "node-id-01.protonvpn.net",
@@ -91,36 +61,6 @@
   },
   {
     "Name": "ID#5",
-    "Domain": {
-      "domain": "node-id-01.protonvpn.net",
-      "ipv4": [
-        "138.199.60.86"
-      ],
-      "ipv6": [
-        "2a10:9007:5:5::10"
-      ]
-    },
-    "City": "Jakarta",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-id-01.protonvpn.net",
-        "ipv4": [
-          "138.199.60.86"
-        ],
-        "ipv6": [
-          "2a10:9007:5:5::10"
-        ],
-        "X25519PublicKey": "HClQJ3bkFS1VZPcbGv50OSwWXR1XBqNf/kakHIciHFk=",
-        "EntryIP": "138.199.60.86",
-        "ExitIP": "138.199.60.86"
-      }
-    ],
-    "P2P": true,
-    "Streaming": false
-  },
-  {
-    "Name": "ID#7",
     "Domain": {
       "domain": "node-id-01.protonvpn.net",
       "ipv4": [
@@ -232,58 +172,6 @@
     "Streaming": true
   },
   {
-    "Name": "ID#12",
-    "Domain": {
-      "domain": "id-02.protonvpn.net",
-      "ipv4": [
-        "146.70.14.19"
-      ],
-      "ipv6": []
-    },
-    "City": "Jakarta",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "id-02.protonvpn.net",
-        "ipv4": [
-          "146.70.14.19"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "n1CXZzndn2AZaB60AqCCm1ksR0aZQoL6FGwk7UgI9xc=",
-        "EntryIP": "146.70.14.19",
-        "ExitIP": "146.70.14.19"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "ID#13",
-    "Domain": {
-      "domain": "id-02.protonvpn.net",
-      "ipv4": [
-        "146.70.14.19"
-      ],
-      "ipv6": []
-    },
-    "City": "Jakarta",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "id-02.protonvpn.net",
-        "ipv4": [
-          "146.70.14.19"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "n1CXZzndn2AZaB60AqCCm1ksR0aZQoL6FGwk7UgI9xc=",
-        "EntryIP": "146.70.14.19",
-        "ExitIP": "146.70.14.19"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "ID#14",
     "Domain": {
       "domain": "id-02.protonvpn.net",
@@ -311,58 +199,6 @@
   },
   {
     "Name": "ID#15",
-    "Domain": {
-      "domain": "id-02.protonvpn.net",
-      "ipv4": [
-        "146.70.14.19"
-      ],
-      "ipv6": []
-    },
-    "City": "Jakarta",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "id-02.protonvpn.net",
-        "ipv4": [
-          "146.70.14.19"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "n1CXZzndn2AZaB60AqCCm1ksR0aZQoL6FGwk7UgI9xc=",
-        "EntryIP": "146.70.14.19",
-        "ExitIP": "146.70.14.19"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "ID#16",
-    "Domain": {
-      "domain": "id-02.protonvpn.net",
-      "ipv4": [
-        "146.70.14.19"
-      ],
-      "ipv6": []
-    },
-    "City": "Jakarta",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "id-02.protonvpn.net",
-        "ipv4": [
-          "146.70.14.19"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "n1CXZzndn2AZaB60AqCCm1ksR0aZQoL6FGwk7UgI9xc=",
-        "EntryIP": "146.70.14.19",
-        "ExitIP": "146.70.14.19"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "ID#17",
     "Domain": {
       "domain": "id-02.protonvpn.net",
       "ipv4": [

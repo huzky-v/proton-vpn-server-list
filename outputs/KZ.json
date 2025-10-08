@@ -1,31 +1,5 @@
 [
   {
-    "Name": "KZ#25",
-    "Domain": {
-      "domain": "kz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.80"
-      ],
-      "ipv6": []
-    },
-    "City": "Astana",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "kz-02.protonvpn.net",
-        "ipv4": [
-          "79.135.105.80"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "BeSF4AZ+TyRVH9uKPv+h3wsE5VxKUCKI1lwnCZ9DQFU=",
-        "EntryIP": "79.135.105.80",
-        "ExitIP": "79.135.105.80"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "KZ#26",
     "Domain": {
       "domain": "kz-02.protonvpn.net",
@@ -104,96 +78,6 @@
     "Streaming": true
   },
   {
-    "Name": "KZ#1",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
-    "City": "Astana",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-kz-03.protonvpn.net",
-        "ipv4": [
-          "217.138.11.2"
-        ],
-        "ipv6": [
-          "2a0d:5600:161:1::10"
-        ],
-        "X25519PublicKey": "T3xWif2tkTCksRTMJ5rybIUxFAGRtN0DTJUB7bkZeWg=",
-        "EntryIP": "217.138.11.2",
-        "ExitIP": "217.138.11.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "KZ#10",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
-    "City": "Astana",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-kz-03.protonvpn.net",
-        "ipv4": [
-          "217.138.11.2"
-        ],
-        "ipv6": [
-          "2a0d:5600:161:1::10"
-        ],
-        "X25519PublicKey": "T3xWif2tkTCksRTMJ5rybIUxFAGRtN0DTJUB7bkZeWg=",
-        "EntryIP": "217.138.11.2",
-        "ExitIP": "217.138.11.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "KZ#11",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
-    "City": "Astana",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-kz-03.protonvpn.net",
-        "ipv4": [
-          "217.138.11.2"
-        ],
-        "ipv6": [
-          "2a0d:5600:161:1::10"
-        ],
-        "X25519PublicKey": "T3xWif2tkTCksRTMJ5rybIUxFAGRtN0DTJUB7bkZeWg=",
-        "EntryIP": "217.138.11.2",
-        "ExitIP": "217.138.11.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "KZ#12",
     "Domain": {
       "domain": "node-kz-03.protonvpn.net",
@@ -254,66 +138,6 @@
     "Streaming": true
   },
   {
-    "Name": "KZ#14",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
-    "City": "Astana",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-kz-03.protonvpn.net",
-        "ipv4": [
-          "217.138.11.2"
-        ],
-        "ipv6": [
-          "2a0d:5600:161:1::10"
-        ],
-        "X25519PublicKey": "T3xWif2tkTCksRTMJ5rybIUxFAGRtN0DTJUB7bkZeWg=",
-        "EntryIP": "217.138.11.2",
-        "ExitIP": "217.138.11.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "KZ#15",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
-    "City": "Astana",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-kz-03.protonvpn.net",
-        "ipv4": [
-          "217.138.11.2"
-        ],
-        "ipv6": [
-          "2a0d:5600:161:1::10"
-        ],
-        "X25519PublicKey": "T3xWif2tkTCksRTMJ5rybIUxFAGRtN0DTJUB7bkZeWg=",
-        "EntryIP": "217.138.11.2",
-        "ExitIP": "217.138.11.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "KZ#16",
     "Domain": {
       "domain": "node-kz-03.protonvpn.net",
@@ -345,66 +169,6 @@
   },
   {
     "Name": "KZ#17",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
-    "City": "Astana",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-kz-03.protonvpn.net",
-        "ipv4": [
-          "217.138.11.2"
-        ],
-        "ipv6": [
-          "2a0d:5600:161:1::10"
-        ],
-        "X25519PublicKey": "T3xWif2tkTCksRTMJ5rybIUxFAGRtN0DTJUB7bkZeWg=",
-        "EntryIP": "217.138.11.2",
-        "ExitIP": "217.138.11.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "KZ#18",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
-    "City": "Astana",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-kz-03.protonvpn.net",
-        "ipv4": [
-          "217.138.11.2"
-        ],
-        "ipv6": [
-          "2a0d:5600:161:1::10"
-        ],
-        "X25519PublicKey": "T3xWif2tkTCksRTMJ5rybIUxFAGRtN0DTJUB7bkZeWg=",
-        "EntryIP": "217.138.11.2",
-        "ExitIP": "217.138.11.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "KZ#19",
     "Domain": {
       "domain": "node-kz-03.protonvpn.net",
       "ipv4": [
@@ -524,66 +288,6 @@
     "Streaming": true
   },
   {
-    "Name": "KZ#4",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
-    "City": "Astana",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-kz-03.protonvpn.net",
-        "ipv4": [
-          "217.138.11.2"
-        ],
-        "ipv6": [
-          "2a0d:5600:161:1::10"
-        ],
-        "X25519PublicKey": "T3xWif2tkTCksRTMJ5rybIUxFAGRtN0DTJUB7bkZeWg=",
-        "EntryIP": "217.138.11.2",
-        "ExitIP": "217.138.11.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "KZ#5",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
-    "City": "Astana",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-kz-03.protonvpn.net",
-        "ipv4": [
-          "217.138.11.2"
-        ],
-        "ipv6": [
-          "2a0d:5600:161:1::10"
-        ],
-        "X25519PublicKey": "T3xWif2tkTCksRTMJ5rybIUxFAGRtN0DTJUB7bkZeWg=",
-        "EntryIP": "217.138.11.2",
-        "ExitIP": "217.138.11.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "KZ#6",
     "Domain": {
       "domain": "node-kz-03.protonvpn.net",
@@ -615,66 +319,6 @@
   },
   {
     "Name": "KZ#7",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
-    "City": "Astana",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-kz-03.protonvpn.net",
-        "ipv4": [
-          "217.138.11.2"
-        ],
-        "ipv6": [
-          "2a0d:5600:161:1::10"
-        ],
-        "X25519PublicKey": "T3xWif2tkTCksRTMJ5rybIUxFAGRtN0DTJUB7bkZeWg=",
-        "EntryIP": "217.138.11.2",
-        "ExitIP": "217.138.11.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "KZ#8",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
-    "City": "Astana",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-kz-03.protonvpn.net",
-        "ipv4": [
-          "217.138.11.2"
-        ],
-        "ipv6": [
-          "2a0d:5600:161:1::10"
-        ],
-        "X25519PublicKey": "T3xWif2tkTCksRTMJ5rybIUxFAGRtN0DTJUB7bkZeWg=",
-        "EntryIP": "217.138.11.2",
-        "ExitIP": "217.138.11.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "KZ#9",
     "Domain": {
       "domain": "node-kz-03.protonvpn.net",
       "ipv4": [

@@ -1,31 +1,5 @@
 [
   {
-    "Name": "PA#1",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "PA#10",
     "Domain": {
       "domain": "node-pa-01.protonvpn.net",
@@ -53,58 +27,6 @@
   },
   {
     "Name": "PA#11",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "PA#12",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "PA#13",
     "Domain": {
       "domain": "node-pa-01.protonvpn.net",
       "ipv4": [
@@ -182,58 +104,6 @@
     "Streaming": true
   },
   {
-    "Name": "PA#16",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "PA#17",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "PA#18",
     "Domain": {
       "domain": "node-pa-01.protonvpn.net",
@@ -286,32 +156,6 @@
     "Streaming": true
   },
   {
-    "Name": "PA#2",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "PA#20",
     "Domain": {
       "domain": "node-pa-01.protonvpn.net",
@@ -338,163 +182,7 @@
     "Streaming": true
   },
   {
-    "Name": "PA#21",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "PA#22",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "PA#23",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "PA#24",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "PA#25",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "PA#26",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "PA#27",
     "Domain": {
       "domain": "node-pa-01.protonvpn.net",
       "ipv4": [
@@ -572,32 +260,6 @@
     "Streaming": true
   },
   {
-    "Name": "PA#3",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "PA#4",
     "Domain": {
       "domain": "node-pa-01.protonvpn.net",
@@ -624,111 +286,7 @@
     "Streaming": true
   },
   {
-    "Name": "PA#5",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "PA#6",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "PA#7",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "PA#8",
-    "Domain": {
-      "domain": "node-pa-01.protonvpn.net",
-      "ipv4": [
-        "51.179.177.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Panama City",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-pa-01.protonvpn.net",
-        "ipv4": [
-          "51.179.177.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "6jX1FeITy7tgIVzMC8SzQqzY0fNkYY+YYelJbhBBEG4=",
-        "EntryIP": "51.179.177.2",
-        "ExitIP": "51.179.177.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "PA#9",
     "Domain": {
       "domain": "node-pa-01.protonvpn.net",
       "ipv4": [

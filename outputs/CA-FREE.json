@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "CA-FREE#12",
+    "Domain": {
+      "domain": "node-ca-34.protonvpn.net",
+      "ipv4": [
+        "79.127.254.92"
+      ],
+      "ipv6": [
+        "2a02:6ea0:510c:3880::10"
+      ]
+    },
+    "City": "Vancouver",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ca-34.protonvpn.net",
+        "ipv4": [
+          "79.127.254.92"
+        ],
+        "ipv6": [
+          "2a02:6ea0:510c:3880::10"
+        ],
+        "X25519PublicKey": "WajeJDezN7JFBe//v/VMsASFyBUk01Hlyvjb0T+dTjE=",
+        "EntryIP": "79.127.254.92",
+        "ExitIP": "79.127.254.92"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "CA-FREE#5",
+    "Domain": {
+      "domain": "node-ca-25.protonvpn.net",
+      "ipv4": [
+        "149.88.97.122"
+      ],
+      "ipv6": [
+        "2a02:6ea0:de10:3565::10"
+      ]
+    },
+    "City": "Toronto",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ca-25.protonvpn.net",
+        "ipv4": [
+          "149.88.97.122"
+        ],
+        "ipv6": [
+          "2a02:6ea0:de10:3565::10"
+        ],
+        "X25519PublicKey": "mS8GfqvUvazXvSYg7VHV7s8eEyU0yyGjJwYgdjHq23A=",
+        "EntryIP": "149.88.97.122",
+        "ExitIP": "149.88.97.122"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "CA-FREE#6",
+    "Domain": {
+      "domain": "node-ca-26.protonvpn.net",
+      "ipv4": [
+        "149.88.97.110"
+      ],
+      "ipv6": [
+        "2a02:6ea0:de10:3564::10"
+      ]
+    },
+    "City": "Toronto",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ca-26.protonvpn.net",
+        "ipv4": [
+          "149.88.97.110"
+        ],
+        "ipv6": [
+          "2a02:6ea0:de10:3564::10"
+        ],
+        "X25519PublicKey": "9mTDh5Tku0gxDdzqxnpnzItHQBm2h2B2hXnUHvhGCFw=",
+        "EntryIP": "149.88.97.110",
+        "ExitIP": "149.88.97.110"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "CA-FREE#9",
+    "Domain": {
+      "domain": "node-ca-31.protonvpn.net",
+      "ipv4": [
+        "149.22.82.1"
+      ],
+      "ipv6": [
+        "2a02:6ea0:de10:3595::10"
+      ]
+    },
+    "City": "Toronto",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ca-31.protonvpn.net",
+        "ipv4": [
+          "149.22.82.1"
+        ],
+        "ipv6": [
+          "2a02:6ea0:de10:3595::10"
+        ],
+        "X25519PublicKey": "7nj3Zh17Dzx+1SKIPE+dPfFmDbTTOggDK6SfK6tlEgE=",
+        "EntryIP": "149.22.82.1",
+        "ExitIP": "149.22.82.1"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

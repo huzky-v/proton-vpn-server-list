@@ -26,58 +26,6 @@
     "Streaming": false
   },
   {
-    "Name": "LV#2",
-    "Domain": {
-      "domain": "node-lv-01.protonvpn.net",
-      "ipv4": [
-        "196.240.54.114"
-      ],
-      "ipv6": []
-    },
-    "City": "Riga",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-lv-01.protonvpn.net",
-        "ipv4": [
-          "196.240.54.114"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "Kpf5yweL4i6lC7Tx4AeVExvJ7zwwP/SyNiP5sdHyBDA=",
-        "EntryIP": "196.240.54.114",
-        "ExitIP": "196.240.54.114"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
-    "Name": "LV#3",
-    "Domain": {
-      "domain": "node-lv-01.protonvpn.net",
-      "ipv4": [
-        "196.240.54.114"
-      ],
-      "ipv6": []
-    },
-    "City": "Riga",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-lv-01.protonvpn.net",
-        "ipv4": [
-          "196.240.54.114"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "Kpf5yweL4i6lC7Tx4AeVExvJ7zwwP/SyNiP5sdHyBDA=",
-        "EntryIP": "196.240.54.114",
-        "ExitIP": "196.240.54.114"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
     "Name": "LV#4",
     "Domain": {
       "domain": "node-lv-01.protonvpn.net",
@@ -105,58 +53,6 @@
   },
   {
     "Name": "LV#5",
-    "Domain": {
-      "domain": "node-lv-01.protonvpn.net",
-      "ipv4": [
-        "196.240.54.114"
-      ],
-      "ipv6": []
-    },
-    "City": "Riga",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-lv-01.protonvpn.net",
-        "ipv4": [
-          "196.240.54.114"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "Kpf5yweL4i6lC7Tx4AeVExvJ7zwwP/SyNiP5sdHyBDA=",
-        "EntryIP": "196.240.54.114",
-        "ExitIP": "196.240.54.114"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
-    "Name": "LV#6",
-    "Domain": {
-      "domain": "node-lv-01.protonvpn.net",
-      "ipv4": [
-        "196.240.54.114"
-      ],
-      "ipv6": []
-    },
-    "City": "Riga",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-lv-01.protonvpn.net",
-        "ipv4": [
-          "196.240.54.114"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "Kpf5yweL4i6lC7Tx4AeVExvJ7zwwP/SyNiP5sdHyBDA=",
-        "EntryIP": "196.240.54.114",
-        "ExitIP": "196.240.54.114"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
-    "Name": "LV#7",
     "Domain": {
       "domain": "node-lv-01.protonvpn.net",
       "ipv4": [
@@ -260,58 +156,6 @@
     "Streaming": false
   },
   {
-    "Name": "LV#12",
-    "Domain": {
-      "domain": "node-lv-02.protonvpn.net",
-      "ipv4": [
-        "85.203.39.226"
-      ],
-      "ipv6": []
-    },
-    "City": "Riga",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-lv-02.protonvpn.net",
-        "ipv4": [
-          "85.203.39.226"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "X+TnM1PwewbKon/eJBH5Lt5eG5R76N+NQq+/ZFMppXM=",
-        "EntryIP": "85.203.39.226",
-        "ExitIP": "85.203.39.226"
-      }
-    ],
-    "P2P": true,
-    "Streaming": false
-  },
-  {
-    "Name": "LV#13",
-    "Domain": {
-      "domain": "node-lv-02.protonvpn.net",
-      "ipv4": [
-        "85.203.39.226"
-      ],
-      "ipv6": []
-    },
-    "City": "Riga",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-lv-02.protonvpn.net",
-        "ipv4": [
-          "85.203.39.226"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "X+TnM1PwewbKon/eJBH5Lt5eG5R76N+NQq+/ZFMppXM=",
-        "EntryIP": "85.203.39.226",
-        "ExitIP": "85.203.39.226"
-      }
-    ],
-    "P2P": true,
-    "Streaming": false
-  },
-  {
     "Name": "LV#14",
     "Domain": {
       "domain": "node-lv-02.protonvpn.net",
@@ -339,58 +183,6 @@
   },
   {
     "Name": "LV#15",
-    "Domain": {
-      "domain": "node-lv-02.protonvpn.net",
-      "ipv4": [
-        "85.203.39.226"
-      ],
-      "ipv6": []
-    },
-    "City": "Riga",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-lv-02.protonvpn.net",
-        "ipv4": [
-          "85.203.39.226"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "X+TnM1PwewbKon/eJBH5Lt5eG5R76N+NQq+/ZFMppXM=",
-        "EntryIP": "85.203.39.226",
-        "ExitIP": "85.203.39.226"
-      }
-    ],
-    "P2P": true,
-    "Streaming": false
-  },
-  {
-    "Name": "LV#16",
-    "Domain": {
-      "domain": "node-lv-02.protonvpn.net",
-      "ipv4": [
-        "85.203.39.226"
-      ],
-      "ipv6": []
-    },
-    "City": "Riga",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-lv-02.protonvpn.net",
-        "ipv4": [
-          "85.203.39.226"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "X+TnM1PwewbKon/eJBH5Lt5eG5R76N+NQq+/ZFMppXM=",
-        "EntryIP": "85.203.39.226",
-        "ExitIP": "85.203.39.226"
-      }
-    ],
-    "P2P": true,
-    "Streaming": false
-  },
-  {
-    "Name": "LV#17",
     "Domain": {
       "domain": "node-lv-02.protonvpn.net",
       "ipv4": [

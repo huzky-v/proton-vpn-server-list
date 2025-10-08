@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "NO-FREE#10",
+    "Domain": {
+      "domain": "node-no-17.protonvpn.net",
+      "ipv4": [
+        "95.173.205.161"
+      ],
+      "ipv6": [
+        "2a02:6ea0:5601:6476::10"
+      ]
+    },
+    "City": "Oslo",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-no-17.protonvpn.net",
+        "ipv4": [
+          "95.173.205.161"
+        ],
+        "ipv6": [
+          "2a02:6ea0:5601:6476::10"
+        ],
+        "X25519PublicKey": "N9uq1Vwlu7tHTzG13/P/Plo8m4HJLeal8rdHeD96MxE=",
+        "EntryIP": "95.173.205.161",
+        "ExitIP": "95.173.205.161"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "NO-FREE#5",
+    "Domain": {
+      "domain": "node-no-12.protonvpn.net",
+      "ipv4": [
+        "95.173.205.167"
+      ],
+      "ipv6": [
+        "2a02:6ea0:5601:6471::10"
+      ]
+    },
+    "City": "Oslo",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-no-12.protonvpn.net",
+        "ipv4": [
+          "95.173.205.167"
+        ],
+        "ipv6": [
+          "2a02:6ea0:5601:6471::10"
+        ],
+        "X25519PublicKey": "2s+PN1/EcGL6LAK7YamHOYqL0waTlwc43+RR6+hxORQ=",
+        "EntryIP": "95.173.205.167",
+        "ExitIP": "95.173.205.167"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "NO-FREE#6",
+    "Domain": {
+      "domain": "node-no-13.protonvpn.net",
+      "ipv4": [
+        "95.173.205.165"
+      ],
+      "ipv6": [
+        "2a02:6ea0:5601:6472::10"
+      ]
+    },
+    "City": "Oslo",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-no-13.protonvpn.net",
+        "ipv4": [
+          "95.173.205.165"
+        ],
+        "ipv6": [
+          "2a02:6ea0:5601:6472::10"
+        ],
+        "X25519PublicKey": "84dSFrHWsJr34E8GWyXZsxFourH7+vbjUoJWlZmS13I=",
+        "EntryIP": "95.173.205.165",
+        "ExitIP": "95.173.205.165"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]
