@@ -482,50 +482,6 @@
     "Streaming": false
   },
   {
-    "Name": "US-FREE#67",
-    "Domain": {
-      "domain": "node-us-407.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
-    },
-    "City": "Secaucus",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-us-407.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
-        "X25519PublicKey": "6MQmNyC8DSUPpeU7zv43Q06cTUGfqPqS4Wt+kNNlNAI=",
-        "EntryIP": "151.243.141.157",
-        "ExitIP": "151.243.141.157"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
-    "Name": "US-FREE#68",
-    "Domain": {
-      "domain": "node-us-413.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
-    },
-    "City": "Secaucus",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-us-413.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
-        "X25519PublicKey": "wVRV3dDduvHjYjFJIjWTn3xio39AOwE9+KiNSoNsuFk=",
-        "EntryIP": "151.243.141.158",
-        "ExitIP": "151.243.141.158"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
     "Name": "US-FREE#70",
     "Domain": {
       "domain": "node-us-414.protonvpn.net",
@@ -542,72 +498,6 @@
         "X25519PublicKey": "MNTtBSAv3VQ8W059Rbf7pQ37WDxQ4h5vkhmBARjmmiU=",
         "EntryIP": "151.243.141.159",
         "ExitIP": "151.243.141.159"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
-    "Name": "US-FREE#71",
-    "Domain": {
-      "domain": "node-us-415.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
-    },
-    "City": "Secaucus",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-us-415.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
-        "X25519PublicKey": "qwoWn5tpqguIWdYpsIjUIMnrMT0dtxnrKwSUB4ZvMTA=",
-        "EntryIP": "151.243.141.160",
-        "ExitIP": "151.243.141.160"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
-    "Name": "US-FREE#72",
-    "Domain": {
-      "domain": "node-us-416.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
-    },
-    "City": "Secaucus",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-us-416.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
-        "X25519PublicKey": "2v1DSq+q5x9o7PMVUjJ6hSrBD4lfjevMp45E/1mgF2I=",
-        "EntryIP": "151.243.141.161",
-        "ExitIP": "151.243.141.161"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
-    "Name": "US-FREE#74",
-    "Domain": {
-      "domain": "node-us-417.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
-    },
-    "City": "Secaucus",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-us-417.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
-        "X25519PublicKey": "W2FGIUL3fy0npUtdvxiIxoKe3Nd7826nv3FVS1obG0k=",
-        "EntryIP": "151.243.141.162",
-        "ExitIP": "151.243.141.162"
       }
     ],
     "P2P": false,
@@ -636,28 +526,6 @@
     "Streaming": false
   },
   {
-    "Name": "US-FREE#76",
-    "Domain": {
-      "domain": "node-us-419.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
-    },
-    "City": "Secaucus",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-us-419.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
-        "X25519PublicKey": "v5X/QsIRV2BRh6XKeDk1+NOiqAZDYYTD6xL3Qiu/b2g=",
-        "EntryIP": "151.243.141.164",
-        "ExitIP": "151.243.141.164"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
     "Name": "US-FREE#83",
     "Domain": {
       "domain": "node-us-420.protonvpn.net",
@@ -674,58 +542,6 @@
         "X25519PublicKey": "rgPoLtUhJ946CVYPkp8r3VL8KHUYSmTIrPo7Wsw9sn4=",
         "EntryIP": "151.243.141.165",
         "ExitIP": "151.243.141.165"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
-    "Name": "US-FREE#84",
-    "Domain": {
-      "domain": "node-us-421.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
-    },
-    "City": "Secaucus",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-us-421.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
-        "X25519PublicKey": "eAXAQ+pjJuejhTOjyCnC39GS/8lv8Zw7Cj5u7gMzIgE=",
-        "EntryIP": "151.243.141.166",
-        "ExitIP": "151.243.141.166"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
-    "Name": "US-FREE#85",
-    "Domain": {
-      "domain": "node-us-429.protonvpn.net",
-      "ipv4": [
-        "149.40.51.230"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6235::10"
-      ]
-    },
-    "City": "Seattle",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-us-429.protonvpn.net",
-        "ipv4": [
-          "149.40.51.230"
-        ],
-        "ipv6": [
-          "2a02:6ea0:d802:6235::10"
-        ],
-        "X25519PublicKey": "gDmb0KtRVAd2UYnKs0UkXqS0tgcqk7UNw6yTb+loQ1c=",
-        "EntryIP": "149.40.51.230",
-        "ExitIP": "149.40.51.230"
       }
     ],
     "P2P": false,

@@ -1,5 +1,5 @@
 {
-  "genDate": "2025-10-08T06:37:17.311Z",
+  "genDate": "2025-10-24T07:59:07.739Z",
   "data": [
     {
       "ipv4": "185.76.11.27",
@@ -271,18 +271,6 @@
       "Streaming": true
     },
     {
-      "ipv4": "212.8.249.202",
-      "ipv6": null,
-      "domain": "node-nl-265.protonvpn.net",
-      "servers": [
-        "NL-FREE#239"
-      ],
-      "ipv6Enabled": false,
-      "city": "Amsterdam",
-      "P2P": false,
-      "Streaming": false
-    },
-    {
       "ipv4": "185.156.46.33",
       "ipv6": "2a02:6ea0:e20d:2101::10",
       "domain": "node-us-119.protonvpn.net",
@@ -418,8 +406,7 @@
       "ipv6": null,
       "domain": "node-gr-01.protonvpn.net",
       "servers": [
-        "GR#2",
-        "GR#6"
+        "GR#2"
       ],
       "ipv6Enabled": false,
       "city": "Athens",
@@ -926,9 +913,6 @@
       "ipv6": "2a02:6ea0:f105:2721::10",
       "domain": "node-co-03.protonvpn.net",
       "servers": [
-        "CO#17",
-        "CO#19",
-        "CO#21",
         "CO#22",
         "CO#23"
       ],
@@ -942,15 +926,29 @@
       "ipv6": "2a0d:5600:95:1::11",
       "domain": "co-01.protonvpn.net",
       "servers": [
-        "CO#25",
         "CO#26",
         "CO#27",
-        "CO#29",
         "CO#32",
         "CO#33",
         "CO#36"
       ],
       "ipv6Enabled": true,
+      "city": "Bogota",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
+      "ipv4": "103.219.169.99",
+      "ipv6": null,
+      "domain": "node-co-04.protonvpn.net",
+      "servers": [
+        "CO#37",
+        "CO#43",
+        "CO#46",
+        "CO#47",
+        "CO#53"
+      ],
+      "ipv6Enabled": false,
       "city": "Bogota",
       "P2P": true,
       "Streaming": true
@@ -1213,9 +1211,6 @@
       "domain": "node-ro-21.protonvpn.net",
       "servers": [
         "RO#62",
-        "RO#66",
-        "RO#72",
-        "RO#81",
         "RO#85"
       ],
       "ipv6Enabled": false,
@@ -1228,13 +1223,60 @@
       "ipv6": null,
       "domain": "node-ro-20.protonvpn.net",
       "servers": [
-        "RO#108",
         "RO#110",
-        "RO#89",
-        "RO#91",
-        "RO#95"
+        "RO#89"
       ],
       "ipv6Enabled": false,
+      "city": "Bucharest",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
+      "ipv4": "169.150.199.73",
+      "ipv6": "2a02:6ea0:da08:6197::10",
+      "domain": "node-ro-22.protonvpn.net",
+      "servers": [
+        "RO#114",
+        "RO#118"
+      ],
+      "ipv6Enabled": true,
+      "city": "Bucharest",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
+      "ipv4": "169.150.199.72",
+      "ipv6": "2a02:6ea0:da08:6198::10",
+      "domain": "node-ro-23.protonvpn.net",
+      "servers": [
+        "RO#149"
+      ],
+      "ipv6Enabled": true,
+      "city": "Bucharest",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
+      "ipv4": "169.150.199.70",
+      "ipv6": "2a02:6ea0:da08:6201::10",
+      "domain": "node-ro-26.protonvpn.net",
+      "servers": [
+        "RO#210"
+      ],
+      "ipv6Enabled": true,
+      "city": "Bucharest",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
+      "ipv4": "169.150.199.69",
+      "ipv6": "2a02:6ea0:da08:6202::10",
+      "domain": "node-ro-27.protonvpn.net",
+      "servers": [
+        "RO#214",
+        "RO#218"
+      ],
+      "ipv6Enabled": true,
       "city": "Bucharest",
       "P2P": true,
       "Streaming": true
@@ -1289,16 +1331,31 @@
       "ipv6": "2a10:9007:3::10",
       "domain": "node-ar-04.protonvpn.net",
       "servers": [
-        "AR#25",
-        "AR#26",
-        "AR#27",
         "AR#28",
-        "AR#29",
-        "AR#30",
-        "AR#31",
-        "AR#32"
+        "AR#30"
       ],
       "ipv6Enabled": true,
+      "city": "Buenos Aires",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
+      "ipv4": "103.106.58.163",
+      "ipv6": null,
+      "domain": "node-ar-05.protonvpn.net",
+      "servers": [
+        "AR#34",
+        "AR#38",
+        "AR#40",
+        "AR#41",
+        "AR#44",
+        "AR#45",
+        "AR#48",
+        "AR#49",
+        "AR#50",
+        "AR#51"
+      ],
+      "ipv6Enabled": false,
       "city": "Buenos Aires",
       "P2P": true,
       "Streaming": true
@@ -1991,32 +2048,6 @@
       "Streaming": false
     },
     {
-      "ipv4": "5.157.13.2",
-      "ipv6": null,
-      "domain": "node-ie-01.protonvpn.net",
-      "servers": [
-        "IE#4"
-      ],
-      "ipv6Enabled": false,
-      "city": "Dublin",
-      "P2P": false,
-      "Streaming": false
-    },
-    {
-      "ipv4": "146.70.48.2",
-      "ipv6": "2001:ac8:88:91::10",
-      "domain": "node-ie-03.protonvpn.net",
-      "servers": [
-        "IE#12",
-        "IE#16",
-        "IE#8"
-      ],
-      "ipv6Enabled": true,
-      "city": "Dublin",
-      "P2P": true,
-      "Streaming": true
-    },
-    {
       "ipv4": "79.127.145.65",
       "ipv6": null,
       "domain": "node-ie-04.protonvpn.net",
@@ -2024,13 +2055,39 @@
         "IE#22",
         "IE#26",
         "IE#32",
-        "IE#36",
-        "IE#42",
-        "IE#43",
-        "IE#46",
-        "IE#47"
+        "IE#36"
       ],
       "ipv6Enabled": false,
+      "city": "Dublin",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
+      "ipv4": "79.127.145.94",
+      "ipv6": "2a02:6ea0:ef0f:6585::10",
+      "domain": "node-ie-05.protonvpn.net",
+      "servers": [
+        "IE#63",
+        "IE#67",
+        "IE#77"
+      ],
+      "ipv6Enabled": true,
+      "city": "Dublin",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
+      "ipv4": "79.127.145.95",
+      "ipv6": "2a02:6ea0:ef0f:6586::10",
+      "domain": "node-ie-06.protonvpn.net",
+      "servers": [
+        "IE#80",
+        "IE#84",
+        "IE#88",
+        "IE#90",
+        "IE#98"
+      ],
+      "ipv6Enabled": true,
       "city": "Dublin",
       "P2P": true,
       "Streaming": true
@@ -5367,18 +5424,6 @@
       "Streaming": true
     },
     {
-      "ipv4": "149.40.51.230",
-      "ipv6": "2a02:6ea0:d802:6235::10",
-      "domain": "node-us-429.protonvpn.net",
-      "servers": [
-        "US-FREE#85"
-      ],
-      "ipv6Enabled": true,
-      "city": "Seattle",
-      "P2P": false,
-      "Streaming": false
-    },
-    {
       "ipv4": "163.5.171.29",
       "ipv6": null,
       "domain": "node-us-257.protonvpn.net",
@@ -5716,8 +5761,6 @@
       "ipv6": "2001:ac8:59:86::10",
       "domain": "node-se-12.protonvpn.net",
       "servers": [
-        "SE#146",
-        "SE#152",
         "SE#156"
       ],
       "ipv6Enabled": true,
@@ -5743,9 +5786,44 @@
       "ipv6": "2a02:6ea0:c501:5966::10",
       "domain": "node-se-15.protonvpn.net",
       "servers": [
-        "SE#246",
-        "SE#252",
         "SE#256"
+      ],
+      "ipv6Enabled": true,
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
+      "ipv4": "62.93.166.123",
+      "ipv6": "2a02:6ea0:c501:6261::10",
+      "domain": "node-se-17.protonvpn.net",
+      "servers": [
+        "SE#303",
+        "SE#307"
+      ],
+      "ipv6Enabled": true,
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
+      "ipv4": "169.150.208.245",
+      "ipv6": "2a02:6ea0:c501:6263::10",
+      "domain": "node-se-19.protonvpn.net",
+      "servers": [
+        "SE#356"
+      ],
+      "ipv6Enabled": true,
+      "city": "Stockholm",
+      "P2P": true,
+      "Streaming": true
+    },
+    {
+      "ipv4": "62.93.166.122",
+      "ipv6": "2a02:6ea0:c501:6264::10",
+      "domain": "node-se-20.protonvpn.net",
+      "servers": [
+        "SE#403"
       ],
       "ipv6Enabled": true,
       "city": "Stockholm",

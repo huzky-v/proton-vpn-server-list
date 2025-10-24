@@ -1,121 +1,5 @@
 [
   {
-    "Name": "IE#4",
-    "Domain": {
-      "domain": "node-ie-01.protonvpn.net",
-      "ipv4": [
-        "5.157.13.2"
-      ],
-      "ipv6": []
-    },
-    "City": "Dublin",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-ie-01.protonvpn.net",
-        "ipv4": [
-          "5.157.13.2"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "CmoYq7BrV1SGjUd52MlU/aNIzVT8qXxE4Ch1yaVm8Fo=",
-        "EntryIP": "5.157.13.2",
-        "ExitIP": "5.157.13.2"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
-    "Name": "IE#12",
-    "Domain": {
-      "domain": "node-ie-03.protonvpn.net",
-      "ipv4": [
-        "146.70.48.2"
-      ],
-      "ipv6": [
-        "2001:ac8:88:91::10"
-      ]
-    },
-    "City": "Dublin",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-ie-03.protonvpn.net",
-        "ipv4": [
-          "146.70.48.2"
-        ],
-        "ipv6": [
-          "2001:ac8:88:91::10"
-        ],
-        "X25519PublicKey": "AFp36cKCIznWgRchU9fE2G9kPK6zcdS+7S/u4drPU1g=",
-        "EntryIP": "146.70.48.2",
-        "ExitIP": "146.70.48.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "IE#16",
-    "Domain": {
-      "domain": "node-ie-03.protonvpn.net",
-      "ipv4": [
-        "146.70.48.2"
-      ],
-      "ipv6": [
-        "2001:ac8:88:91::10"
-      ]
-    },
-    "City": "Dublin",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-ie-03.protonvpn.net",
-        "ipv4": [
-          "146.70.48.2"
-        ],
-        "ipv6": [
-          "2001:ac8:88:91::10"
-        ],
-        "X25519PublicKey": "AFp36cKCIznWgRchU9fE2G9kPK6zcdS+7S/u4drPU1g=",
-        "EntryIP": "146.70.48.2",
-        "ExitIP": "146.70.48.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "IE#8",
-    "Domain": {
-      "domain": "node-ie-03.protonvpn.net",
-      "ipv4": [
-        "146.70.48.2"
-      ],
-      "ipv6": [
-        "2001:ac8:88:91::10"
-      ]
-    },
-    "City": "Dublin",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-ie-03.protonvpn.net",
-        "ipv4": [
-          "146.70.48.2"
-        ],
-        "ipv6": [
-          "2001:ac8:88:91::10"
-        ],
-        "X25519PublicKey": "AFp36cKCIznWgRchU9fE2G9kPK6zcdS+7S/u4drPU1g=",
-        "EntryIP": "146.70.48.2",
-        "ExitIP": "146.70.48.2"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "IE#22",
     "Domain": {
       "domain": "node-ie-04.protonvpn.net",
@@ -220,104 +104,240 @@
     "Streaming": true
   },
   {
-    "Name": "IE#42",
+    "Name": "IE#63",
     "Domain": {
-      "domain": "node-ie-04.protonvpn.net",
+      "domain": "node-ie-05.protonvpn.net",
       "ipv4": [
-        "79.127.145.65"
+        "79.127.145.94"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2a02:6ea0:ef0f:6585::10"
+      ]
     },
     "City": "Dublin",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
-        "Domain": "node-ie-04.protonvpn.net",
+        "Domain": "node-ie-05.protonvpn.net",
         "ipv4": [
-          "79.127.145.65"
+          "79.127.145.94"
         ],
-        "ipv6": [],
-        "X25519PublicKey": "YWMbt8hivy0dAHCuK4wFqKFZ54BhlsrLYR07xJzPAQc=",
-        "EntryIP": "79.127.145.65",
-        "ExitIP": "79.127.145.65"
+        "ipv6": [
+          "2a02:6ea0:ef0f:6585::10"
+        ],
+        "X25519PublicKey": "FQckzm04zGq6QOWh/nmPbi23jfCA1el5JPCYMGaAfzQ=",
+        "EntryIP": "79.127.145.94",
+        "ExitIP": "79.127.145.94"
       }
     ],
     "P2P": true,
     "Streaming": true
   },
   {
-    "Name": "IE#43",
+    "Name": "IE#67",
     "Domain": {
-      "domain": "node-ie-04.protonvpn.net",
+      "domain": "node-ie-05.protonvpn.net",
       "ipv4": [
-        "79.127.145.65"
+        "79.127.145.94"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2a02:6ea0:ef0f:6585::10"
+      ]
     },
     "City": "Dublin",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
-        "Domain": "node-ie-04.protonvpn.net",
+        "Domain": "node-ie-05.protonvpn.net",
         "ipv4": [
-          "79.127.145.65"
+          "79.127.145.94"
         ],
-        "ipv6": [],
-        "X25519PublicKey": "YWMbt8hivy0dAHCuK4wFqKFZ54BhlsrLYR07xJzPAQc=",
-        "EntryIP": "79.127.145.65",
-        "ExitIP": "79.127.145.65"
+        "ipv6": [
+          "2a02:6ea0:ef0f:6585::10"
+        ],
+        "X25519PublicKey": "FQckzm04zGq6QOWh/nmPbi23jfCA1el5JPCYMGaAfzQ=",
+        "EntryIP": "79.127.145.94",
+        "ExitIP": "79.127.145.94"
       }
     ],
     "P2P": true,
     "Streaming": true
   },
   {
-    "Name": "IE#46",
+    "Name": "IE#77",
     "Domain": {
-      "domain": "node-ie-04.protonvpn.net",
+      "domain": "node-ie-05.protonvpn.net",
       "ipv4": [
-        "79.127.145.65"
+        "79.127.145.94"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2a02:6ea0:ef0f:6585::10"
+      ]
     },
     "City": "Dublin",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
-        "Domain": "node-ie-04.protonvpn.net",
+        "Domain": "node-ie-05.protonvpn.net",
         "ipv4": [
-          "79.127.145.65"
+          "79.127.145.94"
         ],
-        "ipv6": [],
-        "X25519PublicKey": "YWMbt8hivy0dAHCuK4wFqKFZ54BhlsrLYR07xJzPAQc=",
-        "EntryIP": "79.127.145.65",
-        "ExitIP": "79.127.145.65"
+        "ipv6": [
+          "2a02:6ea0:ef0f:6585::10"
+        ],
+        "X25519PublicKey": "FQckzm04zGq6QOWh/nmPbi23jfCA1el5JPCYMGaAfzQ=",
+        "EntryIP": "79.127.145.94",
+        "ExitIP": "79.127.145.94"
       }
     ],
     "P2P": true,
     "Streaming": true
   },
   {
-    "Name": "IE#47",
+    "Name": "IE#80",
     "Domain": {
-      "domain": "node-ie-04.protonvpn.net",
+      "domain": "node-ie-06.protonvpn.net",
       "ipv4": [
-        "79.127.145.65"
+        "79.127.145.95"
       ],
-      "ipv6": []
+      "ipv6": [
+        "2a02:6ea0:ef0f:6586::10"
+      ]
     },
     "City": "Dublin",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
-        "Domain": "node-ie-04.protonvpn.net",
+        "Domain": "node-ie-06.protonvpn.net",
         "ipv4": [
-          "79.127.145.65"
+          "79.127.145.95"
         ],
-        "ipv6": [],
-        "X25519PublicKey": "YWMbt8hivy0dAHCuK4wFqKFZ54BhlsrLYR07xJzPAQc=",
-        "EntryIP": "79.127.145.65",
-        "ExitIP": "79.127.145.65"
+        "ipv6": [
+          "2a02:6ea0:ef0f:6586::10"
+        ],
+        "X25519PublicKey": "c4WdLWaxHyFyj2I20yN7Fnw2OiBYkmnhN7xvuLRC73Q=",
+        "EntryIP": "79.127.145.95",
+        "ExitIP": "79.127.145.95"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "IE#84",
+    "Domain": {
+      "domain": "node-ie-06.protonvpn.net",
+      "ipv4": [
+        "79.127.145.95"
+      ],
+      "ipv6": [
+        "2a02:6ea0:ef0f:6586::10"
+      ]
+    },
+    "City": "Dublin",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ie-06.protonvpn.net",
+        "ipv4": [
+          "79.127.145.95"
+        ],
+        "ipv6": [
+          "2a02:6ea0:ef0f:6586::10"
+        ],
+        "X25519PublicKey": "c4WdLWaxHyFyj2I20yN7Fnw2OiBYkmnhN7xvuLRC73Q=",
+        "EntryIP": "79.127.145.95",
+        "ExitIP": "79.127.145.95"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "IE#88",
+    "Domain": {
+      "domain": "node-ie-06.protonvpn.net",
+      "ipv4": [
+        "79.127.145.95"
+      ],
+      "ipv6": [
+        "2a02:6ea0:ef0f:6586::10"
+      ]
+    },
+    "City": "Dublin",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ie-06.protonvpn.net",
+        "ipv4": [
+          "79.127.145.95"
+        ],
+        "ipv6": [
+          "2a02:6ea0:ef0f:6586::10"
+        ],
+        "X25519PublicKey": "c4WdLWaxHyFyj2I20yN7Fnw2OiBYkmnhN7xvuLRC73Q=",
+        "EntryIP": "79.127.145.95",
+        "ExitIP": "79.127.145.95"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "IE#90",
+    "Domain": {
+      "domain": "node-ie-06.protonvpn.net",
+      "ipv4": [
+        "79.127.145.95"
+      ],
+      "ipv6": [
+        "2a02:6ea0:ef0f:6586::10"
+      ]
+    },
+    "City": "Dublin",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ie-06.protonvpn.net",
+        "ipv4": [
+          "79.127.145.95"
+        ],
+        "ipv6": [
+          "2a02:6ea0:ef0f:6586::10"
+        ],
+        "X25519PublicKey": "c4WdLWaxHyFyj2I20yN7Fnw2OiBYkmnhN7xvuLRC73Q=",
+        "EntryIP": "79.127.145.95",
+        "ExitIP": "79.127.145.95"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "IE#98",
+    "Domain": {
+      "domain": "node-ie-06.protonvpn.net",
+      "ipv4": [
+        "79.127.145.95"
+      ],
+      "ipv6": [
+        "2a02:6ea0:ef0f:6586::10"
+      ]
+    },
+    "City": "Dublin",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ie-06.protonvpn.net",
+        "ipv4": [
+          "79.127.145.95"
+        ],
+        "ipv6": [
+          "2a02:6ea0:ef0f:6586::10"
+        ],
+        "X25519PublicKey": "c4WdLWaxHyFyj2I20yN7Fnw2OiBYkmnhN7xvuLRC73Q=",
+        "EntryIP": "79.127.145.95",
+        "ExitIP": "79.127.145.95"
       }
     ],
     "P2P": true,

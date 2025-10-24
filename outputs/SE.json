@@ -120,66 +120,6 @@
     "Streaming": true
   },
   {
-    "Name": "SE#146",
-    "Domain": {
-      "domain": "node-se-12.protonvpn.net",
-      "ipv4": [
-        "31.13.191.98"
-      ],
-      "ipv6": [
-        "2001:ac8:59:86::10"
-      ]
-    },
-    "City": "Stockholm",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-se-12.protonvpn.net",
-        "ipv4": [
-          "31.13.191.98"
-        ],
-        "ipv6": [
-          "2001:ac8:59:86::10"
-        ],
-        "X25519PublicKey": "cfDg7Cz1q3WiJp6bzAr68QXd/Eu7fYepYC9gh3YQaDA=",
-        "EntryIP": "31.13.191.98",
-        "ExitIP": "31.13.191.98"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "SE#152",
-    "Domain": {
-      "domain": "node-se-12.protonvpn.net",
-      "ipv4": [
-        "31.13.191.98"
-      ],
-      "ipv6": [
-        "2001:ac8:59:86::10"
-      ]
-    },
-    "City": "Stockholm",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-se-12.protonvpn.net",
-        "ipv4": [
-          "31.13.191.98"
-        ],
-        "ipv6": [
-          "2001:ac8:59:86::10"
-        ],
-        "X25519PublicKey": "cfDg7Cz1q3WiJp6bzAr68QXd/Eu7fYepYC9gh3YQaDA=",
-        "EntryIP": "31.13.191.98",
-        "ExitIP": "31.13.191.98"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "SE#156",
     "Domain": {
       "domain": "node-se-12.protonvpn.net",
@@ -270,66 +210,6 @@
     "Streaming": true
   },
   {
-    "Name": "SE#246",
-    "Domain": {
-      "domain": "node-se-15.protonvpn.net",
-      "ipv4": [
-        "169.150.208.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c501:5966::10"
-      ]
-    },
-    "City": "Stockholm",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-se-15.protonvpn.net",
-        "ipv4": [
-          "169.150.208.187"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c501:5966::10"
-        ],
-        "X25519PublicKey": "b+TS75RHQM9UwIfL7pYTLaJFiBrocBm9dawqV+gEnUo=",
-        "EntryIP": "169.150.208.187",
-        "ExitIP": "169.150.208.187"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "SE#252",
-    "Domain": {
-      "domain": "node-se-15.protonvpn.net",
-      "ipv4": [
-        "169.150.208.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c501:5966::10"
-      ]
-    },
-    "City": "Stockholm",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-se-15.protonvpn.net",
-        "ipv4": [
-          "169.150.208.187"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c501:5966::10"
-        ],
-        "X25519PublicKey": "b+TS75RHQM9UwIfL7pYTLaJFiBrocBm9dawqV+gEnUo=",
-        "EntryIP": "169.150.208.187",
-        "ExitIP": "169.150.208.187"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "SE#256",
     "Domain": {
       "domain": "node-se-15.protonvpn.net",
@@ -354,6 +234,126 @@
         "X25519PublicKey": "b+TS75RHQM9UwIfL7pYTLaJFiBrocBm9dawqV+gEnUo=",
         "EntryIP": "169.150.208.187",
         "ExitIP": "169.150.208.187"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "SE#303",
+    "Domain": {
+      "domain": "node-se-17.protonvpn.net",
+      "ipv4": [
+        "62.93.166.123"
+      ],
+      "ipv6": [
+        "2a02:6ea0:c501:6261::10"
+      ]
+    },
+    "City": "Stockholm",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-se-17.protonvpn.net",
+        "ipv4": [
+          "62.93.166.123"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c501:6261::10"
+        ],
+        "X25519PublicKey": "N33fg5F29Ov/Zq5bMrNcWOCs4uxlIGcH6bMtD6Fuqyg=",
+        "EntryIP": "62.93.166.123",
+        "ExitIP": "62.93.166.123"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "SE#307",
+    "Domain": {
+      "domain": "node-se-17.protonvpn.net",
+      "ipv4": [
+        "62.93.166.123"
+      ],
+      "ipv6": [
+        "2a02:6ea0:c501:6261::10"
+      ]
+    },
+    "City": "Stockholm",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-se-17.protonvpn.net",
+        "ipv4": [
+          "62.93.166.123"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c501:6261::10"
+        ],
+        "X25519PublicKey": "N33fg5F29Ov/Zq5bMrNcWOCs4uxlIGcH6bMtD6Fuqyg=",
+        "EntryIP": "62.93.166.123",
+        "ExitIP": "62.93.166.123"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "SE#356",
+    "Domain": {
+      "domain": "node-se-19.protonvpn.net",
+      "ipv4": [
+        "169.150.208.245"
+      ],
+      "ipv6": [
+        "2a02:6ea0:c501:6263::10"
+      ]
+    },
+    "City": "Stockholm",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-se-19.protonvpn.net",
+        "ipv4": [
+          "169.150.208.245"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c501:6263::10"
+        ],
+        "X25519PublicKey": "UwcjUxpyehfhyPvb5DwInaXMQgmGF2XVbMbYPUl1sQg=",
+        "EntryIP": "169.150.208.245",
+        "ExitIP": "169.150.208.245"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "SE#403",
+    "Domain": {
+      "domain": "node-se-20.protonvpn.net",
+      "ipv4": [
+        "62.93.166.122"
+      ],
+      "ipv6": [
+        "2a02:6ea0:c501:6264::10"
+      ]
+    },
+    "City": "Stockholm",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-se-20.protonvpn.net",
+        "ipv4": [
+          "62.93.166.122"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c501:6264::10"
+        ],
+        "X25519PublicKey": "IjsYenMdJFqbaNdVDx9t9NROTkA4EHBpXVejC36E1Wk=",
+        "EntryIP": "62.93.166.122",
+        "ExitIP": "62.93.166.122"
       }
     ],
     "P2P": true,

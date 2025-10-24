@@ -26,32 +26,6 @@
     "Streaming": false
   },
   {
-    "Name": "GR#6",
-    "Domain": {
-      "domain": "node-gr-01.protonvpn.net",
-      "ipv4": [
-        "185.51.134.194"
-      ],
-      "ipv6": []
-    },
-    "City": "Athens",
-    "ipv6Enabled": false,
-    "Servers": [
-      {
-        "Domain": "node-gr-01.protonvpn.net",
-        "ipv4": [
-          "185.51.134.194"
-        ],
-        "ipv6": [],
-        "X25519PublicKey": "DTaJG0Ww2G2Gtv7GVlkiOIv9cv8r9yQ0ghNPQf7kDAw=",
-        "EntryIP": "185.51.134.194",
-        "ExitIP": "185.51.134.194"
-      }
-    ],
-    "P2P": true,
-    "Streaming": false
-  },
-  {
     "Name": "GR#13",
     "Domain": {
       "domain": "node-gr-02.protonvpn.net",

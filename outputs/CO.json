@@ -1,95 +1,5 @@
 [
   {
-    "Name": "CO#17",
-    "Domain": {
-      "domain": "node-co-03.protonvpn.net",
-      "ipv4": [
-        "154.47.16.81"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f105:2721::10"
-      ]
-    },
-    "City": "Bogota",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-co-03.protonvpn.net",
-        "ipv4": [
-          "154.47.16.81"
-        ],
-        "ipv6": [
-          "2a02:6ea0:f105:2721::10"
-        ],
-        "X25519PublicKey": "Qm1zsNxnGphhEJHJzhjd4oVHrHLgDZop+6+audZiKVI=",
-        "EntryIP": "154.47.16.81",
-        "ExitIP": "154.47.16.81"
-      }
-    ],
-    "P2P": false,
-    "Streaming": true
-  },
-  {
-    "Name": "CO#19",
-    "Domain": {
-      "domain": "node-co-03.protonvpn.net",
-      "ipv4": [
-        "154.47.16.81"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f105:2721::10"
-      ]
-    },
-    "City": "Bogota",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-co-03.protonvpn.net",
-        "ipv4": [
-          "154.47.16.81"
-        ],
-        "ipv6": [
-          "2a02:6ea0:f105:2721::10"
-        ],
-        "X25519PublicKey": "Qm1zsNxnGphhEJHJzhjd4oVHrHLgDZop+6+audZiKVI=",
-        "EntryIP": "154.47.16.81",
-        "ExitIP": "154.47.16.81"
-      }
-    ],
-    "P2P": false,
-    "Streaming": true
-  },
-  {
-    "Name": "CO#21",
-    "Domain": {
-      "domain": "node-co-03.protonvpn.net",
-      "ipv4": [
-        "154.47.16.81"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f105:2721::10"
-      ]
-    },
-    "City": "Bogota",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-co-03.protonvpn.net",
-        "ipv4": [
-          "154.47.16.81"
-        ],
-        "ipv6": [
-          "2a02:6ea0:f105:2721::10"
-        ],
-        "X25519PublicKey": "Qm1zsNxnGphhEJHJzhjd4oVHrHLgDZop+6+audZiKVI=",
-        "EntryIP": "154.47.16.81",
-        "ExitIP": "154.47.16.81"
-      }
-    ],
-    "P2P": false,
-    "Streaming": true
-  },
-  {
     "Name": "CO#22",
     "Domain": {
       "domain": "node-co-03.protonvpn.net",
@@ -150,36 +60,6 @@
     "Streaming": true
   },
   {
-    "Name": "CO#25",
-    "Domain": {
-      "domain": "co-01.protonvpn.net",
-      "ipv4": [
-        "146.70.136.35"
-      ],
-      "ipv6": [
-        "2a0d:5600:95:1::11"
-      ]
-    },
-    "City": "Bogota",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "co-01.protonvpn.net",
-        "ipv4": [
-          "146.70.136.35"
-        ],
-        "ipv6": [
-          "2a0d:5600:95:1::11"
-        ],
-        "X25519PublicKey": "8d4nU7Z/xzX9cK3wM77mf3Ge+DbQA2tnLaQzhk3+dFI=",
-        "EntryIP": "146.70.136.35",
-        "ExitIP": "146.70.136.35"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
     "Name": "CO#26",
     "Domain": {
       "domain": "co-01.protonvpn.net",
@@ -211,36 +91,6 @@
   },
   {
     "Name": "CO#27",
-    "Domain": {
-      "domain": "co-01.protonvpn.net",
-      "ipv4": [
-        "146.70.136.35"
-      ],
-      "ipv6": [
-        "2a0d:5600:95:1::11"
-      ]
-    },
-    "City": "Bogota",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "co-01.protonvpn.net",
-        "ipv4": [
-          "146.70.136.35"
-        ],
-        "ipv6": [
-          "2a0d:5600:95:1::11"
-        ],
-        "X25519PublicKey": "8d4nU7Z/xzX9cK3wM77mf3Ge+DbQA2tnLaQzhk3+dFI=",
-        "EntryIP": "146.70.136.35",
-        "ExitIP": "146.70.136.35"
-      }
-    ],
-    "P2P": true,
-    "Streaming": true
-  },
-  {
-    "Name": "CO#29",
     "Domain": {
       "domain": "co-01.protonvpn.net",
       "ipv4": [
@@ -354,6 +204,136 @@
         "X25519PublicKey": "8d4nU7Z/xzX9cK3wM77mf3Ge+DbQA2tnLaQzhk3+dFI=",
         "EntryIP": "146.70.136.35",
         "ExitIP": "146.70.136.35"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CO#37",
+    "Domain": {
+      "domain": "node-co-04.protonvpn.net",
+      "ipv4": [
+        "103.219.169.99"
+      ],
+      "ipv6": []
+    },
+    "City": "Bogota",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-co-04.protonvpn.net",
+        "ipv4": [
+          "103.219.169.99"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "tRxSbAjlLK6Xow6OpmJlGjREj2Autoy+m0z/v915yW8=",
+        "EntryIP": "103.219.169.99",
+        "ExitIP": "103.219.169.99"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CO#43",
+    "Domain": {
+      "domain": "node-co-04.protonvpn.net",
+      "ipv4": [
+        "103.219.169.99"
+      ],
+      "ipv6": []
+    },
+    "City": "Bogota",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-co-04.protonvpn.net",
+        "ipv4": [
+          "103.219.169.99"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "tRxSbAjlLK6Xow6OpmJlGjREj2Autoy+m0z/v915yW8=",
+        "EntryIP": "103.219.169.99",
+        "ExitIP": "103.219.169.99"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CO#46",
+    "Domain": {
+      "domain": "node-co-04.protonvpn.net",
+      "ipv4": [
+        "103.219.169.99"
+      ],
+      "ipv6": []
+    },
+    "City": "Bogota",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-co-04.protonvpn.net",
+        "ipv4": [
+          "103.219.169.99"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "tRxSbAjlLK6Xow6OpmJlGjREj2Autoy+m0z/v915yW8=",
+        "EntryIP": "103.219.169.99",
+        "ExitIP": "103.219.169.99"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CO#47",
+    "Domain": {
+      "domain": "node-co-04.protonvpn.net",
+      "ipv4": [
+        "103.219.169.99"
+      ],
+      "ipv6": []
+    },
+    "City": "Bogota",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-co-04.protonvpn.net",
+        "ipv4": [
+          "103.219.169.99"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "tRxSbAjlLK6Xow6OpmJlGjREj2Autoy+m0z/v915yW8=",
+        "EntryIP": "103.219.169.99",
+        "ExitIP": "103.219.169.99"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CO#53",
+    "Domain": {
+      "domain": "node-co-04.protonvpn.net",
+      "ipv4": [
+        "103.219.169.99"
+      ],
+      "ipv6": []
+    },
+    "City": "Bogota",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-co-04.protonvpn.net",
+        "ipv4": [
+          "103.219.169.99"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "tRxSbAjlLK6Xow6OpmJlGjREj2Autoy+m0z/v915yW8=",
+        "EntryIP": "103.219.169.99",
+        "ExitIP": "103.219.169.99"
       }
     ],
     "P2P": true,
