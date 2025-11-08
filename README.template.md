@@ -21,4 +21,8 @@ The data source is from the [Undocumented Proton Endpoint](https://account.proto
 - x-pm-uid
 - Cookie (This is the reason why it is not easily automated, it is not API token)
 
+UPDATE on 2025-11-08:
+Just found that the web version list is not complete so that this list is not the full list.  
+The trick is to use a different `x-pm-appversion` value to not use the `web-vpn-settings`. 
+
 The data script is also included for further customization if you have the api response file.

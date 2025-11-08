@@ -26,7 +26,163 @@
     "Streaming": true
   },
   {
+    "Name": "MZ#11",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "MZ#12",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "MZ#13",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "MZ#14",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "MZ#15",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "MZ#16",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "MZ#17",
     "Domain": {
       "domain": "mz-01.protonvpn.net",
       "ipv4": [
@@ -156,6 +312,84 @@
     "Streaming": true
   },
   {
+    "Name": "MZ#21",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "MZ#22",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "MZ#23",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "MZ#24",
     "Domain": {
       "domain": "mz-01.protonvpn.net",
@@ -182,7 +416,85 @@
     "Streaming": true
   },
   {
+    "Name": "MZ#25",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "MZ#3",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "MZ#4",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "MZ#5",
     "Domain": {
       "domain": "mz-01.protonvpn.net",
       "ipv4": [
@@ -260,7 +572,137 @@
     "Streaming": true
   },
   {
+    "Name": "MZ#8",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "MZ#9",
+    "Domain": {
+      "domain": "mz-01.protonvpn.net",
+      "ipv4": [
+        "193.9.36.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-01.protonvpn.net",
+        "ipv4": [
+          "193.9.36.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5wpOQU+U6T0g42rDXFcP/SWgzSigjH7tgQ322+r6AWo=",
+        "EntryIP": "193.9.36.1",
+        "ExitIP": "193.9.36.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "MZ#29",
+    "Domain": {
+      "domain": "mz-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.156"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.156"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dBKZjXUWXVsMJxzQLWajhg8Z56pPfWomqd8FYtNiakE=",
+        "EntryIP": "74.118.126.156",
+        "ExitIP": "74.118.126.156"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
     "Name": "MZ#30",
+    "Domain": {
+      "domain": "mz-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.156"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.156"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dBKZjXUWXVsMJxzQLWajhg8Z56pPfWomqd8FYtNiakE=",
+        "EntryIP": "74.118.126.156",
+        "ExitIP": "74.118.126.156"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "MZ#31",
+    "Domain": {
+      "domain": "mz-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.156"
+      ],
+      "ipv6": []
+    },
+    "City": "Maputo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mz-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.156"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "dBKZjXUWXVsMJxzQLWajhg8Z56pPfWomqd8FYtNiakE=",
+        "EntryIP": "74.118.126.156",
+        "ExitIP": "74.118.126.156"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "MZ#32",
     "Domain": {
       "domain": "mz-03.protonvpn.net",
       "ipv4": [

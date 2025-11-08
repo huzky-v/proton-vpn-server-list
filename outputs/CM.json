@@ -1,0 +1,210 @@
+[
+  {
+    "Name": "CM#1",
+    "Domain": {
+      "domain": "cm-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.40"
+      ],
+      "ipv6": []
+    },
+    "City": "Yaoundé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "cm-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.40"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "p9n5CpHZNMOn+zwcdtA4311UDqWbey+9CM+N5XGzQWk=",
+        "EntryIP": "79.135.105.40",
+        "ExitIP": "79.135.105.40"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CM#2",
+    "Domain": {
+      "domain": "cm-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.40"
+      ],
+      "ipv6": []
+    },
+    "City": "Yaoundé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "cm-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.40"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "p9n5CpHZNMOn+zwcdtA4311UDqWbey+9CM+N5XGzQWk=",
+        "EntryIP": "79.135.105.40",
+        "ExitIP": "79.135.105.40"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CM#3",
+    "Domain": {
+      "domain": "cm-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.40"
+      ],
+      "ipv6": []
+    },
+    "City": "Yaoundé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "cm-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.40"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "p9n5CpHZNMOn+zwcdtA4311UDqWbey+9CM+N5XGzQWk=",
+        "EntryIP": "79.135.105.40",
+        "ExitIP": "79.135.105.40"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CM#4",
+    "Domain": {
+      "domain": "cm-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.40"
+      ],
+      "ipv6": []
+    },
+    "City": "Yaoundé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "cm-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.40"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "p9n5CpHZNMOn+zwcdtA4311UDqWbey+9CM+N5XGzQWk=",
+        "EntryIP": "79.135.105.40",
+        "ExitIP": "79.135.105.40"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CM#5",
+    "Domain": {
+      "domain": "cm-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.36"
+      ],
+      "ipv6": []
+    },
+    "City": "Yaoundé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "cm-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.36"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7oHM+/BoI5d+qbRvPEsdqQH93R0Yd2Hq9DrhP/fl1Sk=",
+        "EntryIP": "74.118.126.36",
+        "ExitIP": "74.118.126.36"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CM#6",
+    "Domain": {
+      "domain": "cm-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.36"
+      ],
+      "ipv6": []
+    },
+    "City": "Yaoundé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "cm-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.36"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7oHM+/BoI5d+qbRvPEsdqQH93R0Yd2Hq9DrhP/fl1Sk=",
+        "EntryIP": "74.118.126.36",
+        "ExitIP": "74.118.126.36"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CM#7",
+    "Domain": {
+      "domain": "cm-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.36"
+      ],
+      "ipv6": []
+    },
+    "City": "Yaoundé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "cm-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.36"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7oHM+/BoI5d+qbRvPEsdqQH93R0Yd2Hq9DrhP/fl1Sk=",
+        "EntryIP": "74.118.126.36",
+        "ExitIP": "74.118.126.36"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "CM#8",
+    "Domain": {
+      "domain": "cm-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.36"
+      ],
+      "ipv6": []
+    },
+    "City": "Yaoundé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "cm-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.36"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7oHM+/BoI5d+qbRvPEsdqQH93R0Yd2Hq9DrhP/fl1Sk=",
+        "EntryIP": "74.118.126.36",
+        "ExitIP": "74.118.126.36"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  }
+]

@@ -1,5 +1,57 @@
 [
   {
+    "Name": "BN#1",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#10",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "BN#11",
     "Domain": {
       "domain": "node-bn-01.protonvpn.net",
@@ -26,7 +78,163 @@
     "Streaming": true
   },
   {
+    "Name": "BN#12",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#13",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#14",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "BN#15",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#16",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#17",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#18",
     "Domain": {
       "domain": "node-bn-01.protonvpn.net",
       "ipv4": [
@@ -156,6 +364,58 @@
     "Streaming": true
   },
   {
+    "Name": "BN#22",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#23",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "BN#24",
     "Domain": {
       "domain": "node-bn-01.protonvpn.net",
@@ -183,6 +443,58 @@
   },
   {
     "Name": "BN#25",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#26",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#27",
     "Domain": {
       "domain": "node-bn-01.protonvpn.net",
       "ipv4": [
@@ -260,6 +572,84 @@
     "Streaming": true
   },
   {
+    "Name": "BN#3",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#4",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#5",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "BN#6",
     "Domain": {
       "domain": "node-bn-01.protonvpn.net",
@@ -287,6 +677,58 @@
   },
   {
     "Name": "BN#7",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#8",
+    "Domain": {
+      "domain": "node-bn-01.protonvpn.net",
+      "ipv4": [
+        "109.111.197.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Bandar Seri Begawan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-bn-01.protonvpn.net",
+        "ipv4": [
+          "109.111.197.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "vRzJFYjGIoEJnEV8sJw618C1U/h6AoEdMTIbHsrIRFA=",
+        "EntryIP": "109.111.197.130",
+        "ExitIP": "109.111.197.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "BN#9",
     "Domain": {
       "domain": "node-bn-01.protonvpn.net",
       "ipv4": [

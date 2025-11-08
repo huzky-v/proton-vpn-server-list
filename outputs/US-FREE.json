@@ -120,6 +120,36 @@
     "Streaming": false
   },
   {
+    "Name": "US-FREE#49",
+    "Domain": {
+      "domain": "node-us-159.protonvpn.net",
+      "ipv4": [
+        "143.244.44.181"
+      ],
+      "ipv6": [
+        "2a02:6ea0:c412:2354::10"
+      ]
+    },
+    "City": "New York",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-us-159.protonvpn.net",
+        "ipv4": [
+          "143.244.44.181"
+        ],
+        "ipv6": [
+          "2a02:6ea0:c412:2354::10"
+        ],
+        "X25519PublicKey": "QFE4bdNgpp+yfB6FzgcOn4taoW65WBYEh0nEebKk3Fs=",
+        "EntryIP": "143.244.44.181",
+        "ExitIP": "143.244.44.181"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
     "Name": "US-FREE#154",
     "Domain": {
       "domain": "node-us-162.protonvpn.net",
@@ -180,6 +210,66 @@
     "Streaming": false
   },
   {
+    "Name": "US-FREE#54",
+    "Domain": {
+      "domain": "node-us-175.protonvpn.net",
+      "ipv4": [
+        "185.236.200.242"
+      ],
+      "ipv6": [
+        "2a0d:5600:8:110::10"
+      ]
+    },
+    "City": "Los Angeles",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-us-175.protonvpn.net",
+        "ipv4": [
+          "185.236.200.242"
+        ],
+        "ipv6": [
+          "2a0d:5600:8:110::10"
+        ],
+        "X25519PublicKey": "/w2ZK1nw2HLb7kJn1KSddcwcVepCmxvAo71A4HGYyWY=",
+        "EntryIP": "185.236.200.242",
+        "ExitIP": "185.236.200.242"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "US-FREE#55",
+    "Domain": {
+      "domain": "node-us-191.protonvpn.net",
+      "ipv4": [
+        "146.70.202.114"
+      ],
+      "ipv6": [
+        "2a0d:5600:24:4c::10"
+      ]
+    },
+    "City": "New York",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-us-191.protonvpn.net",
+        "ipv4": [
+          "146.70.202.114"
+        ],
+        "ipv6": [
+          "2a0d:5600:24:4c::10"
+        ],
+        "X25519PublicKey": "emDk8M7Wj/jgZapGgPA7wyiWRaLimr09vk3jpw5PIyY=",
+        "EntryIP": "146.70.202.114",
+        "ExitIP": "146.70.202.114"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
     "Name": "US-FREE#33",
     "Domain": {
       "domain": "node-us-279.protonvpn.net",
@@ -200,6 +290,58 @@
         "X25519PublicKey": "SOXFyakZ9HI9TeiMRyMoy3PXYEzJJ/IDJcMvxZ3uWSE=",
         "EntryIP": "149.102.254.90",
         "ExitIP": "149.102.254.90"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "US-FREE#34",
+    "Domain": {
+      "domain": "node-us-280.protonvpn.net",
+      "ipv4": [
+        "149.102.254.89"
+      ],
+      "ipv6": []
+    },
+    "City": "Seattle",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-280.protonvpn.net",
+        "ipv4": [
+          "149.102.254.89"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "zLHCHCqpUPL9mypYmlDoEpbkl9+60DCBs9Iu1suiJmI=",
+        "EntryIP": "149.102.254.89",
+        "ExitIP": "149.102.254.89"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "US-FREE#35",
+    "Domain": {
+      "domain": "node-us-281.protonvpn.net",
+      "ipv4": [
+        "149.102.254.91"
+      ],
+      "ipv6": []
+    },
+    "City": "Seattle",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-281.protonvpn.net",
+        "ipv4": [
+          "149.102.254.91"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "QVosX58sjG9xnJdleIkOGJJkzu1fu9DyYQKtlQImHEQ=",
+        "EntryIP": "149.102.254.91",
+        "ExitIP": "149.102.254.91"
       }
     ],
     "P2P": false,
@@ -330,6 +472,58 @@
         "X25519PublicKey": "lqpUGVCjx+PWmhdxC36zbJZopUc/9XM2EG5SNKoqqE4=",
         "EntryIP": "149.22.84.155",
         "ExitIP": "149.22.84.155"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "US-FREE#92",
+    "Domain": {
+      "domain": "node-us-290.protonvpn.net",
+      "ipv4": [
+        "149.22.80.119"
+      ],
+      "ipv6": []
+    },
+    "City": "Los Angeles",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-290.protonvpn.net",
+        "ipv4": [
+          "149.22.80.119"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "trRwfcfw5Bxfo0HdQVcl1j/Ky7de7igWXlOGKlz+nTY=",
+        "EntryIP": "149.22.80.119",
+        "ExitIP": "149.22.80.119"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "US-FREE#93",
+    "Domain": {
+      "domain": "node-us-291.protonvpn.net",
+      "ipv4": [
+        "149.22.80.109"
+      ],
+      "ipv6": []
+    },
+    "City": "Los Angeles",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-us-291.protonvpn.net",
+        "ipv4": [
+          "149.22.80.109"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "n7NGyGju3MfMZyro31ipakztpW1i9XW9ArrN3C8SZSE=",
+        "EntryIP": "149.22.80.109",
+        "ExitIP": "149.22.80.109"
       }
     ],
     "P2P": false,

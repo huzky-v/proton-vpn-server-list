@@ -1,0 +1,54 @@
+[
+  {
+    "Name": "MX-FREE#3",
+    "Domain": {
+      "domain": "node-mx-07.protonvpn.net",
+      "ipv4": [
+        "149.102.224.33"
+      ],
+      "ipv6": []
+    },
+    "City": "Mexico City",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-mx-07.protonvpn.net",
+        "ipv4": [
+          "149.102.224.33"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rNyiLhJsBGoHd0A6Yrzt6c5DHuD3urE5+ZN3DZITfD8=",
+        "EntryIP": "149.102.224.33",
+        "ExitIP": "149.102.224.33"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "MX-FREE#7",
+    "Domain": {
+      "domain": "node-mx-11.protonvpn.net",
+      "ipv4": [
+        "149.88.17.182"
+      ],
+      "ipv6": []
+    },
+    "City": "Mexico City",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-mx-11.protonvpn.net",
+        "ipv4": [
+          "149.88.17.182"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "G1H7jHJjOxnNXy0GPQNRT5ikSESyagGePfG1COP+4Hs=",
+        "EntryIP": "149.88.17.182",
+        "ExitIP": "149.88.17.182"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

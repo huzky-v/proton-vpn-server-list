@@ -1,5 +1,31 @@
 [
   {
+    "Name": "AM#1",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "AM#10",
     "Domain": {
       "domain": "node-am-01.protonvpn.net",
@@ -52,6 +78,58 @@
     "Streaming": true
   },
   {
+    "Name": "AM#12",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#13",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "AM#14",
     "Domain": {
       "domain": "node-am-01.protonvpn.net",
@@ -79,6 +157,58 @@
   },
   {
     "Name": "AM#15",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#16",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#17",
     "Domain": {
       "domain": "node-am-01.protonvpn.net",
       "ipv4": [
@@ -208,6 +338,84 @@
     "Streaming": true
   },
   {
+    "Name": "AM#21",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#22",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#23",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "AM#24",
     "Domain": {
       "domain": "node-am-01.protonvpn.net",
@@ -234,7 +442,163 @@
     "Streaming": true
   },
   {
+    "Name": "AM#25",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#26",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#27",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "AM#28",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#3",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#4",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#5",
     "Domain": {
       "domain": "node-am-01.protonvpn.net",
       "ipv4": [
@@ -287,6 +651,58 @@
   },
   {
     "Name": "AM#7",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#8",
+    "Domain": {
+      "domain": "node-am-01.protonvpn.net",
+      "ipv4": [
+        "89.249.72.2"
+      ],
+      "ipv6": []
+    },
+    "City": "Yerevan",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-am-01.protonvpn.net",
+        "ipv4": [
+          "89.249.72.2"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aWsgUhVmnckRZ4+uGMyvbia5DYhOSDGdzHwuwpBGaRs=",
+        "EntryIP": "89.249.72.2",
+        "ExitIP": "89.249.72.2"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AM#9",
     "Domain": {
       "domain": "node-am-01.protonvpn.net",
       "ipv4": [

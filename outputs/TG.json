@@ -1,5 +1,83 @@
 [
   {
+    "Name": "TG#1",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#10",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#11",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "TG#12",
     "Domain": {
       "domain": "tg-01.protonvpn.net",
@@ -52,6 +130,58 @@
     "Streaming": true
   },
   {
+    "Name": "TG#14",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#15",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "TG#16",
     "Domain": {
       "domain": "tg-01.protonvpn.net",
@@ -78,7 +208,137 @@
     "Streaming": true
   },
   {
+    "Name": "TG#17",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#18",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#19",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "TG#2",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#20",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#21",
     "Domain": {
       "domain": "tg-01.protonvpn.net",
       "ipv4": [
@@ -156,7 +416,85 @@
     "Streaming": true
   },
   {
+    "Name": "TG#24",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "TG#3",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#4",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#5",
     "Domain": {
       "domain": "tg-01.protonvpn.net",
       "ipv4": [
@@ -232,6 +570,136 @@
     ],
     "P2P": true,
     "Streaming": true
+  },
+  {
+    "Name": "TG#8",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#9",
+    "Domain": {
+      "domain": "tg-01.protonvpn.net",
+      "ipv4": [
+        "193.9.39.1"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-01.protonvpn.net",
+        "ipv4": [
+          "193.9.39.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "rc7QnuukueJDqqKMx7Z3n0zmZ+alsj9BwhOwxZiUoCU=",
+        "EntryIP": "193.9.39.1",
+        "ExitIP": "193.9.39.1"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#29",
+    "Domain": {
+      "domain": "tg-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.220"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.220"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fA+ySojht4Y48mp66+hlj6klCChNdwnbYlWia4g2qGY=",
+        "EntryIP": "74.118.126.220",
+        "ExitIP": "74.118.126.220"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "TG#30",
+    "Domain": {
+      "domain": "tg-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.220"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.220"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fA+ySojht4Y48mp66+hlj6klCChNdwnbYlWia4g2qGY=",
+        "EntryIP": "74.118.126.220",
+        "ExitIP": "74.118.126.220"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "TG#31",
+    "Domain": {
+      "domain": "tg-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.220"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.220"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fA+ySojht4Y48mp66+hlj6klCChNdwnbYlWia4g2qGY=",
+        "EntryIP": "74.118.126.220",
+        "ExitIP": "74.118.126.220"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
   },
   {
     "Name": "TG#32",

@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "CH-FREE#3",
+    "Domain": {
+      "domain": "node-ch-11.protonvpn.net",
+      "ipv4": [
+        "138.199.6.178"
+      ],
+      "ipv6": [
+        "2a02:6ea0:d411:2416::10"
+      ]
+    },
+    "City": "Zurich",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ch-11.protonvpn.net",
+        "ipv4": [
+          "138.199.6.178"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d411:2416::10"
+        ],
+        "X25519PublicKey": "YpOUROUnumcF/snGX8zka0nThnvHesceJAYUSbZL1XQ=",
+        "EntryIP": "138.199.6.178",
+        "ExitIP": "138.199.6.178"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "CH-FREE#7",
+    "Domain": {
+      "domain": "node-ch-21.protonvpn.net",
+      "ipv4": [
+        "149.88.27.234"
+      ],
+      "ipv6": [
+        "2a02:6ea0:d411:3574::10"
+      ]
+    },
+    "City": "Zurich",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ch-21.protonvpn.net",
+        "ipv4": [
+          "149.88.27.234"
+        ],
+        "ipv6": [
+          "2a02:6ea0:d411:3574::10"
+        ],
+        "X25519PublicKey": "XPVCz7LndzqWe7y3+WSo51hvNOX8nX5CTwVTWhzg8g8=",
+        "EntryIP": "149.88.27.234",
+        "ExitIP": "149.88.27.234"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

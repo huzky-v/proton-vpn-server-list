@@ -27,7 +27,7 @@
           "190.2.132.139"
         ],
         "ipv6": [
-          "2a00:7c80::46:10"
+          "2a00:7c80:0:46::10"
         ],
         "X25519PublicKey": "oVHQPMeCCfPpGhPjEKAFG94wrSmn5MR/kGOThxcefVU=",
         "EntryIP": "185.159.156.72",
@@ -39,7 +39,7 @@
           "190.2.132.124"
         ],
         "ipv6": [
-          "2a00:7c80::164:10"
+          "2a00:7c80:0:164::10"
         ],
         "X25519PublicKey": "9jkx1qC/7bNkn5rlOfxblxoN11MGZFYobwbWXZ7Sql8=",
         "EntryIP": "185.159.156.73",
@@ -51,7 +51,7 @@
           "190.2.131.156"
         ],
         "ipv6": [
-          "2a00:7c80::167:10"
+          "2a00:7c80:0:167::10"
         ],
         "X25519PublicKey": "zG1tc+Jr58YDfUPu8l8yyk7b7ljC4m/Ncb/1AOY2oBM=",
         "EntryIP": "185.159.156.74",

@@ -1,5 +1,31 @@
 [
   {
+    "Name": "DO#1",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "DO#10",
     "Domain": {
       "domain": "node-do-01.protonvpn.net",
@@ -27,6 +53,58 @@
   },
   {
     "Name": "DO#11",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#12",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#13",
     "Domain": {
       "domain": "node-do-01.protonvpn.net",
       "ipv4": [
@@ -104,6 +182,84 @@
     "Streaming": true
   },
   {
+    "Name": "DO#16",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#17",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#18",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "DO#19",
     "Domain": {
       "domain": "node-do-01.protonvpn.net",
@@ -156,6 +312,32 @@
     "Streaming": true
   },
   {
+    "Name": "DO#20",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "DO#21",
     "Domain": {
       "domain": "node-do-01.protonvpn.net",
@@ -182,7 +364,163 @@
     "Streaming": true
   },
   {
+    "Name": "DO#22",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#23",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#24",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "DO#25",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#26",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#27",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#28",
     "Domain": {
       "domain": "node-do-01.protonvpn.net",
       "ipv4": [
@@ -260,6 +598,58 @@
     "Streaming": true
   },
   {
+    "Name": "DO#4",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#5",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "DO#6",
     "Domain": {
       "domain": "node-do-01.protonvpn.net",
@@ -287,6 +677,58 @@
   },
   {
     "Name": "DO#7",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#8",
+    "Domain": {
+      "domain": "node-do-01.protonvpn.net",
+      "ipv4": [
+        "89.238.155.130"
+      ],
+      "ipv6": []
+    },
+    "City": "Santo Domingo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-do-01.protonvpn.net",
+        "ipv4": [
+          "89.238.155.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "17uOfuUCuJc6+xcg9qG2IJNZ2cjF7D55a2vEhYlkE0E=",
+        "EntryIP": "89.238.155.130",
+        "ExitIP": "89.238.155.130"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DO#9",
     "Domain": {
       "domain": "node-do-01.protonvpn.net",
       "ipv4": [
