@@ -16603,16 +16603,24 @@
     "Name": "DE#765",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16625,16 +16633,24 @@
     "Name": "DE#766",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16647,16 +16663,24 @@
     "Name": "DE#767",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16669,16 +16693,24 @@
     "Name": "DE#768",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16691,16 +16723,24 @@
     "Name": "DE#769",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16713,16 +16753,24 @@
     "Name": "DE#770",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16735,16 +16783,24 @@
     "Name": "DE#771",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16757,16 +16813,24 @@
     "Name": "DE#772",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16779,16 +16843,24 @@
     "Name": "DE#773",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16801,16 +16873,24 @@
     "Name": "DE#774",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16823,16 +16903,24 @@
     "Name": "DE#775",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16845,16 +16933,24 @@
     "Name": "DE#776",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16867,16 +16963,24 @@
     "Name": "DE#777",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16889,16 +16993,24 @@
     "Name": "DE#778",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16911,16 +17023,24 @@
     "Name": "DE#779",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16933,16 +17053,24 @@
     "Name": "DE#780",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16955,16 +17083,24 @@
     "Name": "DE#781",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16977,16 +17113,24 @@
     "Name": "DE#782",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -16999,16 +17143,24 @@
     "Name": "DE#783",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
@@ -17021,16 +17173,24 @@
     "Name": "DE#784",
     "Domain": {
       "domain": "node-de-36.protonvpn.net",
-      "ipv4": [],
-      "ipv6": []
+      "ipv4": [
+        "79.127.141.53"
+      ],
+      "ipv6": [
+        "2a02:6ea0:1703:6207::10"
+      ]
     },
     "City": "Frankfurt",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-de-36.protonvpn.net",
-        "ipv4": [],
-        "ipv6": [],
+        "ipv4": [
+          "79.127.141.53"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1703:6207::10"
+        ],
         "X25519PublicKey": "3OmDkvs7FoqiYtV9rzMUdxcWkNXH/loCVZaiPJH18mI=",
         "EntryIP": "79.127.141.53",
         "ExitIP": "79.127.141.53"
