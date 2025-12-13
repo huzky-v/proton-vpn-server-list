@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "CH-CR#1",
+    "Domain": {
+      "domain": "ch-cr-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "San José",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-cr-02.protonvpn.net",
+        "ipv4": [
+          "138.199.50.104"
+        ],
+        "ipv6": [
+          "2a10:9007:3:3::10"
+        ],
+        "X25519PublicKey": "kqT/fYDDcxeDHNn1sZQA8XVXZI98+9IjeDQ5gEPtMyg=",
+        "EntryIP": "62.169.136.209",
+        "ExitIP": "62.169.136.209"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

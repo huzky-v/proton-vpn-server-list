@@ -3,24 +3,16 @@
     "Name": "ID#1",
     "Domain": {
       "domain": "node-id-01.protonvpn.net",
-      "ipv4": [
-        "138.199.60.86"
-      ],
-      "ipv6": [
-        "2a10:9007:5:5::10"
-      ]
+      "ipv4": [],
+      "ipv6": []
     },
     "City": "Jakarta",
-    "ipv6Enabled": true,
+    "ipv6Enabled": false,
     "Servers": [
       {
         "Domain": "node-id-01.protonvpn.net",
-        "ipv4": [
-          "138.199.60.86"
-        ],
-        "ipv6": [
-          "2a10:9007:5:5::10"
-        ],
+        "ipv4": [],
+        "ipv6": [],
         "X25519PublicKey": "HClQJ3bkFS1VZPcbGv50OSwWXR1XBqNf/kakHIciHFk=",
         "EntryIP": "138.199.60.86",
         "ExitIP": "138.199.60.86"
@@ -33,24 +25,16 @@
     "Name": "ID#3",
     "Domain": {
       "domain": "node-id-01.protonvpn.net",
-      "ipv4": [
-        "138.199.60.86"
-      ],
-      "ipv6": [
-        "2a10:9007:5:5::10"
-      ]
+      "ipv4": [],
+      "ipv6": []
     },
     "City": "Jakarta",
-    "ipv6Enabled": true,
+    "ipv6Enabled": false,
     "Servers": [
       {
         "Domain": "node-id-01.protonvpn.net",
-        "ipv4": [
-          "138.199.60.86"
-        ],
-        "ipv6": [
-          "2a10:9007:5:5::10"
-        ],
+        "ipv4": [],
+        "ipv6": [],
         "X25519PublicKey": "HClQJ3bkFS1VZPcbGv50OSwWXR1XBqNf/kakHIciHFk=",
         "EntryIP": "138.199.60.86",
         "ExitIP": "138.199.60.86"
@@ -63,24 +47,16 @@
     "Name": "ID#4",
     "Domain": {
       "domain": "node-id-01.protonvpn.net",
-      "ipv4": [
-        "138.199.60.86"
-      ],
-      "ipv6": [
-        "2a10:9007:5:5::10"
-      ]
+      "ipv4": [],
+      "ipv6": []
     },
     "City": "Jakarta",
-    "ipv6Enabled": true,
+    "ipv6Enabled": false,
     "Servers": [
       {
         "Domain": "node-id-01.protonvpn.net",
-        "ipv4": [
-          "138.199.60.86"
-        ],
-        "ipv6": [
-          "2a10:9007:5:5::10"
-        ],
+        "ipv4": [],
+        "ipv6": [],
         "X25519PublicKey": "HClQJ3bkFS1VZPcbGv50OSwWXR1XBqNf/kakHIciHFk=",
         "EntryIP": "138.199.60.86",
         "ExitIP": "138.199.60.86"
@@ -93,24 +69,16 @@
     "Name": "ID#5",
     "Domain": {
       "domain": "node-id-01.protonvpn.net",
-      "ipv4": [
-        "138.199.60.86"
-      ],
-      "ipv6": [
-        "2a10:9007:5:5::10"
-      ]
+      "ipv4": [],
+      "ipv6": []
     },
     "City": "Jakarta",
-    "ipv6Enabled": true,
+    "ipv6Enabled": false,
     "Servers": [
       {
         "Domain": "node-id-01.protonvpn.net",
-        "ipv4": [
-          "138.199.60.86"
-        ],
-        "ipv6": [
-          "2a10:9007:5:5::10"
-        ],
+        "ipv4": [],
+        "ipv6": [],
         "X25519PublicKey": "HClQJ3bkFS1VZPcbGv50OSwWXR1XBqNf/kakHIciHFk=",
         "EntryIP": "138.199.60.86",
         "ExitIP": "138.199.60.86"
@@ -123,24 +91,16 @@
     "Name": "ID#7",
     "Domain": {
       "domain": "node-id-01.protonvpn.net",
-      "ipv4": [
-        "138.199.60.86"
-      ],
-      "ipv6": [
-        "2a10:9007:5:5::10"
-      ]
+      "ipv4": [],
+      "ipv6": []
     },
     "City": "Jakarta",
-    "ipv6Enabled": true,
+    "ipv6Enabled": false,
     "Servers": [
       {
         "Domain": "node-id-01.protonvpn.net",
-        "ipv4": [
-          "138.199.60.86"
-        ],
-        "ipv6": [
-          "2a10:9007:5:5::10"
-        ],
+        "ipv4": [],
+        "ipv6": [],
         "X25519PublicKey": "HClQJ3bkFS1VZPcbGv50OSwWXR1XBqNf/kakHIciHFk=",
         "EntryIP": "138.199.60.86",
         "ExitIP": "138.199.60.86"
@@ -153,24 +113,16 @@
     "Name": "ID#8",
     "Domain": {
       "domain": "node-id-01.protonvpn.net",
-      "ipv4": [
-        "138.199.60.86"
-      ],
-      "ipv6": [
-        "2a10:9007:5:5::10"
-      ]
+      "ipv4": [],
+      "ipv6": []
     },
     "City": "Jakarta",
-    "ipv6Enabled": true,
+    "ipv6Enabled": false,
     "Servers": [
       {
         "Domain": "node-id-01.protonvpn.net",
-        "ipv4": [
-          "138.199.60.86"
-        ],
-        "ipv6": [
-          "2a10:9007:5:5::10"
-        ],
+        "ipv4": [],
+        "ipv6": [],
         "X25519PublicKey": "HClQJ3bkFS1VZPcbGv50OSwWXR1XBqNf/kakHIciHFk=",
         "EntryIP": "138.199.60.86",
         "ExitIP": "138.199.60.86"

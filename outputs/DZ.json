@@ -624,6 +624,110 @@
     "Streaming": true
   },
   {
+    "Name": "DZ#1",
+    "Domain": {
+      "domain": "dz-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.44"
+      ],
+      "ipv6": []
+    },
+    "City": "Algiers",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "dz-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.44"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "hDiyYDFs6HjVR+kJhX3pnq0rkUf3bT2++rQxJicoaVE=",
+        "EntryIP": "79.135.105.44",
+        "ExitIP": "79.135.105.44"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DZ#26",
+    "Domain": {
+      "domain": "dz-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.44"
+      ],
+      "ipv6": []
+    },
+    "City": "Algiers",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "dz-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.44"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "hDiyYDFs6HjVR+kJhX3pnq0rkUf3bT2++rQxJicoaVE=",
+        "EntryIP": "79.135.105.44",
+        "ExitIP": "79.135.105.44"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DZ#27",
+    "Domain": {
+      "domain": "dz-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.44"
+      ],
+      "ipv6": []
+    },
+    "City": "Algiers",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "dz-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.44"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "hDiyYDFs6HjVR+kJhX3pnq0rkUf3bT2++rQxJicoaVE=",
+        "EntryIP": "79.135.105.44",
+        "ExitIP": "79.135.105.44"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "DZ#28",
+    "Domain": {
+      "domain": "dz-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.44"
+      ],
+      "ipv6": []
+    },
+    "City": "Algiers",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "dz-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.44"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "hDiyYDFs6HjVR+kJhX3pnq0rkUf3bT2++rQxJicoaVE=",
+        "EntryIP": "79.135.105.44",
+        "ExitIP": "79.135.105.44"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "DZ#29",
     "Domain": {
       "domain": "dz-03.protonvpn.net",
@@ -647,7 +751,7 @@
       }
     ],
     "P2P": true,
-    "Streaming": false
+    "Streaming": true
   },
   {
     "Name": "DZ#30",
@@ -673,7 +777,7 @@
       }
     ],
     "P2P": true,
-    "Streaming": false
+    "Streaming": true
   },
   {
     "Name": "DZ#31",
@@ -699,7 +803,7 @@
       }
     ],
     "P2P": true,
-    "Streaming": false
+    "Streaming": true
   },
   {
     "Name": "DZ#32",
@@ -725,6 +829,6 @@
       }
     ],
     "P2P": true,
-    "Streaming": false
+    "Streaming": true
   }
 ]

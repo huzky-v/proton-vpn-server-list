@@ -679,7 +679,9 @@
     "Name": "US-FREE#70",
     "Domain": {
       "domain": "node-us-414.protonvpn.net",
-      "ipv4": [],
+      "ipv4": [
+        "151.243.141.159"
+      ],
       "ipv6": []
     },
     "City": "Secaucus",
@@ -687,7 +689,9 @@
     "Servers": [
       {
         "Domain": "node-us-414.protonvpn.net",
-        "ipv4": [],
+        "ipv4": [
+          "151.243.141.159"
+        ],
         "ipv6": [],
         "X25519PublicKey": "MNTtBSAv3VQ8W059Rbf7pQ37WDxQ4h5vkhmBARjmmiU=",
         "EntryIP": "151.243.141.159",
@@ -701,7 +705,9 @@
     "Name": "US-FREE#75",
     "Domain": {
       "domain": "node-us-418.protonvpn.net",
-      "ipv4": [],
+      "ipv4": [
+        "151.243.141.163"
+      ],
       "ipv6": []
     },
     "City": "Secaucus",
@@ -709,7 +715,9 @@
     "Servers": [
       {
         "Domain": "node-us-418.protonvpn.net",
-        "ipv4": [],
+        "ipv4": [
+          "151.243.141.163"
+        ],
         "ipv6": [],
         "X25519PublicKey": "0RyHTsq0vwayZVZUhuIKGcU7FiMl9Gn4dvNiOlYYpyc=",
         "EntryIP": "151.243.141.163",
@@ -723,7 +731,9 @@
     "Name": "US-FREE#83",
     "Domain": {
       "domain": "node-us-420.protonvpn.net",
-      "ipv4": [],
+      "ipv4": [
+        "151.243.141.165"
+      ],
       "ipv6": []
     },
     "City": "Secaucus",
@@ -731,7 +741,9 @@
     "Servers": [
       {
         "Domain": "node-us-420.protonvpn.net",
-        "ipv4": [],
+        "ipv4": [
+          "151.243.141.165"
+        ],
         "ipv6": [],
         "X25519PublicKey": "rgPoLtUhJ946CVYPkp8r3VL8KHUYSmTIrPo7Wsw9sn4=",
         "EntryIP": "151.243.141.165",

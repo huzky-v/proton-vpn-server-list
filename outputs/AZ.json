@@ -624,6 +624,110 @@
     "Streaming": true
   },
   {
+    "Name": "AZ#25",
+    "Domain": {
+      "domain": "az-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.16"
+      ],
+      "ipv6": []
+    },
+    "City": "Baku",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "az-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.16"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "pTyAyofpye8wYQlCLHceUdtsb5tLrlAzxj7CJgFVcF0=",
+        "EntryIP": "79.135.105.16",
+        "ExitIP": "79.135.105.16"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AZ#26",
+    "Domain": {
+      "domain": "az-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.16"
+      ],
+      "ipv6": []
+    },
+    "City": "Baku",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "az-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.16"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "pTyAyofpye8wYQlCLHceUdtsb5tLrlAzxj7CJgFVcF0=",
+        "EntryIP": "79.135.105.16",
+        "ExitIP": "79.135.105.16"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AZ#27",
+    "Domain": {
+      "domain": "az-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.16"
+      ],
+      "ipv6": []
+    },
+    "City": "Baku",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "az-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.16"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "pTyAyofpye8wYQlCLHceUdtsb5tLrlAzxj7CJgFVcF0=",
+        "EntryIP": "79.135.105.16",
+        "ExitIP": "79.135.105.16"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AZ#28",
+    "Domain": {
+      "domain": "az-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.16"
+      ],
+      "ipv6": []
+    },
+    "City": "Baku",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "az-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.16"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "pTyAyofpye8wYQlCLHceUdtsb5tLrlAzxj7CJgFVcF0=",
+        "EntryIP": "79.135.105.16",
+        "ExitIP": "79.135.105.16"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "AZ#30",
     "Domain": {
       "domain": "node-az-03.protonvpn.net",

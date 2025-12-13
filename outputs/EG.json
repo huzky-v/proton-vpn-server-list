@@ -360,6 +360,110 @@
     "Streaming": false
   },
   {
+    "Name": "EG#13",
+    "Domain": {
+      "domain": "eg-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.212"
+      ],
+      "ipv6": []
+    },
+    "City": "Cairo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "eg-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.212"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fD8gErK2xl/yI01WCOl78xNFGuEXdZjr/MYN3qzH03I=",
+        "EntryIP": "79.135.105.212",
+        "ExitIP": "79.135.105.212"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "EG#14",
+    "Domain": {
+      "domain": "eg-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.212"
+      ],
+      "ipv6": []
+    },
+    "City": "Cairo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "eg-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.212"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fD8gErK2xl/yI01WCOl78xNFGuEXdZjr/MYN3qzH03I=",
+        "EntryIP": "79.135.105.212",
+        "ExitIP": "79.135.105.212"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "EG#15",
+    "Domain": {
+      "domain": "eg-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.212"
+      ],
+      "ipv6": []
+    },
+    "City": "Cairo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "eg-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.212"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fD8gErK2xl/yI01WCOl78xNFGuEXdZjr/MYN3qzH03I=",
+        "EntryIP": "79.135.105.212",
+        "ExitIP": "79.135.105.212"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "EG#16",
+    "Domain": {
+      "domain": "eg-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.212"
+      ],
+      "ipv6": []
+    },
+    "City": "Cairo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "eg-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.212"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "fD8gErK2xl/yI01WCOl78xNFGuEXdZjr/MYN3qzH03I=",
+        "EntryIP": "79.135.105.212",
+        "ExitIP": "79.135.105.212"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "EG#17",
     "Domain": {
       "domain": "eg-03.protonvpn.net",
