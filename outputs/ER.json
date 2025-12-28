@@ -1,5 +1,109 @@
 [
   {
+    "Name": "ER#1",
+    "Domain": {
+      "domain": "er-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.48"
+      ],
+      "ipv6": []
+    },
+    "City": "Asmara",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "er-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.48"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "A7vswfTvFJJ6NnMemfWapLf1+bkYtN2eMq7R4IKxVGg=",
+        "EntryIP": "79.135.105.48",
+        "ExitIP": "79.135.105.48"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "ER#2",
+    "Domain": {
+      "domain": "er-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.48"
+      ],
+      "ipv6": []
+    },
+    "City": "Asmara",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "er-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.48"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "A7vswfTvFJJ6NnMemfWapLf1+bkYtN2eMq7R4IKxVGg=",
+        "EntryIP": "79.135.105.48",
+        "ExitIP": "79.135.105.48"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "ER#3",
+    "Domain": {
+      "domain": "er-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.48"
+      ],
+      "ipv6": []
+    },
+    "City": "Asmara",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "er-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.48"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "A7vswfTvFJJ6NnMemfWapLf1+bkYtN2eMq7R4IKxVGg=",
+        "EntryIP": "79.135.105.48",
+        "ExitIP": "79.135.105.48"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "ER#4",
+    "Domain": {
+      "domain": "er-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.48"
+      ],
+      "ipv6": []
+    },
+    "City": "Asmara",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "er-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.48"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "A7vswfTvFJJ6NnMemfWapLf1+bkYtN2eMq7R4IKxVGg=",
+        "EntryIP": "79.135.105.48",
+        "ExitIP": "79.135.105.48"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
     "Name": "ER#5",
     "Domain": {
       "domain": "er-03.protonvpn.net",

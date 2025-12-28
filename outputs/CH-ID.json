@@ -10,12 +10,14 @@
     "ipv6Enabled": false,
     "Servers": [
       {
-        "Domain": "node-id-01.protonvpn.net",
-        "ipv4": [],
+        "Domain": "node-id-03.protonvpn.net",
+        "ipv4": [
+          "103.120.66.226"
+        ],
         "ipv6": [],
-        "X25519PublicKey": "HClQJ3bkFS1VZPcbGv50OSwWXR1XBqNf/kakHIciHFk=",
-        "EntryIP": "62.169.136.84",
-        "ExitIP": "62.169.136.84"
+        "X25519PublicKey": "xlyjovIxX3vLWzcB9jUrYRpniIi8cpsrwES97HS3JRM=",
+        "EntryIP": "62.169.136.112",
+        "ExitIP": "62.169.136.112"
       }
     ],
     "P2P": false,

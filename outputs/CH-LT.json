@@ -7,7 +7,7 @@
       "ipv6": []
     },
     "City": "Vilnius",
-    "ipv6Enabled": false,
+    "ipv6Enabled": true,
     "Servers": [
       {
         "Domain": "node-lt-01b.protonvpn.net",
@@ -18,6 +18,28 @@
         "X25519PublicKey": "bRGHR+5TEOvd2KR2dJJm9nOH1bboFu2omY4pW2EVZH8=",
         "EntryIP": "62.169.136.110",
         "ExitIP": "62.169.136.110"
+      },
+      {
+        "Domain": "node-lt-01b.protonvpn.net",
+        "ipv4": [
+          "45.151.45.4"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "bRGHR+5TEOvd2KR2dJJm9nOH1bboFu2omY4pW2EVZH8=",
+        "EntryIP": "79.135.104.20",
+        "ExitIP": "79.135.104.20"
+      },
+      {
+        "Domain": "node-lt-02.protonvpn.net",
+        "ipv4": [
+          "130.195.243.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:100:1::10"
+        ],
+        "X25519PublicKey": "BqyPHId2xAJj+iblt82NpDvvFu4BjhHqi2bYBKB20QE=",
+        "EntryIP": "79.135.104.110",
+        "ExitIP": "79.135.104.110"
       }
     ],
     "P2P": false,

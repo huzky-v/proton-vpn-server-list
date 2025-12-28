@@ -1,5 +1,109 @@
 [
   {
+    "Name": "ET#1",
+    "Domain": {
+      "domain": "et-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.52"
+      ],
+      "ipv6": []
+    },
+    "City": "Addis Ababa",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "et-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.52"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aAAIDCfa+kM6mn3fPtrPKgrV9Gr0wx1EuUJNasRWIWo=",
+        "EntryIP": "79.135.105.52",
+        "ExitIP": "79.135.105.52"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "ET#2",
+    "Domain": {
+      "domain": "et-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.52"
+      ],
+      "ipv6": []
+    },
+    "City": "Addis Ababa",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "et-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.52"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aAAIDCfa+kM6mn3fPtrPKgrV9Gr0wx1EuUJNasRWIWo=",
+        "EntryIP": "79.135.105.52",
+        "ExitIP": "79.135.105.52"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "ET#3",
+    "Domain": {
+      "domain": "et-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.52"
+      ],
+      "ipv6": []
+    },
+    "City": "Addis Ababa",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "et-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.52"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aAAIDCfa+kM6mn3fPtrPKgrV9Gr0wx1EuUJNasRWIWo=",
+        "EntryIP": "79.135.105.52",
+        "ExitIP": "79.135.105.52"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "ET#4",
+    "Domain": {
+      "domain": "et-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.52"
+      ],
+      "ipv6": []
+    },
+    "City": "Addis Ababa",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "et-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.52"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "aAAIDCfa+kM6mn3fPtrPKgrV9Gr0wx1EuUJNasRWIWo=",
+        "EntryIP": "79.135.105.52",
+        "ExitIP": "79.135.105.52"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
     "Name": "ET#5",
     "Domain": {
       "domain": "et-03.protonvpn.net",

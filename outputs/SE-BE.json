@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-BE#1",
+    "Domain": {
+      "domain": "se-be-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Brussels",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-be-06.protonvpn.net",
+        "ipv4": [
+          "79.127.164.65"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "J/ZzG0F1/adsnl//WNoHQVmUL+eJcYLFwdnHsYvbjC0=",
+        "EntryIP": "185.159.156.146",
+        "ExitIP": "185.159.156.146"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

@@ -16,6 +16,16 @@
         ],
         "ipv6": [],
         "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
+        "EntryIP": "79.135.104.109",
+        "ExitIP": "79.135.104.109"
+      },
+      {
+        "Domain": "node-ba-01.protonvpn.net",
+        "ipv4": [
+          "185.212.111.98"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "cvRImu6X+AUhQ5Vl/m2zlqrDwHF5gtRSPY0COPuEJVY=",
         "EntryIP": "62.169.136.7",
         "ExitIP": "62.169.136.7"
       }

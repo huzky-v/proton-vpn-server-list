@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-NZ#1",
+    "Domain": {
+      "domain": "is-nz-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Auckland",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-nz-07.protonvpn.net",
+        "ipv4": [
+          "103.75.11.162"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "RIMZBHphjnM+2drxU3WGaOapL6j26rJleTGx1GpCG1A=",
+        "EntryIP": "185.159.158.28",
+        "ExitIP": "185.159.158.28"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

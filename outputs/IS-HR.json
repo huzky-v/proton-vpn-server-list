@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-HR#1",
+    "Domain": {
+      "domain": "is-hr-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Zagreb",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-hr-03.protonvpn.net",
+        "ipv4": [
+          "79.127.144.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "APelgiFZBkgKjoTRkuM9h+68pOfvuNYyb5LF9xO/7ls=",
+        "EntryIP": "185.159.158.75",
+        "ExitIP": "185.159.158.75"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

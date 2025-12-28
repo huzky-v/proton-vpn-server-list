@@ -32,6 +32,16 @@
         "ExitIP": "185.159.158.249"
       },
       {
+        "Domain": "node-nl-213.protonvpn.net",
+        "ipv4": [
+          "103.69.224.6"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "yDABIIjKHTfyA+J+cuHetkq2G6u+9yiRh3OsEEPS01M=",
+        "EntryIP": "185.159.158.248",
+        "ExitIP": "185.159.158.248"
+      },
+      {
         "Domain": "node-nl-221.protonvpn.net",
         "ipv4": [
           "46.29.25.6"

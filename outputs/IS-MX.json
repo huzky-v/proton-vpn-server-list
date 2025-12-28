@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-MX#1",
+    "Domain": {
+      "domain": "is-mx-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Querétaro",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-mx-04.protonvpn.net",
+        "ipv4": [
+          "79.127.180.1"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "1xu8nfLw2vwZzNJrxH0clvo37vfGHsUCk4QHeG2WijM=",
+        "EntryIP": "185.159.158.167",
+        "ExitIP": "185.159.158.167"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

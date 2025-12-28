@@ -44,6 +44,26 @@
         "X25519PublicKey": "QAx4kzh5ejS9RksrRPqv8u/d0eY3WMrMyvykPJZTN3M=",
         "EntryIP": "62.169.136.237",
         "ExitIP": "62.169.136.237"
+      },
+      {
+        "Domain": "node-it-07.protonvpn.net",
+        "ipv4": [
+          "149.102.237.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "+PFYUIjcyPinyV/8l0AJZMB+RYDjn7nWoKxZ+9vqaQ0=",
+        "EntryIP": "79.135.104.33",
+        "ExitIP": "79.135.104.33"
+      },
+      {
+        "Domain": "node-it-08.protonvpn.net",
+        "ipv4": [
+          "149.22.91.161"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "4D4PkMrszUx3+Rj4qLZIH1r7s6VAjS28sl34VG5+JyE=",
+        "EntryIP": "79.135.104.108",
+        "ExitIP": "79.135.104.108"
       }
     ],
     "P2P": false,

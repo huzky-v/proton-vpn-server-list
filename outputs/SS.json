@@ -624,6 +624,110 @@
     "Streaming": true
   },
   {
+    "Name": "SS#25",
+    "Domain": {
+      "domain": "ss-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.164"
+      ],
+      "ipv6": []
+    },
+    "City": "Juba",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ss-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.164"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "59nl60gSvPVD61opnA/X9I4+1ilxJczmbVxfLWPRAA8=",
+        "EntryIP": "79.135.105.164",
+        "ExitIP": "79.135.105.164"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "SS#26",
+    "Domain": {
+      "domain": "ss-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.164"
+      ],
+      "ipv6": []
+    },
+    "City": "Juba",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ss-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.164"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "59nl60gSvPVD61opnA/X9I4+1ilxJczmbVxfLWPRAA8=",
+        "EntryIP": "79.135.105.164",
+        "ExitIP": "79.135.105.164"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "SS#27",
+    "Domain": {
+      "domain": "ss-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.164"
+      ],
+      "ipv6": []
+    },
+    "City": "Juba",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ss-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.164"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "59nl60gSvPVD61opnA/X9I4+1ilxJczmbVxfLWPRAA8=",
+        "EntryIP": "79.135.105.164",
+        "ExitIP": "79.135.105.164"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "SS#28",
+    "Domain": {
+      "domain": "ss-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.164"
+      ],
+      "ipv6": []
+    },
+    "City": "Juba",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ss-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.164"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "59nl60gSvPVD61opnA/X9I4+1ilxJczmbVxfLWPRAA8=",
+        "EntryIP": "79.135.105.164",
+        "ExitIP": "79.135.105.164"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "SS#29",
     "Domain": {
       "domain": "ss-03.protonvpn.net",

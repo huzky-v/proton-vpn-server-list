@@ -30,6 +30,16 @@
         "X25519PublicKey": "/QKfRMQaQKdQ4UAwmQc8KKShfc3Mjl1HcKiiGEoWwTU=",
         "EntryIP": "62.169.136.97",
         "ExitIP": "62.169.136.97"
+      },
+      {
+        "Domain": "node-nz-05.protonvpn.net",
+        "ipv4": [
+          "103.75.11.130"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "K0IdhKiVr1DZOWL/tc3ojKLzkdfkcdXbdqfXCRz3bHk=",
+        "EntryIP": "79.135.104.101",
+        "ExitIP": "79.135.104.101"
       }
     ],
     "P2P": false,

@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "IS-NG#1",
+    "Domain": {
+      "domain": "is-ng-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Lagos",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ng-01.protonvpn.net",
+        "ipv4": [
+          "79.127.149.65"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "X96XImRSoyqbsbWe7YvV2yK8oqwJpFfcvov+INdKfjA=",
+        "EntryIP": "185.159.158.123",
+        "ExitIP": "185.159.158.123"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

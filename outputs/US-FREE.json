@@ -754,36 +754,6 @@
     "Streaming": false
   },
   {
-    "Name": "US-FREE#111",
-    "Domain": {
-      "domain": "node-us-438.protonvpn.net",
-      "ipv4": [
-        "149.34.251.136"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c803:6250::10"
-      ]
-    },
-    "City": "Los Angeles",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-us-438.protonvpn.net",
-        "ipv4": [
-          "149.34.251.136"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c803:6250::10"
-        ],
-        "X25519PublicKey": "4om6JQmpiDLuFY39hjAMtoRmc6F9auK4PIVZiZwxAAc=",
-        "EntryIP": "149.34.251.136",
-        "ExitIP": "149.34.251.136"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
     "Name": "US-FREE#112",
     "Domain": {
       "domain": "node-us-454.protonvpn.net",
@@ -808,36 +778,6 @@
         "X25519PublicKey": "3XROzgS72QDRKE3Z2XcnppVNFPaLFCeSRDmsCe6EGws=",
         "EntryIP": "149.34.251.138",
         "ExitIP": "149.34.251.138"
-      }
-    ],
-    "P2P": false,
-    "Streaming": false
-  },
-  {
-    "Name": "US-FREE#86",
-    "Domain": {
-      "domain": "node-us-437.protonvpn.net",
-      "ipv4": [
-        "149.34.251.134"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c803:6248::10"
-      ]
-    },
-    "City": "Los Angeles",
-    "ipv6Enabled": true,
-    "Servers": [
-      {
-        "Domain": "node-us-437.protonvpn.net",
-        "ipv4": [
-          "149.34.251.134"
-        ],
-        "ipv6": [
-          "2a02:6ea0:c803:6248::10"
-        ],
-        "X25519PublicKey": "oOweBQMuJhyG8mY9D/zoRmnxZ1V6HcyND5HGKbWyZDg=",
-        "EntryIP": "149.34.251.134",
-        "ExitIP": "149.34.251.134"
       }
     ],
     "P2P": false,

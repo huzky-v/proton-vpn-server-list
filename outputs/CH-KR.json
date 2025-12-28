@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CH-KR#1",
+    "Domain": {
+      "domain": "ch-kr-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Seoul",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-kr-04.protonvpn.net",
+        "ipv4": [
+          "141.98.213.194"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "xt9F1mkgYqn7egJQnDILEyPrBVBlXZS7X4Yt2qwXNQU=",
+        "EntryIP": "79.135.104.113",
+        "ExitIP": "79.135.104.113"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

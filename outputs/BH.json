@@ -1,5 +1,109 @@
 [
   {
+    "Name": "BH#1",
+    "Domain": {
+      "domain": "bh-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.20"
+      ],
+      "ipv6": []
+    },
+    "City": "Manama",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "bh-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.20"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "6Aqd6wRLqPLRnOB19IgMryATlyUwefOSCpitki374AQ=",
+        "EntryIP": "79.135.105.20",
+        "ExitIP": "79.135.105.20"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "BH#2",
+    "Domain": {
+      "domain": "bh-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.20"
+      ],
+      "ipv6": []
+    },
+    "City": "Manama",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "bh-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.20"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "6Aqd6wRLqPLRnOB19IgMryATlyUwefOSCpitki374AQ=",
+        "EntryIP": "79.135.105.20",
+        "ExitIP": "79.135.105.20"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "BH#3",
+    "Domain": {
+      "domain": "bh-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.20"
+      ],
+      "ipv6": []
+    },
+    "City": "Manama",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "bh-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.20"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "6Aqd6wRLqPLRnOB19IgMryATlyUwefOSCpitki374AQ=",
+        "EntryIP": "79.135.105.20",
+        "ExitIP": "79.135.105.20"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "BH#4",
+    "Domain": {
+      "domain": "bh-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.20"
+      ],
+      "ipv6": []
+    },
+    "City": "Manama",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "bh-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.20"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "6Aqd6wRLqPLRnOB19IgMryATlyUwefOSCpitki374AQ=",
+        "EntryIP": "79.135.105.20",
+        "ExitIP": "79.135.105.20"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
     "Name": "BH#5",
     "Domain": {
       "domain": "bh-03.protonvpn.net",

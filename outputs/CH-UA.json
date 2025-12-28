@@ -20,6 +20,18 @@
         "X25519PublicKey": "eqjhoqO6K1nLiej026+RkpSTHloVrOHLlMQaB0Tl5GM=",
         "EntryIP": "62.169.136.60",
         "ExitIP": "62.169.136.60"
+      },
+      {
+        "Domain": "node-ua-03.protonvpn.net",
+        "ipv4": [
+          "149.88.110.33"
+        ],
+        "ipv6": [
+          "2a02:6ea0:e108:3556::10"
+        ],
+        "X25519PublicKey": "BTwnvm0OR6IzwefZlzTgJMn8NhISk8DtczUk7P74NH8=",
+        "EntryIP": "79.135.104.45",
+        "ExitIP": "79.135.104.45"
       }
     ],
     "P2P": false,

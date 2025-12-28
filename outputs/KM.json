@@ -1,5 +1,109 @@
 [
   {
+    "Name": "KM#25",
+    "Domain": {
+      "domain": "km-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.72"
+      ],
+      "ipv6": []
+    },
+    "City": "Moroni",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "km-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.72"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "q7+8NYctmZA7gT2Ul/NfZQ6Tn1cFBfM37qHM/gRqImI=",
+        "EntryIP": "79.135.105.72",
+        "ExitIP": "79.135.105.72"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "KM#26",
+    "Domain": {
+      "domain": "km-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.72"
+      ],
+      "ipv6": []
+    },
+    "City": "Moroni",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "km-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.72"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "q7+8NYctmZA7gT2Ul/NfZQ6Tn1cFBfM37qHM/gRqImI=",
+        "EntryIP": "79.135.105.72",
+        "ExitIP": "79.135.105.72"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "KM#27",
+    "Domain": {
+      "domain": "km-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.72"
+      ],
+      "ipv6": []
+    },
+    "City": "Moroni",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "km-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.72"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "q7+8NYctmZA7gT2Ul/NfZQ6Tn1cFBfM37qHM/gRqImI=",
+        "EntryIP": "79.135.105.72",
+        "ExitIP": "79.135.105.72"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "KM#28",
+    "Domain": {
+      "domain": "km-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.72"
+      ],
+      "ipv6": []
+    },
+    "City": "Moroni",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "km-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.72"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "q7+8NYctmZA7gT2Ul/NfZQ6Tn1cFBfM37qHM/gRqImI=",
+        "EntryIP": "79.135.105.72",
+        "ExitIP": "79.135.105.72"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
     "Name": "KM#29",
     "Domain": {
       "domain": "km-03.protonvpn.net",

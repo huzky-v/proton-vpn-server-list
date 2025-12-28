@@ -30,6 +30,18 @@
         "X25519PublicKey": "7FslkahrdLwGbv4QSX5Cft5CtQLmBUlpWC382SSF7Hw=",
         "EntryIP": "62.169.136.80",
         "ExitIP": "62.169.136.80"
+      },
+      {
+        "Domain": "node-jp-30.protonvpn.net",
+        "ipv4": [
+          "45.87.213.210"
+        ],
+        "ipv6": [
+          "2001:ac8:40:25::10"
+        ],
+        "X25519PublicKey": "dMSVWPppIq7F2mVK99Le8G83r+b18Jx07spFvwmrPwg=",
+        "EntryIP": "79.135.104.40",
+        "ExitIP": "79.135.104.40"
       }
     ],
     "P2P": false,

@@ -92,6 +92,16 @@
         "X25519PublicKey": "/0vRg+ymjCXdqFf7cqZvZ19Dkv1adYR+NIOLQ+XvEgA=",
         "EntryIP": "185.159.158.22",
         "ExitIP": "185.159.158.22"
+      },
+      {
+        "Domain": "node-uk-31.protonvpn.net",
+        "ipv4": [
+          "188.240.57.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "HX/4IL6C4iz2i2NGLb6OeOb+qYJHFejbYn7/oTmHDmg=",
+        "EntryIP": "185.159.158.43",
+        "ExitIP": "185.159.158.43"
       }
     ],
     "P2P": false,

@@ -1,6 +1,6 @@
 [
   {
-    "Name": "CH-RU#2",
+    "Name": "CH-RU#1",
     "Domain": {
       "domain": "ch-ru-01.protonvpn.net",
       "ipv4": [],
@@ -10,14 +10,14 @@
     "ipv6Enabled": false,
     "Servers": [
       {
-        "Domain": "node-ru-04.protonvpn.net",
+        "Domain": "node-ru-06.protonvpn.net",
         "ipv4": [
-          "176.96.226.226"
+          "146.70.231.2"
         ],
         "ipv6": [],
-        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
-        "EntryIP": "62.169.136.12",
-        "ExitIP": "62.169.136.12"
+        "X25519PublicKey": "OYsPkwZXR/gHUnffnNjBhtnlWdMiOh3m/ncFDPP2Ln0=",
+        "EntryIP": "62.169.136.114",
+        "ExitIP": "62.169.136.114"
       }
     ],
     "P2P": false,

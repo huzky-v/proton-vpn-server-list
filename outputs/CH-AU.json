@@ -64,6 +64,18 @@
         "X25519PublicKey": "hPKSC01LiQsP+1pzPm98CFZXqkESBuwqdmMe+4ujeEs=",
         "EntryIP": "62.169.136.253",
         "ExitIP": "62.169.136.253"
+      },
+      {
+        "Domain": "node-au-20.protonvpn.net",
+        "ipv4": [
+          "103.108.231.162"
+        ],
+        "ipv6": [
+          "2404:f780:8:3137::10"
+        ],
+        "X25519PublicKey": "Xmre1psA04kUzSUMuAq0QGQe3dqQBXOw8dzRCs6tYUs=",
+        "EntryIP": "79.135.104.60",
+        "ExitIP": "79.135.104.60"
       }
     ],
     "P2P": false,

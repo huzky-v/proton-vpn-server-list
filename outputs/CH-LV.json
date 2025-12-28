@@ -28,6 +28,16 @@
         "X25519PublicKey": "Kpf5yweL4i6lC7Tx4AeVExvJ7zwwP/SyNiP5sdHyBDA=",
         "EntryIP": "62.169.136.81",
         "ExitIP": "62.169.136.81"
+      },
+      {
+        "Domain": "node-lv-02.protonvpn.net",
+        "ipv4": [
+          "85.203.39.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "X+TnM1PwewbKon/eJBH5Lt5eG5R76N+NQq+/ZFMppXM=",
+        "EntryIP": "79.135.104.27",
+        "ExitIP": "79.135.104.27"
       }
     ],
     "P2P": false,

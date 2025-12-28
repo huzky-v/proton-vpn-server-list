@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "SE-UA#1",
+    "Domain": {
+      "domain": "se-ua-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Kyiv",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-ua-04.protonvpn.net",
+        "ipv4": [
+          "130.195.241.2"
+        ],
+        "ipv6": [
+          "2a0d:5600:98:1::10"
+        ],
+        "X25519PublicKey": "DXYDBKLGzh+HGEjwdo+hXLWiRFMk4IWrrVuXyRlMSlY=",
+        "EntryIP": "185.159.156.130",
+        "ExitIP": "185.159.156.130"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

@@ -32,6 +32,18 @@
         "X25519PublicKey": "aQ2NoOYEObG9tDMwdc4VxK6hjW+eA0PLfgbH7ffmagU=",
         "EntryIP": "185.159.158.218",
         "ExitIP": "185.159.158.218"
+      },
+      {
+        "Domain": "node-ca-57.protonvpn.net",
+        "ipv4": [
+          "89.222.98.40"
+        ],
+        "ipv6": [
+          "2a02:6ea0:510c:6111::10"
+        ],
+        "X25519PublicKey": "KMsTNyOCInIzQ7cAFYUMyDDPhQXsTEb2T9o8gw1Hbww=",
+        "EntryIP": "185.159.158.197",
+        "ExitIP": "185.159.158.197"
       }
     ],
     "P2P": false,

@@ -624,6 +624,110 @@
     "Streaming": true
   },
   {
+    "Name": "TG#25",
+    "Domain": {
+      "domain": "tg-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.180"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.180"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "K5dW0eGdp6qEHiHYcu6+DYeaTdCxLdR+NZ4jTz2HtjU=",
+        "EntryIP": "79.135.105.180",
+        "ExitIP": "79.135.105.180"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#26",
+    "Domain": {
+      "domain": "tg-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.180"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.180"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "K5dW0eGdp6qEHiHYcu6+DYeaTdCxLdR+NZ4jTz2HtjU=",
+        "EntryIP": "79.135.105.180",
+        "ExitIP": "79.135.105.180"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#27",
+    "Domain": {
+      "domain": "tg-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.180"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.180"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "K5dW0eGdp6qEHiHYcu6+DYeaTdCxLdR+NZ4jTz2HtjU=",
+        "EntryIP": "79.135.105.180",
+        "ExitIP": "79.135.105.180"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "TG#28",
+    "Domain": {
+      "domain": "tg-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.180"
+      ],
+      "ipv6": []
+    },
+    "City": "Lomé",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "tg-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.180"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "K5dW0eGdp6qEHiHYcu6+DYeaTdCxLdR+NZ4jTz2HtjU=",
+        "EntryIP": "79.135.105.180",
+        "ExitIP": "79.135.105.180"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "TG#29",
     "Domain": {
       "domain": "tg-03.protonvpn.net",

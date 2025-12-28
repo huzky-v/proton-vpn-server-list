@@ -1,5 +1,109 @@
 [
   {
+    "Name": "AO#1",
+    "Domain": {
+      "domain": "ao-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.12"
+      ],
+      "ipv6": []
+    },
+    "City": "Luanda",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ao-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.12"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "eFEhiG7vdkDSwqtwOgECFE7x8Xr8NnJfh0QU1XK6jwA=",
+        "EntryIP": "79.135.105.12",
+        "ExitIP": "79.135.105.12"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AO#2",
+    "Domain": {
+      "domain": "ao-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.12"
+      ],
+      "ipv6": []
+    },
+    "City": "Luanda",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ao-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.12"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "eFEhiG7vdkDSwqtwOgECFE7x8Xr8NnJfh0QU1XK6jwA=",
+        "EntryIP": "79.135.105.12",
+        "ExitIP": "79.135.105.12"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AO#3",
+    "Domain": {
+      "domain": "ao-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.12"
+      ],
+      "ipv6": []
+    },
+    "City": "Luanda",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ao-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.12"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "eFEhiG7vdkDSwqtwOgECFE7x8Xr8NnJfh0QU1XK6jwA=",
+        "EntryIP": "79.135.105.12",
+        "ExitIP": "79.135.105.12"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "AO#4",
+    "Domain": {
+      "domain": "ao-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.12"
+      ],
+      "ipv6": []
+    },
+    "City": "Luanda",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ao-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.12"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "eFEhiG7vdkDSwqtwOgECFE7x8Xr8NnJfh0QU1XK6jwA=",
+        "EntryIP": "79.135.105.12",
+        "ExitIP": "79.135.105.12"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "AO#5",
     "Domain": {
       "domain": "ao-03.protonvpn.net",

@@ -1028,5 +1028,31 @@
     ],
     "P2P": false,
     "Streaming": false
+  },
+  {
+    "Name": "NL-FREE#280",
+    "Domain": {
+      "domain": "node-nl-227.protonvpn.net",
+      "ipv4": [
+        "89.105.214.196"
+      ],
+      "ipv6": []
+    },
+    "City": "Amsterdam",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-nl-227.protonvpn.net",
+        "ipv4": [
+          "89.105.214.196"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Xn2BL+vhIggl2uJgoGccj0n0Cvw7OaeNK1wOfOutISQ=",
+        "EntryIP": "89.105.214.196",
+        "ExitIP": "89.105.214.196"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
   }
 ]

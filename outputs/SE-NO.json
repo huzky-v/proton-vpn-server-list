@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-NO#1",
+    "Domain": {
+      "domain": "se-no-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Oslo",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-no-07.protonvpn.net",
+        "ipv4": [
+          "95.173.205.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "/0vWJERpbXUXRThD8pnWYfZ3HrEaRTp5ZBcE2YQw7TI=",
+        "EntryIP": "185.159.156.144",
+        "ExitIP": "185.159.156.144"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

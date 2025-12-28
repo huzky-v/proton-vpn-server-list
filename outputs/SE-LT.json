@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-LT#1",
+    "Domain": {
+      "domain": "se-lt-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Siauliai",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-lt-01b.protonvpn.net",
+        "ipv4": [
+          "45.151.45.4"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "bRGHR+5TEOvd2KR2dJJm9nOH1bboFu2omY4pW2EVZH8=",
+        "EntryIP": "185.159.156.43",
+        "ExitIP": "185.159.156.43"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

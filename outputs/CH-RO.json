@@ -18,6 +18,18 @@
           "2a04:9dc0:0:149::10"
         ],
         "X25519PublicKey": "oXJDkB7ARwfgC1j8nJMTPz1s8zHDy72V3UxgERs9YjI=",
+        "EntryIP": "79.135.104.49",
+        "ExitIP": "79.135.104.49"
+      },
+      {
+        "Domain": "node-ro-08.protonvpn.net",
+        "ipv4": [
+          "185.181.100.178"
+        ],
+        "ipv6": [
+          "2a04:9dc0:0:149::10"
+        ],
+        "X25519PublicKey": "oXJDkB7ARwfgC1j8nJMTPz1s8zHDy72V3UxgERs9YjI=",
         "EntryIP": "62.169.136.11",
         "ExitIP": "62.169.136.11"
       }

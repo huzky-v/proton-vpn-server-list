@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "SE-RS#1",
+    "Domain": {
+      "domain": "se-rs-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Belgrade",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-rs-03.protonvpn.net",
+        "ipv4": [
+          "146.70.221.130"
+        ],
+        "ipv6": [
+          "2001:ac8:7f:4::10"
+        ],
+        "X25519PublicKey": "ts8WajtirB+oQIkcma/cIZ+IO+yO02Q4Ld+j5TmbBU8=",
+        "EntryIP": "185.159.156.129",
+        "ExitIP": "185.159.156.129"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

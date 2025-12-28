@@ -20,6 +20,18 @@
         "X25519PublicKey": "oNctPLp48sX2jk6U9hoER6QT4aGp6TEAUydA6VuA8h8=",
         "EntryIP": "62.169.136.217",
         "ExitIP": "62.169.136.217"
+      },
+      {
+        "Domain": "node-cz-06.protonvpn.net",
+        "ipv4": [
+          "79.127.154.1"
+        ],
+        "ipv6": [
+          "2a02:6ea0:1201:5279::10"
+        ],
+        "X25519PublicKey": "GtUSbKTkClOZx5jI6lj2dQlxQP2MjfNcS8K3NM8bUE8=",
+        "EntryIP": "79.135.104.104",
+        "ExitIP": "79.135.104.104"
       }
     ],
     "P2P": false,

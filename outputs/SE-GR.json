@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "SE-GR#1",
+    "Domain": {
+      "domain": "se-gr-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Athens",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-gr-03.protonvpn.net",
+        "ipv4": [
+          "149.22.85.193"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Aa/1qhvtTi4czuoUMrbb921EWl8tCPUMajJlzJCqfRY=",
+        "EntryIP": "185.159.156.147",
+        "ExitIP": "185.159.156.147"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

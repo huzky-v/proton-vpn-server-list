@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "IS-BG#1",
+    "Domain": {
+      "domain": "is-bg-01.protonvpn.net",
+      "ipv4": [],
+      "ipv6": []
+    },
+    "City": "Sofia",
+    "ipv6Enabled": true,
+    "Servers": [
+      {
+        "Domain": "node-bg-03.protonvpn.net",
+        "ipv4": [
+          "146.70.245.130"
+        ],
+        "ipv6": [
+          "2001:ac8:30:67::10"
+        ],
+        "X25519PublicKey": "/LLFauwzrnrUWF8omsE9pFN+Zx6HzZsrni5N190NY2k=",
+        "EntryIP": "185.159.158.240",
+        "ExitIP": "185.159.158.240"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  }
+]

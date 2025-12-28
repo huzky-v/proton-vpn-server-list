@@ -1,5 +1,109 @@
 [
   {
+    "Name": "MU#25",
+    "Domain": {
+      "domain": "mu-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.96"
+      ],
+      "ipv6": []
+    },
+    "City": "Port Louis",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mu-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.96"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5AjBct9yWNPUQIWnFCpSo8sjJ3IADRshcijUaGBY4Hg=",
+        "EntryIP": "79.135.105.96",
+        "ExitIP": "79.135.105.96"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "MU#26",
+    "Domain": {
+      "domain": "mu-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.96"
+      ],
+      "ipv6": []
+    },
+    "City": "Port Louis",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mu-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.96"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5AjBct9yWNPUQIWnFCpSo8sjJ3IADRshcijUaGBY4Hg=",
+        "EntryIP": "79.135.105.96",
+        "ExitIP": "79.135.105.96"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "MU#27",
+    "Domain": {
+      "domain": "mu-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.96"
+      ],
+      "ipv6": []
+    },
+    "City": "Port Louis",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mu-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.96"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5AjBct9yWNPUQIWnFCpSo8sjJ3IADRshcijUaGBY4Hg=",
+        "EntryIP": "79.135.105.96",
+        "ExitIP": "79.135.105.96"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
+    "Name": "MU#28",
+    "Domain": {
+      "domain": "mu-02.protonvpn.net",
+      "ipv4": [
+        "79.135.105.96"
+      ],
+      "ipv6": []
+    },
+    "City": "Port Louis",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "mu-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.96"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "5AjBct9yWNPUQIWnFCpSo8sjJ3IADRshcijUaGBY4Hg=",
+        "EntryIP": "79.135.105.96",
+        "ExitIP": "79.135.105.96"
+      }
+    ],
+    "P2P": true,
+    "Streaming": false
+  },
+  {
     "Name": "MU#29",
     "Domain": {
       "domain": "mu-03.protonvpn.net",
