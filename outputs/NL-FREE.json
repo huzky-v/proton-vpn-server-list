@@ -1004,6 +1004,32 @@
     "Streaming": false
   },
   {
+    "Name": "NL-FREE#242",
+    "Domain": {
+      "domain": "node-nl-268.protonvpn.net",
+      "ipv4": [
+        "190.2.151.161"
+      ],
+      "ipv6": []
+    },
+    "City": "Amsterdam",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-nl-268.protonvpn.net",
+        "ipv4": [
+          "190.2.151.161"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "LLuTnf+hTRZuLxspM+nh+AChnPFon9TD43ippOj2uGU=",
+        "EntryIP": "190.2.151.161",
+        "ExitIP": "190.2.151.161"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
     "Name": "NL-FREE#246",
     "Domain": {
       "domain": "node-nl-272.protonvpn.net",
@@ -1024,6 +1050,32 @@
         "X25519PublicKey": "cY8bc7KbV7KxXzEQWQVlW2C/8TIw2pclBFEbm/w8dlI=",
         "EntryIP": "212.8.243.27",
         "ExitIP": "212.8.243.27"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
+  },
+  {
+    "Name": "NL-FREE#247",
+    "Domain": {
+      "domain": "node-nl-273.protonvpn.net",
+      "ipv4": [
+        "185.185.50.27"
+      ],
+      "ipv6": []
+    },
+    "City": "Amsterdam",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-nl-273.protonvpn.net",
+        "ipv4": [
+          "185.185.50.27"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "OWngcWyPIA6vNuVOf45AnnD0ejyeW2QMJKnzYKRsRk0=",
+        "EntryIP": "185.185.50.27",
+        "ExitIP": "185.185.50.27"
       }
     ],
     "P2P": false,
