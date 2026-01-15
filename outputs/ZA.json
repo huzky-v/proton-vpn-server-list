@@ -908,5 +908,681 @@
     ],
     "P2P": true,
     "Streaming": true
+  },
+  {
+    "Name": "ZA#48",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#49",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#50",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#51",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#52",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#53",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#54",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#55",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#56",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#57",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#58",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#59",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#60",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#61",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#62",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#63",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#64",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#65",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#66",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#67",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#68",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#69",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#70",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#71",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#72",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "ZA#73",
+    "Domain": {
+      "domain": "node-za-04.protonvpn.net",
+      "ipv4": [
+        "213.139.10.129"
+      ],
+      "ipv6": []
+    },
+    "City": "Johannesburg",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-za-04.protonvpn.net",
+        "ipv4": [
+          "213.139.10.129"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "Iv65X3mAxJrLksVsvLqX7/xolEE0U8PrAQhB7295viE=",
+        "EntryIP": "213.139.10.129",
+        "ExitIP": "213.139.10.129"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]
