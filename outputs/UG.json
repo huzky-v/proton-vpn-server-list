@@ -1,0 +1,106 @@
+[
+  {
+    "Name": "UG#5",
+    "Domain": {
+      "domain": "ug-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.236"
+      ],
+      "ipv6": []
+    },
+    "City": "Kampala",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ug-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.236"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ttpSSWEf1WzguCWemKqcGOOkr839rM/ivpFLdRl4ujM=",
+        "EntryIP": "74.118.126.236",
+        "ExitIP": "74.118.126.236"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "UG#6",
+    "Domain": {
+      "domain": "ug-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.236"
+      ],
+      "ipv6": []
+    },
+    "City": "Kampala",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ug-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.236"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ttpSSWEf1WzguCWemKqcGOOkr839rM/ivpFLdRl4ujM=",
+        "EntryIP": "74.118.126.236",
+        "ExitIP": "74.118.126.236"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "UG#7",
+    "Domain": {
+      "domain": "ug-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.236"
+      ],
+      "ipv6": []
+    },
+    "City": "Kampala",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ug-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.236"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ttpSSWEf1WzguCWemKqcGOOkr839rM/ivpFLdRl4ujM=",
+        "EntryIP": "74.118.126.236",
+        "ExitIP": "74.118.126.236"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "UG#8",
+    "Domain": {
+      "domain": "ug-03.protonvpn.net",
+      "ipv4": [
+        "74.118.126.236"
+      ],
+      "ipv6": []
+    },
+    "City": "Kampala",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ug-03.protonvpn.net",
+        "ipv4": [
+          "74.118.126.236"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "ttpSSWEf1WzguCWemKqcGOOkr839rM/ivpFLdRl4ujM=",
+        "EntryIP": "74.118.126.236",
+        "ExitIP": "74.118.126.236"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  }
+]
