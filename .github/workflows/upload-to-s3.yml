@@ -13,6 +13,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Gzip all.json
+        run: gzip output-group/all.json
+
       - name: Upload file to S3
         uses: jakejarvis/s3-sync-action@master
         with:
