@@ -1,13 +1,7 @@
 [
   {
     "Name": "VE#1",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "VE#10",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "VE#11",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "VE#12",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "VE#13",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "VE#14",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "VE#15",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "VE#16",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,13 +161,7 @@
   },
   {
     "Name": "VE#17",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -235,13 +181,7 @@
   },
   {
     "Name": "VE#18",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -261,13 +201,7 @@
   },
   {
     "Name": "VE#19",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -287,13 +221,7 @@
   },
   {
     "Name": "VE#2",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -313,13 +241,7 @@
   },
   {
     "Name": "VE#20",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -339,13 +261,7 @@
   },
   {
     "Name": "VE#21",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -365,13 +281,7 @@
   },
   {
     "Name": "VE#22",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -391,13 +301,7 @@
   },
   {
     "Name": "VE#23",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -417,13 +321,7 @@
   },
   {
     "Name": "VE#24",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -443,13 +341,7 @@
   },
   {
     "Name": "VE#3",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -469,13 +361,7 @@
   },
   {
     "Name": "VE#4",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -495,13 +381,7 @@
   },
   {
     "Name": "VE#5",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -521,13 +401,7 @@
   },
   {
     "Name": "VE#6",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -547,13 +421,7 @@
   },
   {
     "Name": "VE#7",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -573,13 +441,7 @@
   },
   {
     "Name": "VE#8",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -599,13 +461,7 @@
   },
   {
     "Name": "VE#9",
-    "Domain": {
-      "domain": "ve-01.protonvpn.net",
-      "ipv4": [
-        "45.83.145.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-01.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -625,13 +481,7 @@
   },
   {
     "Name": "VE#25",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -651,13 +501,7 @@
   },
   {
     "Name": "VE#26",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -677,13 +521,7 @@
   },
   {
     "Name": "VE#27",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -703,13 +541,7 @@
   },
   {
     "Name": "VE#28",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -729,13 +561,7 @@
   },
   {
     "Name": "VE#29",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -755,13 +581,7 @@
   },
   {
     "Name": "VE#30",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -781,13 +601,7 @@
   },
   {
     "Name": "VE#31",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -807,13 +621,7 @@
   },
   {
     "Name": "VE#32",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -833,13 +641,7 @@
   },
   {
     "Name": "VE#33",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -859,13 +661,7 @@
   },
   {
     "Name": "VE#34",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -885,13 +681,7 @@
   },
   {
     "Name": "VE#35",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -911,13 +701,7 @@
   },
   {
     "Name": "VE#36",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -937,13 +721,7 @@
   },
   {
     "Name": "VE#37",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -963,13 +741,7 @@
   },
   {
     "Name": "VE#38",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -989,13 +761,7 @@
   },
   {
     "Name": "VE#39",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1015,13 +781,7 @@
   },
   {
     "Name": "VE#40",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1041,13 +801,7 @@
   },
   {
     "Name": "VE#41",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1067,13 +821,7 @@
   },
   {
     "Name": "VE#42",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1093,13 +841,7 @@
   },
   {
     "Name": "VE#43",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1119,13 +861,7 @@
   },
   {
     "Name": "VE#44",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1145,13 +881,7 @@
   },
   {
     "Name": "VE#45",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1171,13 +901,7 @@
   },
   {
     "Name": "VE#46",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1197,13 +921,7 @@
   },
   {
     "Name": "VE#47",
-    "Domain": {
-      "domain": "ve-02.protonvpn.net",
-      "ipv4": [
-        "45.83.145.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-02.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1223,13 +941,7 @@
   },
   {
     "Name": "VE#48",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1249,13 +961,7 @@
   },
   {
     "Name": "VE#49",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1275,13 +981,7 @@
   },
   {
     "Name": "VE#50",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1301,13 +1001,7 @@
   },
   {
     "Name": "VE#51",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1327,13 +1021,7 @@
   },
   {
     "Name": "VE#52",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1353,13 +1041,7 @@
   },
   {
     "Name": "VE#53",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1379,13 +1061,7 @@
   },
   {
     "Name": "VE#54",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1405,13 +1081,7 @@
   },
   {
     "Name": "VE#55",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1431,13 +1101,7 @@
   },
   {
     "Name": "VE#56",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1457,13 +1121,7 @@
   },
   {
     "Name": "VE#57",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1483,13 +1141,7 @@
   },
   {
     "Name": "VE#58",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1509,13 +1161,7 @@
   },
   {
     "Name": "VE#59",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1535,13 +1181,7 @@
   },
   {
     "Name": "VE#60",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1561,13 +1201,7 @@
   },
   {
     "Name": "VE#61",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1587,13 +1221,7 @@
   },
   {
     "Name": "VE#62",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1613,13 +1241,7 @@
   },
   {
     "Name": "VE#63",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1639,13 +1261,7 @@
   },
   {
     "Name": "VE#64",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1665,13 +1281,7 @@
   },
   {
     "Name": "VE#65",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1691,13 +1301,7 @@
   },
   {
     "Name": "VE#66",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1717,13 +1321,7 @@
   },
   {
     "Name": "VE#67",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1743,13 +1341,7 @@
   },
   {
     "Name": "VE#68",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1769,13 +1361,7 @@
   },
   {
     "Name": "VE#69",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1795,13 +1381,7 @@
   },
   {
     "Name": "VE#70",
-    "Domain": {
-      "domain": "ve-03.protonvpn.net",
-      "ipv4": [
-        "45.83.145.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-03.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1821,13 +1401,7 @@
   },
   {
     "Name": "VE#100",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1847,13 +1421,7 @@
   },
   {
     "Name": "VE#101",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1873,13 +1441,7 @@
   },
   {
     "Name": "VE#102",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1899,13 +1461,7 @@
   },
   {
     "Name": "VE#103",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1925,13 +1481,7 @@
   },
   {
     "Name": "VE#104",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1951,13 +1501,7 @@
   },
   {
     "Name": "VE#105",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -1977,13 +1521,7 @@
   },
   {
     "Name": "VE#106",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2003,13 +1541,7 @@
   },
   {
     "Name": "VE#107",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2029,13 +1561,7 @@
   },
   {
     "Name": "VE#108",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2055,13 +1581,7 @@
   },
   {
     "Name": "VE#109",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2081,13 +1601,7 @@
   },
   {
     "Name": "VE#110",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2107,13 +1621,7 @@
   },
   {
     "Name": "VE#111",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2133,13 +1641,7 @@
   },
   {
     "Name": "VE#112",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2159,13 +1661,7 @@
   },
   {
     "Name": "VE#113",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2185,13 +1681,7 @@
   },
   {
     "Name": "VE#114",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2211,13 +1701,7 @@
   },
   {
     "Name": "VE#115",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2237,13 +1721,7 @@
   },
   {
     "Name": "VE#116",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2263,13 +1741,7 @@
   },
   {
     "Name": "VE#117",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2289,13 +1761,7 @@
   },
   {
     "Name": "VE#118",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2315,13 +1781,7 @@
   },
   {
     "Name": "VE#119",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2341,13 +1801,7 @@
   },
   {
     "Name": "VE#91",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2367,13 +1821,7 @@
   },
   {
     "Name": "VE#92",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2393,13 +1841,7 @@
   },
   {
     "Name": "VE#93",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2419,13 +1861,7 @@
   },
   {
     "Name": "VE#94",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2445,13 +1881,7 @@
   },
   {
     "Name": "VE#95",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2471,13 +1901,7 @@
   },
   {
     "Name": "VE#96",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2497,13 +1921,7 @@
   },
   {
     "Name": "VE#97",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2523,13 +1941,7 @@
   },
   {
     "Name": "VE#98",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [
@@ -2549,13 +1961,7 @@
   },
   {
     "Name": "VE#99",
-    "Domain": {
-      "domain": "ve-09.protonvpn.net",
-      "ipv4": [
-        "86.106.121.3"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ve-09.protonvpn.net",
     "City": "Caracas",
     "ipv6Enabled": false,
     "Servers": [

@@ -1,13 +1,7 @@
 [
   {
     "Name": "AO#1",
-    "Domain": {
-      "domain": "ao-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.12"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ao-02.protonvpn.net",
     "City": "Luanda",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "AO#2",
-    "Domain": {
-      "domain": "ao-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.12"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ao-02.protonvpn.net",
     "City": "Luanda",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "AO#3",
-    "Domain": {
-      "domain": "ao-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.12"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ao-02.protonvpn.net",
     "City": "Luanda",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "AO#4",
-    "Domain": {
-      "domain": "ao-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.12"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ao-02.protonvpn.net",
     "City": "Luanda",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "AO#5",
-    "Domain": {
-      "domain": "ao-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.8"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ao-03.protonvpn.net",
     "City": "Luanda",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "AO#6",
-    "Domain": {
-      "domain": "ao-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.8"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ao-03.protonvpn.net",
     "City": "Luanda",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "AO#7",
-    "Domain": {
-      "domain": "ao-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.8"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ao-03.protonvpn.net",
     "City": "Luanda",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "AO#8",
-    "Domain": {
-      "domain": "ao-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.8"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ao-03.protonvpn.net",
     "City": "Luanda",
     "ipv6Enabled": false,
     "Servers": [

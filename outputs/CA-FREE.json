@@ -1,15 +1,7 @@
 [
   {
     "Name": "CA-FREE#12",
-    "Domain": {
-      "domain": "node-ca-34.protonvpn.net",
-      "ipv4": [
-        "79.127.254.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:510c:3880::10"
-      ]
-    },
+    "Domain": "node-ca-34.protonvpn.net",
     "City": "Vancouver",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "CA-FREE#5",
-    "Domain": {
-      "domain": "node-ca-25.protonvpn.net",
-      "ipv4": [
-        "149.88.97.122"
-      ],
-      "ipv6": [
-        "2a02:6ea0:de10:3565::10"
-      ]
-    },
+    "Domain": "node-ca-25.protonvpn.net",
     "City": "Toronto",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "CA-FREE#6",
-    "Domain": {
-      "domain": "node-ca-26.protonvpn.net",
-      "ipv4": [
-        "149.88.97.110"
-      ],
-      "ipv6": [
-        "2a02:6ea0:de10:3564::10"
-      ]
-    },
+    "Domain": "node-ca-26.protonvpn.net",
     "City": "Toronto",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "CA-FREE#9",
-    "Domain": {
-      "domain": "node-ca-31.protonvpn.net",
-      "ipv4": [
-        "149.22.82.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:de10:3595::10"
-      ]
-    },
+    "Domain": "node-ca-31.protonvpn.net",
     "City": "Toronto",
     "ipv6Enabled": true,
     "Servers": [

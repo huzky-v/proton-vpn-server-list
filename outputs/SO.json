@@ -1,13 +1,7 @@
 [
   {
     "Name": "SO#25",
-    "Domain": {
-      "domain": "so-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.160"
-      ],
-      "ipv6": []
-    },
+    "Domain": "so-02.protonvpn.net",
     "City": "Mogadishu",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "SO#26",
-    "Domain": {
-      "domain": "so-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.160"
-      ],
-      "ipv6": []
-    },
+    "Domain": "so-02.protonvpn.net",
     "City": "Mogadishu",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "SO#27",
-    "Domain": {
-      "domain": "so-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.160"
-      ],
-      "ipv6": []
-    },
+    "Domain": "so-02.protonvpn.net",
     "City": "Mogadishu",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "SO#28",
-    "Domain": {
-      "domain": "so-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.160"
-      ],
-      "ipv6": []
-    },
+    "Domain": "so-02.protonvpn.net",
     "City": "Mogadishu",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "SO#29",
-    "Domain": {
-      "domain": "so-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.204"
-      ],
-      "ipv6": []
-    },
+    "Domain": "so-03.protonvpn.net",
     "City": "Mogadishu",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "SO#30",
-    "Domain": {
-      "domain": "so-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.204"
-      ],
-      "ipv6": []
-    },
+    "Domain": "so-03.protonvpn.net",
     "City": "Mogadishu",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "SO#31",
-    "Domain": {
-      "domain": "so-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.204"
-      ],
-      "ipv6": []
-    },
+    "Domain": "so-03.protonvpn.net",
     "City": "Mogadishu",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "SO#32",
-    "Domain": {
-      "domain": "so-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.204"
-      ],
-      "ipv6": []
-    },
+    "Domain": "so-03.protonvpn.net",
     "City": "Mogadishu",
     "ipv6Enabled": false,
     "Servers": [

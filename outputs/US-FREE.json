@@ -1,15 +1,7 @@
 [
   {
     "Name": "US-FREE#46",
-    "Domain": {
-      "domain": "node-us-156.protonvpn.net",
-      "ipv4": [
-        "89.187.180.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c603:2234::10"
-      ]
-    },
+    "Domain": "node-us-156.protonvpn.net",
     "City": "Chicago",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "US-FREE#47",
-    "Domain": {
-      "domain": "node-us-155.protonvpn.net",
-      "ipv4": [
-        "37.19.221.198"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e00a:2241::10"
-      ]
-    },
+    "Domain": "node-us-155.protonvpn.net",
     "City": "Houston",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "US-FREE#44",
-    "Domain": {
-      "domain": "node-us-153.protonvpn.net",
-      "ipv4": [
-        "37.19.221.196"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e00a:2239::10"
-      ]
-    },
+    "Domain": "node-us-153.protonvpn.net",
     "City": "Houston",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "US-FREE#45",
-    "Domain": {
-      "domain": "node-us-154.protonvpn.net",
-      "ipv4": [
-        "37.19.221.199"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e00a:2242::10"
-      ]
-    },
+    "Domain": "node-us-154.protonvpn.net",
     "City": "Houston",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "US-FREE#49",
-    "Domain": {
-      "domain": "node-us-159.protonvpn.net",
-      "ipv4": [
-        "143.244.44.181"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c412:2354::10"
-      ]
-    },
+    "Domain": "node-us-159.protonvpn.net",
     "City": "New York",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "US-FREE#154",
-    "Domain": {
-      "domain": "node-us-162.protonvpn.net",
-      "ipv4": [
-        "138.199.52.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c412:2408::10"
-      ]
-    },
+    "Domain": "node-us-162.protonvpn.net",
     "City": "New York",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "US-FREE#52",
-    "Domain": {
-      "domain": "node-us-184.protonvpn.net",
-      "ipv4": [
-        "146.70.45.82"
-      ],
-      "ipv6": [
-        "2a0d:5600:6:ad1c::10"
-      ]
-    },
+    "Domain": "node-us-184.protonvpn.net",
     "City": "Miami",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "US-FREE#54",
-    "Domain": {
-      "domain": "node-us-175.protonvpn.net",
-      "ipv4": [
-        "185.236.200.242"
-      ],
-      "ipv6": [
-        "2a0d:5600:8:110::10"
-      ]
-    },
+    "Domain": "node-us-175.protonvpn.net",
     "City": "Los Angeles",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "US-FREE#55",
-    "Domain": {
-      "domain": "node-us-191.protonvpn.net",
-      "ipv4": [
-        "146.70.202.114"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:4c::10"
-      ]
-    },
+    "Domain": "node-us-191.protonvpn.net",
     "City": "New York",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,13 +199,7 @@
   },
   {
     "Name": "US-FREE#33",
-    "Domain": {
-      "domain": "node-us-279.protonvpn.net",
-      "ipv4": [
-        "149.102.254.90"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-279.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": false,
     "Servers": [
@@ -297,13 +219,7 @@
   },
   {
     "Name": "US-FREE#34",
-    "Domain": {
-      "domain": "node-us-280.protonvpn.net",
-      "ipv4": [
-        "149.102.254.89"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-280.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": false,
     "Servers": [
@@ -323,13 +239,7 @@
   },
   {
     "Name": "US-FREE#35",
-    "Domain": {
-      "domain": "node-us-281.protonvpn.net",
-      "ipv4": [
-        "149.102.254.91"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-281.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": false,
     "Servers": [
@@ -349,13 +259,7 @@
   },
   {
     "Name": "US-FREE#77",
-    "Domain": {
-      "domain": "node-us-285.protonvpn.net",
-      "ipv4": [
-        "149.22.84.144"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-285.protonvpn.net",
     "City": "San Jose",
     "ipv6Enabled": false,
     "Servers": [
@@ -375,13 +279,7 @@
   },
   {
     "Name": "US-FREE#78",
-    "Domain": {
-      "domain": "node-us-286.protonvpn.net",
-      "ipv4": [
-        "149.22.84.134"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-286.protonvpn.net",
     "City": "San Jose",
     "ipv6Enabled": false,
     "Servers": [
@@ -401,13 +299,7 @@
   },
   {
     "Name": "US-FREE#79",
-    "Domain": {
-      "domain": "node-us-287.protonvpn.net",
-      "ipv4": [
-        "149.22.84.139"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-287.protonvpn.net",
     "City": "San Jose",
     "ipv6Enabled": false,
     "Servers": [
@@ -427,13 +319,7 @@
   },
   {
     "Name": "US-FREE#90",
-    "Domain": {
-      "domain": "node-us-288.protonvpn.net",
-      "ipv4": [
-        "149.22.84.154"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-288.protonvpn.net",
     "City": "San Jose",
     "ipv6Enabled": false,
     "Servers": [
@@ -453,13 +339,7 @@
   },
   {
     "Name": "US-FREE#91",
-    "Domain": {
-      "domain": "node-us-289.protonvpn.net",
-      "ipv4": [
-        "149.22.84.155"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-289.protonvpn.net",
     "City": "San Jose",
     "ipv6Enabled": false,
     "Servers": [
@@ -479,13 +359,7 @@
   },
   {
     "Name": "US-FREE#92",
-    "Domain": {
-      "domain": "node-us-290.protonvpn.net",
-      "ipv4": [
-        "149.22.80.119"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-290.protonvpn.net",
     "City": "Los Angeles",
     "ipv6Enabled": false,
     "Servers": [
@@ -505,13 +379,7 @@
   },
   {
     "Name": "US-FREE#93",
-    "Domain": {
-      "domain": "node-us-291.protonvpn.net",
-      "ipv4": [
-        "149.22.80.109"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-291.protonvpn.net",
     "City": "Los Angeles",
     "ipv6Enabled": false,
     "Servers": [
@@ -531,13 +399,7 @@
   },
   {
     "Name": "US-FREE#94",
-    "Domain": {
-      "domain": "node-us-292.protonvpn.net",
-      "ipv4": [
-        "149.22.80.114"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-292.protonvpn.net",
     "City": "Los Angeles",
     "ipv6Enabled": false,
     "Servers": [
@@ -557,15 +419,7 @@
   },
   {
     "Name": "US-FREE#87",
-    "Domain": {
-      "domain": "node-us-335.protonvpn.net",
-      "ipv4": [
-        "149.102.224.53"
-      ],
-      "ipv6": [
-        "2a02:6ea0:cc02:5478::10"
-      ]
-    },
+    "Domain": "node-us-335.protonvpn.net",
     "City": "Miami",
     "ipv6Enabled": true,
     "Servers": [
@@ -587,15 +441,7 @@
   },
   {
     "Name": "US-FREE#88",
-    "Domain": {
-      "domain": "node-us-337.protonvpn.net",
-      "ipv4": [
-        "138.199.50.139"
-      ],
-      "ipv6": [
-        "2a02:6ea0:cc02:5480::10"
-      ]
-    },
+    "Domain": "node-us-337.protonvpn.net",
     "City": "Miami",
     "ipv6Enabled": true,
     "Servers": [
@@ -617,15 +463,7 @@
   },
   {
     "Name": "US-FREE#89",
-    "Domain": {
-      "domain": "node-us-338.protonvpn.net",
-      "ipv4": [
-        "138.199.50.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:cc02:5481::10"
-      ]
-    },
+    "Domain": "node-us-338.protonvpn.net",
     "City": "Miami",
     "ipv6Enabled": true,
     "Servers": [
@@ -647,15 +485,7 @@
   },
   {
     "Name": "US-FREE#106",
-    "Domain": {
-      "domain": "node-us-336.protonvpn.net",
-      "ipv4": [
-        "138.199.50.134"
-      ],
-      "ipv6": [
-        "2a02:6ea0:cc02:5516::10"
-      ]
-    },
+    "Domain": "node-us-336.protonvpn.net",
     "City": "Miami",
     "ipv6Enabled": true,
     "Servers": [
@@ -677,13 +507,7 @@
   },
   {
     "Name": "US-FREE#70",
-    "Domain": {
-      "domain": "node-us-414.protonvpn.net",
-      "ipv4": [
-        "151.243.141.159"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-414.protonvpn.net",
     "City": "Secaucus",
     "ipv6Enabled": false,
     "Servers": [
@@ -703,13 +527,7 @@
   },
   {
     "Name": "US-FREE#75",
-    "Domain": {
-      "domain": "node-us-418.protonvpn.net",
-      "ipv4": [
-        "151.243.141.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-418.protonvpn.net",
     "City": "Secaucus",
     "ipv6Enabled": false,
     "Servers": [
@@ -729,13 +547,7 @@
   },
   {
     "Name": "US-FREE#83",
-    "Domain": {
-      "domain": "node-us-420.protonvpn.net",
-      "ipv4": [
-        "151.243.141.165"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-420.protonvpn.net",
     "City": "Secaucus",
     "ipv6Enabled": false,
     "Servers": [
@@ -755,15 +567,7 @@
   },
   {
     "Name": "US-FREE#112",
-    "Domain": {
-      "domain": "node-us-454.protonvpn.net",
-      "ipv4": [
-        "149.34.251.138"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c803:6188::10"
-      ]
-    },
+    "Domain": "node-us-454.protonvpn.net",
     "City": "Los Angeles",
     "ipv6Enabled": true,
     "Servers": [

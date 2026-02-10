@@ -1,13 +1,7 @@
 [
   {
     "Name": "KE#1",
-    "Domain": {
-      "domain": "ke-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.68"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ke-02.protonvpn.net",
     "City": "Nairobi",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "KE#2",
-    "Domain": {
-      "domain": "ke-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.68"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ke-02.protonvpn.net",
     "City": "Nairobi",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "KE#3",
-    "Domain": {
-      "domain": "ke-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.68"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ke-02.protonvpn.net",
     "City": "Nairobi",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "KE#4",
-    "Domain": {
-      "domain": "ke-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.68"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ke-02.protonvpn.net",
     "City": "Nairobi",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "KE#5",
-    "Domain": {
-      "domain": "ke-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.108"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ke-03.protonvpn.net",
     "City": "Nairobi",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "KE#6",
-    "Domain": {
-      "domain": "ke-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.108"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ke-03.protonvpn.net",
     "City": "Nairobi",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "KE#7",
-    "Domain": {
-      "domain": "ke-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.108"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ke-03.protonvpn.net",
     "City": "Nairobi",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "KE#8",
-    "Domain": {
-      "domain": "ke-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.108"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ke-03.protonvpn.net",
     "City": "Nairobi",
     "ipv6Enabled": false,
     "Servers": [

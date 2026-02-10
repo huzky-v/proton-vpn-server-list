@@ -1,13 +1,7 @@
 [
   {
     "Name": "US-CO#21-TOR",
-    "Domain": {
-      "domain": "us-co-21-tor.protonvpn.net",
-      "ipv4": [
-        "84.17.63.17"
-      ],
-      "ipv6": []
-    },
+    "Domain": "us-co-21-tor.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,15 +21,7 @@
   },
   {
     "Name": "US-CO#44",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -57,15 +43,7 @@
   },
   {
     "Name": "US-CO#45",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -87,15 +65,7 @@
   },
   {
     "Name": "US-CO#46",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -117,15 +87,7 @@
   },
   {
     "Name": "US-CO#47",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -147,15 +109,7 @@
   },
   {
     "Name": "US-CO#48",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -177,15 +131,7 @@
   },
   {
     "Name": "US-CO#49",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -207,15 +153,7 @@
   },
   {
     "Name": "US-CO#50",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -237,15 +175,7 @@
   },
   {
     "Name": "US-CO#51",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -267,15 +197,7 @@
   },
   {
     "Name": "US-CO#52",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -297,15 +219,7 @@
   },
   {
     "Name": "US-CO#53",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -327,15 +241,7 @@
   },
   {
     "Name": "US-CO#54",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -357,15 +263,7 @@
   },
   {
     "Name": "US-CO#55",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -387,15 +285,7 @@
   },
   {
     "Name": "US-CO#56",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -417,15 +307,7 @@
   },
   {
     "Name": "US-CO#57",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -447,15 +329,7 @@
   },
   {
     "Name": "US-CO#58",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -477,15 +351,7 @@
   },
   {
     "Name": "US-CO#59",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -507,15 +373,7 @@
   },
   {
     "Name": "US-CO#60",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -537,15 +395,7 @@
   },
   {
     "Name": "US-CO#61",
-    "Domain": {
-      "domain": "node-us-94.protonvpn.net",
-      "ipv4": [
-        "212.102.44.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1773::10"
-      ]
-    },
+    "Domain": "node-us-94.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -567,15 +417,7 @@
   },
   {
     "Name": "US-CO#62",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -597,15 +439,7 @@
   },
   {
     "Name": "US-CO#63",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -627,15 +461,7 @@
   },
   {
     "Name": "US-CO#64",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -657,15 +483,7 @@
   },
   {
     "Name": "US-CO#65",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -687,15 +505,7 @@
   },
   {
     "Name": "US-CO#66",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -717,15 +527,7 @@
   },
   {
     "Name": "US-CO#67",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -747,15 +549,7 @@
   },
   {
     "Name": "US-CO#68",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -777,15 +571,7 @@
   },
   {
     "Name": "US-CO#69",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -807,15 +593,7 @@
   },
   {
     "Name": "US-CO#70",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -837,15 +615,7 @@
   },
   {
     "Name": "US-CO#71",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -867,15 +637,7 @@
   },
   {
     "Name": "US-CO#72",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -897,15 +659,7 @@
   },
   {
     "Name": "US-CO#73",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -927,15 +681,7 @@
   },
   {
     "Name": "US-CO#74",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -957,15 +703,7 @@
   },
   {
     "Name": "US-CO#75",
-    "Domain": {
-      "domain": "node-us-74.protonvpn.net",
-      "ipv4": [
-        "84.17.63.54"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d703::10"
-      ]
-    },
+    "Domain": "node-us-74.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -987,15 +725,7 @@
   },
   {
     "Name": "US-CO#76",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1017,15 +747,7 @@
   },
   {
     "Name": "US-CO#77",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1047,15 +769,7 @@
   },
   {
     "Name": "US-CO#78",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1077,15 +791,7 @@
   },
   {
     "Name": "US-CO#79",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1107,15 +813,7 @@
   },
   {
     "Name": "US-CO#80",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1137,15 +835,7 @@
   },
   {
     "Name": "US-CO#81",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1167,15 +857,7 @@
   },
   {
     "Name": "US-CO#82",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1197,15 +879,7 @@
   },
   {
     "Name": "US-CO#83",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1227,15 +901,7 @@
   },
   {
     "Name": "US-CO#84",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1257,15 +923,7 @@
   },
   {
     "Name": "US-CO#85",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1287,15 +945,7 @@
   },
   {
     "Name": "US-CO#86",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1317,15 +967,7 @@
   },
   {
     "Name": "US-CO#87",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1347,15 +989,7 @@
   },
   {
     "Name": "US-CO#88",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1377,15 +1011,7 @@
   },
   {
     "Name": "US-CO#89",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1407,15 +1033,7 @@
   },
   {
     "Name": "US-CO#90",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1437,15 +1055,7 @@
   },
   {
     "Name": "US-CO#91",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1467,15 +1077,7 @@
   },
   {
     "Name": "US-CO#92",
-    "Domain": {
-      "domain": "node-us-58.protonvpn.net",
-      "ipv4": [
-        "84.17.63.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d702::10"
-      ]
-    },
+    "Domain": "node-us-58.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1497,15 +1099,7 @@
   },
   {
     "Name": "US-CO#100",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1527,15 +1121,7 @@
   },
   {
     "Name": "US-CO#101",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1557,15 +1143,7 @@
   },
   {
     "Name": "US-CO#102",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1587,15 +1165,7 @@
   },
   {
     "Name": "US-CO#103",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1617,15 +1187,7 @@
   },
   {
     "Name": "US-CO#104",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1647,15 +1209,7 @@
   },
   {
     "Name": "US-CO#105",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1677,15 +1231,7 @@
   },
   {
     "Name": "US-CO#106",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1707,15 +1253,7 @@
   },
   {
     "Name": "US-CO#107",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1737,15 +1275,7 @@
   },
   {
     "Name": "US-CO#108",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1767,15 +1297,7 @@
   },
   {
     "Name": "US-CO#93",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1797,15 +1319,7 @@
   },
   {
     "Name": "US-CO#94",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1827,15 +1341,7 @@
   },
   {
     "Name": "US-CO#95",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1857,15 +1363,7 @@
   },
   {
     "Name": "US-CO#96",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1887,15 +1385,7 @@
   },
   {
     "Name": "US-CO#97",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1917,15 +1407,7 @@
   },
   {
     "Name": "US-CO#98",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1947,15 +1429,7 @@
   },
   {
     "Name": "US-CO#99",
-    "Domain": {
-      "domain": "node-us-93.protonvpn.net",
-      "ipv4": [
-        "212.102.44.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:1768::10"
-      ]
-    },
+    "Domain": "node-us-93.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -1977,15 +1451,7 @@
   },
   {
     "Name": "US-CO#109",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2007,15 +1473,7 @@
   },
   {
     "Name": "US-CO#110",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2037,15 +1495,7 @@
   },
   {
     "Name": "US-CO#111",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2067,15 +1517,7 @@
   },
   {
     "Name": "US-CO#112",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2097,15 +1539,7 @@
   },
   {
     "Name": "US-CO#113",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2127,15 +1561,7 @@
   },
   {
     "Name": "US-CO#114",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2157,15 +1583,7 @@
   },
   {
     "Name": "US-CO#115",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2187,15 +1605,7 @@
   },
   {
     "Name": "US-CO#116",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2217,15 +1627,7 @@
   },
   {
     "Name": "US-CO#117",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2247,15 +1649,7 @@
   },
   {
     "Name": "US-CO#118",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2277,15 +1671,7 @@
   },
   {
     "Name": "US-CO#119",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2307,15 +1693,7 @@
   },
   {
     "Name": "US-CO#120",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2337,15 +1715,7 @@
   },
   {
     "Name": "US-CO#121",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2367,15 +1737,7 @@
   },
   {
     "Name": "US-CO#122",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2397,15 +1759,7 @@
   },
   {
     "Name": "US-CO#123",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2427,15 +1781,7 @@
   },
   {
     "Name": "US-CO#124",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2457,15 +1803,7 @@
   },
   {
     "Name": "US-CO#125",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2487,15 +1825,7 @@
   },
   {
     "Name": "US-CO#126",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2517,15 +1847,7 @@
   },
   {
     "Name": "US-CO#127",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2547,15 +1869,7 @@
   },
   {
     "Name": "US-CO#128",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2577,15 +1891,7 @@
   },
   {
     "Name": "US-CO#129",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2607,15 +1913,7 @@
   },
   {
     "Name": "US-CO#130",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2637,15 +1935,7 @@
   },
   {
     "Name": "US-CO#131",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2667,15 +1957,7 @@
   },
   {
     "Name": "US-CO#132",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2697,15 +1979,7 @@
   },
   {
     "Name": "US-CO#133",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2727,15 +2001,7 @@
   },
   {
     "Name": "US-CO#134",
-    "Domain": {
-      "domain": "node-us-302.protonvpn.net",
-      "ipv4": [
-        "95.173.221.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:4901::10"
-      ]
-    },
+    "Domain": "node-us-302.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2757,15 +2023,7 @@
   },
   {
     "Name": "US-CO#161",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2787,15 +2045,7 @@
   },
   {
     "Name": "US-CO#162",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2817,15 +2067,7 @@
   },
   {
     "Name": "US-CO#163",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2847,15 +2089,7 @@
   },
   {
     "Name": "US-CO#164",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2877,15 +2111,7 @@
   },
   {
     "Name": "US-CO#165",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2907,15 +2133,7 @@
   },
   {
     "Name": "US-CO#166",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2937,15 +2155,7 @@
   },
   {
     "Name": "US-CO#167",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2967,15 +2177,7 @@
   },
   {
     "Name": "US-CO#168",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -2997,15 +2199,7 @@
   },
   {
     "Name": "US-CO#169",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3027,15 +2221,7 @@
   },
   {
     "Name": "US-CO#170",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3057,15 +2243,7 @@
   },
   {
     "Name": "US-CO#171",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3087,15 +2265,7 @@
   },
   {
     "Name": "US-CO#172",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3117,15 +2287,7 @@
   },
   {
     "Name": "US-CO#173",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3147,15 +2309,7 @@
   },
   {
     "Name": "US-CO#174",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3177,15 +2331,7 @@
   },
   {
     "Name": "US-CO#175",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3207,15 +2353,7 @@
   },
   {
     "Name": "US-CO#176",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3237,15 +2375,7 @@
   },
   {
     "Name": "US-CO#177",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3267,15 +2397,7 @@
   },
   {
     "Name": "US-CO#178",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3297,15 +2419,7 @@
   },
   {
     "Name": "US-CO#179",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3327,15 +2441,7 @@
   },
   {
     "Name": "US-CO#180",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3357,15 +2463,7 @@
   },
   {
     "Name": "US-CO#181",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3387,15 +2485,7 @@
   },
   {
     "Name": "US-CO#182",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3417,15 +2507,7 @@
   },
   {
     "Name": "US-CO#183",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3447,15 +2529,7 @@
   },
   {
     "Name": "US-CO#184",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3477,15 +2551,7 @@
   },
   {
     "Name": "US-CO#185",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3507,15 +2573,7 @@
   },
   {
     "Name": "US-CO#186",
-    "Domain": {
-      "domain": "node-us-307.protonvpn.net",
-      "ipv4": [
-        "95.173.221.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5255::10"
-      ]
-    },
+    "Domain": "node-us-307.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3537,15 +2595,7 @@
   },
   {
     "Name": "US-CO#135",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3567,15 +2617,7 @@
   },
   {
     "Name": "US-CO#136",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3597,15 +2639,7 @@
   },
   {
     "Name": "US-CO#137",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3627,15 +2661,7 @@
   },
   {
     "Name": "US-CO#138",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3657,15 +2683,7 @@
   },
   {
     "Name": "US-CO#139",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3687,15 +2705,7 @@
   },
   {
     "Name": "US-CO#140",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3717,15 +2727,7 @@
   },
   {
     "Name": "US-CO#141",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3747,15 +2749,7 @@
   },
   {
     "Name": "US-CO#142",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3777,15 +2771,7 @@
   },
   {
     "Name": "US-CO#143",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3807,15 +2793,7 @@
   },
   {
     "Name": "US-CO#144",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3837,15 +2815,7 @@
   },
   {
     "Name": "US-CO#145",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3867,15 +2837,7 @@
   },
   {
     "Name": "US-CO#146",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3897,15 +2859,7 @@
   },
   {
     "Name": "US-CO#147",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3927,15 +2881,7 @@
   },
   {
     "Name": "US-CO#148",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3957,15 +2903,7 @@
   },
   {
     "Name": "US-CO#149",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -3987,15 +2925,7 @@
   },
   {
     "Name": "US-CO#150",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4017,15 +2947,7 @@
   },
   {
     "Name": "US-CO#151",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4047,15 +2969,7 @@
   },
   {
     "Name": "US-CO#152",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4077,15 +2991,7 @@
   },
   {
     "Name": "US-CO#153",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4107,15 +3013,7 @@
   },
   {
     "Name": "US-CO#154",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4137,15 +3035,7 @@
   },
   {
     "Name": "US-CO#155",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4167,15 +3057,7 @@
   },
   {
     "Name": "US-CO#156",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4197,15 +3079,7 @@
   },
   {
     "Name": "US-CO#157",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4227,15 +3101,7 @@
   },
   {
     "Name": "US-CO#158",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4257,15 +3123,7 @@
   },
   {
     "Name": "US-CO#159",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4287,15 +3145,7 @@
   },
   {
     "Name": "US-CO#160",
-    "Domain": {
-      "domain": "node-us-306.protonvpn.net",
-      "ipv4": [
-        "95.173.221.92"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5254::10"
-      ]
-    },
+    "Domain": "node-us-306.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4317,15 +3167,7 @@
   },
   {
     "Name": "US-CO#187",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4347,15 +3189,7 @@
   },
   {
     "Name": "US-CO#188",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4377,15 +3211,7 @@
   },
   {
     "Name": "US-CO#189",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4407,15 +3233,7 @@
   },
   {
     "Name": "US-CO#190",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4437,15 +3255,7 @@
   },
   {
     "Name": "US-CO#191",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4467,15 +3277,7 @@
   },
   {
     "Name": "US-CO#192",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4497,15 +3299,7 @@
   },
   {
     "Name": "US-CO#193",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4527,15 +3321,7 @@
   },
   {
     "Name": "US-CO#194",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4557,15 +3343,7 @@
   },
   {
     "Name": "US-CO#195",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4587,15 +3365,7 @@
   },
   {
     "Name": "US-CO#196",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4617,15 +3387,7 @@
   },
   {
     "Name": "US-CO#197",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4647,15 +3409,7 @@
   },
   {
     "Name": "US-CO#198",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4677,15 +3431,7 @@
   },
   {
     "Name": "US-CO#199",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4707,15 +3453,7 @@
   },
   {
     "Name": "US-CO#200",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4737,15 +3475,7 @@
   },
   {
     "Name": "US-CO#201",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4767,15 +3497,7 @@
   },
   {
     "Name": "US-CO#202",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4797,15 +3519,7 @@
   },
   {
     "Name": "US-CO#203",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4827,15 +3541,7 @@
   },
   {
     "Name": "US-CO#204",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4857,15 +3563,7 @@
   },
   {
     "Name": "US-CO#205",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4887,15 +3585,7 @@
   },
   {
     "Name": "US-CO#206",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4917,15 +3607,7 @@
   },
   {
     "Name": "US-CO#207",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4947,15 +3629,7 @@
   },
   {
     "Name": "US-CO#208",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -4977,15 +3651,7 @@
   },
   {
     "Name": "US-CO#209",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5007,15 +3673,7 @@
   },
   {
     "Name": "US-CO#210",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5037,15 +3695,7 @@
   },
   {
     "Name": "US-CO#211",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5067,15 +3717,7 @@
   },
   {
     "Name": "US-CO#212",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5097,15 +3739,7 @@
   },
   {
     "Name": "US-CO#213",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5127,15 +3761,7 @@
   },
   {
     "Name": "US-CO#214",
-    "Domain": {
-      "domain": "node-us-361.protonvpn.net",
-      "ipv4": [
-        "95.173.221.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5503::10"
-      ]
-    },
+    "Domain": "node-us-361.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5157,15 +3783,7 @@
   },
   {
     "Name": "US-CO#215",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5187,15 +3805,7 @@
   },
   {
     "Name": "US-CO#216",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5217,15 +3827,7 @@
   },
   {
     "Name": "US-CO#217",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5247,15 +3849,7 @@
   },
   {
     "Name": "US-CO#218",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5277,15 +3871,7 @@
   },
   {
     "Name": "US-CO#219",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5307,15 +3893,7 @@
   },
   {
     "Name": "US-CO#220",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5337,15 +3915,7 @@
   },
   {
     "Name": "US-CO#221",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5367,15 +3937,7 @@
   },
   {
     "Name": "US-CO#222",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5397,15 +3959,7 @@
   },
   {
     "Name": "US-CO#223",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5427,15 +3981,7 @@
   },
   {
     "Name": "US-CO#224",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5457,15 +4003,7 @@
   },
   {
     "Name": "US-CO#225",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5487,15 +4025,7 @@
   },
   {
     "Name": "US-CO#226",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5517,15 +4047,7 @@
   },
   {
     "Name": "US-CO#227",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5547,15 +4069,7 @@
   },
   {
     "Name": "US-CO#228",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5577,15 +4091,7 @@
   },
   {
     "Name": "US-CO#229",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5607,15 +4113,7 @@
   },
   {
     "Name": "US-CO#230",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5637,15 +4135,7 @@
   },
   {
     "Name": "US-CO#231",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5667,15 +4157,7 @@
   },
   {
     "Name": "US-CO#232",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5697,15 +4179,7 @@
   },
   {
     "Name": "US-CO#233",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5727,15 +4201,7 @@
   },
   {
     "Name": "US-CO#234",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5757,15 +4223,7 @@
   },
   {
     "Name": "US-CO#235",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5787,15 +4245,7 @@
   },
   {
     "Name": "US-CO#236",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5817,15 +4267,7 @@
   },
   {
     "Name": "US-CO#237",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5847,15 +4289,7 @@
   },
   {
     "Name": "US-CO#238",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5877,15 +4311,7 @@
   },
   {
     "Name": "US-CO#239",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5907,15 +4333,7 @@
   },
   {
     "Name": "US-CO#240",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5937,15 +4355,7 @@
   },
   {
     "Name": "US-CO#241",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5967,15 +4377,7 @@
   },
   {
     "Name": "US-CO#242",
-    "Domain": {
-      "domain": "node-us-362.protonvpn.net",
-      "ipv4": [
-        "95.173.221.187"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5504::10"
-      ]
-    },
+    "Domain": "node-us-362.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -5997,15 +4399,7 @@
   },
   {
     "Name": "US-CO#243",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6027,15 +4421,7 @@
   },
   {
     "Name": "US-CO#244",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6057,15 +4443,7 @@
   },
   {
     "Name": "US-CO#245",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6087,15 +4465,7 @@
   },
   {
     "Name": "US-CO#246",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6117,15 +4487,7 @@
   },
   {
     "Name": "US-CO#247",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6147,15 +4509,7 @@
   },
   {
     "Name": "US-CO#248",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6177,15 +4531,7 @@
   },
   {
     "Name": "US-CO#249",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6207,15 +4553,7 @@
   },
   {
     "Name": "US-CO#250",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6237,15 +4575,7 @@
   },
   {
     "Name": "US-CO#251",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6267,15 +4597,7 @@
   },
   {
     "Name": "US-CO#252",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6297,15 +4619,7 @@
   },
   {
     "Name": "US-CO#253",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6327,15 +4641,7 @@
   },
   {
     "Name": "US-CO#254",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6357,15 +4663,7 @@
   },
   {
     "Name": "US-CO#255",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6387,15 +4685,7 @@
   },
   {
     "Name": "US-CO#256",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6417,15 +4707,7 @@
   },
   {
     "Name": "US-CO#257",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6447,15 +4729,7 @@
   },
   {
     "Name": "US-CO#258",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6477,15 +4751,7 @@
   },
   {
     "Name": "US-CO#259",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6507,15 +4773,7 @@
   },
   {
     "Name": "US-CO#260",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6537,15 +4795,7 @@
   },
   {
     "Name": "US-CO#261",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6567,15 +4817,7 @@
   },
   {
     "Name": "US-CO#262",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6597,15 +4839,7 @@
   },
   {
     "Name": "US-CO#263",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6627,15 +4861,7 @@
   },
   {
     "Name": "US-CO#264",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6657,15 +4883,7 @@
   },
   {
     "Name": "US-CO#265",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6687,15 +4905,7 @@
   },
   {
     "Name": "US-CO#266",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6717,15 +4927,7 @@
   },
   {
     "Name": "US-CO#267",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6747,15 +4949,7 @@
   },
   {
     "Name": "US-CO#268",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6777,15 +4971,7 @@
   },
   {
     "Name": "US-CO#269",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6807,15 +4993,7 @@
   },
   {
     "Name": "US-CO#270",
-    "Domain": {
-      "domain": "node-us-363.protonvpn.net",
-      "ipv4": [
-        "95.173.221.158"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:5506::10"
-      ]
-    },
+    "Domain": "node-us-363.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6837,15 +5015,7 @@
   },
   {
     "Name": "US-CO#271",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6867,15 +5037,7 @@
   },
   {
     "Name": "US-CO#272",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6897,15 +5059,7 @@
   },
   {
     "Name": "US-CO#273",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6927,15 +5081,7 @@
   },
   {
     "Name": "US-CO#274",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6957,15 +5103,7 @@
   },
   {
     "Name": "US-CO#275",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -6987,15 +5125,7 @@
   },
   {
     "Name": "US-CO#276",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7017,15 +5147,7 @@
   },
   {
     "Name": "US-CO#277",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7047,15 +5169,7 @@
   },
   {
     "Name": "US-CO#278",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7077,15 +5191,7 @@
   },
   {
     "Name": "US-CO#279",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7107,15 +5213,7 @@
   },
   {
     "Name": "US-CO#280",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7137,15 +5235,7 @@
   },
   {
     "Name": "US-CO#281",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7167,15 +5257,7 @@
   },
   {
     "Name": "US-CO#282",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7197,15 +5279,7 @@
   },
   {
     "Name": "US-CO#283",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7227,15 +5301,7 @@
   },
   {
     "Name": "US-CO#284",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7257,15 +5323,7 @@
   },
   {
     "Name": "US-CO#285",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7287,15 +5345,7 @@
   },
   {
     "Name": "US-CO#286",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7317,15 +5367,7 @@
   },
   {
     "Name": "US-CO#287",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7347,15 +5389,7 @@
   },
   {
     "Name": "US-CO#288",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7377,15 +5411,7 @@
   },
   {
     "Name": "US-CO#289",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7407,15 +5433,7 @@
   },
   {
     "Name": "US-CO#290",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7437,15 +5455,7 @@
   },
   {
     "Name": "US-CO#291",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7467,15 +5477,7 @@
   },
   {
     "Name": "US-CO#292",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7497,15 +5499,7 @@
   },
   {
     "Name": "US-CO#293",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7527,15 +5521,7 @@
   },
   {
     "Name": "US-CO#294",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7557,15 +5543,7 @@
   },
   {
     "Name": "US-CO#295",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7587,15 +5565,7 @@
   },
   {
     "Name": "US-CO#296",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7617,15 +5587,7 @@
   },
   {
     "Name": "US-CO#297",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7647,15 +5609,7 @@
   },
   {
     "Name": "US-CO#298",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7677,15 +5631,7 @@
   },
   {
     "Name": "US-CO#299",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [
@@ -7707,15 +5653,7 @@
   },
   {
     "Name": "US-CO#300",
-    "Domain": {
-      "domain": "node-us-440.protonvpn.net",
-      "ipv4": [
-        "95.173.221.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d704:6255::10"
-      ]
-    },
+    "Domain": "node-us-440.protonvpn.net",
     "City": "Denver",
     "ipv6Enabled": true,
     "Servers": [

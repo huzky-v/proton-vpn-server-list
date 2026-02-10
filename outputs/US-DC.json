@@ -1,15 +1,7 @@
 [
   {
     "Name": "US-DC#26",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "US-DC#27",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "US-DC#28",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "US-DC#29",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "US-DC#30",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "US-DC#31",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "US-DC#32",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "US-DC#33",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "US-DC#34",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,15 +199,7 @@
   },
   {
     "Name": "US-DC#35",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -301,15 +221,7 @@
   },
   {
     "Name": "US-DC#36",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -331,15 +243,7 @@
   },
   {
     "Name": "US-DC#37",
-    "Domain": {
-      "domain": "node-us-127.protonvpn.net",
-      "ipv4": [
-        "185.247.68.50"
-      ],
-      "ipv6": [
-        "2001:ac8:90:5::10"
-      ]
-    },
+    "Domain": "node-us-127.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -361,13 +265,7 @@
   },
   {
     "Name": "US-DC#100",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -387,13 +285,7 @@
   },
   {
     "Name": "US-DC#101",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -413,13 +305,7 @@
   },
   {
     "Name": "US-DC#102",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -439,13 +325,7 @@
   },
   {
     "Name": "US-DC#103",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -465,13 +345,7 @@
   },
   {
     "Name": "US-DC#104",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -491,13 +365,7 @@
   },
   {
     "Name": "US-DC#105",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -517,13 +385,7 @@
   },
   {
     "Name": "US-DC#106",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -543,13 +405,7 @@
   },
   {
     "Name": "US-DC#107",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -569,13 +425,7 @@
   },
   {
     "Name": "US-DC#108",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -595,13 +445,7 @@
   },
   {
     "Name": "US-DC#109",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -621,13 +465,7 @@
   },
   {
     "Name": "US-DC#110",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -647,13 +485,7 @@
   },
   {
     "Name": "US-DC#111",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -673,13 +505,7 @@
   },
   {
     "Name": "US-DC#112",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -699,13 +525,7 @@
   },
   {
     "Name": "US-DC#113",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -725,13 +545,7 @@
   },
   {
     "Name": "US-DC#114",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -751,13 +565,7 @@
   },
   {
     "Name": "US-DC#115",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -777,13 +585,7 @@
   },
   {
     "Name": "US-DC#116",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -803,13 +605,7 @@
   },
   {
     "Name": "US-DC#117",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -829,13 +625,7 @@
   },
   {
     "Name": "US-DC#118",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -855,13 +645,7 @@
   },
   {
     "Name": "US-DC#119",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -881,13 +665,7 @@
   },
   {
     "Name": "US-DC#120",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -907,13 +685,7 @@
   },
   {
     "Name": "US-DC#121",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -933,13 +705,7 @@
   },
   {
     "Name": "US-DC#122",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -959,13 +725,7 @@
   },
   {
     "Name": "US-DC#123",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -985,13 +745,7 @@
   },
   {
     "Name": "US-DC#124",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1011,13 +765,7 @@
   },
   {
     "Name": "US-DC#125",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1037,13 +785,7 @@
   },
   {
     "Name": "US-DC#126",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1063,13 +805,7 @@
   },
   {
     "Name": "US-DC#127",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1089,13 +825,7 @@
   },
   {
     "Name": "US-DC#128",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1115,13 +845,7 @@
   },
   {
     "Name": "US-DC#129",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1141,13 +865,7 @@
   },
   {
     "Name": "US-DC#130",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1167,13 +885,7 @@
   },
   {
     "Name": "US-DC#131",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1193,13 +905,7 @@
   },
   {
     "Name": "US-DC#132",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1219,13 +925,7 @@
   },
   {
     "Name": "US-DC#133",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1245,13 +945,7 @@
   },
   {
     "Name": "US-DC#134",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1271,13 +965,7 @@
   },
   {
     "Name": "US-DC#135",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1297,13 +985,7 @@
   },
   {
     "Name": "US-DC#136",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1323,13 +1005,7 @@
   },
   {
     "Name": "US-DC#137",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1349,13 +1025,7 @@
   },
   {
     "Name": "US-DC#138",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1375,13 +1045,7 @@
   },
   {
     "Name": "US-DC#139",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1401,13 +1065,7 @@
   },
   {
     "Name": "US-DC#140",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1427,13 +1085,7 @@
   },
   {
     "Name": "US-DC#141",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1453,13 +1105,7 @@
   },
   {
     "Name": "US-DC#142",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1479,13 +1125,7 @@
   },
   {
     "Name": "US-DC#143",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1505,13 +1145,7 @@
   },
   {
     "Name": "US-DC#144",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1531,13 +1165,7 @@
   },
   {
     "Name": "US-DC#145",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1557,13 +1185,7 @@
   },
   {
     "Name": "US-DC#146",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1583,13 +1205,7 @@
   },
   {
     "Name": "US-DC#147",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1609,13 +1225,7 @@
   },
   {
     "Name": "US-DC#148",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1635,13 +1245,7 @@
   },
   {
     "Name": "US-DC#149",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1661,13 +1265,7 @@
   },
   {
     "Name": "US-DC#150",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1687,13 +1285,7 @@
   },
   {
     "Name": "US-DC#151",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1713,13 +1305,7 @@
   },
   {
     "Name": "US-DC#152",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1739,13 +1325,7 @@
   },
   {
     "Name": "US-DC#153",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1765,13 +1345,7 @@
   },
   {
     "Name": "US-DC#154",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1791,13 +1365,7 @@
   },
   {
     "Name": "US-DC#155",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1817,13 +1385,7 @@
   },
   {
     "Name": "US-DC#156",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1843,13 +1405,7 @@
   },
   {
     "Name": "US-DC#157",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1869,13 +1425,7 @@
   },
   {
     "Name": "US-DC#158",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1895,13 +1445,7 @@
   },
   {
     "Name": "US-DC#159",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1921,13 +1465,7 @@
   },
   {
     "Name": "US-DC#160",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1947,13 +1485,7 @@
   },
   {
     "Name": "US-DC#161",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -1973,15 +1505,7 @@
   },
   {
     "Name": "US-DC#38",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2003,15 +1527,7 @@
   },
   {
     "Name": "US-DC#39",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2033,15 +1549,7 @@
   },
   {
     "Name": "US-DC#40",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2063,15 +1571,7 @@
   },
   {
     "Name": "US-DC#41",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2093,15 +1593,7 @@
   },
   {
     "Name": "US-DC#42",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2123,15 +1615,7 @@
   },
   {
     "Name": "US-DC#43",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2153,15 +1637,7 @@
   },
   {
     "Name": "US-DC#44",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2183,15 +1659,7 @@
   },
   {
     "Name": "US-DC#45",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2213,15 +1681,7 @@
   },
   {
     "Name": "US-DC#46",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2243,15 +1703,7 @@
   },
   {
     "Name": "US-DC#47",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2273,15 +1725,7 @@
   },
   {
     "Name": "US-DC#48",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2303,15 +1747,7 @@
   },
   {
     "Name": "US-DC#49",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2333,15 +1769,7 @@
   },
   {
     "Name": "US-DC#50",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2363,15 +1791,7 @@
   },
   {
     "Name": "US-DC#51",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2393,15 +1813,7 @@
   },
   {
     "Name": "US-DC#52",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2423,15 +1835,7 @@
   },
   {
     "Name": "US-DC#53",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2453,15 +1857,7 @@
   },
   {
     "Name": "US-DC#54",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2483,15 +1879,7 @@
   },
   {
     "Name": "US-DC#55",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2513,15 +1901,7 @@
   },
   {
     "Name": "US-DC#56",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2543,15 +1923,7 @@
   },
   {
     "Name": "US-DC#57",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2573,15 +1945,7 @@
   },
   {
     "Name": "US-DC#58",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2603,15 +1967,7 @@
   },
   {
     "Name": "US-DC#59",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2633,15 +1989,7 @@
   },
   {
     "Name": "US-DC#60",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2663,15 +2011,7 @@
   },
   {
     "Name": "US-DC#61",
-    "Domain": {
-      "domain": "node-us-221.protonvpn.net",
-      "ipv4": [
-        "104.234.212.26"
-      ],
-      "ipv6": [
-        "2a0d:5600:24:33::10"
-      ]
-    },
+    "Domain": "node-us-221.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": true,
     "Servers": [
@@ -2693,13 +2033,7 @@
   },
   {
     "Name": "US-DC#62",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -2719,13 +2053,7 @@
   },
   {
     "Name": "US-DC#63",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -2745,13 +2073,7 @@
   },
   {
     "Name": "US-DC#64",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -2771,13 +2093,7 @@
   },
   {
     "Name": "US-DC#65",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -2797,13 +2113,7 @@
   },
   {
     "Name": "US-DC#66",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -2823,13 +2133,7 @@
   },
   {
     "Name": "US-DC#67",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -2849,13 +2153,7 @@
   },
   {
     "Name": "US-DC#68",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -2875,13 +2173,7 @@
   },
   {
     "Name": "US-DC#69",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -2901,13 +2193,7 @@
   },
   {
     "Name": "US-DC#70",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -2927,13 +2213,7 @@
   },
   {
     "Name": "US-DC#71",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -2953,13 +2233,7 @@
   },
   {
     "Name": "US-DC#72",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -2979,13 +2253,7 @@
   },
   {
     "Name": "US-DC#73",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3005,13 +2273,7 @@
   },
   {
     "Name": "US-DC#74",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3031,13 +2293,7 @@
   },
   {
     "Name": "US-DC#75",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3057,13 +2313,7 @@
   },
   {
     "Name": "US-DC#76",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3083,13 +2333,7 @@
   },
   {
     "Name": "US-DC#77",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3109,13 +2353,7 @@
   },
   {
     "Name": "US-DC#78",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3135,13 +2373,7 @@
   },
   {
     "Name": "US-DC#79",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3161,13 +2393,7 @@
   },
   {
     "Name": "US-DC#80",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3187,13 +2413,7 @@
   },
   {
     "Name": "US-DC#81",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3213,13 +2433,7 @@
   },
   {
     "Name": "US-DC#82",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3239,13 +2453,7 @@
   },
   {
     "Name": "US-DC#83",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3265,13 +2473,7 @@
   },
   {
     "Name": "US-DC#84",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3291,13 +2493,7 @@
   },
   {
     "Name": "US-DC#85",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3317,13 +2513,7 @@
   },
   {
     "Name": "US-DC#86",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3343,13 +2533,7 @@
   },
   {
     "Name": "US-DC#87",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3369,13 +2553,7 @@
   },
   {
     "Name": "US-DC#88",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3395,13 +2573,7 @@
   },
   {
     "Name": "US-DC#89",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3421,13 +2593,7 @@
   },
   {
     "Name": "US-DC#90",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3447,13 +2613,7 @@
   },
   {
     "Name": "US-DC#91",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3473,13 +2633,7 @@
   },
   {
     "Name": "US-DC#92",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3499,13 +2653,7 @@
   },
   {
     "Name": "US-DC#93",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3525,13 +2673,7 @@
   },
   {
     "Name": "US-DC#94",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3551,13 +2693,7 @@
   },
   {
     "Name": "US-DC#95",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3577,13 +2713,7 @@
   },
   {
     "Name": "US-DC#96",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3603,13 +2733,7 @@
   },
   {
     "Name": "US-DC#97",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3629,13 +2753,7 @@
   },
   {
     "Name": "US-DC#98",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [
@@ -3655,13 +2773,7 @@
   },
   {
     "Name": "US-DC#99",
-    "Domain": {
-      "domain": "node-us-237.protonvpn.net",
-      "ipv4": [
-        "217.138.198.246"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-237.protonvpn.net",
     "City": "Washington",
     "ipv6Enabled": false,
     "Servers": [

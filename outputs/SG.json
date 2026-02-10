@@ -1,15 +1,7 @@
 [
   {
     "Name": "SG#69",
-    "Domain": {
-      "domain": "node-sg-14.protonvpn.net",
-      "ipv4": [
-        "37.19.201.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:2282::10"
-      ]
-    },
+    "Domain": "node-sg-14.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "SG#70",
-    "Domain": {
-      "domain": "node-sg-14.protonvpn.net",
-      "ipv4": [
-        "37.19.201.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:2282::10"
-      ]
-    },
+    "Domain": "node-sg-14.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "SG#71",
-    "Domain": {
-      "domain": "node-sg-14.protonvpn.net",
-      "ipv4": [
-        "37.19.201.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:2282::10"
-      ]
-    },
+    "Domain": "node-sg-14.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "SG#72",
-    "Domain": {
-      "domain": "node-sg-14.protonvpn.net",
-      "ipv4": [
-        "37.19.201.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:2282::10"
-      ]
-    },
+    "Domain": "node-sg-14.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "SG#73",
-    "Domain": {
-      "domain": "node-sg-14.protonvpn.net",
-      "ipv4": [
-        "37.19.201.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:2282::10"
-      ]
-    },
+    "Domain": "node-sg-14.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "SG#74",
-    "Domain": {
-      "domain": "node-sg-14.protonvpn.net",
-      "ipv4": [
-        "37.19.201.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:2282::10"
-      ]
-    },
+    "Domain": "node-sg-14.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "SG#75",
-    "Domain": {
-      "domain": "node-sg-14.protonvpn.net",
-      "ipv4": [
-        "37.19.201.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:2282::10"
-      ]
-    },
+    "Domain": "node-sg-14.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "SG#76",
-    "Domain": {
-      "domain": "node-sg-14.protonvpn.net",
-      "ipv4": [
-        "37.19.201.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:2282::10"
-      ]
-    },
+    "Domain": "node-sg-14.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,13 +177,7 @@
   },
   {
     "Name": "SG#77",
-    "Domain": {
-      "domain": "node-sg-15.protonvpn.net",
-      "ipv4": [
-        "138.199.60.85"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-15.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -267,13 +197,7 @@
   },
   {
     "Name": "SG#78",
-    "Domain": {
-      "domain": "node-sg-15.protonvpn.net",
-      "ipv4": [
-        "138.199.60.85"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-15.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -293,13 +217,7 @@
   },
   {
     "Name": "SG#79",
-    "Domain": {
-      "domain": "node-sg-15.protonvpn.net",
-      "ipv4": [
-        "138.199.60.85"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-15.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -319,13 +237,7 @@
   },
   {
     "Name": "SG#80",
-    "Domain": {
-      "domain": "node-sg-15.protonvpn.net",
-      "ipv4": [
-        "138.199.60.85"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-15.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -345,13 +257,7 @@
   },
   {
     "Name": "SG#81",
-    "Domain": {
-      "domain": "node-sg-15.protonvpn.net",
-      "ipv4": [
-        "138.199.60.85"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-15.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -371,13 +277,7 @@
   },
   {
     "Name": "SG#82",
-    "Domain": {
-      "domain": "node-sg-15.protonvpn.net",
-      "ipv4": [
-        "138.199.60.85"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-15.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -397,13 +297,7 @@
   },
   {
     "Name": "SG#83",
-    "Domain": {
-      "domain": "node-sg-15.protonvpn.net",
-      "ipv4": [
-        "138.199.60.85"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-15.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -423,13 +317,7 @@
   },
   {
     "Name": "SG#84",
-    "Domain": {
-      "domain": "node-sg-15.protonvpn.net",
-      "ipv4": [
-        "138.199.60.85"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-15.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -449,13 +337,7 @@
   },
   {
     "Name": "SG#85",
-    "Domain": {
-      "domain": "node-sg-15.protonvpn.net",
-      "ipv4": [
-        "138.199.60.85"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-15.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -475,13 +357,7 @@
   },
   {
     "Name": "SG#86",
-    "Domain": {
-      "domain": "node-sg-15.protonvpn.net",
-      "ipv4": [
-        "138.199.60.85"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-15.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -501,13 +377,7 @@
   },
   {
     "Name": "SG#87",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -527,13 +397,7 @@
   },
   {
     "Name": "SG#88",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -553,13 +417,7 @@
   },
   {
     "Name": "SG#89",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -579,13 +437,7 @@
   },
   {
     "Name": "SG#90",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -605,13 +457,7 @@
   },
   {
     "Name": "SG#91",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -631,13 +477,7 @@
   },
   {
     "Name": "SG#92",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -657,13 +497,7 @@
   },
   {
     "Name": "SG#93",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -683,13 +517,7 @@
   },
   {
     "Name": "SG#94",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -709,13 +537,7 @@
   },
   {
     "Name": "SG#95",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -735,13 +557,7 @@
   },
   {
     "Name": "SG#96",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -761,13 +577,7 @@
   },
   {
     "Name": "SG#97",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -787,13 +597,7 @@
   },
   {
     "Name": "SG#98",
-    "Domain": {
-      "domain": "node-sg-16.protonvpn.net",
-      "ipv4": [
-        "146.70.29.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-16.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -813,13 +617,7 @@
   },
   {
     "Name": "SG#1",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -839,13 +637,7 @@
   },
   {
     "Name": "SG#10",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -865,13 +657,7 @@
   },
   {
     "Name": "SG#11",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -891,13 +677,7 @@
   },
   {
     "Name": "SG#12",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -917,13 +697,7 @@
   },
   {
     "Name": "SG#2",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -943,13 +717,7 @@
   },
   {
     "Name": "SG#3",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -969,13 +737,7 @@
   },
   {
     "Name": "SG#4",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -995,13 +757,7 @@
   },
   {
     "Name": "SG#5",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1021,13 +777,7 @@
   },
   {
     "Name": "SG#6",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1047,13 +797,7 @@
   },
   {
     "Name": "SG#7",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1073,13 +817,7 @@
   },
   {
     "Name": "SG#8",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1099,13 +837,7 @@
   },
   {
     "Name": "SG#9",
-    "Domain": {
-      "domain": "node-sg-28.protonvpn.net",
-      "ipv4": [
-        "103.216.223.50"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-28.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1125,13 +857,7 @@
   },
   {
     "Name": "SG#13",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1151,13 +877,7 @@
   },
   {
     "Name": "SG#14",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1177,13 +897,7 @@
   },
   {
     "Name": "SG#15",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1203,13 +917,7 @@
   },
   {
     "Name": "SG#16",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1229,13 +937,7 @@
   },
   {
     "Name": "SG#17",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1255,13 +957,7 @@
   },
   {
     "Name": "SG#18",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1281,13 +977,7 @@
   },
   {
     "Name": "SG#19",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1307,13 +997,7 @@
   },
   {
     "Name": "SG#20",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1333,13 +1017,7 @@
   },
   {
     "Name": "SG#21",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1359,13 +1037,7 @@
   },
   {
     "Name": "SG#22",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1385,13 +1057,7 @@
   },
   {
     "Name": "SG#23",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [
@@ -1411,15 +1077,7 @@
   },
   {
     "Name": "SG#100",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1441,15 +1099,7 @@
   },
   {
     "Name": "SG#101",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1471,15 +1121,7 @@
   },
   {
     "Name": "SG#102",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1501,15 +1143,7 @@
   },
   {
     "Name": "SG#103",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1531,15 +1165,7 @@
   },
   {
     "Name": "SG#104",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1561,15 +1187,7 @@
   },
   {
     "Name": "SG#105",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1591,15 +1209,7 @@
   },
   {
     "Name": "SG#106",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1621,15 +1231,7 @@
   },
   {
     "Name": "SG#107",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1651,15 +1253,7 @@
   },
   {
     "Name": "SG#108",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1681,15 +1275,7 @@
   },
   {
     "Name": "SG#109",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1711,15 +1297,7 @@
   },
   {
     "Name": "SG#110",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1741,15 +1319,7 @@
   },
   {
     "Name": "SG#111",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1771,15 +1341,7 @@
   },
   {
     "Name": "SG#112",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1801,15 +1363,7 @@
   },
   {
     "Name": "SG#113",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1831,15 +1385,7 @@
   },
   {
     "Name": "SG#114",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1861,15 +1407,7 @@
   },
   {
     "Name": "SG#115",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1891,15 +1429,7 @@
   },
   {
     "Name": "SG#116",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1921,15 +1451,7 @@
   },
   {
     "Name": "SG#117",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1951,15 +1473,7 @@
   },
   {
     "Name": "SG#118",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -1981,15 +1495,7 @@
   },
   {
     "Name": "SG#119",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2011,15 +1517,7 @@
   },
   {
     "Name": "SG#120",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2041,15 +1539,7 @@
   },
   {
     "Name": "SG#121",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2071,15 +1561,7 @@
   },
   {
     "Name": "SG#122",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2101,15 +1583,7 @@
   },
   {
     "Name": "SG#123",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2131,15 +1605,7 @@
   },
   {
     "Name": "SG#124",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2161,15 +1627,7 @@
   },
   {
     "Name": "SG#125",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2191,15 +1649,7 @@
   },
   {
     "Name": "SG#126",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2221,15 +1671,7 @@
   },
   {
     "Name": "SG#127",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2251,15 +1693,7 @@
   },
   {
     "Name": "SG#128",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2281,15 +1715,7 @@
   },
   {
     "Name": "SG#129",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2311,15 +1737,7 @@
   },
   {
     "Name": "SG#130",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2341,15 +1759,7 @@
   },
   {
     "Name": "SG#131",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2371,15 +1781,7 @@
   },
   {
     "Name": "SG#132",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2401,15 +1803,7 @@
   },
   {
     "Name": "SG#133",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2431,15 +1825,7 @@
   },
   {
     "Name": "SG#134",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2461,15 +1847,7 @@
   },
   {
     "Name": "SG#135",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2491,15 +1869,7 @@
   },
   {
     "Name": "SG#136",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2521,15 +1891,7 @@
   },
   {
     "Name": "SG#137",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2551,15 +1913,7 @@
   },
   {
     "Name": "SG#138",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2581,15 +1935,7 @@
   },
   {
     "Name": "SG#139",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2611,15 +1957,7 @@
   },
   {
     "Name": "SG#140",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2641,15 +1979,7 @@
   },
   {
     "Name": "SG#141",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2671,15 +2001,7 @@
   },
   {
     "Name": "SG#142",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2701,15 +2023,7 @@
   },
   {
     "Name": "SG#143",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2731,15 +2045,7 @@
   },
   {
     "Name": "SG#144",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2761,15 +2067,7 @@
   },
   {
     "Name": "SG#145",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2791,15 +2089,7 @@
   },
   {
     "Name": "SG#146",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2821,15 +2111,7 @@
   },
   {
     "Name": "SG#147",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2851,15 +2133,7 @@
   },
   {
     "Name": "SG#148",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2881,15 +2155,7 @@
   },
   {
     "Name": "SG#149",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2911,15 +2177,7 @@
   },
   {
     "Name": "SG#150",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2941,15 +2199,7 @@
   },
   {
     "Name": "SG#151",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -2971,15 +2221,7 @@
   },
   {
     "Name": "SG#152",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3001,15 +2243,7 @@
   },
   {
     "Name": "SG#153",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3031,15 +2265,7 @@
   },
   {
     "Name": "SG#154",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3061,15 +2287,7 @@
   },
   {
     "Name": "SG#155",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3091,15 +2309,7 @@
   },
   {
     "Name": "SG#156",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3121,15 +2331,7 @@
   },
   {
     "Name": "SG#157",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3151,15 +2353,7 @@
   },
   {
     "Name": "SG#158",
-    "Domain": {
-      "domain": "node-sg-31.protonvpn.net",
-      "ipv4": [
-        "149.50.211.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6222::10"
-      ]
-    },
+    "Domain": "node-sg-31.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3181,15 +2375,7 @@
   },
   {
     "Name": "SG#159",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3211,15 +2397,7 @@
   },
   {
     "Name": "SG#160",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3241,15 +2419,7 @@
   },
   {
     "Name": "SG#161",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3271,15 +2441,7 @@
   },
   {
     "Name": "SG#162",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3301,15 +2463,7 @@
   },
   {
     "Name": "SG#163",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3331,15 +2485,7 @@
   },
   {
     "Name": "SG#164",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3361,15 +2507,7 @@
   },
   {
     "Name": "SG#165",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3391,15 +2529,7 @@
   },
   {
     "Name": "SG#166",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3421,15 +2551,7 @@
   },
   {
     "Name": "SG#167",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3451,15 +2573,7 @@
   },
   {
     "Name": "SG#168",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3481,15 +2595,7 @@
   },
   {
     "Name": "SG#169",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3511,15 +2617,7 @@
   },
   {
     "Name": "SG#170",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3541,15 +2639,7 @@
   },
   {
     "Name": "SG#171",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3571,15 +2661,7 @@
   },
   {
     "Name": "SG#172",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3601,15 +2683,7 @@
   },
   {
     "Name": "SG#173",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3631,15 +2705,7 @@
   },
   {
     "Name": "SG#174",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3661,15 +2727,7 @@
   },
   {
     "Name": "SG#175",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3691,15 +2749,7 @@
   },
   {
     "Name": "SG#176",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3721,15 +2771,7 @@
   },
   {
     "Name": "SG#177",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3751,15 +2793,7 @@
   },
   {
     "Name": "SG#178",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3781,15 +2815,7 @@
   },
   {
     "Name": "SG#179",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3811,15 +2837,7 @@
   },
   {
     "Name": "SG#180",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3841,15 +2859,7 @@
   },
   {
     "Name": "SG#181",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3871,15 +2881,7 @@
   },
   {
     "Name": "SG#182",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3901,15 +2903,7 @@
   },
   {
     "Name": "SG#183",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3931,15 +2925,7 @@
   },
   {
     "Name": "SG#184",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3961,15 +2947,7 @@
   },
   {
     "Name": "SG#185",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -3991,15 +2969,7 @@
   },
   {
     "Name": "SG#186",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4021,15 +2991,7 @@
   },
   {
     "Name": "SG#187",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4051,15 +3013,7 @@
   },
   {
     "Name": "SG#188",
-    "Domain": {
-      "domain": "node-sg-32.protonvpn.net",
-      "ipv4": [
-        "149.50.211.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6223::10"
-      ]
-    },
+    "Domain": "node-sg-32.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4081,15 +3035,7 @@
   },
   {
     "Name": "SG#189",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4111,15 +3057,7 @@
   },
   {
     "Name": "SG#190",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4141,15 +3079,7 @@
   },
   {
     "Name": "SG#191",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4171,15 +3101,7 @@
   },
   {
     "Name": "SG#192",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4201,15 +3123,7 @@
   },
   {
     "Name": "SG#193",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4231,15 +3145,7 @@
   },
   {
     "Name": "SG#194",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4261,15 +3167,7 @@
   },
   {
     "Name": "SG#195",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4291,15 +3189,7 @@
   },
   {
     "Name": "SG#196",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4321,15 +3211,7 @@
   },
   {
     "Name": "SG#197",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4351,15 +3233,7 @@
   },
   {
     "Name": "SG#198",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4381,15 +3255,7 @@
   },
   {
     "Name": "SG#199",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4411,15 +3277,7 @@
   },
   {
     "Name": "SG#200",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4441,15 +3299,7 @@
   },
   {
     "Name": "SG#201",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4471,15 +3321,7 @@
   },
   {
     "Name": "SG#202",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4501,15 +3343,7 @@
   },
   {
     "Name": "SG#203",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4531,15 +3365,7 @@
   },
   {
     "Name": "SG#204",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4561,15 +3387,7 @@
   },
   {
     "Name": "SG#205",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4591,15 +3409,7 @@
   },
   {
     "Name": "SG#206",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4621,15 +3431,7 @@
   },
   {
     "Name": "SG#207",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4651,15 +3453,7 @@
   },
   {
     "Name": "SG#208",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4681,15 +3475,7 @@
   },
   {
     "Name": "SG#209",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4711,15 +3497,7 @@
   },
   {
     "Name": "SG#210",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4741,15 +3519,7 @@
   },
   {
     "Name": "SG#211",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4771,15 +3541,7 @@
   },
   {
     "Name": "SG#212",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4801,15 +3563,7 @@
   },
   {
     "Name": "SG#213",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4831,15 +3585,7 @@
   },
   {
     "Name": "SG#214",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4861,15 +3607,7 @@
   },
   {
     "Name": "SG#215",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4891,15 +3629,7 @@
   },
   {
     "Name": "SG#216",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4921,15 +3651,7 @@
   },
   {
     "Name": "SG#217",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4951,15 +3673,7 @@
   },
   {
     "Name": "SG#218",
-    "Domain": {
-      "domain": "node-sg-33.protonvpn.net",
-      "ipv4": [
-        "149.50.211.166"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6224::10"
-      ]
-    },
+    "Domain": "node-sg-33.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -4981,15 +3695,7 @@
   },
   {
     "Name": "SG#219",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5011,15 +3717,7 @@
   },
   {
     "Name": "SG#220",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5041,15 +3739,7 @@
   },
   {
     "Name": "SG#221",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5071,15 +3761,7 @@
   },
   {
     "Name": "SG#222",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5101,15 +3783,7 @@
   },
   {
     "Name": "SG#223",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5131,15 +3805,7 @@
   },
   {
     "Name": "SG#224",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5161,15 +3827,7 @@
   },
   {
     "Name": "SG#225",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5191,15 +3849,7 @@
   },
   {
     "Name": "SG#226",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5221,15 +3871,7 @@
   },
   {
     "Name": "SG#227",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5251,15 +3893,7 @@
   },
   {
     "Name": "SG#228",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5281,15 +3915,7 @@
   },
   {
     "Name": "SG#229",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5311,15 +3937,7 @@
   },
   {
     "Name": "SG#230",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5341,15 +3959,7 @@
   },
   {
     "Name": "SG#231",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5371,15 +3981,7 @@
   },
   {
     "Name": "SG#232",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5401,15 +4003,7 @@
   },
   {
     "Name": "SG#233",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5431,15 +4025,7 @@
   },
   {
     "Name": "SG#234",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5461,15 +4047,7 @@
   },
   {
     "Name": "SG#235",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5491,15 +4069,7 @@
   },
   {
     "Name": "SG#236",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5521,15 +4091,7 @@
   },
   {
     "Name": "SG#237",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5551,15 +4113,7 @@
   },
   {
     "Name": "SG#238",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5581,15 +4135,7 @@
   },
   {
     "Name": "SG#239",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5611,15 +4157,7 @@
   },
   {
     "Name": "SG#240",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5641,15 +4179,7 @@
   },
   {
     "Name": "SG#241",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5671,15 +4201,7 @@
   },
   {
     "Name": "SG#242",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5701,15 +4223,7 @@
   },
   {
     "Name": "SG#243",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5731,15 +4245,7 @@
   },
   {
     "Name": "SG#244",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5761,15 +4267,7 @@
   },
   {
     "Name": "SG#245",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5791,15 +4289,7 @@
   },
   {
     "Name": "SG#246",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5821,15 +4311,7 @@
   },
   {
     "Name": "SG#247",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5851,15 +4333,7 @@
   },
   {
     "Name": "SG#248",
-    "Domain": {
-      "domain": "node-sg-34.protonvpn.net",
-      "ipv4": [
-        "149.50.211.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6225::10"
-      ]
-    },
+    "Domain": "node-sg-34.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5881,15 +4355,7 @@
   },
   {
     "Name": "SG#249",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5911,15 +4377,7 @@
   },
   {
     "Name": "SG#250",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5941,15 +4399,7 @@
   },
   {
     "Name": "SG#251",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -5971,15 +4421,7 @@
   },
   {
     "Name": "SG#252",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6001,15 +4443,7 @@
   },
   {
     "Name": "SG#253",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6031,15 +4465,7 @@
   },
   {
     "Name": "SG#254",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6061,15 +4487,7 @@
   },
   {
     "Name": "SG#255",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6091,15 +4509,7 @@
   },
   {
     "Name": "SG#256",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6121,15 +4531,7 @@
   },
   {
     "Name": "SG#257",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6151,15 +4553,7 @@
   },
   {
     "Name": "SG#258",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6181,15 +4575,7 @@
   },
   {
     "Name": "SG#259",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6211,15 +4597,7 @@
   },
   {
     "Name": "SG#260",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6241,15 +4619,7 @@
   },
   {
     "Name": "SG#261",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6271,15 +4641,7 @@
   },
   {
     "Name": "SG#262",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6301,15 +4663,7 @@
   },
   {
     "Name": "SG#263",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6331,15 +4685,7 @@
   },
   {
     "Name": "SG#264",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6361,15 +4707,7 @@
   },
   {
     "Name": "SG#265",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6391,15 +4729,7 @@
   },
   {
     "Name": "SG#266",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6421,15 +4751,7 @@
   },
   {
     "Name": "SG#267",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6451,15 +4773,7 @@
   },
   {
     "Name": "SG#268",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6481,15 +4795,7 @@
   },
   {
     "Name": "SG#269",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6511,15 +4817,7 @@
   },
   {
     "Name": "SG#270",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6541,15 +4839,7 @@
   },
   {
     "Name": "SG#271",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6571,15 +4861,7 @@
   },
   {
     "Name": "SG#272",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6601,15 +4883,7 @@
   },
   {
     "Name": "SG#273",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6631,15 +4905,7 @@
   },
   {
     "Name": "SG#274",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6661,15 +4927,7 @@
   },
   {
     "Name": "SG#275",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6691,15 +4949,7 @@
   },
   {
     "Name": "SG#276",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6721,15 +4971,7 @@
   },
   {
     "Name": "SG#277",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6751,15 +4993,7 @@
   },
   {
     "Name": "SG#278",
-    "Domain": {
-      "domain": "node-sg-35.protonvpn.net",
-      "ipv4": [
-        "149.50.211.168"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6226::10"
-      ]
-    },
+    "Domain": "node-sg-35.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6781,15 +5015,7 @@
   },
   {
     "Name": "SG#99",
-    "Domain": {
-      "domain": "node-sg-30.protonvpn.net",
-      "ipv4": [
-        "149.50.211.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d101:6221::10"
-      ]
-    },
+    "Domain": "node-sg-30.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": true,
     "Servers": [
@@ -6811,13 +5037,7 @@
   },
   {
     "Name": "SG#24",
-    "Domain": {
-      "domain": "node-sg-29.protonvpn.net",
-      "ipv4": [
-        "103.216.223.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-sg-29.protonvpn.net",
     "City": "Singapore",
     "ipv6Enabled": false,
     "Servers": [

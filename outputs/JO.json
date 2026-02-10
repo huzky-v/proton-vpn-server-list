@@ -1,13 +1,7 @@
 [
   {
     "Name": "JO#1",
-    "Domain": {
-      "domain": "jo-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-02.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "JO#2",
-    "Domain": {
-      "domain": "jo-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-02.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "JO#3",
-    "Domain": {
-      "domain": "jo-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-02.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "JO#4",
-    "Domain": {
-      "domain": "jo-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-02.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "JO#5",
-    "Domain": {
-      "domain": "jo-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-02.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "JO#6",
-    "Domain": {
-      "domain": "jo-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-02.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "JO#7",
-    "Domain": {
-      "domain": "jo-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-02.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "JO#8",
-    "Domain": {
-      "domain": "jo-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-02.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,13 +161,7 @@
   },
   {
     "Name": "JO#10",
-    "Domain": {
-      "domain": "jo-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-03.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [
@@ -235,13 +181,7 @@
   },
   {
     "Name": "JO#11",
-    "Domain": {
-      "domain": "jo-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-03.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [
@@ -261,13 +201,7 @@
   },
   {
     "Name": "JO#12",
-    "Domain": {
-      "domain": "jo-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-03.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [
@@ -287,13 +221,7 @@
   },
   {
     "Name": "JO#9",
-    "Domain": {
-      "domain": "jo-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "jo-03.protonvpn.net",
     "City": "Amman",
     "ipv6Enabled": false,
     "Servers": [

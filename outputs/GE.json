@@ -1,15 +1,7 @@
 [
   {
     "Name": "GE#30",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "GE#31",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "GE#32",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "GE#33",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "GE#34",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "GE#35",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "GE#36",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "GE#37",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "GE#38",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,15 +199,7 @@
   },
   {
     "Name": "GE#39",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -301,15 +221,7 @@
   },
   {
     "Name": "GE#40",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -331,15 +243,7 @@
   },
   {
     "Name": "GE#41",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -361,15 +265,7 @@
   },
   {
     "Name": "GE#42",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -391,15 +287,7 @@
   },
   {
     "Name": "GE#43",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -421,15 +309,7 @@
   },
   {
     "Name": "GE#44",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -451,15 +331,7 @@
   },
   {
     "Name": "GE#45",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -481,15 +353,7 @@
   },
   {
     "Name": "GE#46",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -511,15 +375,7 @@
   },
   {
     "Name": "GE#47",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -541,15 +397,7 @@
   },
   {
     "Name": "GE#48",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -571,15 +419,7 @@
   },
   {
     "Name": "GE#49",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -601,15 +441,7 @@
   },
   {
     "Name": "GE#50",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -631,15 +463,7 @@
   },
   {
     "Name": "GE#51",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -661,15 +485,7 @@
   },
   {
     "Name": "GE#52",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -691,15 +507,7 @@
   },
   {
     "Name": "GE#53",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -721,15 +529,7 @@
   },
   {
     "Name": "GE#54",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -751,15 +551,7 @@
   },
   {
     "Name": "GE#55",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -781,15 +573,7 @@
   },
   {
     "Name": "GE#56",
-    "Domain": {
-      "domain": "node-ge-03.protonvpn.net",
-      "ipv4": [
-        "138.199.53.236"
-      ],
-      "ipv6": [
-        "2a10:9007:0:1::10"
-      ]
-    },
+    "Domain": "node-ge-03.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -811,15 +595,7 @@
   },
   {
     "Name": "GE#1",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -841,15 +617,7 @@
   },
   {
     "Name": "GE#10",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -871,15 +639,7 @@
   },
   {
     "Name": "GE#11",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -901,15 +661,7 @@
   },
   {
     "Name": "GE#12",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -931,15 +683,7 @@
   },
   {
     "Name": "GE#13",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -961,15 +705,7 @@
   },
   {
     "Name": "GE#14",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -991,15 +727,7 @@
   },
   {
     "Name": "GE#15",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1021,15 +749,7 @@
   },
   {
     "Name": "GE#16",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1051,15 +771,7 @@
   },
   {
     "Name": "GE#17",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1081,15 +793,7 @@
   },
   {
     "Name": "GE#18",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1111,15 +815,7 @@
   },
   {
     "Name": "GE#19",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1141,15 +837,7 @@
   },
   {
     "Name": "GE#2",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1171,15 +859,7 @@
   },
   {
     "Name": "GE#20",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1201,15 +881,7 @@
   },
   {
     "Name": "GE#21",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1231,15 +903,7 @@
   },
   {
     "Name": "GE#22",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1261,15 +925,7 @@
   },
   {
     "Name": "GE#23",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1291,15 +947,7 @@
   },
   {
     "Name": "GE#3",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1321,15 +969,7 @@
   },
   {
     "Name": "GE#4",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1351,15 +991,7 @@
   },
   {
     "Name": "GE#5",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1381,15 +1013,7 @@
   },
   {
     "Name": "GE#6",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1411,15 +1035,7 @@
   },
   {
     "Name": "GE#7",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1441,15 +1057,7 @@
   },
   {
     "Name": "GE#8",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [
@@ -1471,15 +1079,7 @@
   },
   {
     "Name": "GE#9",
-    "Domain": {
-      "domain": "node-ge-04.protonvpn.net",
-      "ipv4": [
-        "89.249.72.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:185:1::10"
-      ]
-    },
+    "Domain": "node-ge-04.protonvpn.net",
     "City": "Tbilisi",
     "ipv6Enabled": true,
     "Servers": [

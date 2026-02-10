@@ -1,15 +1,7 @@
 [
   {
     "Name": "AE#9",
-    "Domain": {
-      "domain": "node-ae-02.protonvpn.net",
-      "ipv4": [
-        "217.138.193.98"
-      ],
-      "ipv6": [
-        "2001:ac8:81:14::10"
-      ]
-    },
+    "Domain": "node-ae-02.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "AE#10",
-    "Domain": {
-      "domain": "node-ae-02.protonvpn.net",
-      "ipv4": [
-        "217.138.193.98"
-      ],
-      "ipv6": [
-        "2001:ac8:81:14::10"
-      ]
-    },
+    "Domain": "node-ae-02.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "AE#11",
-    "Domain": {
-      "domain": "node-ae-02.protonvpn.net",
-      "ipv4": [
-        "217.138.193.98"
-      ],
-      "ipv6": [
-        "2001:ac8:81:14::10"
-      ]
-    },
+    "Domain": "node-ae-02.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "AE#12",
-    "Domain": {
-      "domain": "node-ae-02.protonvpn.net",
-      "ipv4": [
-        "217.138.193.98"
-      ],
-      "ipv6": [
-        "2001:ac8:81:14::10"
-      ]
-    },
+    "Domain": "node-ae-02.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "AE#13",
-    "Domain": {
-      "domain": "node-ae-02.protonvpn.net",
-      "ipv4": [
-        "217.138.193.98"
-      ],
-      "ipv6": [
-        "2001:ac8:81:14::10"
-      ]
-    },
+    "Domain": "node-ae-02.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "AE#14",
-    "Domain": {
-      "domain": "node-ae-02.protonvpn.net",
-      "ipv4": [
-        "217.138.193.98"
-      ],
-      "ipv6": [
-        "2001:ac8:81:14::10"
-      ]
-    },
+    "Domain": "node-ae-02.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "AE#15",
-    "Domain": {
-      "domain": "node-ae-02.protonvpn.net",
-      "ipv4": [
-        "217.138.193.98"
-      ],
-      "ipv6": [
-        "2001:ac8:81:14::10"
-      ]
-    },
+    "Domain": "node-ae-02.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "AE#16",
-    "Domain": {
-      "domain": "node-ae-02.protonvpn.net",
-      "ipv4": [
-        "217.138.193.98"
-      ],
-      "ipv6": [
-        "2001:ac8:81:14::10"
-      ]
-    },
+    "Domain": "node-ae-02.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "AE#21",
-    "Domain": {
-      "domain": "node-ae-04.protonvpn.net",
-      "ipv4": [
-        "178.249.212.162"
-      ],
-      "ipv6": [
-        "2a02:6ea0:dc0e:2704::10"
-      ]
-    },
+    "Domain": "node-ae-04.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,15 +199,7 @@
   },
   {
     "Name": "AE#22",
-    "Domain": {
-      "domain": "node-ae-04.protonvpn.net",
-      "ipv4": [
-        "178.249.212.162"
-      ],
-      "ipv6": [
-        "2a02:6ea0:dc0e:2704::10"
-      ]
-    },
+    "Domain": "node-ae-04.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -301,15 +221,7 @@
   },
   {
     "Name": "AE#23",
-    "Domain": {
-      "domain": "node-ae-04.protonvpn.net",
-      "ipv4": [
-        "178.249.212.162"
-      ],
-      "ipv6": [
-        "2a02:6ea0:dc0e:2704::10"
-      ]
-    },
+    "Domain": "node-ae-04.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -331,15 +243,7 @@
   },
   {
     "Name": "AE#24",
-    "Domain": {
-      "domain": "node-ae-04.protonvpn.net",
-      "ipv4": [
-        "178.249.212.162"
-      ],
-      "ipv6": [
-        "2a02:6ea0:dc0e:2704::10"
-      ]
-    },
+    "Domain": "node-ae-04.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -361,15 +265,7 @@
   },
   {
     "Name": "AE#25",
-    "Domain": {
-      "domain": "node-ae-04.protonvpn.net",
-      "ipv4": [
-        "178.249.212.162"
-      ],
-      "ipv6": [
-        "2a02:6ea0:dc0e:2704::10"
-      ]
-    },
+    "Domain": "node-ae-04.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -391,15 +287,7 @@
   },
   {
     "Name": "AE#26",
-    "Domain": {
-      "domain": "node-ae-04.protonvpn.net",
-      "ipv4": [
-        "178.249.212.162"
-      ],
-      "ipv6": [
-        "2a02:6ea0:dc0e:2704::10"
-      ]
-    },
+    "Domain": "node-ae-04.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -421,15 +309,7 @@
   },
   {
     "Name": "AE#27",
-    "Domain": {
-      "domain": "node-ae-04.protonvpn.net",
-      "ipv4": [
-        "178.249.212.162"
-      ],
-      "ipv6": [
-        "2a02:6ea0:dc0e:2704::10"
-      ]
-    },
+    "Domain": "node-ae-04.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [
@@ -451,15 +331,7 @@
   },
   {
     "Name": "AE#28",
-    "Domain": {
-      "domain": "node-ae-04.protonvpn.net",
-      "ipv4": [
-        "178.249.212.162"
-      ],
-      "ipv6": [
-        "2a02:6ea0:dc0e:2704::10"
-      ]
-    },
+    "Domain": "node-ae-04.protonvpn.net",
     "City": "Dubai",
     "ipv6Enabled": true,
     "Servers": [

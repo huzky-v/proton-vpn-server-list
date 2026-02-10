@@ -1,13 +1,7 @@
 [
   {
     "Name": "TW#13",
-    "Domain": {
-      "domain": "node-tw-03.protonvpn.net",
-      "ipv4": [
-        "2.58.241.66"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-tw-03.protonvpn.net",
     "City": "Taichung",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "TW#14",
-    "Domain": {
-      "domain": "node-tw-03.protonvpn.net",
-      "ipv4": [
-        "2.58.241.66"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-tw-03.protonvpn.net",
     "City": "Taichung",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "TW#15",
-    "Domain": {
-      "domain": "node-tw-03.protonvpn.net",
-      "ipv4": [
-        "2.58.241.66"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-tw-03.protonvpn.net",
     "City": "Taichung",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "TW#16",
-    "Domain": {
-      "domain": "node-tw-03.protonvpn.net",
-      "ipv4": [
-        "2.58.241.66"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-tw-03.protonvpn.net",
     "City": "Taichung",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "TW#17",
-    "Domain": {
-      "domain": "node-tw-03.protonvpn.net",
-      "ipv4": [
-        "2.58.241.66"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-tw-03.protonvpn.net",
     "City": "Taichung",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "TW#18",
-    "Domain": {
-      "domain": "node-tw-03.protonvpn.net",
-      "ipv4": [
-        "2.58.241.66"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-tw-03.protonvpn.net",
     "City": "Taichung",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "TW#19",
-    "Domain": {
-      "domain": "node-tw-03.protonvpn.net",
-      "ipv4": [
-        "2.58.241.66"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-tw-03.protonvpn.net",
     "City": "Taichung",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "TW#20",
-    "Domain": {
-      "domain": "node-tw-03.protonvpn.net",
-      "ipv4": [
-        "2.58.241.66"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-tw-03.protonvpn.net",
     "City": "Taichung",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,15 +161,7 @@
   },
   {
     "Name": "TW#21",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [
@@ -239,15 +183,7 @@
   },
   {
     "Name": "TW#22",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [
@@ -269,15 +205,7 @@
   },
   {
     "Name": "TW#23",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [
@@ -299,15 +227,7 @@
   },
   {
     "Name": "TW#24",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [
@@ -329,15 +249,7 @@
   },
   {
     "Name": "TW#25",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [
@@ -359,15 +271,7 @@
   },
   {
     "Name": "TW#26",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [
@@ -389,15 +293,7 @@
   },
   {
     "Name": "TW#27",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [
@@ -419,15 +315,7 @@
   },
   {
     "Name": "TW#28",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [
@@ -449,15 +337,7 @@
   },
   {
     "Name": "TW#29",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [
@@ -479,15 +359,7 @@
   },
   {
     "Name": "TW#30",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [
@@ -509,15 +381,7 @@
   },
   {
     "Name": "TW#31",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [
@@ -539,15 +403,7 @@
   },
   {
     "Name": "TW#32",
-    "Domain": {
-      "domain": "node-tw-04.protonvpn.net",
-      "ipv4": [
-        "188.214.106.178"
-      ],
-      "ipv6": [
-        "2001:ac8:97:3::10"
-      ]
-    },
+    "Domain": "node-tw-04.protonvpn.net",
     "City": "Taipei",
     "ipv6Enabled": true,
     "Servers": [

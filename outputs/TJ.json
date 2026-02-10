@@ -1,13 +1,7 @@
 [
   {
     "Name": "TJ#1",
-    "Domain": {
-      "domain": "tj-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.184"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tj-02.protonvpn.net",
     "City": "Dushanbe",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "TJ#2",
-    "Domain": {
-      "domain": "tj-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.184"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tj-02.protonvpn.net",
     "City": "Dushanbe",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "TJ#3",
-    "Domain": {
-      "domain": "tj-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.184"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tj-02.protonvpn.net",
     "City": "Dushanbe",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "TJ#4",
-    "Domain": {
-      "domain": "tj-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.184"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tj-02.protonvpn.net",
     "City": "Dushanbe",
     "ipv6Enabled": false,
     "Servers": [

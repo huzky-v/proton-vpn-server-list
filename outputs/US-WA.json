@@ -1,15 +1,7 @@
 [
   {
     "Name": "US-WA#100",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "US-WA#101",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "US-WA#102",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "US-WA#103",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "US-WA#104",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "US-WA#105",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "US-WA#106",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "US-WA#107",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "US-WA#108",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,15 +199,7 @@
   },
   {
     "Name": "US-WA#57",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -301,15 +221,7 @@
   },
   {
     "Name": "US-WA#58",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -331,15 +243,7 @@
   },
   {
     "Name": "US-WA#59",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -361,15 +265,7 @@
   },
   {
     "Name": "US-WA#60",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -391,15 +287,7 @@
   },
   {
     "Name": "US-WA#61",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -421,15 +309,7 @@
   },
   {
     "Name": "US-WA#62",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -451,15 +331,7 @@
   },
   {
     "Name": "US-WA#63",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -481,15 +353,7 @@
   },
   {
     "Name": "US-WA#64",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -511,15 +375,7 @@
   },
   {
     "Name": "US-WA#65",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -541,15 +397,7 @@
   },
   {
     "Name": "US-WA#66",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -571,15 +419,7 @@
   },
   {
     "Name": "US-WA#67",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -601,15 +441,7 @@
   },
   {
     "Name": "US-WA#68",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -631,15 +463,7 @@
   },
   {
     "Name": "US-WA#69",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -661,15 +485,7 @@
   },
   {
     "Name": "US-WA#70",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -691,15 +507,7 @@
   },
   {
     "Name": "US-WA#71",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -721,15 +529,7 @@
   },
   {
     "Name": "US-WA#72",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -751,15 +551,7 @@
   },
   {
     "Name": "US-WA#73",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -781,15 +573,7 @@
   },
   {
     "Name": "US-WA#74",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -811,15 +595,7 @@
   },
   {
     "Name": "US-WA#75",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -841,15 +617,7 @@
   },
   {
     "Name": "US-WA#76",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -871,15 +639,7 @@
   },
   {
     "Name": "US-WA#77",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -901,15 +661,7 @@
   },
   {
     "Name": "US-WA#78",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -931,15 +683,7 @@
   },
   {
     "Name": "US-WA#79",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -961,15 +705,7 @@
   },
   {
     "Name": "US-WA#80",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -991,15 +727,7 @@
   },
   {
     "Name": "US-WA#81",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1021,15 +749,7 @@
   },
   {
     "Name": "US-WA#82",
-    "Domain": {
-      "domain": "node-us-245.protonvpn.net",
-      "ipv4": [
-        "149.102.254.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3581::10"
-      ]
-    },
+    "Domain": "node-us-245.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1051,15 +771,7 @@
   },
   {
     "Name": "US-WA#83",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1081,15 +793,7 @@
   },
   {
     "Name": "US-WA#84",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1111,15 +815,7 @@
   },
   {
     "Name": "US-WA#85",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1141,15 +837,7 @@
   },
   {
     "Name": "US-WA#86",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1171,15 +859,7 @@
   },
   {
     "Name": "US-WA#87",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1201,15 +881,7 @@
   },
   {
     "Name": "US-WA#88",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1231,15 +903,7 @@
   },
   {
     "Name": "US-WA#89",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1261,15 +925,7 @@
   },
   {
     "Name": "US-WA#90",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1291,15 +947,7 @@
   },
   {
     "Name": "US-WA#91",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1321,15 +969,7 @@
   },
   {
     "Name": "US-WA#92",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1351,15 +991,7 @@
   },
   {
     "Name": "US-WA#93",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1381,15 +1013,7 @@
   },
   {
     "Name": "US-WA#94",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1411,15 +1035,7 @@
   },
   {
     "Name": "US-WA#95",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1441,15 +1057,7 @@
   },
   {
     "Name": "US-WA#96",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1471,15 +1079,7 @@
   },
   {
     "Name": "US-WA#97",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1501,15 +1101,7 @@
   },
   {
     "Name": "US-WA#98",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1531,15 +1123,7 @@
   },
   {
     "Name": "US-WA#99",
-    "Domain": {
-      "domain": "node-us-246.protonvpn.net",
-      "ipv4": [
-        "149.102.254.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:3580::10"
-      ]
-    },
+    "Domain": "node-us-246.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1561,15 +1145,7 @@
   },
   {
     "Name": "US-WA#109",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1591,15 +1167,7 @@
   },
   {
     "Name": "US-WA#110",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1621,15 +1189,7 @@
   },
   {
     "Name": "US-WA#111",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1651,15 +1211,7 @@
   },
   {
     "Name": "US-WA#112",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1681,15 +1233,7 @@
   },
   {
     "Name": "US-WA#113",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1711,15 +1255,7 @@
   },
   {
     "Name": "US-WA#114",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1741,15 +1277,7 @@
   },
   {
     "Name": "US-WA#115",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1771,15 +1299,7 @@
   },
   {
     "Name": "US-WA#116",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1801,15 +1321,7 @@
   },
   {
     "Name": "US-WA#117",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1831,15 +1343,7 @@
   },
   {
     "Name": "US-WA#118",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1861,15 +1365,7 @@
   },
   {
     "Name": "US-WA#119",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1891,15 +1387,7 @@
   },
   {
     "Name": "US-WA#120",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1921,15 +1409,7 @@
   },
   {
     "Name": "US-WA#121",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1951,15 +1431,7 @@
   },
   {
     "Name": "US-WA#122",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -1981,15 +1453,7 @@
   },
   {
     "Name": "US-WA#123",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2011,15 +1475,7 @@
   },
   {
     "Name": "US-WA#124",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2041,15 +1497,7 @@
   },
   {
     "Name": "US-WA#125",
-    "Domain": {
-      "domain": "node-us-123.protonvpn.net",
-      "ipv4": [
-        "156.146.51.78"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2110::10"
-      ]
-    },
+    "Domain": "node-us-123.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2071,15 +1519,7 @@
   },
   {
     "Name": "US-WA#126",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2101,15 +1541,7 @@
   },
   {
     "Name": "US-WA#127",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2131,15 +1563,7 @@
   },
   {
     "Name": "US-WA#128",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2161,15 +1585,7 @@
   },
   {
     "Name": "US-WA#129",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2191,15 +1607,7 @@
   },
   {
     "Name": "US-WA#130",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2221,15 +1629,7 @@
   },
   {
     "Name": "US-WA#131",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2251,15 +1651,7 @@
   },
   {
     "Name": "US-WA#132",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2281,15 +1673,7 @@
   },
   {
     "Name": "US-WA#133",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2311,15 +1695,7 @@
   },
   {
     "Name": "US-WA#134",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2341,15 +1717,7 @@
   },
   {
     "Name": "US-WA#135",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2371,15 +1739,7 @@
   },
   {
     "Name": "US-WA#136",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2401,15 +1761,7 @@
   },
   {
     "Name": "US-WA#137",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2431,15 +1783,7 @@
   },
   {
     "Name": "US-WA#138",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2461,15 +1805,7 @@
   },
   {
     "Name": "US-WA#139",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2491,15 +1827,7 @@
   },
   {
     "Name": "US-WA#140",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2521,15 +1849,7 @@
   },
   {
     "Name": "US-WA#141",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2551,15 +1871,7 @@
   },
   {
     "Name": "US-WA#142",
-    "Domain": {
-      "domain": "node-us-124.protonvpn.net",
-      "ipv4": [
-        "156.146.51.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2111::10"
-      ]
-    },
+    "Domain": "node-us-124.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2581,15 +1893,7 @@
   },
   {
     "Name": "US-WA#143",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2611,15 +1915,7 @@
   },
   {
     "Name": "US-WA#144",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2641,15 +1937,7 @@
   },
   {
     "Name": "US-WA#145",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2671,15 +1959,7 @@
   },
   {
     "Name": "US-WA#146",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2701,15 +1981,7 @@
   },
   {
     "Name": "US-WA#147",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2731,15 +2003,7 @@
   },
   {
     "Name": "US-WA#148",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2761,15 +2025,7 @@
   },
   {
     "Name": "US-WA#149",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2791,15 +2047,7 @@
   },
   {
     "Name": "US-WA#150",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2821,15 +2069,7 @@
   },
   {
     "Name": "US-WA#151",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2851,15 +2091,7 @@
   },
   {
     "Name": "US-WA#152",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2881,15 +2113,7 @@
   },
   {
     "Name": "US-WA#153",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2911,15 +2135,7 @@
   },
   {
     "Name": "US-WA#154",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2941,15 +2157,7 @@
   },
   {
     "Name": "US-WA#155",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -2971,15 +2179,7 @@
   },
   {
     "Name": "US-WA#156",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3001,15 +2201,7 @@
   },
   {
     "Name": "US-WA#157",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3031,15 +2223,7 @@
   },
   {
     "Name": "US-WA#158",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3061,15 +2245,7 @@
   },
   {
     "Name": "US-WA#159",
-    "Domain": {
-      "domain": "node-us-223.protonvpn.net",
-      "ipv4": [
-        "149.102.254.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:2752::10"
-      ]
-    },
+    "Domain": "node-us-223.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3091,15 +2267,7 @@
   },
   {
     "Name": "US-WA#160",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3121,15 +2289,7 @@
   },
   {
     "Name": "US-WA#161",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3151,15 +2311,7 @@
   },
   {
     "Name": "US-WA#162",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3181,15 +2333,7 @@
   },
   {
     "Name": "US-WA#163",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3211,15 +2355,7 @@
   },
   {
     "Name": "US-WA#164",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3241,15 +2377,7 @@
   },
   {
     "Name": "US-WA#165",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3271,15 +2399,7 @@
   },
   {
     "Name": "US-WA#166",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3301,15 +2421,7 @@
   },
   {
     "Name": "US-WA#167",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3331,15 +2443,7 @@
   },
   {
     "Name": "US-WA#168",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3361,15 +2465,7 @@
   },
   {
     "Name": "US-WA#169",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3391,15 +2487,7 @@
   },
   {
     "Name": "US-WA#170",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3421,15 +2509,7 @@
   },
   {
     "Name": "US-WA#171",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3451,15 +2531,7 @@
   },
   {
     "Name": "US-WA#172",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3481,15 +2553,7 @@
   },
   {
     "Name": "US-WA#173",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3511,15 +2575,7 @@
   },
   {
     "Name": "US-WA#174",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3541,15 +2597,7 @@
   },
   {
     "Name": "US-WA#175",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3571,15 +2619,7 @@
   },
   {
     "Name": "US-WA#176",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3601,15 +2641,7 @@
   },
   {
     "Name": "US-WA#177",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3631,15 +2663,7 @@
   },
   {
     "Name": "US-WA#178",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3661,15 +2685,7 @@
   },
   {
     "Name": "US-WA#179",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3691,15 +2707,7 @@
   },
   {
     "Name": "US-WA#180",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3721,15 +2729,7 @@
   },
   {
     "Name": "US-WA#181",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3751,15 +2751,7 @@
   },
   {
     "Name": "US-WA#182",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3781,15 +2773,7 @@
   },
   {
     "Name": "US-WA#183",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3811,15 +2795,7 @@
   },
   {
     "Name": "US-WA#184",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3841,15 +2817,7 @@
   },
   {
     "Name": "US-WA#185",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3871,15 +2839,7 @@
   },
   {
     "Name": "US-WA#186",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3901,15 +2861,7 @@
   },
   {
     "Name": "US-WA#187",
-    "Domain": {
-      "domain": "node-us-355.protonvpn.net",
-      "ipv4": [
-        "149.40.62.62"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5501::10"
-      ]
-    },
+    "Domain": "node-us-355.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3931,15 +2883,7 @@
   },
   {
     "Name": "US-WA#188",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3961,15 +2905,7 @@
   },
   {
     "Name": "US-WA#189",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -3991,15 +2927,7 @@
   },
   {
     "Name": "US-WA#190",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4021,15 +2949,7 @@
   },
   {
     "Name": "US-WA#191",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4051,15 +2971,7 @@
   },
   {
     "Name": "US-WA#192",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4081,15 +2993,7 @@
   },
   {
     "Name": "US-WA#193",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4111,15 +3015,7 @@
   },
   {
     "Name": "US-WA#194",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4141,15 +3037,7 @@
   },
   {
     "Name": "US-WA#195",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4171,15 +3059,7 @@
   },
   {
     "Name": "US-WA#196",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4201,15 +3081,7 @@
   },
   {
     "Name": "US-WA#197",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4231,15 +3103,7 @@
   },
   {
     "Name": "US-WA#198",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4261,15 +3125,7 @@
   },
   {
     "Name": "US-WA#199",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4291,15 +3147,7 @@
   },
   {
     "Name": "US-WA#200",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4321,15 +3169,7 @@
   },
   {
     "Name": "US-WA#201",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4351,15 +3191,7 @@
   },
   {
     "Name": "US-WA#202",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4381,15 +3213,7 @@
   },
   {
     "Name": "US-WA#203",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4411,15 +3235,7 @@
   },
   {
     "Name": "US-WA#204",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4441,15 +3257,7 @@
   },
   {
     "Name": "US-WA#205",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4471,15 +3279,7 @@
   },
   {
     "Name": "US-WA#206",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4501,15 +3301,7 @@
   },
   {
     "Name": "US-WA#207",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4531,15 +3323,7 @@
   },
   {
     "Name": "US-WA#208",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4561,15 +3345,7 @@
   },
   {
     "Name": "US-WA#209",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4591,15 +3367,7 @@
   },
   {
     "Name": "US-WA#210",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4621,15 +3389,7 @@
   },
   {
     "Name": "US-WA#211",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4651,15 +3411,7 @@
   },
   {
     "Name": "US-WA#212",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4681,15 +3433,7 @@
   },
   {
     "Name": "US-WA#213",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4711,15 +3455,7 @@
   },
   {
     "Name": "US-WA#214",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4741,15 +3477,7 @@
   },
   {
     "Name": "US-WA#215",
-    "Domain": {
-      "domain": "node-us-356.protonvpn.net",
-      "ipv4": [
-        "149.40.62.91"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5502::10"
-      ]
-    },
+    "Domain": "node-us-356.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4771,15 +3499,7 @@
   },
   {
     "Name": "US-WA#216",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4801,15 +3521,7 @@
   },
   {
     "Name": "US-WA#217",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4831,15 +3543,7 @@
   },
   {
     "Name": "US-WA#218",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4861,15 +3565,7 @@
   },
   {
     "Name": "US-WA#219",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4891,15 +3587,7 @@
   },
   {
     "Name": "US-WA#220",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4921,15 +3609,7 @@
   },
   {
     "Name": "US-WA#221",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4951,15 +3631,7 @@
   },
   {
     "Name": "US-WA#222",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -4981,15 +3653,7 @@
   },
   {
     "Name": "US-WA#223",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5011,15 +3675,7 @@
   },
   {
     "Name": "US-WA#224",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5041,15 +3697,7 @@
   },
   {
     "Name": "US-WA#225",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5071,15 +3719,7 @@
   },
   {
     "Name": "US-WA#226",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5101,15 +3741,7 @@
   },
   {
     "Name": "US-WA#227",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5131,15 +3763,7 @@
   },
   {
     "Name": "US-WA#228",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5161,15 +3785,7 @@
   },
   {
     "Name": "US-WA#229",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5191,15 +3807,7 @@
   },
   {
     "Name": "US-WA#230",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5221,15 +3829,7 @@
   },
   {
     "Name": "US-WA#231",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5251,15 +3851,7 @@
   },
   {
     "Name": "US-WA#232",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5281,15 +3873,7 @@
   },
   {
     "Name": "US-WA#233",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5311,15 +3895,7 @@
   },
   {
     "Name": "US-WA#234",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5341,15 +3917,7 @@
   },
   {
     "Name": "US-WA#235",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5371,15 +3939,7 @@
   },
   {
     "Name": "US-WA#236",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5401,15 +3961,7 @@
   },
   {
     "Name": "US-WA#237",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5431,15 +3983,7 @@
   },
   {
     "Name": "US-WA#238",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5461,15 +4005,7 @@
   },
   {
     "Name": "US-WA#239",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5491,15 +4027,7 @@
   },
   {
     "Name": "US-WA#240",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5521,15 +4049,7 @@
   },
   {
     "Name": "US-WA#241",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5551,15 +4071,7 @@
   },
   {
     "Name": "US-WA#242",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5581,15 +4093,7 @@
   },
   {
     "Name": "US-WA#243",
-    "Domain": {
-      "domain": "node-us-368.protonvpn.net",
-      "ipv4": [
-        "149.22.88.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:5515::10"
-      ]
-    },
+    "Domain": "node-us-368.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5611,15 +4115,7 @@
   },
   {
     "Name": "US-WA#244",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5641,15 +4137,7 @@
   },
   {
     "Name": "US-WA#245",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5671,15 +4159,7 @@
   },
   {
     "Name": "US-WA#246",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5701,15 +4181,7 @@
   },
   {
     "Name": "US-WA#247",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5731,15 +4203,7 @@
   },
   {
     "Name": "US-WA#248",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5761,15 +4225,7 @@
   },
   {
     "Name": "US-WA#249",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5791,15 +4247,7 @@
   },
   {
     "Name": "US-WA#250",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5821,15 +4269,7 @@
   },
   {
     "Name": "US-WA#251",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5851,15 +4291,7 @@
   },
   {
     "Name": "US-WA#252",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5881,15 +4313,7 @@
   },
   {
     "Name": "US-WA#253",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5911,15 +4335,7 @@
   },
   {
     "Name": "US-WA#254",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5941,15 +4357,7 @@
   },
   {
     "Name": "US-WA#255",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -5971,15 +4379,7 @@
   },
   {
     "Name": "US-WA#256",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6001,15 +4401,7 @@
   },
   {
     "Name": "US-WA#257",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6031,15 +4423,7 @@
   },
   {
     "Name": "US-WA#258",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6061,15 +4445,7 @@
   },
   {
     "Name": "US-WA#259",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6091,15 +4467,7 @@
   },
   {
     "Name": "US-WA#260",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6121,15 +4489,7 @@
   },
   {
     "Name": "US-WA#261",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6151,15 +4511,7 @@
   },
   {
     "Name": "US-WA#262",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6181,15 +4533,7 @@
   },
   {
     "Name": "US-WA#263",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6211,15 +4555,7 @@
   },
   {
     "Name": "US-WA#264",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6241,15 +4577,7 @@
   },
   {
     "Name": "US-WA#265",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6271,15 +4599,7 @@
   },
   {
     "Name": "US-WA#266",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6301,15 +4621,7 @@
   },
   {
     "Name": "US-WA#267",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6331,15 +4643,7 @@
   },
   {
     "Name": "US-WA#268",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6361,15 +4665,7 @@
   },
   {
     "Name": "US-WA#269",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6391,15 +4687,7 @@
   },
   {
     "Name": "US-WA#270",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6421,15 +4709,7 @@
   },
   {
     "Name": "US-WA#271",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6451,15 +4731,7 @@
   },
   {
     "Name": "US-WA#272",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6481,15 +4753,7 @@
   },
   {
     "Name": "US-WA#273",
-    "Domain": {
-      "domain": "node-us-422.protonvpn.net",
-      "ipv4": [
-        "149.40.51.227"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6228::10"
-      ]
-    },
+    "Domain": "node-us-422.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6511,15 +4775,7 @@
   },
   {
     "Name": "US-WA#274",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6541,15 +4797,7 @@
   },
   {
     "Name": "US-WA#275",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6571,15 +4819,7 @@
   },
   {
     "Name": "US-WA#276",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6601,15 +4841,7 @@
   },
   {
     "Name": "US-WA#277",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6631,15 +4863,7 @@
   },
   {
     "Name": "US-WA#278",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6661,15 +4885,7 @@
   },
   {
     "Name": "US-WA#279",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6691,15 +4907,7 @@
   },
   {
     "Name": "US-WA#280",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6721,15 +4929,7 @@
   },
   {
     "Name": "US-WA#281",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6751,15 +4951,7 @@
   },
   {
     "Name": "US-WA#282",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6781,15 +4973,7 @@
   },
   {
     "Name": "US-WA#283",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6811,15 +4995,7 @@
   },
   {
     "Name": "US-WA#284",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6841,15 +5017,7 @@
   },
   {
     "Name": "US-WA#285",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6871,15 +5039,7 @@
   },
   {
     "Name": "US-WA#286",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6901,15 +5061,7 @@
   },
   {
     "Name": "US-WA#287",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6931,15 +5083,7 @@
   },
   {
     "Name": "US-WA#288",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6961,15 +5105,7 @@
   },
   {
     "Name": "US-WA#289",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -6991,15 +5127,7 @@
   },
   {
     "Name": "US-WA#290",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7021,15 +5149,7 @@
   },
   {
     "Name": "US-WA#291",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7051,15 +5171,7 @@
   },
   {
     "Name": "US-WA#292",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7081,15 +5193,7 @@
   },
   {
     "Name": "US-WA#293",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7111,15 +5215,7 @@
   },
   {
     "Name": "US-WA#294",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7141,15 +5237,7 @@
   },
   {
     "Name": "US-WA#295",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7171,15 +5259,7 @@
   },
   {
     "Name": "US-WA#296",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7201,15 +5281,7 @@
   },
   {
     "Name": "US-WA#297",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7231,15 +5303,7 @@
   },
   {
     "Name": "US-WA#298",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7261,15 +5325,7 @@
   },
   {
     "Name": "US-WA#299",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7291,15 +5347,7 @@
   },
   {
     "Name": "US-WA#300",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7321,15 +5369,7 @@
   },
   {
     "Name": "US-WA#301",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7351,15 +5391,7 @@
   },
   {
     "Name": "US-WA#302",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7381,15 +5413,7 @@
   },
   {
     "Name": "US-WA#303",
-    "Domain": {
-      "domain": "node-us-423.protonvpn.net",
-      "ipv4": [
-        "149.40.51.229"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6229::10"
-      ]
-    },
+    "Domain": "node-us-423.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7411,15 +5435,7 @@
   },
   {
     "Name": "US-WA#304",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7441,15 +5457,7 @@
   },
   {
     "Name": "US-WA#305",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7471,15 +5479,7 @@
   },
   {
     "Name": "US-WA#306",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7501,15 +5501,7 @@
   },
   {
     "Name": "US-WA#307",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7531,15 +5523,7 @@
   },
   {
     "Name": "US-WA#308",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7561,15 +5545,7 @@
   },
   {
     "Name": "US-WA#309",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7591,15 +5567,7 @@
   },
   {
     "Name": "US-WA#310",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7621,15 +5589,7 @@
   },
   {
     "Name": "US-WA#311",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7651,15 +5611,7 @@
   },
   {
     "Name": "US-WA#312",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7681,15 +5633,7 @@
   },
   {
     "Name": "US-WA#313",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7711,15 +5655,7 @@
   },
   {
     "Name": "US-WA#314",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7741,15 +5677,7 @@
   },
   {
     "Name": "US-WA#315",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7771,15 +5699,7 @@
   },
   {
     "Name": "US-WA#316",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7801,15 +5721,7 @@
   },
   {
     "Name": "US-WA#317",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7831,15 +5743,7 @@
   },
   {
     "Name": "US-WA#318",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7861,15 +5765,7 @@
   },
   {
     "Name": "US-WA#319",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7891,15 +5787,7 @@
   },
   {
     "Name": "US-WA#320",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7921,15 +5809,7 @@
   },
   {
     "Name": "US-WA#321",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7951,15 +5831,7 @@
   },
   {
     "Name": "US-WA#322",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -7981,15 +5853,7 @@
   },
   {
     "Name": "US-WA#323",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8011,15 +5875,7 @@
   },
   {
     "Name": "US-WA#324",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8041,15 +5897,7 @@
   },
   {
     "Name": "US-WA#325",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8071,15 +5919,7 @@
   },
   {
     "Name": "US-WA#326",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8101,15 +5941,7 @@
   },
   {
     "Name": "US-WA#327",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8131,15 +5963,7 @@
   },
   {
     "Name": "US-WA#328",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8161,15 +5985,7 @@
   },
   {
     "Name": "US-WA#329",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8191,15 +6007,7 @@
   },
   {
     "Name": "US-WA#330",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8221,15 +6029,7 @@
   },
   {
     "Name": "US-WA#331",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8251,15 +6051,7 @@
   },
   {
     "Name": "US-WA#332",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8281,15 +6073,7 @@
   },
   {
     "Name": "US-WA#333",
-    "Domain": {
-      "domain": "node-us-424.protonvpn.net",
-      "ipv4": [
-        "149.40.51.226"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6230::10"
-      ]
-    },
+    "Domain": "node-us-424.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8311,15 +6095,7 @@
   },
   {
     "Name": "US-WA#334",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8341,15 +6117,7 @@
   },
   {
     "Name": "US-WA#335",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8371,15 +6139,7 @@
   },
   {
     "Name": "US-WA#336",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8401,15 +6161,7 @@
   },
   {
     "Name": "US-WA#337",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8431,15 +6183,7 @@
   },
   {
     "Name": "US-WA#338",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8461,15 +6205,7 @@
   },
   {
     "Name": "US-WA#339",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8491,15 +6227,7 @@
   },
   {
     "Name": "US-WA#340",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8521,15 +6249,7 @@
   },
   {
     "Name": "US-WA#341",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8551,15 +6271,7 @@
   },
   {
     "Name": "US-WA#342",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8581,15 +6293,7 @@
   },
   {
     "Name": "US-WA#343",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8611,15 +6315,7 @@
   },
   {
     "Name": "US-WA#344",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8641,15 +6337,7 @@
   },
   {
     "Name": "US-WA#345",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8671,15 +6359,7 @@
   },
   {
     "Name": "US-WA#346",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8701,15 +6381,7 @@
   },
   {
     "Name": "US-WA#347",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8731,15 +6403,7 @@
   },
   {
     "Name": "US-WA#348",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8761,15 +6425,7 @@
   },
   {
     "Name": "US-WA#349",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8791,15 +6447,7 @@
   },
   {
     "Name": "US-WA#350",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8821,15 +6469,7 @@
   },
   {
     "Name": "US-WA#351",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8851,15 +6491,7 @@
   },
   {
     "Name": "US-WA#352",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8881,15 +6513,7 @@
   },
   {
     "Name": "US-WA#353",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8911,15 +6535,7 @@
   },
   {
     "Name": "US-WA#354",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8941,15 +6557,7 @@
   },
   {
     "Name": "US-WA#355",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -8971,15 +6579,7 @@
   },
   {
     "Name": "US-WA#356",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9001,15 +6601,7 @@
   },
   {
     "Name": "US-WA#357",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9031,15 +6623,7 @@
   },
   {
     "Name": "US-WA#358",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9061,15 +6645,7 @@
   },
   {
     "Name": "US-WA#359",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9091,15 +6667,7 @@
   },
   {
     "Name": "US-WA#360",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9121,15 +6689,7 @@
   },
   {
     "Name": "US-WA#361",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9151,15 +6711,7 @@
   },
   {
     "Name": "US-WA#362",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9181,15 +6733,7 @@
   },
   {
     "Name": "US-WA#363",
-    "Domain": {
-      "domain": "node-us-425.protonvpn.net",
-      "ipv4": [
-        "149.40.51.232"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6231::10"
-      ]
-    },
+    "Domain": "node-us-425.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9211,15 +6755,7 @@
   },
   {
     "Name": "US-WA#364",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9241,15 +6777,7 @@
   },
   {
     "Name": "US-WA#365",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9271,15 +6799,7 @@
   },
   {
     "Name": "US-WA#366",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9301,15 +6821,7 @@
   },
   {
     "Name": "US-WA#367",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9331,15 +6843,7 @@
   },
   {
     "Name": "US-WA#368",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9361,15 +6865,7 @@
   },
   {
     "Name": "US-WA#369",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9391,15 +6887,7 @@
   },
   {
     "Name": "US-WA#370",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9421,15 +6909,7 @@
   },
   {
     "Name": "US-WA#371",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9451,15 +6931,7 @@
   },
   {
     "Name": "US-WA#372",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9481,15 +6953,7 @@
   },
   {
     "Name": "US-WA#373",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9511,15 +6975,7 @@
   },
   {
     "Name": "US-WA#374",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9541,15 +6997,7 @@
   },
   {
     "Name": "US-WA#375",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9571,15 +7019,7 @@
   },
   {
     "Name": "US-WA#376",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9601,15 +7041,7 @@
   },
   {
     "Name": "US-WA#377",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9631,15 +7063,7 @@
   },
   {
     "Name": "US-WA#378",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9661,15 +7085,7 @@
   },
   {
     "Name": "US-WA#379",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9691,15 +7107,7 @@
   },
   {
     "Name": "US-WA#380",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9721,15 +7129,7 @@
   },
   {
     "Name": "US-WA#381",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9751,15 +7151,7 @@
   },
   {
     "Name": "US-WA#382",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9781,15 +7173,7 @@
   },
   {
     "Name": "US-WA#383",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9811,15 +7195,7 @@
   },
   {
     "Name": "US-WA#384",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9841,15 +7217,7 @@
   },
   {
     "Name": "US-WA#385",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9871,15 +7239,7 @@
   },
   {
     "Name": "US-WA#386",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9901,15 +7261,7 @@
   },
   {
     "Name": "US-WA#387",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9931,15 +7283,7 @@
   },
   {
     "Name": "US-WA#388",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9961,15 +7305,7 @@
   },
   {
     "Name": "US-WA#389",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -9991,15 +7327,7 @@
   },
   {
     "Name": "US-WA#390",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10021,15 +7349,7 @@
   },
   {
     "Name": "US-WA#391",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10051,15 +7371,7 @@
   },
   {
     "Name": "US-WA#392",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10081,15 +7393,7 @@
   },
   {
     "Name": "US-WA#393",
-    "Domain": {
-      "domain": "node-us-426.protonvpn.net",
-      "ipv4": [
-        "149.40.51.228"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6232::10"
-      ]
-    },
+    "Domain": "node-us-426.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10111,15 +7415,7 @@
   },
   {
     "Name": "US-WA#394",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10141,15 +7437,7 @@
   },
   {
     "Name": "US-WA#395",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10171,15 +7459,7 @@
   },
   {
     "Name": "US-WA#396",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10201,15 +7481,7 @@
   },
   {
     "Name": "US-WA#397",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10231,15 +7503,7 @@
   },
   {
     "Name": "US-WA#398",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10261,15 +7525,7 @@
   },
   {
     "Name": "US-WA#399",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10291,15 +7547,7 @@
   },
   {
     "Name": "US-WA#400",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10321,15 +7569,7 @@
   },
   {
     "Name": "US-WA#401",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10351,15 +7591,7 @@
   },
   {
     "Name": "US-WA#402",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10381,15 +7613,7 @@
   },
   {
     "Name": "US-WA#403",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10411,15 +7635,7 @@
   },
   {
     "Name": "US-WA#404",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10441,15 +7657,7 @@
   },
   {
     "Name": "US-WA#405",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10471,15 +7679,7 @@
   },
   {
     "Name": "US-WA#406",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10501,15 +7701,7 @@
   },
   {
     "Name": "US-WA#407",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10531,15 +7723,7 @@
   },
   {
     "Name": "US-WA#408",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10561,15 +7745,7 @@
   },
   {
     "Name": "US-WA#409",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10591,15 +7767,7 @@
   },
   {
     "Name": "US-WA#410",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10621,15 +7789,7 @@
   },
   {
     "Name": "US-WA#411",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10651,15 +7811,7 @@
   },
   {
     "Name": "US-WA#412",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10681,15 +7833,7 @@
   },
   {
     "Name": "US-WA#413",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10711,15 +7855,7 @@
   },
   {
     "Name": "US-WA#414",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10741,15 +7877,7 @@
   },
   {
     "Name": "US-WA#415",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10771,15 +7899,7 @@
   },
   {
     "Name": "US-WA#416",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10801,15 +7921,7 @@
   },
   {
     "Name": "US-WA#417",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10831,15 +7943,7 @@
   },
   {
     "Name": "US-WA#418",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10861,15 +7965,7 @@
   },
   {
     "Name": "US-WA#419",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10891,15 +7987,7 @@
   },
   {
     "Name": "US-WA#420",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10921,15 +8009,7 @@
   },
   {
     "Name": "US-WA#421",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10951,15 +8031,7 @@
   },
   {
     "Name": "US-WA#422",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -10981,15 +8053,7 @@
   },
   {
     "Name": "US-WA#423",
-    "Domain": {
-      "domain": "node-us-427.protonvpn.net",
-      "ipv4": [
-        "149.40.51.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6233::10"
-      ]
-    },
+    "Domain": "node-us-427.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11011,15 +8075,7 @@
   },
   {
     "Name": "US-WA#424",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11041,15 +8097,7 @@
   },
   {
     "Name": "US-WA#425",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11071,15 +8119,7 @@
   },
   {
     "Name": "US-WA#426",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11101,15 +8141,7 @@
   },
   {
     "Name": "US-WA#427",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11131,15 +8163,7 @@
   },
   {
     "Name": "US-WA#428",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11161,15 +8185,7 @@
   },
   {
     "Name": "US-WA#429",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11191,15 +8207,7 @@
   },
   {
     "Name": "US-WA#430",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11221,15 +8229,7 @@
   },
   {
     "Name": "US-WA#431",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11251,15 +8251,7 @@
   },
   {
     "Name": "US-WA#432",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11281,15 +8273,7 @@
   },
   {
     "Name": "US-WA#433",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11311,15 +8295,7 @@
   },
   {
     "Name": "US-WA#434",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11341,15 +8317,7 @@
   },
   {
     "Name": "US-WA#435",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11371,15 +8339,7 @@
   },
   {
     "Name": "US-WA#436",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11401,15 +8361,7 @@
   },
   {
     "Name": "US-WA#437",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11431,15 +8383,7 @@
   },
   {
     "Name": "US-WA#438",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11461,15 +8405,7 @@
   },
   {
     "Name": "US-WA#439",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11491,15 +8427,7 @@
   },
   {
     "Name": "US-WA#440",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11521,15 +8449,7 @@
   },
   {
     "Name": "US-WA#441",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11551,15 +8471,7 @@
   },
   {
     "Name": "US-WA#442",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11581,15 +8493,7 @@
   },
   {
     "Name": "US-WA#443",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11611,15 +8515,7 @@
   },
   {
     "Name": "US-WA#444",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11641,15 +8537,7 @@
   },
   {
     "Name": "US-WA#445",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11671,15 +8559,7 @@
   },
   {
     "Name": "US-WA#446",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11701,15 +8581,7 @@
   },
   {
     "Name": "US-WA#447",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11731,15 +8603,7 @@
   },
   {
     "Name": "US-WA#448",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11761,15 +8625,7 @@
   },
   {
     "Name": "US-WA#449",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11791,15 +8647,7 @@
   },
   {
     "Name": "US-WA#450",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11821,15 +8669,7 @@
   },
   {
     "Name": "US-WA#451",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11851,15 +8691,7 @@
   },
   {
     "Name": "US-WA#452",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [
@@ -11881,15 +8713,7 @@
   },
   {
     "Name": "US-WA#453",
-    "Domain": {
-      "domain": "node-us-428.protonvpn.net",
-      "ipv4": [
-        "149.40.51.233"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d802:6234::10"
-      ]
-    },
+    "Domain": "node-us-428.protonvpn.net",
     "City": "Seattle",
     "ipv6Enabled": true,
     "Servers": [

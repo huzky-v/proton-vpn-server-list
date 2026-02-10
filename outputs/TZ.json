@@ -1,13 +1,7 @@
 [
   {
     "Name": "TZ#1",
-    "Domain": {
-      "domain": "tz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.196"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tz-02.protonvpn.net",
     "City": "Dodoma",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "TZ#2",
-    "Domain": {
-      "domain": "tz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.196"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tz-02.protonvpn.net",
     "City": "Dodoma",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "TZ#3",
-    "Domain": {
-      "domain": "tz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.196"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tz-02.protonvpn.net",
     "City": "Dodoma",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "TZ#4",
-    "Domain": {
-      "domain": "tz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.196"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tz-02.protonvpn.net",
     "City": "Dodoma",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "TZ#5",
-    "Domain": {
-      "domain": "tz-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.228"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tz-03.protonvpn.net",
     "City": "Dodoma",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "TZ#6",
-    "Domain": {
-      "domain": "tz-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.228"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tz-03.protonvpn.net",
     "City": "Dodoma",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "TZ#7",
-    "Domain": {
-      "domain": "tz-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.228"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tz-03.protonvpn.net",
     "City": "Dodoma",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "TZ#8",
-    "Domain": {
-      "domain": "tz-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.228"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tz-03.protonvpn.net",
     "City": "Dodoma",
     "ipv6Enabled": false,
     "Servers": [

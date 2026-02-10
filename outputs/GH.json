@@ -1,13 +1,7 @@
 [
   {
     "Name": "GH#1",
-    "Domain": {
-      "domain": "gh-01.protonvpn.net",
-      "ipv4": [
-        "74.118.126.72"
-      ],
-      "ipv6": []
-    },
+    "Domain": "gh-01.protonvpn.net",
     "City": "Accra",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "GH#2",
-    "Domain": {
-      "domain": "gh-01.protonvpn.net",
-      "ipv4": [
-        "74.118.126.72"
-      ],
-      "ipv6": []
-    },
+    "Domain": "gh-01.protonvpn.net",
     "City": "Accra",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "GH#3",
-    "Domain": {
-      "domain": "gh-01.protonvpn.net",
-      "ipv4": [
-        "74.118.126.72"
-      ],
-      "ipv6": []
-    },
+    "Domain": "gh-01.protonvpn.net",
     "City": "Accra",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "GH#4",
-    "Domain": {
-      "domain": "gh-01.protonvpn.net",
-      "ipv4": [
-        "74.118.126.72"
-      ],
-      "ipv6": []
-    },
+    "Domain": "gh-01.protonvpn.net",
     "City": "Accra",
     "ipv6Enabled": false,
     "Servers": [

@@ -1,15 +1,7 @@
 [
   {
     "Name": "KR#13",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "KR#14",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "KR#15",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "KR#16",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "KR#17",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "KR#18",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "KR#19",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "KR#20",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "KR#21",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,15 +199,7 @@
   },
   {
     "Name": "KR#22",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -301,15 +221,7 @@
   },
   {
     "Name": "KR#23",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -331,15 +243,7 @@
   },
   {
     "Name": "KR#24",
-    "Domain": {
-      "domain": "node-kr-03.protonvpn.net",
-      "ipv4": [
-        "79.110.55.2"
-      ],
-      "ipv6": [
-        "2a04:9dc0:20:4::10"
-      ]
-    },
+    "Domain": "node-kr-03.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": true,
     "Servers": [
@@ -361,13 +265,7 @@
   },
   {
     "Name": "KR#25",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -387,13 +285,7 @@
   },
   {
     "Name": "KR#26",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -413,13 +305,7 @@
   },
   {
     "Name": "KR#27",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -439,13 +325,7 @@
   },
   {
     "Name": "KR#28",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -465,13 +345,7 @@
   },
   {
     "Name": "KR#29",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -491,13 +365,7 @@
   },
   {
     "Name": "KR#30",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -517,13 +385,7 @@
   },
   {
     "Name": "KR#31",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -543,13 +405,7 @@
   },
   {
     "Name": "KR#32",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -569,13 +425,7 @@
   },
   {
     "Name": "KR#33",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -595,13 +445,7 @@
   },
   {
     "Name": "KR#34",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -621,13 +465,7 @@
   },
   {
     "Name": "KR#35",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -647,13 +485,7 @@
   },
   {
     "Name": "KR#36",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -673,13 +505,7 @@
   },
   {
     "Name": "KR#37",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -699,13 +525,7 @@
   },
   {
     "Name": "KR#38",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -725,13 +545,7 @@
   },
   {
     "Name": "KR#39",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -751,13 +565,7 @@
   },
   {
     "Name": "KR#40",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -777,13 +585,7 @@
   },
   {
     "Name": "KR#41",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -803,13 +605,7 @@
   },
   {
     "Name": "KR#42",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -829,13 +625,7 @@
   },
   {
     "Name": "KR#43",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -855,13 +645,7 @@
   },
   {
     "Name": "KR#44",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -881,13 +665,7 @@
   },
   {
     "Name": "KR#45",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -907,13 +685,7 @@
   },
   {
     "Name": "KR#46",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -933,13 +705,7 @@
   },
   {
     "Name": "KR#47",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -959,13 +725,7 @@
   },
   {
     "Name": "KR#48",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -985,13 +745,7 @@
   },
   {
     "Name": "KR#49",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -1011,13 +765,7 @@
   },
   {
     "Name": "KR#50",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -1037,13 +785,7 @@
   },
   {
     "Name": "KR#51",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [
@@ -1063,13 +805,7 @@
   },
   {
     "Name": "KR#52",
-    "Domain": {
-      "domain": "node-kr-04.protonvpn.net",
-      "ipv4": [
-        "141.98.213.194"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-kr-04.protonvpn.net",
     "City": "Seoul",
     "ipv6Enabled": false,
     "Servers": [

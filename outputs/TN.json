@@ -1,13 +1,7 @@
 [
   {
     "Name": "TN#1",
-    "Domain": {
-      "domain": "tn-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.192"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tn-02.protonvpn.net",
     "City": "Tunis",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "TN#2",
-    "Domain": {
-      "domain": "tn-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.192"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tn-02.protonvpn.net",
     "City": "Tunis",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "TN#3",
-    "Domain": {
-      "domain": "tn-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.192"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tn-02.protonvpn.net",
     "City": "Tunis",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "TN#4",
-    "Domain": {
-      "domain": "tn-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.192"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tn-02.protonvpn.net",
     "City": "Tunis",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "TN#5",
-    "Domain": {
-      "domain": "tn-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.224"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tn-03.protonvpn.net",
     "City": "Tunis",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "TN#6",
-    "Domain": {
-      "domain": "tn-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.224"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tn-03.protonvpn.net",
     "City": "Tunis",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "TN#7",
-    "Domain": {
-      "domain": "tn-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.224"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tn-03.protonvpn.net",
     "City": "Tunis",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "TN#8",
-    "Domain": {
-      "domain": "tn-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.224"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tn-03.protonvpn.net",
     "City": "Tunis",
     "ipv6Enabled": false,
     "Servers": [

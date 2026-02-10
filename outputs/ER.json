@@ -1,13 +1,7 @@
 [
   {
     "Name": "ER#1",
-    "Domain": {
-      "domain": "er-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.48"
-      ],
-      "ipv6": []
-    },
+    "Domain": "er-02.protonvpn.net",
     "City": "Asmara",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "ER#2",
-    "Domain": {
-      "domain": "er-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.48"
-      ],
-      "ipv6": []
-    },
+    "Domain": "er-02.protonvpn.net",
     "City": "Asmara",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "ER#3",
-    "Domain": {
-      "domain": "er-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.48"
-      ],
-      "ipv6": []
-    },
+    "Domain": "er-02.protonvpn.net",
     "City": "Asmara",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "ER#4",
-    "Domain": {
-      "domain": "er-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.48"
-      ],
-      "ipv6": []
-    },
+    "Domain": "er-02.protonvpn.net",
     "City": "Asmara",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "ER#5",
-    "Domain": {
-      "domain": "er-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "er-03.protonvpn.net",
     "City": "Asmara",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "ER#6",
-    "Domain": {
-      "domain": "er-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "er-03.protonvpn.net",
     "City": "Asmara",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "ER#7",
-    "Domain": {
-      "domain": "er-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "er-03.protonvpn.net",
     "City": "Asmara",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "ER#8",
-    "Domain": {
-      "domain": "er-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.60"
-      ],
-      "ipv6": []
-    },
+    "Domain": "er-03.protonvpn.net",
     "City": "Asmara",
     "ipv6Enabled": false,
     "Servers": [

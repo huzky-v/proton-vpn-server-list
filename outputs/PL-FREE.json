@@ -1,15 +1,7 @@
 [
   {
     "Name": "PL-FREE#13",
-    "Domain": {
-      "domain": "node-pl-12.protonvpn.net",
-      "ipv4": [
-        "149.102.244.112"
-      ],
-      "ipv6": [
-        "2a02:6ea0:ce14:3035::10"
-      ]
-    },
+    "Domain": "node-pl-12.protonvpn.net",
     "City": "Warsaw",
     "ipv6Enabled": true,
     "Servers": [

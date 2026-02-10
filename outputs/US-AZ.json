@@ -1,13 +1,7 @@
 [
   {
     "Name": "US-AZ#105",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "US-AZ#106",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "US-AZ#107",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "US-AZ#108",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "US-AZ#109",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "US-AZ#110",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "US-AZ#111",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "US-AZ#112",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,13 +161,7 @@
   },
   {
     "Name": "US-AZ#113",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -235,13 +181,7 @@
   },
   {
     "Name": "US-AZ#114",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -261,13 +201,7 @@
   },
   {
     "Name": "US-AZ#115",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -287,13 +221,7 @@
   },
   {
     "Name": "US-AZ#116",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -313,13 +241,7 @@
   },
   {
     "Name": "US-AZ#117",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -339,13 +261,7 @@
   },
   {
     "Name": "US-AZ#118",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -365,13 +281,7 @@
   },
   {
     "Name": "US-AZ#119",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -391,13 +301,7 @@
   },
   {
     "Name": "US-AZ#120",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -417,13 +321,7 @@
   },
   {
     "Name": "US-AZ#121",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -443,13 +341,7 @@
   },
   {
     "Name": "US-AZ#122",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -469,13 +361,7 @@
   },
   {
     "Name": "US-AZ#123",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -495,13 +381,7 @@
   },
   {
     "Name": "US-AZ#124",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -521,13 +401,7 @@
   },
   {
     "Name": "US-AZ#125",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -547,13 +421,7 @@
   },
   {
     "Name": "US-AZ#126",
-    "Domain": {
-      "domain": "node-us-260.protonvpn.net",
-      "ipv4": [
-        "72.14.148.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-260.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -573,13 +441,7 @@
   },
   {
     "Name": "US-AZ#127",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -599,13 +461,7 @@
   },
   {
     "Name": "US-AZ#128",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -625,13 +481,7 @@
   },
   {
     "Name": "US-AZ#129",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -651,13 +501,7 @@
   },
   {
     "Name": "US-AZ#130",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -677,13 +521,7 @@
   },
   {
     "Name": "US-AZ#131",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -703,13 +541,7 @@
   },
   {
     "Name": "US-AZ#132",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -729,13 +561,7 @@
   },
   {
     "Name": "US-AZ#133",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -755,13 +581,7 @@
   },
   {
     "Name": "US-AZ#134",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -781,13 +601,7 @@
   },
   {
     "Name": "US-AZ#135",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -807,13 +621,7 @@
   },
   {
     "Name": "US-AZ#136",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -833,13 +641,7 @@
   },
   {
     "Name": "US-AZ#137",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -859,13 +661,7 @@
   },
   {
     "Name": "US-AZ#138",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -885,13 +681,7 @@
   },
   {
     "Name": "US-AZ#139",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -911,13 +701,7 @@
   },
   {
     "Name": "US-AZ#140",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -937,13 +721,7 @@
   },
   {
     "Name": "US-AZ#141",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -963,13 +741,7 @@
   },
   {
     "Name": "US-AZ#142",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -989,13 +761,7 @@
   },
   {
     "Name": "US-AZ#143",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -1015,13 +781,7 @@
   },
   {
     "Name": "US-AZ#144",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -1041,13 +801,7 @@
   },
   {
     "Name": "US-AZ#145",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -1067,13 +821,7 @@
   },
   {
     "Name": "US-AZ#146",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -1093,13 +841,7 @@
   },
   {
     "Name": "US-AZ#147",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -1119,13 +861,7 @@
   },
   {
     "Name": "US-AZ#148",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -1145,13 +881,7 @@
   },
   {
     "Name": "US-AZ#149",
-    "Domain": {
-      "domain": "node-us-261.protonvpn.net",
-      "ipv4": [
-        "72.14.148.25"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-261.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": false,
     "Servers": [
@@ -1171,15 +901,7 @@
   },
   {
     "Name": "US-AZ#100",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1201,15 +923,7 @@
   },
   {
     "Name": "US-AZ#101",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1231,15 +945,7 @@
   },
   {
     "Name": "US-AZ#102",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1261,15 +967,7 @@
   },
   {
     "Name": "US-AZ#103",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1291,15 +989,7 @@
   },
   {
     "Name": "US-AZ#104",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1321,15 +1011,7 @@
   },
   {
     "Name": "US-AZ#81",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1351,15 +1033,7 @@
   },
   {
     "Name": "US-AZ#82",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1381,15 +1055,7 @@
   },
   {
     "Name": "US-AZ#83",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1411,15 +1077,7 @@
   },
   {
     "Name": "US-AZ#84",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1441,15 +1099,7 @@
   },
   {
     "Name": "US-AZ#85",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1471,15 +1121,7 @@
   },
   {
     "Name": "US-AZ#86",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1501,15 +1143,7 @@
   },
   {
     "Name": "US-AZ#87",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1531,15 +1165,7 @@
   },
   {
     "Name": "US-AZ#88",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1561,15 +1187,7 @@
   },
   {
     "Name": "US-AZ#89",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1591,15 +1209,7 @@
   },
   {
     "Name": "US-AZ#90",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1621,15 +1231,7 @@
   },
   {
     "Name": "US-AZ#91",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1651,15 +1253,7 @@
   },
   {
     "Name": "US-AZ#92",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1681,15 +1275,7 @@
   },
   {
     "Name": "US-AZ#93",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1711,15 +1297,7 @@
   },
   {
     "Name": "US-AZ#94",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1741,15 +1319,7 @@
   },
   {
     "Name": "US-AZ#95",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1771,15 +1341,7 @@
   },
   {
     "Name": "US-AZ#96",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1801,15 +1363,7 @@
   },
   {
     "Name": "US-AZ#97",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1831,15 +1385,7 @@
   },
   {
     "Name": "US-AZ#98",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1861,15 +1407,7 @@
   },
   {
     "Name": "US-AZ#99",
-    "Domain": {
-      "domain": "node-us-126.protonvpn.net",
-      "ipv4": [
-        "193.37.254.66"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:19::10"
-      ]
-    },
+    "Domain": "node-us-126.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1891,15 +1429,7 @@
   },
   {
     "Name": "US-AZ#150",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1921,15 +1451,7 @@
   },
   {
     "Name": "US-AZ#151",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1951,15 +1473,7 @@
   },
   {
     "Name": "US-AZ#152",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -1981,15 +1495,7 @@
   },
   {
     "Name": "US-AZ#153",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2011,15 +1517,7 @@
   },
   {
     "Name": "US-AZ#154",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2041,15 +1539,7 @@
   },
   {
     "Name": "US-AZ#155",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2071,15 +1561,7 @@
   },
   {
     "Name": "US-AZ#156",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2101,15 +1583,7 @@
   },
   {
     "Name": "US-AZ#157",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2131,15 +1605,7 @@
   },
   {
     "Name": "US-AZ#158",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2161,15 +1627,7 @@
   },
   {
     "Name": "US-AZ#159",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2191,15 +1649,7 @@
   },
   {
     "Name": "US-AZ#160",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2221,15 +1671,7 @@
   },
   {
     "Name": "US-AZ#161",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2251,15 +1693,7 @@
   },
   {
     "Name": "US-AZ#162",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2281,15 +1715,7 @@
   },
   {
     "Name": "US-AZ#163",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2311,15 +1737,7 @@
   },
   {
     "Name": "US-AZ#164",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2341,15 +1759,7 @@
   },
   {
     "Name": "US-AZ#165",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [
@@ -2371,15 +1781,7 @@
   },
   {
     "Name": "US-AZ#166",
-    "Domain": {
-      "domain": "node-us-208.protonvpn.net",
-      "ipv4": [
-        "193.37.254.178"
-      ],
-      "ipv6": [
-        "2a0d:5600:2:20::10"
-      ]
-    },
+    "Domain": "node-us-208.protonvpn.net",
     "City": "Phoenix",
     "ipv6Enabled": true,
     "Servers": [

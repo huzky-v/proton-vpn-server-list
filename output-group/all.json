@@ -1,5 +1,5 @@
 {
-  "genDate": "2026-01-22T10:48:39.181Z",
+  "genDate": "2026-02-10T07:14:53.679Z",
   "data": [
     {
       "ipv4": "185.76.11.27",
@@ -9948,6 +9948,22 @@
       "X25519PublicKey": "KsZNPiyO6CgRBY80XmwHv1BmpBwCSBYk7/H/tCyx2Hc="
     },
     {
+      "ipv4": "79.135.105.200",
+      "ipv6": null,
+      "domain": "ug-02.protonvpn.net",
+      "servers": [
+        "UG#1",
+        "UG#2",
+        "UG#3",
+        "UG#4"
+      ],
+      "ipv6Enabled": false,
+      "city": "Kampala",
+      "P2P": true,
+      "Streaming": true,
+      "X25519PublicKey": "V0aoynpGONetwHNoeD/bC32MB89nEAKvvGO31HfjgUY="
+    },
+    {
       "ipv4": "74.118.126.236",
       "ipv6": null,
       "domain": "ug-03.protonvpn.net",
@@ -15472,30 +15488,6 @@
       "X25519PublicKey": "jBUzNl6tXznV1msEWAyegBJkAAShDJ7gV6eV6vJ5Jz0="
     },
     {
-      "ipv4": "176.96.226.226",
-      "ipv6": null,
-      "domain": "node-ru-04.protonvpn.net",
-      "servers": [
-        "RU#17",
-        "RU#18",
-        "RU#19",
-        "RU#20",
-        "RU#21",
-        "RU#22",
-        "RU#23",
-        "RU#24",
-        "RU#25",
-        "RU#26",
-        "RU#27",
-        "RU#28"
-      ],
-      "ipv6Enabled": false,
-      "city": "Moscow",
-      "P2P": false,
-      "Streaming": false,
-      "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s="
-    },
-    {
       "ipv4": "176.96.226.242",
       "ipv6": null,
       "domain": "node-ru-05.protonvpn.net",
@@ -18319,7 +18311,7 @@
     },
     {
       "ipv4": "74.63.204.210",
-      "ipv6": "2607:ff68:6:11::10",
+      "ipv6": "2607:ff68:6:d::10",
       "domain": "node-us-226.protonvpn.net",
       "servers": [
         "US-UT#41",
@@ -26042,7 +26034,6 @@
       "ipv6": "2a0d:5600:23:5::10",
       "domain": "node-ch-45.protonvpn.net",
       "servers": [
-        "CH#1123",
         "CH#1124",
         "CH#1125",
         "CH#1126",

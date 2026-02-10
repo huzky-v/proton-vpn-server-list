@@ -1,13 +1,7 @@
 [
   {
     "Name": "CI#1",
-    "Domain": {
-      "domain": "ci-01.protonvpn.net",
-      "ipv4": [
-        "74.118.126.32"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ci-01.protonvpn.net",
     "City": "Yamoussoukro",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "CI#2",
-    "Domain": {
-      "domain": "ci-01.protonvpn.net",
-      "ipv4": [
-        "74.118.126.32"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ci-01.protonvpn.net",
     "City": "Yamoussoukro",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "CI#3",
-    "Domain": {
-      "domain": "ci-01.protonvpn.net",
-      "ipv4": [
-        "74.118.126.32"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ci-01.protonvpn.net",
     "City": "Yamoussoukro",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "CI#4",
-    "Domain": {
-      "domain": "ci-01.protonvpn.net",
-      "ipv4": [
-        "74.118.126.32"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ci-01.protonvpn.net",
     "City": "Yamoussoukro",
     "ipv6Enabled": false,
     "Servers": [

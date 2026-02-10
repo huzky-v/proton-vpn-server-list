@@ -1,13 +1,7 @@
 [
   {
     "Name": "RO-FREE#23",
-    "Domain": {
-      "domain": "node-ro-12.protonvpn.net",
-      "ipv4": [
-        "146.70.246.98"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ro-12.protonvpn.net",
     "City": "Bucharest",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "RO-FREE#24",
-    "Domain": {
-      "domain": "node-ro-13.protonvpn.net",
-      "ipv4": [
-        "146.70.246.114"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ro-13.protonvpn.net",
     "City": "Bucharest",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "RO-FREE#25",
-    "Domain": {
-      "domain": "node-ro-14.protonvpn.net",
-      "ipv4": [
-        "185.45.15.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ro-14.protonvpn.net",
     "City": "Bucharest",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "RO-FREE#26",
-    "Domain": {
-      "domain": "node-ro-15.protonvpn.net",
-      "ipv4": [
-        "185.252.220.146"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ro-15.protonvpn.net",
     "City": "Bucharest",
     "ipv6Enabled": false,
     "Servers": [

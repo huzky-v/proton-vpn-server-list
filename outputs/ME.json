@@ -1,13 +1,7 @@
 [
   {
     "Name": "ME#25",
-    "Domain": {
-      "domain": "me-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.88"
-      ],
-      "ipv6": []
-    },
+    "Domain": "me-02.protonvpn.net",
     "City": "Podgorica",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "ME#26",
-    "Domain": {
-      "domain": "me-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.88"
-      ],
-      "ipv6": []
-    },
+    "Domain": "me-02.protonvpn.net",
     "City": "Podgorica",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "ME#27",
-    "Domain": {
-      "domain": "me-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.88"
-      ],
-      "ipv6": []
-    },
+    "Domain": "me-02.protonvpn.net",
     "City": "Podgorica",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "ME#28",
-    "Domain": {
-      "domain": "me-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.88"
-      ],
-      "ipv6": []
-    },
+    "Domain": "me-02.protonvpn.net",
     "City": "Podgorica",
     "ipv6Enabled": false,
     "Servers": [

@@ -1,13 +1,7 @@
 [
   {
     "Name": "SD#25",
-    "Domain": {
-      "domain": "sd-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.148"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sd-02.protonvpn.net",
     "City": "Khartoum",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "SD#26",
-    "Domain": {
-      "domain": "sd-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.148"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sd-02.protonvpn.net",
     "City": "Khartoum",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "SD#27",
-    "Domain": {
-      "domain": "sd-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.148"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sd-02.protonvpn.net",
     "City": "Khartoum",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "SD#28",
-    "Domain": {
-      "domain": "sd-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.148"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sd-02.protonvpn.net",
     "City": "Khartoum",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "SD#29",
-    "Domain": {
-      "domain": "sd-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.188"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sd-03.protonvpn.net",
     "City": "Khartoum",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "SD#30",
-    "Domain": {
-      "domain": "sd-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.188"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sd-03.protonvpn.net",
     "City": "Khartoum",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "SD#31",
-    "Domain": {
-      "domain": "sd-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.188"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sd-03.protonvpn.net",
     "City": "Khartoum",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "SD#32",
-    "Domain": {
-      "domain": "sd-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.188"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sd-03.protonvpn.net",
     "City": "Khartoum",
     "ipv6Enabled": false,
     "Servers": [

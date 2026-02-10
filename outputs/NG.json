@@ -1,15 +1,7 @@
 [
   {
     "Name": "NG#1",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "NG#2",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "NG#3",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "NG#4",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "NG#5",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "NG#6",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "NG#7",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "NG#8",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "NG#9",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,15 +199,7 @@
   },
   {
     "Name": "NG#10",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -301,15 +221,7 @@
   },
   {
     "Name": "NG#11",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -331,15 +243,7 @@
   },
   {
     "Name": "NG#12",
-    "Domain": {
-      "domain": "node-es-07.protonvpn.net",
-      "ipv4": [
-        "185.76.11.27"
-      ],
-      "ipv6": [
-        "2a10:9007:1:1::10"
-      ]
-    },
+    "Domain": "node-es-07.protonvpn.net",
     "City": "Abuja",
     "ipv6Enabled": true,
     "Servers": [
@@ -361,13 +265,7 @@
   },
   {
     "Name": "NG#13",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -387,13 +285,7 @@
   },
   {
     "Name": "NG#14",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -413,13 +305,7 @@
   },
   {
     "Name": "NG#15",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -439,13 +325,7 @@
   },
   {
     "Name": "NG#16",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -465,13 +345,7 @@
   },
   {
     "Name": "NG#17",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -491,13 +365,7 @@
   },
   {
     "Name": "NG#18",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -517,13 +385,7 @@
   },
   {
     "Name": "NG#19",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -543,13 +405,7 @@
   },
   {
     "Name": "NG#20",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -569,13 +425,7 @@
   },
   {
     "Name": "NG#21",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -595,13 +445,7 @@
   },
   {
     "Name": "NG#22",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -621,13 +465,7 @@
   },
   {
     "Name": "NG#23",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -647,13 +485,7 @@
   },
   {
     "Name": "NG#24",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -673,13 +505,7 @@
   },
   {
     "Name": "NG#25",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -699,13 +525,7 @@
   },
   {
     "Name": "NG#26",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -725,13 +545,7 @@
   },
   {
     "Name": "NG#27",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -751,13 +565,7 @@
   },
   {
     "Name": "NG#28",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -777,13 +585,7 @@
   },
   {
     "Name": "NG#29",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -803,13 +605,7 @@
   },
   {
     "Name": "NG#30",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -829,13 +625,7 @@
   },
   {
     "Name": "NG#31",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -855,13 +645,7 @@
   },
   {
     "Name": "NG#32",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -881,13 +665,7 @@
   },
   {
     "Name": "NG#33",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -907,13 +685,7 @@
   },
   {
     "Name": "NG#34",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -933,13 +705,7 @@
   },
   {
     "Name": "NG#35",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -959,13 +725,7 @@
   },
   {
     "Name": "NG#36",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -985,13 +745,7 @@
   },
   {
     "Name": "NG#37",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -1011,13 +765,7 @@
   },
   {
     "Name": "NG#38",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -1037,13 +785,7 @@
   },
   {
     "Name": "NG#39",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [
@@ -1063,13 +805,7 @@
   },
   {
     "Name": "NG#40",
-    "Domain": {
-      "domain": "node-ng-01.protonvpn.net",
-      "ipv4": [
-        "79.127.149.65"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ng-01.protonvpn.net",
     "City": "Lagos",
     "ipv6Enabled": false,
     "Servers": [

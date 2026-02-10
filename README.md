@@ -1,6 +1,6 @@
 # proton-vpn-server-list
 
-This is a list for quick checking on ipv4 / ipv6 address of the proton vpn servers (As of 2026-01-25), grouped by the location.  
+This is a list for quick checking on ipv4 / ipv6 address of the proton vpn servers (As of 2026-02-10), grouped by the location.  
 You can also have a quick check on [this list](https://list.proton.huzky.dev/) also created by me.  
 This list will not include the multihop config because there is some data inconsistency with the country config.   
 
@@ -8,7 +8,7 @@ This list will not update in regular basis as there is no easy way to automate t
 
 Data include:
 - Server Name
-- Resolved IPv4 address (A)/ IPv6 address (AAAA, if any)
+- IPv4 address (A)/ IPv6 address (AAAA, if any)
 - IPv6 enabled flag
 - City
 - Server Info (Exit Node, Entry node, ED25519 Public key)
@@ -24,5 +24,9 @@ The data source is from the [Undocumented Proton Endpoint](https://account.proto
 UPDATE on 2025-11-08:
 Just found that the web version list is not complete so that this list is not the full list.  
 The trick is to use a different `x-pm-appversion` value to not use the `web-vpn-settings`. 
+
+UPDATE on 2026-02-10:
+The json structure changed for the `domain`. And removed all secure-core config for easier handling.
+Also, the program now does not probe for the domain, as the Proton API can now use `?WithIpV6=1` as param to get the IPv6.
 
 The data script is also included for further customization if you have the api response file.

@@ -1,13 +1,7 @@
 [
   {
     "Name": "KM#25",
-    "Domain": {
-      "domain": "km-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.72"
-      ],
-      "ipv6": []
-    },
+    "Domain": "km-02.protonvpn.net",
     "City": "Moroni",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "KM#26",
-    "Domain": {
-      "domain": "km-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.72"
-      ],
-      "ipv6": []
-    },
+    "Domain": "km-02.protonvpn.net",
     "City": "Moroni",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "KM#27",
-    "Domain": {
-      "domain": "km-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.72"
-      ],
-      "ipv6": []
-    },
+    "Domain": "km-02.protonvpn.net",
     "City": "Moroni",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "KM#28",
-    "Domain": {
-      "domain": "km-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.72"
-      ],
-      "ipv6": []
-    },
+    "Domain": "km-02.protonvpn.net",
     "City": "Moroni",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "KM#29",
-    "Domain": {
-      "domain": "km-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.112"
-      ],
-      "ipv6": []
-    },
+    "Domain": "km-03.protonvpn.net",
     "City": "Moroni",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "KM#30",
-    "Domain": {
-      "domain": "km-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.112"
-      ],
-      "ipv6": []
-    },
+    "Domain": "km-03.protonvpn.net",
     "City": "Moroni",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "KM#31",
-    "Domain": {
-      "domain": "km-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.112"
-      ],
-      "ipv6": []
-    },
+    "Domain": "km-03.protonvpn.net",
     "City": "Moroni",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "KM#32",
-    "Domain": {
-      "domain": "km-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.112"
-      ],
-      "ipv6": []
-    },
+    "Domain": "km-03.protonvpn.net",
     "City": "Moroni",
     "ipv6Enabled": false,
     "Servers": [

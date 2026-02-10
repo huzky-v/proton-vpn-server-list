@@ -1,15 +1,7 @@
 [
   {
     "Name": "JP-FREE#16",
-    "Domain": {
-      "domain": "node-jp-31.protonvpn.net",
-      "ipv4": [
-        "45.87.213.226"
-      ],
-      "ipv6": [
-        "2001:ac8:40:26::10"
-      ]
-    },
+    "Domain": "node-jp-31.protonvpn.net",
     "City": "Tokyo",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "JP-FREE#17",
-    "Domain": {
-      "domain": "node-jp-32.protonvpn.net",
-      "ipv4": [
-        "193.148.16.2"
-      ],
-      "ipv6": [
-        "2001:ac8:40:27::10"
-      ]
-    },
+    "Domain": "node-jp-32.protonvpn.net",
     "City": "Tokyo",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,13 +45,7 @@
   },
   {
     "Name": "JP-FREE#20",
-    "Domain": {
-      "domain": "node-jp-35.protonvpn.net",
-      "ipv4": [
-        "212.102.51.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-jp-35.protonvpn.net",
     "City": "Tokyo",
     "ipv6Enabled": false,
     "Servers": [
@@ -87,13 +65,7 @@
   },
   {
     "Name": "JP-FREE#21",
-    "Domain": {
-      "domain": "node-jp-36.protonvpn.net",
-      "ipv4": [
-        "37.19.205.198"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-jp-36.protonvpn.net",
     "City": "Tokyo",
     "ipv6Enabled": false,
     "Servers": [
@@ -113,13 +85,7 @@
   },
   {
     "Name": "JP-FREE#22",
-    "Domain": {
-      "domain": "node-jp-37.protonvpn.net",
-      "ipv4": [
-        "212.102.51.82"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-jp-37.protonvpn.net",
     "City": "Tokyo",
     "ipv6Enabled": false,
     "Servers": [
@@ -139,13 +105,7 @@
   },
   {
     "Name": "JP-FREE#23",
-    "Domain": {
-      "domain": "node-jp-38.protonvpn.net",
-      "ipv4": [
-        "212.102.51.55"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-jp-38.protonvpn.net",
     "City": "Tokyo",
     "ipv6Enabled": false,
     "Servers": [
@@ -165,13 +125,7 @@
   },
   {
     "Name": "JP-FREE#24",
-    "Domain": {
-      "domain": "node-jp-39.protonvpn.net",
-      "ipv4": [
-        "212.102.51.28"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-jp-39.protonvpn.net",
     "City": "Tokyo",
     "ipv6Enabled": false,
     "Servers": [
@@ -191,13 +145,7 @@
   },
   {
     "Name": "JP-FREE#25",
-    "Domain": {
-      "domain": "node-jp-34.protonvpn.net",
-      "ipv4": [
-        "91.207.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-jp-34.protonvpn.net",
     "City": "Tokyo",
     "ipv6Enabled": false,
     "Servers": [
@@ -217,15 +165,7 @@
   },
   {
     "Name": "JP-FREE#34",
-    "Domain": {
-      "domain": "node-jp-59.protonvpn.net",
-      "ipv4": [
-        "149.88.103.162"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d33b:6290::10"
-      ]
-    },
+    "Domain": "node-jp-59.protonvpn.net",
     "City": "Tokyo",
     "ipv6Enabled": true,
     "Servers": [

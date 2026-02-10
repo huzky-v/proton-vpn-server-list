@@ -1,15 +1,7 @@
 [
   {
     "Name": "PR#1",
-    "Domain": {
-      "domain": "node-pr-01.protonvpn.net",
-      "ipv4": [
-        "138.199.50.97"
-      ],
-      "ipv6": [
-        "2a10:9007:3:b::10"
-      ]
-    },
+    "Domain": "node-pr-01.protonvpn.net",
     "City": "San Juan",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "PR#2",
-    "Domain": {
-      "domain": "node-pr-01.protonvpn.net",
-      "ipv4": [
-        "138.199.50.97"
-      ],
-      "ipv6": [
-        "2a10:9007:3:b::10"
-      ]
-    },
+    "Domain": "node-pr-01.protonvpn.net",
     "City": "San Juan",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "PR#3",
-    "Domain": {
-      "domain": "node-pr-01.protonvpn.net",
-      "ipv4": [
-        "138.199.50.97"
-      ],
-      "ipv6": [
-        "2a10:9007:3:b::10"
-      ]
-    },
+    "Domain": "node-pr-01.protonvpn.net",
     "City": "San Juan",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "PR#4",
-    "Domain": {
-      "domain": "node-pr-01.protonvpn.net",
-      "ipv4": [
-        "138.199.50.97"
-      ],
-      "ipv6": [
-        "2a10:9007:3:b::10"
-      ]
-    },
+    "Domain": "node-pr-01.protonvpn.net",
     "City": "San Juan",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "PR#5",
-    "Domain": {
-      "domain": "node-pr-01.protonvpn.net",
-      "ipv4": [
-        "138.199.50.97"
-      ],
-      "ipv6": [
-        "2a10:9007:3:b::10"
-      ]
-    },
+    "Domain": "node-pr-01.protonvpn.net",
     "City": "San Juan",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "PR#6",
-    "Domain": {
-      "domain": "node-pr-01.protonvpn.net",
-      "ipv4": [
-        "138.199.50.97"
-      ],
-      "ipv6": [
-        "2a10:9007:3:b::10"
-      ]
-    },
+    "Domain": "node-pr-01.protonvpn.net",
     "City": "San Juan",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "PR#7",
-    "Domain": {
-      "domain": "node-pr-01.protonvpn.net",
-      "ipv4": [
-        "138.199.50.97"
-      ],
-      "ipv6": [
-        "2a10:9007:3:b::10"
-      ]
-    },
+    "Domain": "node-pr-01.protonvpn.net",
     "City": "San Juan",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "PR#8",
-    "Domain": {
-      "domain": "node-pr-01.protonvpn.net",
-      "ipv4": [
-        "138.199.50.97"
-      ],
-      "ipv6": [
-        "2a10:9007:3:b::10"
-      ]
-    },
+    "Domain": "node-pr-01.protonvpn.net",
     "City": "San Juan",
     "ipv6Enabled": true,
     "Servers": [

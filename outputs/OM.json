@@ -1,13 +1,7 @@
 [
   {
     "Name": "OM#1",
-    "Domain": {
-      "domain": "om-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-02.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "OM#2",
-    "Domain": {
-      "domain": "om-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-02.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "OM#3",
-    "Domain": {
-      "domain": "om-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-02.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "OM#4",
-    "Domain": {
-      "domain": "om-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-02.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "OM#5",
-    "Domain": {
-      "domain": "om-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-02.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "OM#6",
-    "Domain": {
-      "domain": "om-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-02.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "OM#7",
-    "Domain": {
-      "domain": "om-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-02.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "OM#8",
-    "Domain": {
-      "domain": "om-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-02.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,13 +161,7 @@
   },
   {
     "Name": "OM#10",
-    "Domain": {
-      "domain": "om-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.172"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-03.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [
@@ -235,13 +181,7 @@
   },
   {
     "Name": "OM#11",
-    "Domain": {
-      "domain": "om-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.172"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-03.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [
@@ -261,13 +201,7 @@
   },
   {
     "Name": "OM#12",
-    "Domain": {
-      "domain": "om-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.172"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-03.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [
@@ -287,13 +221,7 @@
   },
   {
     "Name": "OM#9",
-    "Domain": {
-      "domain": "om-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.172"
-      ],
-      "ipv6": []
-    },
+    "Domain": "om-03.protonvpn.net",
     "City": "Muscat",
     "ipv6Enabled": false,
     "Servers": [

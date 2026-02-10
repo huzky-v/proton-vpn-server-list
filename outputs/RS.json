@@ -1,13 +1,7 @@
 [
   {
     "Name": "RS#10",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "RS#11",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "RS#12",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "RS#13",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "RS#14",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "RS#15",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "RS#16",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "RS#17",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,13 +161,7 @@
   },
   {
     "Name": "RS#18",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -235,13 +181,7 @@
   },
   {
     "Name": "RS#19",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -261,13 +201,7 @@
   },
   {
     "Name": "RS#20",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -287,13 +221,7 @@
   },
   {
     "Name": "RS#9",
-    "Domain": {
-      "domain": "node-rs-02.protonvpn.net",
-      "ipv4": [
-        "45.146.222.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-rs-02.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": false,
     "Servers": [
@@ -313,15 +241,7 @@
   },
   {
     "Name": "RS#21",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -343,15 +263,7 @@
   },
   {
     "Name": "RS#22",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -373,15 +285,7 @@
   },
   {
     "Name": "RS#23",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -403,15 +307,7 @@
   },
   {
     "Name": "RS#24",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -433,15 +329,7 @@
   },
   {
     "Name": "RS#25",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -463,15 +351,7 @@
   },
   {
     "Name": "RS#26",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -493,15 +373,7 @@
   },
   {
     "Name": "RS#27",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -523,15 +395,7 @@
   },
   {
     "Name": "RS#28",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -553,15 +417,7 @@
   },
   {
     "Name": "RS#29",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -583,15 +439,7 @@
   },
   {
     "Name": "RS#30",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -613,15 +461,7 @@
   },
   {
     "Name": "RS#31",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -643,15 +483,7 @@
   },
   {
     "Name": "RS#32",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -673,15 +505,7 @@
   },
   {
     "Name": "RS#33",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -703,15 +527,7 @@
   },
   {
     "Name": "RS#34",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -733,15 +549,7 @@
   },
   {
     "Name": "RS#35",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -763,15 +571,7 @@
   },
   {
     "Name": "RS#36",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -793,15 +593,7 @@
   },
   {
     "Name": "RS#37",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -823,15 +615,7 @@
   },
   {
     "Name": "RS#38",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -853,15 +637,7 @@
   },
   {
     "Name": "RS#39",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -883,15 +659,7 @@
   },
   {
     "Name": "RS#40",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -913,15 +681,7 @@
   },
   {
     "Name": "RS#41",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -943,15 +703,7 @@
   },
   {
     "Name": "RS#42",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -973,15 +725,7 @@
   },
   {
     "Name": "RS#43",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1003,15 +747,7 @@
   },
   {
     "Name": "RS#44",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1033,15 +769,7 @@
   },
   {
     "Name": "RS#45",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1063,15 +791,7 @@
   },
   {
     "Name": "RS#46",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1093,15 +813,7 @@
   },
   {
     "Name": "RS#47",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1123,15 +835,7 @@
   },
   {
     "Name": "RS#48",
-    "Domain": {
-      "domain": "node-rs-03.protonvpn.net",
-      "ipv4": [
-        "146.70.221.130"
-      ],
-      "ipv6": [
-        "2001:ac8:7f:4::10"
-      ]
-    },
+    "Domain": "node-rs-03.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1153,15 +857,7 @@
   },
   {
     "Name": "RS#1",
-    "Domain": {
-      "domain": "node-rs-01b.protonvpn.net",
-      "ipv4": [
-        "37.46.115.5"
-      ],
-      "ipv6": [
-        "2a00:7147:22:1::10"
-      ]
-    },
+    "Domain": "node-rs-01b.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1183,15 +879,7 @@
   },
   {
     "Name": "RS#2",
-    "Domain": {
-      "domain": "node-rs-01b.protonvpn.net",
-      "ipv4": [
-        "37.46.115.5"
-      ],
-      "ipv6": [
-        "2a00:7147:22:1::10"
-      ]
-    },
+    "Domain": "node-rs-01b.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1213,15 +901,7 @@
   },
   {
     "Name": "RS#3",
-    "Domain": {
-      "domain": "node-rs-01b.protonvpn.net",
-      "ipv4": [
-        "37.46.115.5"
-      ],
-      "ipv6": [
-        "2a00:7147:22:1::10"
-      ]
-    },
+    "Domain": "node-rs-01b.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1243,15 +923,7 @@
   },
   {
     "Name": "RS#4",
-    "Domain": {
-      "domain": "node-rs-01b.protonvpn.net",
-      "ipv4": [
-        "37.46.115.5"
-      ],
-      "ipv6": [
-        "2a00:7147:22:1::10"
-      ]
-    },
+    "Domain": "node-rs-01b.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1273,15 +945,7 @@
   },
   {
     "Name": "RS#5",
-    "Domain": {
-      "domain": "node-rs-01b.protonvpn.net",
-      "ipv4": [
-        "37.46.115.5"
-      ],
-      "ipv6": [
-        "2a00:7147:22:1::10"
-      ]
-    },
+    "Domain": "node-rs-01b.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1303,15 +967,7 @@
   },
   {
     "Name": "RS#6",
-    "Domain": {
-      "domain": "node-rs-01b.protonvpn.net",
-      "ipv4": [
-        "37.46.115.5"
-      ],
-      "ipv6": [
-        "2a00:7147:22:1::10"
-      ]
-    },
+    "Domain": "node-rs-01b.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1333,15 +989,7 @@
   },
   {
     "Name": "RS#7",
-    "Domain": {
-      "domain": "node-rs-01b.protonvpn.net",
-      "ipv4": [
-        "37.46.115.5"
-      ],
-      "ipv6": [
-        "2a00:7147:22:1::10"
-      ]
-    },
+    "Domain": "node-rs-01b.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [
@@ -1363,15 +1011,7 @@
   },
   {
     "Name": "RS#8",
-    "Domain": {
-      "domain": "node-rs-01b.protonvpn.net",
-      "ipv4": [
-        "37.46.115.5"
-      ],
-      "ipv6": [
-        "2a00:7147:22:1::10"
-      ]
-    },
+    "Domain": "node-rs-01b.protonvpn.net",
     "City": "Belgrade",
     "ipv6Enabled": true,
     "Servers": [

@@ -1,13 +1,7 @@
 [
   {
     "Name": "KW#1",
-    "Domain": {
-      "domain": "kw-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.76"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kw-02.protonvpn.net",
     "City": "Kuwait City",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "KW#2",
-    "Domain": {
-      "domain": "kw-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.76"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kw-02.protonvpn.net",
     "City": "Kuwait City",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "KW#3",
-    "Domain": {
-      "domain": "kw-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.76"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kw-02.protonvpn.net",
     "City": "Kuwait City",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "KW#4",
-    "Domain": {
-      "domain": "kw-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.76"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kw-02.protonvpn.net",
     "City": "Kuwait City",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "KW#5",
-    "Domain": {
-      "domain": "kw-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.116"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kw-03.protonvpn.net",
     "City": "Kuwait City",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "KW#6",
-    "Domain": {
-      "domain": "kw-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.116"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kw-03.protonvpn.net",
     "City": "Kuwait City",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "KW#7",
-    "Domain": {
-      "domain": "kw-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.116"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kw-03.protonvpn.net",
     "City": "Kuwait City",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "KW#8",
-    "Domain": {
-      "domain": "kw-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.116"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kw-03.protonvpn.net",
     "City": "Kuwait City",
     "ipv6Enabled": false,
     "Servers": [

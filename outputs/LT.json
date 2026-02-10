@@ -1,15 +1,7 @@
 [
   {
     "Name": "LT#10",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "LT#11",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "LT#12",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "LT#13",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "LT#14",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "LT#15",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "LT#16",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "LT#17",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "LT#18",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,15 +199,7 @@
   },
   {
     "Name": "LT#19",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -301,15 +221,7 @@
   },
   {
     "Name": "LT#20",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -331,15 +243,7 @@
   },
   {
     "Name": "LT#21",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -361,15 +265,7 @@
   },
   {
     "Name": "LT#22",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -391,15 +287,7 @@
   },
   {
     "Name": "LT#23",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -421,15 +309,7 @@
   },
   {
     "Name": "LT#24",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -451,15 +331,7 @@
   },
   {
     "Name": "LT#25",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -481,15 +353,7 @@
   },
   {
     "Name": "LT#26",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -511,15 +375,7 @@
   },
   {
     "Name": "LT#27",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -541,15 +397,7 @@
   },
   {
     "Name": "LT#28",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -571,15 +419,7 @@
   },
   {
     "Name": "LT#29",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -601,15 +441,7 @@
   },
   {
     "Name": "LT#30",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -631,15 +463,7 @@
   },
   {
     "Name": "LT#31",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -661,15 +485,7 @@
   },
   {
     "Name": "LT#32",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -691,15 +507,7 @@
   },
   {
     "Name": "LT#33",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -721,15 +529,7 @@
   },
   {
     "Name": "LT#34",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -751,15 +551,7 @@
   },
   {
     "Name": "LT#35",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -781,15 +573,7 @@
   },
   {
     "Name": "LT#36",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -811,15 +595,7 @@
   },
   {
     "Name": "LT#37",
-    "Domain": {
-      "domain": "node-lt-02.protonvpn.net",
-      "ipv4": [
-        "130.195.243.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:100:1::10"
-      ]
-    },
+    "Domain": "node-lt-02.protonvpn.net",
     "City": "Vilnius",
     "ipv6Enabled": true,
     "Servers": [
@@ -841,13 +617,7 @@
   },
   {
     "Name": "LT#38",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -867,13 +637,7 @@
   },
   {
     "Name": "LT#39",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -893,13 +657,7 @@
   },
   {
     "Name": "LT#40",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -919,13 +677,7 @@
   },
   {
     "Name": "LT#41",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -945,13 +697,7 @@
   },
   {
     "Name": "LT#42",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -971,13 +717,7 @@
   },
   {
     "Name": "LT#43",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -997,13 +737,7 @@
   },
   {
     "Name": "LT#44",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1023,13 +757,7 @@
   },
   {
     "Name": "LT#45",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1049,13 +777,7 @@
   },
   {
     "Name": "LT#46",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1075,13 +797,7 @@
   },
   {
     "Name": "LT#47",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1101,13 +817,7 @@
   },
   {
     "Name": "LT#48",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1127,13 +837,7 @@
   },
   {
     "Name": "LT#49",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1153,13 +857,7 @@
   },
   {
     "Name": "LT#50",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1179,13 +877,7 @@
   },
   {
     "Name": "LT#51",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1205,13 +897,7 @@
   },
   {
     "Name": "LT#52",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1231,13 +917,7 @@
   },
   {
     "Name": "LT#53",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1257,13 +937,7 @@
   },
   {
     "Name": "LT#54",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1283,13 +957,7 @@
   },
   {
     "Name": "LT#55",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1309,13 +977,7 @@
   },
   {
     "Name": "LT#56",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1335,13 +997,7 @@
   },
   {
     "Name": "LT#57",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1361,13 +1017,7 @@
   },
   {
     "Name": "LT#58",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1387,13 +1037,7 @@
   },
   {
     "Name": "LT#59",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1413,13 +1057,7 @@
   },
   {
     "Name": "LT#60",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1439,13 +1077,7 @@
   },
   {
     "Name": "LT#61",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1465,13 +1097,7 @@
   },
   {
     "Name": "LT#62",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1491,13 +1117,7 @@
   },
   {
     "Name": "LT#63",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1517,13 +1137,7 @@
   },
   {
     "Name": "LT#64",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [
@@ -1543,13 +1157,7 @@
   },
   {
     "Name": "LT#65",
-    "Domain": {
-      "domain": "node-lt-01b.protonvpn.net",
-      "ipv4": [
-        "45.151.45.4"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-lt-01b.protonvpn.net",
     "City": "Siauliai",
     "ipv6Enabled": false,
     "Servers": [

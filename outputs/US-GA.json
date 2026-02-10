@@ -1,13 +1,7 @@
 [
   {
     "Name": "US-GA#29-TOR",
-    "Domain": {
-      "domain": "us-ga-29-tor.protonvpn.net",
-      "ipv4": [
-        "89.187.171.248"
-      ],
-      "ipv6": []
-    },
+    "Domain": "us-ga-29-tor.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,15 +21,7 @@
   },
   {
     "Name": "US-GA#133",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -57,15 +43,7 @@
   },
   {
     "Name": "US-GA#134",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -87,15 +65,7 @@
   },
   {
     "Name": "US-GA#135",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -117,15 +87,7 @@
   },
   {
     "Name": "US-GA#136",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -147,15 +109,7 @@
   },
   {
     "Name": "US-GA#137",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -177,15 +131,7 @@
   },
   {
     "Name": "US-GA#138",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -207,15 +153,7 @@
   },
   {
     "Name": "US-GA#139",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -237,15 +175,7 @@
   },
   {
     "Name": "US-GA#140",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -267,15 +197,7 @@
   },
   {
     "Name": "US-GA#141",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -297,15 +219,7 @@
   },
   {
     "Name": "US-GA#142",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -327,15 +241,7 @@
   },
   {
     "Name": "US-GA#143",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -357,15 +263,7 @@
   },
   {
     "Name": "US-GA#144",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -387,15 +285,7 @@
   },
   {
     "Name": "US-GA#145",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -417,15 +307,7 @@
   },
   {
     "Name": "US-GA#146",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -447,15 +329,7 @@
   },
   {
     "Name": "US-GA#147",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -477,15 +351,7 @@
   },
   {
     "Name": "US-GA#148",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -507,15 +373,7 @@
   },
   {
     "Name": "US-GA#149",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -537,15 +395,7 @@
   },
   {
     "Name": "US-GA#150",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -567,15 +417,7 @@
   },
   {
     "Name": "US-GA#151",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -597,15 +439,7 @@
   },
   {
     "Name": "US-GA#152",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -627,15 +461,7 @@
   },
   {
     "Name": "US-GA#153",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -657,15 +483,7 @@
   },
   {
     "Name": "US-GA#154",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -687,15 +505,7 @@
   },
   {
     "Name": "US-GA#155",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -717,15 +527,7 @@
   },
   {
     "Name": "US-GA#156",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -747,15 +549,7 @@
   },
   {
     "Name": "US-GA#157",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -777,15 +571,7 @@
   },
   {
     "Name": "US-GA#158",
-    "Domain": {
-      "domain": "node-us-247.protonvpn.net",
-      "ipv4": [
-        "149.22.94.28"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3586::10"
-      ]
-    },
+    "Domain": "node-us-247.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -807,15 +593,7 @@
   },
   {
     "Name": "US-GA#159",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -837,15 +615,7 @@
   },
   {
     "Name": "US-GA#160",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -867,15 +637,7 @@
   },
   {
     "Name": "US-GA#161",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -897,15 +659,7 @@
   },
   {
     "Name": "US-GA#162",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -927,15 +681,7 @@
   },
   {
     "Name": "US-GA#163",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -957,15 +703,7 @@
   },
   {
     "Name": "US-GA#164",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -987,15 +725,7 @@
   },
   {
     "Name": "US-GA#165",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1017,15 +747,7 @@
   },
   {
     "Name": "US-GA#166",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1047,15 +769,7 @@
   },
   {
     "Name": "US-GA#167",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1077,15 +791,7 @@
   },
   {
     "Name": "US-GA#168",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1107,15 +813,7 @@
   },
   {
     "Name": "US-GA#169",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1137,15 +835,7 @@
   },
   {
     "Name": "US-GA#170",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1167,15 +857,7 @@
   },
   {
     "Name": "US-GA#171",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1197,15 +879,7 @@
   },
   {
     "Name": "US-GA#172",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1227,15 +901,7 @@
   },
   {
     "Name": "US-GA#173",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1257,15 +923,7 @@
   },
   {
     "Name": "US-GA#174",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1287,15 +945,7 @@
   },
   {
     "Name": "US-GA#175",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1317,15 +967,7 @@
   },
   {
     "Name": "US-GA#176",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1347,15 +989,7 @@
   },
   {
     "Name": "US-GA#177",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1377,15 +1011,7 @@
   },
   {
     "Name": "US-GA#178",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1407,15 +1033,7 @@
   },
   {
     "Name": "US-GA#179",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1437,15 +1055,7 @@
   },
   {
     "Name": "US-GA#180",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1467,15 +1077,7 @@
   },
   {
     "Name": "US-GA#181",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1497,15 +1099,7 @@
   },
   {
     "Name": "US-GA#182",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1527,15 +1121,7 @@
   },
   {
     "Name": "US-GA#183",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1557,15 +1143,7 @@
   },
   {
     "Name": "US-GA#184",
-    "Domain": {
-      "domain": "node-us-248.protonvpn.net",
-      "ipv4": [
-        "149.22.94.55"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3587::10"
-      ]
-    },
+    "Domain": "node-us-248.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1587,15 +1165,7 @@
   },
   {
     "Name": "US-GA#185",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1617,15 +1187,7 @@
   },
   {
     "Name": "US-GA#186",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1647,15 +1209,7 @@
   },
   {
     "Name": "US-GA#187",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1677,15 +1231,7 @@
   },
   {
     "Name": "US-GA#188",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1707,15 +1253,7 @@
   },
   {
     "Name": "US-GA#189",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1737,15 +1275,7 @@
   },
   {
     "Name": "US-GA#190",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1767,15 +1297,7 @@
   },
   {
     "Name": "US-GA#191",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1797,15 +1319,7 @@
   },
   {
     "Name": "US-GA#192",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1827,15 +1341,7 @@
   },
   {
     "Name": "US-GA#193",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1857,15 +1363,7 @@
   },
   {
     "Name": "US-GA#194",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1887,15 +1385,7 @@
   },
   {
     "Name": "US-GA#195",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1917,15 +1407,7 @@
   },
   {
     "Name": "US-GA#196",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1947,15 +1429,7 @@
   },
   {
     "Name": "US-GA#197",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -1977,15 +1451,7 @@
   },
   {
     "Name": "US-GA#198",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2007,15 +1473,7 @@
   },
   {
     "Name": "US-GA#199",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2037,15 +1495,7 @@
   },
   {
     "Name": "US-GA#200",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2067,15 +1517,7 @@
   },
   {
     "Name": "US-GA#201",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2097,15 +1539,7 @@
   },
   {
     "Name": "US-GA#202",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2127,15 +1561,7 @@
   },
   {
     "Name": "US-GA#203",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2157,15 +1583,7 @@
   },
   {
     "Name": "US-GA#204",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2187,15 +1605,7 @@
   },
   {
     "Name": "US-GA#205",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2217,15 +1627,7 @@
   },
   {
     "Name": "US-GA#206",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2247,15 +1649,7 @@
   },
   {
     "Name": "US-GA#207",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2277,15 +1671,7 @@
   },
   {
     "Name": "US-GA#208",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2307,15 +1693,7 @@
   },
   {
     "Name": "US-GA#209",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2337,15 +1715,7 @@
   },
   {
     "Name": "US-GA#210",
-    "Domain": {
-      "domain": "node-us-249.protonvpn.net",
-      "ipv4": [
-        "149.22.94.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:3585::10"
-      ]
-    },
+    "Domain": "node-us-249.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2367,15 +1737,7 @@
   },
   {
     "Name": "US-GA#211",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2397,15 +1759,7 @@
   },
   {
     "Name": "US-GA#212",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2427,15 +1781,7 @@
   },
   {
     "Name": "US-GA#213",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2457,15 +1803,7 @@
   },
   {
     "Name": "US-GA#214",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2487,15 +1825,7 @@
   },
   {
     "Name": "US-GA#215",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2517,15 +1847,7 @@
   },
   {
     "Name": "US-GA#216",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2547,15 +1869,7 @@
   },
   {
     "Name": "US-GA#217",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2577,15 +1891,7 @@
   },
   {
     "Name": "US-GA#218",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2607,15 +1913,7 @@
   },
   {
     "Name": "US-GA#219",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2637,15 +1935,7 @@
   },
   {
     "Name": "US-GA#220",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2667,15 +1957,7 @@
   },
   {
     "Name": "US-GA#221",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2697,15 +1979,7 @@
   },
   {
     "Name": "US-GA#222",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2727,15 +2001,7 @@
   },
   {
     "Name": "US-GA#223",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2757,15 +2023,7 @@
   },
   {
     "Name": "US-GA#224",
-    "Domain": {
-      "domain": "node-us-69.protonvpn.net",
-      "ipv4": [
-        "89.187.170.135"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c118::10"
-      ]
-    },
+    "Domain": "node-us-69.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2787,15 +2045,7 @@
   },
   {
     "Name": "US-GA#225",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2817,15 +2067,7 @@
   },
   {
     "Name": "US-GA#226",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2847,15 +2089,7 @@
   },
   {
     "Name": "US-GA#227",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2877,15 +2111,7 @@
   },
   {
     "Name": "US-GA#228",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2907,15 +2133,7 @@
   },
   {
     "Name": "US-GA#229",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2937,15 +2155,7 @@
   },
   {
     "Name": "US-GA#230",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2967,15 +2177,7 @@
   },
   {
     "Name": "US-GA#231",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -2997,15 +2199,7 @@
   },
   {
     "Name": "US-GA#232",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3027,15 +2221,7 @@
   },
   {
     "Name": "US-GA#233",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3057,15 +2243,7 @@
   },
   {
     "Name": "US-GA#234",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3087,15 +2265,7 @@
   },
   {
     "Name": "US-GA#235",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3117,15 +2287,7 @@
   },
   {
     "Name": "US-GA#236",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3147,15 +2309,7 @@
   },
   {
     "Name": "US-GA#237",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3177,15 +2331,7 @@
   },
   {
     "Name": "US-GA#238",
-    "Domain": {
-      "domain": "node-us-59.protonvpn.net",
-      "ipv4": [
-        "89.187.171.239"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c117::10"
-      ]
-    },
+    "Domain": "node-us-59.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3207,15 +2353,7 @@
   },
   {
     "Name": "US-GA#239",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3237,15 +2375,7 @@
   },
   {
     "Name": "US-GA#240",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3267,15 +2397,7 @@
   },
   {
     "Name": "US-GA#241",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3297,15 +2419,7 @@
   },
   {
     "Name": "US-GA#242",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3327,15 +2441,7 @@
   },
   {
     "Name": "US-GA#243",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3357,15 +2463,7 @@
   },
   {
     "Name": "US-GA#244",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3387,15 +2485,7 @@
   },
   {
     "Name": "US-GA#245",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3417,15 +2507,7 @@
   },
   {
     "Name": "US-GA#246",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3447,15 +2529,7 @@
   },
   {
     "Name": "US-GA#247",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3477,15 +2551,7 @@
   },
   {
     "Name": "US-GA#248",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3507,15 +2573,7 @@
   },
   {
     "Name": "US-GA#249",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3537,15 +2595,7 @@
   },
   {
     "Name": "US-GA#250",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3567,15 +2617,7 @@
   },
   {
     "Name": "US-GA#251",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3597,15 +2639,7 @@
   },
   {
     "Name": "US-GA#252",
-    "Domain": {
-      "domain": "node-us-121.protonvpn.net",
-      "ipv4": [
-        "45.134.140.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2108::10"
-      ]
-    },
+    "Domain": "node-us-121.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3627,15 +2661,7 @@
   },
   {
     "Name": "US-GA#253",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3657,15 +2683,7 @@
   },
   {
     "Name": "US-GA#254",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3687,15 +2705,7 @@
   },
   {
     "Name": "US-GA#255",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3717,15 +2727,7 @@
   },
   {
     "Name": "US-GA#256",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3747,15 +2749,7 @@
   },
   {
     "Name": "US-GA#257",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3777,15 +2771,7 @@
   },
   {
     "Name": "US-GA#258",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3807,15 +2793,7 @@
   },
   {
     "Name": "US-GA#259",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3837,15 +2815,7 @@
   },
   {
     "Name": "US-GA#260",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3867,15 +2837,7 @@
   },
   {
     "Name": "US-GA#261",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3897,15 +2859,7 @@
   },
   {
     "Name": "US-GA#262",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3927,15 +2881,7 @@
   },
   {
     "Name": "US-GA#263",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3957,15 +2903,7 @@
   },
   {
     "Name": "US-GA#264",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -3987,15 +2925,7 @@
   },
   {
     "Name": "US-GA#265",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4017,15 +2947,7 @@
   },
   {
     "Name": "US-GA#266",
-    "Domain": {
-      "domain": "node-us-225.protonvpn.net",
-      "ipv4": [
-        "45.134.140.46"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:2754::10"
-      ]
-    },
+    "Domain": "node-us-225.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4047,15 +2969,7 @@
   },
   {
     "Name": "US-GA#267",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4077,15 +2991,7 @@
   },
   {
     "Name": "US-GA#268",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4107,15 +3013,7 @@
   },
   {
     "Name": "US-GA#269",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4137,15 +3035,7 @@
   },
   {
     "Name": "US-GA#270",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4167,15 +3057,7 @@
   },
   {
     "Name": "US-GA#271",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4197,15 +3079,7 @@
   },
   {
     "Name": "US-GA#272",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4227,15 +3101,7 @@
   },
   {
     "Name": "US-GA#273",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4257,15 +3123,7 @@
   },
   {
     "Name": "US-GA#274",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4287,15 +3145,7 @@
   },
   {
     "Name": "US-GA#275",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4317,15 +3167,7 @@
   },
   {
     "Name": "US-GA#276",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4347,15 +3189,7 @@
   },
   {
     "Name": "US-GA#277",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4377,15 +3211,7 @@
   },
   {
     "Name": "US-GA#278",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4407,15 +3233,7 @@
   },
   {
     "Name": "US-GA#279",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4437,15 +3255,7 @@
   },
   {
     "Name": "US-GA#280",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4467,15 +3277,7 @@
   },
   {
     "Name": "US-GA#281",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4497,15 +3299,7 @@
   },
   {
     "Name": "US-GA#282",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4527,15 +3321,7 @@
   },
   {
     "Name": "US-GA#283",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4557,15 +3343,7 @@
   },
   {
     "Name": "US-GA#284",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4587,15 +3365,7 @@
   },
   {
     "Name": "US-GA#285",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4617,15 +3387,7 @@
   },
   {
     "Name": "US-GA#286",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4647,15 +3409,7 @@
   },
   {
     "Name": "US-GA#287",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4677,15 +3431,7 @@
   },
   {
     "Name": "US-GA#288",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4707,15 +3453,7 @@
   },
   {
     "Name": "US-GA#289",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4737,15 +3475,7 @@
   },
   {
     "Name": "US-GA#290",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4767,15 +3497,7 @@
   },
   {
     "Name": "US-GA#291",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4797,15 +3519,7 @@
   },
   {
     "Name": "US-GA#292",
-    "Domain": {
-      "domain": "node-us-314.protonvpn.net",
-      "ipv4": [
-        "149.22.94.86"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5281::10"
-      ]
-    },
+    "Domain": "node-us-314.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4827,15 +3541,7 @@
   },
   {
     "Name": "US-GA#293",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4857,15 +3563,7 @@
   },
   {
     "Name": "US-GA#294",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4887,15 +3585,7 @@
   },
   {
     "Name": "US-GA#295",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4917,15 +3607,7 @@
   },
   {
     "Name": "US-GA#296",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4947,15 +3629,7 @@
   },
   {
     "Name": "US-GA#297",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -4977,15 +3651,7 @@
   },
   {
     "Name": "US-GA#298",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5007,15 +3673,7 @@
   },
   {
     "Name": "US-GA#299",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5037,15 +3695,7 @@
   },
   {
     "Name": "US-GA#300",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5067,15 +3717,7 @@
   },
   {
     "Name": "US-GA#301",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5097,15 +3739,7 @@
   },
   {
     "Name": "US-GA#302",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5127,15 +3761,7 @@
   },
   {
     "Name": "US-GA#303",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5157,15 +3783,7 @@
   },
   {
     "Name": "US-GA#304",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5187,15 +3805,7 @@
   },
   {
     "Name": "US-GA#305",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5217,15 +3827,7 @@
   },
   {
     "Name": "US-GA#306",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5247,15 +3849,7 @@
   },
   {
     "Name": "US-GA#307",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5277,15 +3871,7 @@
   },
   {
     "Name": "US-GA#308",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5307,15 +3893,7 @@
   },
   {
     "Name": "US-GA#309",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5337,15 +3915,7 @@
   },
   {
     "Name": "US-GA#310",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5367,15 +3937,7 @@
   },
   {
     "Name": "US-GA#311",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5397,15 +3959,7 @@
   },
   {
     "Name": "US-GA#312",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5427,15 +3981,7 @@
   },
   {
     "Name": "US-GA#313",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5457,15 +4003,7 @@
   },
   {
     "Name": "US-GA#314",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5487,15 +4025,7 @@
   },
   {
     "Name": "US-GA#315",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5517,15 +4047,7 @@
   },
   {
     "Name": "US-GA#316",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5547,15 +4069,7 @@
   },
   {
     "Name": "US-GA#317",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5577,15 +4091,7 @@
   },
   {
     "Name": "US-GA#318",
-    "Domain": {
-      "domain": "node-us-315.protonvpn.net",
-      "ipv4": [
-        "45.134.140.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5273::10"
-      ]
-    },
+    "Domain": "node-us-315.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5607,15 +4113,7 @@
   },
   {
     "Name": "US-GA#319",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5637,15 +4135,7 @@
   },
   {
     "Name": "US-GA#320",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5667,15 +4157,7 @@
   },
   {
     "Name": "US-GA#321",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5697,15 +4179,7 @@
   },
   {
     "Name": "US-GA#322",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5727,15 +4201,7 @@
   },
   {
     "Name": "US-GA#323",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5757,15 +4223,7 @@
   },
   {
     "Name": "US-GA#324",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5787,15 +4245,7 @@
   },
   {
     "Name": "US-GA#325",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5817,15 +4267,7 @@
   },
   {
     "Name": "US-GA#326",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5847,15 +4289,7 @@
   },
   {
     "Name": "US-GA#327",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5877,15 +4311,7 @@
   },
   {
     "Name": "US-GA#328",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5907,15 +4333,7 @@
   },
   {
     "Name": "US-GA#329",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5937,15 +4355,7 @@
   },
   {
     "Name": "US-GA#330",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5967,15 +4377,7 @@
   },
   {
     "Name": "US-GA#331",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -5997,15 +4399,7 @@
   },
   {
     "Name": "US-GA#332",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6027,15 +4421,7 @@
   },
   {
     "Name": "US-GA#333",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6057,15 +4443,7 @@
   },
   {
     "Name": "US-GA#334",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6087,15 +4465,7 @@
   },
   {
     "Name": "US-GA#335",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6117,15 +4487,7 @@
   },
   {
     "Name": "US-GA#336",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6147,15 +4509,7 @@
   },
   {
     "Name": "US-GA#337",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6177,15 +4531,7 @@
   },
   {
     "Name": "US-GA#338",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6207,15 +4553,7 @@
   },
   {
     "Name": "US-GA#339",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6237,15 +4575,7 @@
   },
   {
     "Name": "US-GA#340",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6267,15 +4597,7 @@
   },
   {
     "Name": "US-GA#341",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6297,15 +4619,7 @@
   },
   {
     "Name": "US-GA#342",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6327,15 +4641,7 @@
   },
   {
     "Name": "US-GA#343",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6357,15 +4663,7 @@
   },
   {
     "Name": "US-GA#344",
-    "Domain": {
-      "domain": "node-us-316.protonvpn.net",
-      "ipv4": [
-        "149.22.94.113"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5272::10"
-      ]
-    },
+    "Domain": "node-us-316.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6387,15 +4685,7 @@
   },
   {
     "Name": "US-GA#345",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6417,15 +4707,7 @@
   },
   {
     "Name": "US-GA#346",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6447,15 +4729,7 @@
   },
   {
     "Name": "US-GA#347",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6477,15 +4751,7 @@
   },
   {
     "Name": "US-GA#348",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6507,15 +4773,7 @@
   },
   {
     "Name": "US-GA#349",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6537,15 +4795,7 @@
   },
   {
     "Name": "US-GA#350",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6567,15 +4817,7 @@
   },
   {
     "Name": "US-GA#351",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6597,15 +4839,7 @@
   },
   {
     "Name": "US-GA#352",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6627,15 +4861,7 @@
   },
   {
     "Name": "US-GA#353",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6657,15 +4883,7 @@
   },
   {
     "Name": "US-GA#354",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6687,15 +4905,7 @@
   },
   {
     "Name": "US-GA#355",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6717,15 +4927,7 @@
   },
   {
     "Name": "US-GA#356",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6747,15 +4949,7 @@
   },
   {
     "Name": "US-GA#357",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6777,15 +4971,7 @@
   },
   {
     "Name": "US-GA#358",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6807,15 +4993,7 @@
   },
   {
     "Name": "US-GA#359",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6837,15 +5015,7 @@
   },
   {
     "Name": "US-GA#360",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6867,15 +5037,7 @@
   },
   {
     "Name": "US-GA#361",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6897,15 +5059,7 @@
   },
   {
     "Name": "US-GA#362",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6927,15 +5081,7 @@
   },
   {
     "Name": "US-GA#363",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6957,15 +5103,7 @@
   },
   {
     "Name": "US-GA#364",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -6987,15 +5125,7 @@
   },
   {
     "Name": "US-GA#365",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7017,15 +5147,7 @@
   },
   {
     "Name": "US-GA#366",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7047,15 +5169,7 @@
   },
   {
     "Name": "US-GA#367",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7077,15 +5191,7 @@
   },
   {
     "Name": "US-GA#368",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7107,15 +5213,7 @@
   },
   {
     "Name": "US-GA#369",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7137,15 +5235,7 @@
   },
   {
     "Name": "US-GA#370",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7167,15 +5257,7 @@
   },
   {
     "Name": "US-GA#371",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7197,15 +5279,7 @@
   },
   {
     "Name": "US-GA#372",
-    "Domain": {
-      "domain": "node-us-327.protonvpn.net",
-      "ipv4": [
-        "149.102.242.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5443::10"
-      ]
-    },
+    "Domain": "node-us-327.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7227,15 +5301,7 @@
   },
   {
     "Name": "US-GA#373",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7257,15 +5323,7 @@
   },
   {
     "Name": "US-GA#374",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7287,15 +5345,7 @@
   },
   {
     "Name": "US-GA#375",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7317,15 +5367,7 @@
   },
   {
     "Name": "US-GA#376",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7347,15 +5389,7 @@
   },
   {
     "Name": "US-GA#377",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7377,15 +5411,7 @@
   },
   {
     "Name": "US-GA#378",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7407,15 +5433,7 @@
   },
   {
     "Name": "US-GA#379",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7437,15 +5455,7 @@
   },
   {
     "Name": "US-GA#380",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7467,15 +5477,7 @@
   },
   {
     "Name": "US-GA#381",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7497,15 +5499,7 @@
   },
   {
     "Name": "US-GA#382",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7527,15 +5521,7 @@
   },
   {
     "Name": "US-GA#383",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7557,15 +5543,7 @@
   },
   {
     "Name": "US-GA#384",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7587,15 +5565,7 @@
   },
   {
     "Name": "US-GA#385",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7617,15 +5587,7 @@
   },
   {
     "Name": "US-GA#386",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7647,15 +5609,7 @@
   },
   {
     "Name": "US-GA#387",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7677,15 +5631,7 @@
   },
   {
     "Name": "US-GA#388",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7707,15 +5653,7 @@
   },
   {
     "Name": "US-GA#389",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7737,15 +5675,7 @@
   },
   {
     "Name": "US-GA#390",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7767,15 +5697,7 @@
   },
   {
     "Name": "US-GA#391",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7797,15 +5719,7 @@
   },
   {
     "Name": "US-GA#392",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7827,15 +5741,7 @@
   },
   {
     "Name": "US-GA#393",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7857,15 +5763,7 @@
   },
   {
     "Name": "US-GA#394",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7887,15 +5785,7 @@
   },
   {
     "Name": "US-GA#395",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7917,15 +5807,7 @@
   },
   {
     "Name": "US-GA#396",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7947,15 +5829,7 @@
   },
   {
     "Name": "US-GA#397",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -7977,15 +5851,7 @@
   },
   {
     "Name": "US-GA#398",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8007,15 +5873,7 @@
   },
   {
     "Name": "US-GA#399",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8037,15 +5895,7 @@
   },
   {
     "Name": "US-GA#400",
-    "Domain": {
-      "domain": "node-us-328.protonvpn.net",
-      "ipv4": [
-        "149.102.242.59"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5442::10"
-      ]
-    },
+    "Domain": "node-us-328.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8067,15 +5917,7 @@
   },
   {
     "Name": "US-GA#401",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8097,15 +5939,7 @@
   },
   {
     "Name": "US-GA#402",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8127,15 +5961,7 @@
   },
   {
     "Name": "US-GA#403",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8157,15 +5983,7 @@
   },
   {
     "Name": "US-GA#404",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8187,15 +6005,7 @@
   },
   {
     "Name": "US-GA#405",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8217,15 +6027,7 @@
   },
   {
     "Name": "US-GA#406",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8247,15 +6049,7 @@
   },
   {
     "Name": "US-GA#407",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8277,15 +6071,7 @@
   },
   {
     "Name": "US-GA#408",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8307,15 +6093,7 @@
   },
   {
     "Name": "US-GA#409",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8337,15 +6115,7 @@
   },
   {
     "Name": "US-GA#410",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8367,15 +6137,7 @@
   },
   {
     "Name": "US-GA#411",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8397,15 +6159,7 @@
   },
   {
     "Name": "US-GA#412",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8427,15 +6181,7 @@
   },
   {
     "Name": "US-GA#413",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8457,15 +6203,7 @@
   },
   {
     "Name": "US-GA#414",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8487,15 +6225,7 @@
   },
   {
     "Name": "US-GA#415",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8517,15 +6247,7 @@
   },
   {
     "Name": "US-GA#416",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8547,15 +6269,7 @@
   },
   {
     "Name": "US-GA#417",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8577,15 +6291,7 @@
   },
   {
     "Name": "US-GA#418",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8607,15 +6313,7 @@
   },
   {
     "Name": "US-GA#419",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8637,15 +6335,7 @@
   },
   {
     "Name": "US-GA#420",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8667,15 +6357,7 @@
   },
   {
     "Name": "US-GA#421",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8697,15 +6379,7 @@
   },
   {
     "Name": "US-GA#422",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8727,15 +6401,7 @@
   },
   {
     "Name": "US-GA#423",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8757,15 +6423,7 @@
   },
   {
     "Name": "US-GA#424",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8787,15 +6445,7 @@
   },
   {
     "Name": "US-GA#425",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8817,15 +6467,7 @@
   },
   {
     "Name": "US-GA#426",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8847,15 +6489,7 @@
   },
   {
     "Name": "US-GA#427",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8877,15 +6511,7 @@
   },
   {
     "Name": "US-GA#428",
-    "Domain": {
-      "domain": "node-us-329.protonvpn.net",
-      "ipv4": [
-        "149.102.242.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:5441::10"
-      ]
-    },
+    "Domain": "node-us-329.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8907,15 +6533,7 @@
   },
   {
     "Name": "US-GA#429",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8937,15 +6555,7 @@
   },
   {
     "Name": "US-GA#430",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8967,15 +6577,7 @@
   },
   {
     "Name": "US-GA#431",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -8997,15 +6599,7 @@
   },
   {
     "Name": "US-GA#432",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9027,15 +6621,7 @@
   },
   {
     "Name": "US-GA#433",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9057,15 +6643,7 @@
   },
   {
     "Name": "US-GA#434",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9087,15 +6665,7 @@
   },
   {
     "Name": "US-GA#435",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9117,15 +6687,7 @@
   },
   {
     "Name": "US-GA#436",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9147,15 +6709,7 @@
   },
   {
     "Name": "US-GA#437",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9177,15 +6731,7 @@
   },
   {
     "Name": "US-GA#438",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9207,15 +6753,7 @@
   },
   {
     "Name": "US-GA#439",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9237,15 +6775,7 @@
   },
   {
     "Name": "US-GA#440",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9267,15 +6797,7 @@
   },
   {
     "Name": "US-GA#441",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9297,15 +6819,7 @@
   },
   {
     "Name": "US-GA#442",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9327,15 +6841,7 @@
   },
   {
     "Name": "US-GA#443",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9357,15 +6863,7 @@
   },
   {
     "Name": "US-GA#444",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9387,15 +6885,7 @@
   },
   {
     "Name": "US-GA#445",
-    "Domain": {
-      "domain": "node-us-392.protonvpn.net",
-      "ipv4": [
-        "89.222.103.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6064::10"
-      ]
-    },
+    "Domain": "node-us-392.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9417,15 +6907,7 @@
   },
   {
     "Name": "US-GA#446",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9447,15 +6929,7 @@
   },
   {
     "Name": "US-GA#447",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9477,15 +6951,7 @@
   },
   {
     "Name": "US-GA#448",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9507,15 +6973,7 @@
   },
   {
     "Name": "US-GA#449",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9537,15 +6995,7 @@
   },
   {
     "Name": "US-GA#450",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9567,15 +7017,7 @@
   },
   {
     "Name": "US-GA#451",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9597,15 +7039,7 @@
   },
   {
     "Name": "US-GA#452",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9627,15 +7061,7 @@
   },
   {
     "Name": "US-GA#453",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9657,15 +7083,7 @@
   },
   {
     "Name": "US-GA#454",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9687,15 +7105,7 @@
   },
   {
     "Name": "US-GA#455",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9717,15 +7127,7 @@
   },
   {
     "Name": "US-GA#456",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9747,15 +7149,7 @@
   },
   {
     "Name": "US-GA#457",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9777,15 +7171,7 @@
   },
   {
     "Name": "US-GA#458",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9807,15 +7193,7 @@
   },
   {
     "Name": "US-GA#459",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9837,15 +7215,7 @@
   },
   {
     "Name": "US-GA#460",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9867,15 +7237,7 @@
   },
   {
     "Name": "US-GA#461",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9897,15 +7259,7 @@
   },
   {
     "Name": "US-GA#462",
-    "Domain": {
-      "domain": "node-us-393.protonvpn.net",
-      "ipv4": [
-        "89.222.103.7"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6065::10"
-      ]
-    },
+    "Domain": "node-us-393.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9927,15 +7281,7 @@
   },
   {
     "Name": "US-GA#463",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9957,15 +7303,7 @@
   },
   {
     "Name": "US-GA#464",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -9987,15 +7325,7 @@
   },
   {
     "Name": "US-GA#465",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10017,15 +7347,7 @@
   },
   {
     "Name": "US-GA#466",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10047,15 +7369,7 @@
   },
   {
     "Name": "US-GA#467",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10077,15 +7391,7 @@
   },
   {
     "Name": "US-GA#468",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10107,15 +7413,7 @@
   },
   {
     "Name": "US-GA#469",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10137,15 +7435,7 @@
   },
   {
     "Name": "US-GA#470",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10167,15 +7457,7 @@
   },
   {
     "Name": "US-GA#471",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10197,15 +7479,7 @@
   },
   {
     "Name": "US-GA#472",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10227,15 +7501,7 @@
   },
   {
     "Name": "US-GA#473",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10257,15 +7523,7 @@
   },
   {
     "Name": "US-GA#474",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10287,15 +7545,7 @@
   },
   {
     "Name": "US-GA#475",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10317,15 +7567,7 @@
   },
   {
     "Name": "US-GA#476",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10347,15 +7589,7 @@
   },
   {
     "Name": "US-GA#477",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10377,15 +7611,7 @@
   },
   {
     "Name": "US-GA#478",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10407,15 +7633,7 @@
   },
   {
     "Name": "US-GA#479",
-    "Domain": {
-      "domain": "node-us-394.protonvpn.net",
-      "ipv4": [
-        "89.222.103.5"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6066::10"
-      ]
-    },
+    "Domain": "node-us-394.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10437,15 +7655,7 @@
   },
   {
     "Name": "US-GA#480",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10467,15 +7677,7 @@
   },
   {
     "Name": "US-GA#481",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10497,15 +7699,7 @@
   },
   {
     "Name": "US-GA#482",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10527,15 +7721,7 @@
   },
   {
     "Name": "US-GA#483",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10557,15 +7743,7 @@
   },
   {
     "Name": "US-GA#484",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10587,15 +7765,7 @@
   },
   {
     "Name": "US-GA#485",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10617,15 +7787,7 @@
   },
   {
     "Name": "US-GA#486",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10647,15 +7809,7 @@
   },
   {
     "Name": "US-GA#487",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10677,15 +7831,7 @@
   },
   {
     "Name": "US-GA#488",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10707,15 +7853,7 @@
   },
   {
     "Name": "US-GA#489",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10737,15 +7875,7 @@
   },
   {
     "Name": "US-GA#490",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10767,15 +7897,7 @@
   },
   {
     "Name": "US-GA#491",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10797,15 +7919,7 @@
   },
   {
     "Name": "US-GA#492",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10827,15 +7941,7 @@
   },
   {
     "Name": "US-GA#493",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10857,15 +7963,7 @@
   },
   {
     "Name": "US-GA#494",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10887,15 +7985,7 @@
   },
   {
     "Name": "US-GA#495",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10917,15 +8007,7 @@
   },
   {
     "Name": "US-GA#496",
-    "Domain": {
-      "domain": "node-us-395.protonvpn.net",
-      "ipv4": [
-        "89.222.103.4"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6067::10"
-      ]
-    },
+    "Domain": "node-us-395.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10947,15 +8029,7 @@
   },
   {
     "Name": "US-GA#497",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -10977,15 +8051,7 @@
   },
   {
     "Name": "US-GA#498",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11007,15 +8073,7 @@
   },
   {
     "Name": "US-GA#499",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11037,15 +8095,7 @@
   },
   {
     "Name": "US-GA#500",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11067,15 +8117,7 @@
   },
   {
     "Name": "US-GA#501",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11097,15 +8139,7 @@
   },
   {
     "Name": "US-GA#502",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11127,15 +8161,7 @@
   },
   {
     "Name": "US-GA#503",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11157,15 +8183,7 @@
   },
   {
     "Name": "US-GA#504",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11187,15 +8205,7 @@
   },
   {
     "Name": "US-GA#505",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11217,15 +8227,7 @@
   },
   {
     "Name": "US-GA#506",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11247,15 +8249,7 @@
   },
   {
     "Name": "US-GA#507",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11277,15 +8271,7 @@
   },
   {
     "Name": "US-GA#508",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11307,15 +8293,7 @@
   },
   {
     "Name": "US-GA#509",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11337,15 +8315,7 @@
   },
   {
     "Name": "US-GA#510",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11367,15 +8337,7 @@
   },
   {
     "Name": "US-GA#511",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11397,15 +8359,7 @@
   },
   {
     "Name": "US-GA#512",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11427,15 +8381,7 @@
   },
   {
     "Name": "US-GA#513",
-    "Domain": {
-      "domain": "node-us-396.protonvpn.net",
-      "ipv4": [
-        "89.222.103.6"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6068::10"
-      ]
-    },
+    "Domain": "node-us-396.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11457,15 +8403,7 @@
   },
   {
     "Name": "US-GA#514",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11487,15 +8425,7 @@
   },
   {
     "Name": "US-GA#515",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11517,15 +8447,7 @@
   },
   {
     "Name": "US-GA#516",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11547,15 +8469,7 @@
   },
   {
     "Name": "US-GA#517",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11577,15 +8491,7 @@
   },
   {
     "Name": "US-GA#518",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11607,15 +8513,7 @@
   },
   {
     "Name": "US-GA#519",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11637,15 +8535,7 @@
   },
   {
     "Name": "US-GA#520",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11667,15 +8557,7 @@
   },
   {
     "Name": "US-GA#521",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11697,15 +8579,7 @@
   },
   {
     "Name": "US-GA#522",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11727,15 +8601,7 @@
   },
   {
     "Name": "US-GA#523",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11757,15 +8623,7 @@
   },
   {
     "Name": "US-GA#524",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11787,15 +8645,7 @@
   },
   {
     "Name": "US-GA#525",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11817,15 +8667,7 @@
   },
   {
     "Name": "US-GA#526",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11847,15 +8689,7 @@
   },
   {
     "Name": "US-GA#527",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11877,15 +8711,7 @@
   },
   {
     "Name": "US-GA#528",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11907,15 +8733,7 @@
   },
   {
     "Name": "US-GA#529",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11937,15 +8755,7 @@
   },
   {
     "Name": "US-GA#530",
-    "Domain": {
-      "domain": "node-us-397.protonvpn.net",
-      "ipv4": [
-        "89.222.103.2"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6069::10"
-      ]
-    },
+    "Domain": "node-us-397.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11967,15 +8777,7 @@
   },
   {
     "Name": "US-GA#548",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -11997,15 +8799,7 @@
   },
   {
     "Name": "US-GA#549",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12027,15 +8821,7 @@
   },
   {
     "Name": "US-GA#550",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12057,15 +8843,7 @@
   },
   {
     "Name": "US-GA#551",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12087,15 +8865,7 @@
   },
   {
     "Name": "US-GA#552",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12117,15 +8887,7 @@
   },
   {
     "Name": "US-GA#553",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12147,15 +8909,7 @@
   },
   {
     "Name": "US-GA#554",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12177,15 +8931,7 @@
   },
   {
     "Name": "US-GA#555",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12207,15 +8953,7 @@
   },
   {
     "Name": "US-GA#556",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12237,15 +8975,7 @@
   },
   {
     "Name": "US-GA#557",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12267,15 +8997,7 @@
   },
   {
     "Name": "US-GA#558",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12297,15 +9019,7 @@
   },
   {
     "Name": "US-GA#559",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12327,15 +9041,7 @@
   },
   {
     "Name": "US-GA#560",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12357,15 +9063,7 @@
   },
   {
     "Name": "US-GA#561",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12387,15 +9085,7 @@
   },
   {
     "Name": "US-GA#562",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12417,15 +9107,7 @@
   },
   {
     "Name": "US-GA#563",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12447,15 +9129,7 @@
   },
   {
     "Name": "US-GA#564",
-    "Domain": {
-      "domain": "node-us-399.protonvpn.net",
-      "ipv4": [
-        "89.222.103.3"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6071::10"
-      ]
-    },
+    "Domain": "node-us-399.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12477,15 +9151,7 @@
   },
   {
     "Name": "US-GA#565",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12507,15 +9173,7 @@
   },
   {
     "Name": "US-GA#566",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12537,15 +9195,7 @@
   },
   {
     "Name": "US-GA#567",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12567,15 +9217,7 @@
   },
   {
     "Name": "US-GA#568",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12597,15 +9239,7 @@
   },
   {
     "Name": "US-GA#569",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12627,15 +9261,7 @@
   },
   {
     "Name": "US-GA#570",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12657,15 +9283,7 @@
   },
   {
     "Name": "US-GA#571",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12687,15 +9305,7 @@
   },
   {
     "Name": "US-GA#572",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12717,15 +9327,7 @@
   },
   {
     "Name": "US-GA#573",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12747,15 +9349,7 @@
   },
   {
     "Name": "US-GA#574",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12777,15 +9371,7 @@
   },
   {
     "Name": "US-GA#575",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12807,15 +9393,7 @@
   },
   {
     "Name": "US-GA#576",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12837,15 +9415,7 @@
   },
   {
     "Name": "US-GA#577",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12867,15 +9437,7 @@
   },
   {
     "Name": "US-GA#578",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12897,15 +9459,7 @@
   },
   {
     "Name": "US-GA#579",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12927,15 +9481,7 @@
   },
   {
     "Name": "US-GA#580",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [
@@ -12957,15 +9503,7 @@
   },
   {
     "Name": "US-GA#581",
-    "Domain": {
-      "domain": "node-us-398.protonvpn.net",
-      "ipv4": [
-        "89.222.103.8"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c10d:6070::10"
-      ]
-    },
+    "Domain": "node-us-398.protonvpn.net",
     "City": "Atlanta",
     "ipv6Enabled": true,
     "Servers": [

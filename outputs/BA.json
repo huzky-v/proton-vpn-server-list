@@ -1,13 +1,7 @@
 [
   {
     "Name": "BA#1",
-    "Domain": {
-      "domain": "node-ba-01.protonvpn.net",
-      "ipv4": [
-        "185.212.111.98"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ba-01.protonvpn.net",
     "City": "Novi Travnik",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "BA#10",
-    "Domain": {
-      "domain": "node-ba-01.protonvpn.net",
-      "ipv4": [
-        "185.212.111.98"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ba-01.protonvpn.net",
     "City": "Novi Travnik",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "BA#2",
-    "Domain": {
-      "domain": "node-ba-01.protonvpn.net",
-      "ipv4": [
-        "185.212.111.98"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ba-01.protonvpn.net",
     "City": "Novi Travnik",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "BA#3",
-    "Domain": {
-      "domain": "node-ba-01.protonvpn.net",
-      "ipv4": [
-        "185.212.111.98"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ba-01.protonvpn.net",
     "City": "Novi Travnik",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "BA#4",
-    "Domain": {
-      "domain": "node-ba-01.protonvpn.net",
-      "ipv4": [
-        "185.212.111.98"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ba-01.protonvpn.net",
     "City": "Novi Travnik",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "BA#5",
-    "Domain": {
-      "domain": "node-ba-01.protonvpn.net",
-      "ipv4": [
-        "185.212.111.98"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ba-01.protonvpn.net",
     "City": "Novi Travnik",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "BA#6",
-    "Domain": {
-      "domain": "node-ba-01.protonvpn.net",
-      "ipv4": [
-        "185.212.111.98"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ba-01.protonvpn.net",
     "City": "Novi Travnik",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "BA#7",
-    "Domain": {
-      "domain": "node-ba-01.protonvpn.net",
-      "ipv4": [
-        "185.212.111.98"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ba-01.protonvpn.net",
     "City": "Novi Travnik",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,13 +161,7 @@
   },
   {
     "Name": "BA#8",
-    "Domain": {
-      "domain": "node-ba-01.protonvpn.net",
-      "ipv4": [
-        "185.212.111.98"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ba-01.protonvpn.net",
     "City": "Novi Travnik",
     "ipv6Enabled": false,
     "Servers": [
@@ -235,13 +181,7 @@
   },
   {
     "Name": "BA#9",
-    "Domain": {
-      "domain": "node-ba-01.protonvpn.net",
-      "ipv4": [
-        "185.212.111.98"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-ba-01.protonvpn.net",
     "City": "Novi Travnik",
     "ipv6Enabled": false,
     "Servers": [

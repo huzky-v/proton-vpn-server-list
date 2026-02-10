@@ -1,13 +1,7 @@
 [
   {
     "Name": "SI#1",
-    "Domain": {
-      "domain": "node-si-01.protonvpn.net",
-      "ipv4": [
-        "195.80.150.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-si-01.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "SI#2",
-    "Domain": {
-      "domain": "node-si-01.protonvpn.net",
-      "ipv4": [
-        "195.80.150.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-si-01.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "SI#3",
-    "Domain": {
-      "domain": "node-si-01.protonvpn.net",
-      "ipv4": [
-        "195.80.150.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-si-01.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "SI#4",
-    "Domain": {
-      "domain": "node-si-01.protonvpn.net",
-      "ipv4": [
-        "195.80.150.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-si-01.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "SI#5",
-    "Domain": {
-      "domain": "node-si-01.protonvpn.net",
-      "ipv4": [
-        "195.80.150.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-si-01.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "SI#6",
-    "Domain": {
-      "domain": "node-si-01.protonvpn.net",
-      "ipv4": [
-        "195.80.150.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-si-01.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "SI#7",
-    "Domain": {
-      "domain": "node-si-01.protonvpn.net",
-      "ipv4": [
-        "195.80.150.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-si-01.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "SI#8",
-    "Domain": {
-      "domain": "node-si-01.protonvpn.net",
-      "ipv4": [
-        "195.80.150.226"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-si-01.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,15 +161,7 @@
   },
   {
     "Name": "SI#10",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -239,15 +183,7 @@
   },
   {
     "Name": "SI#11",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -269,15 +205,7 @@
   },
   {
     "Name": "SI#12",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -299,15 +227,7 @@
   },
   {
     "Name": "SI#13",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -329,15 +249,7 @@
   },
   {
     "Name": "SI#14",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -359,15 +271,7 @@
   },
   {
     "Name": "SI#15",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -389,15 +293,7 @@
   },
   {
     "Name": "SI#16",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -419,15 +315,7 @@
   },
   {
     "Name": "SI#17",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -449,15 +337,7 @@
   },
   {
     "Name": "SI#18",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -479,15 +359,7 @@
   },
   {
     "Name": "SI#19",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -509,15 +381,7 @@
   },
   {
     "Name": "SI#20",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -539,15 +403,7 @@
   },
   {
     "Name": "SI#21",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -569,15 +425,7 @@
   },
   {
     "Name": "SI#22",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -599,15 +447,7 @@
   },
   {
     "Name": "SI#23",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -629,15 +469,7 @@
   },
   {
     "Name": "SI#24",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -659,15 +491,7 @@
   },
   {
     "Name": "SI#25",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -689,15 +513,7 @@
   },
   {
     "Name": "SI#26",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -719,15 +535,7 @@
   },
   {
     "Name": "SI#27",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -749,15 +557,7 @@
   },
   {
     "Name": "SI#28",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -779,15 +579,7 @@
   },
   {
     "Name": "SI#29",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -809,15 +601,7 @@
   },
   {
     "Name": "SI#30",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -839,15 +623,7 @@
   },
   {
     "Name": "SI#31",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -869,15 +645,7 @@
   },
   {
     "Name": "SI#32",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -899,15 +667,7 @@
   },
   {
     "Name": "SI#33",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -929,15 +689,7 @@
   },
   {
     "Name": "SI#34",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -959,15 +711,7 @@
   },
   {
     "Name": "SI#35",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -989,15 +733,7 @@
   },
   {
     "Name": "SI#36",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1019,15 +755,7 @@
   },
   {
     "Name": "SI#37",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1049,15 +777,7 @@
   },
   {
     "Name": "SI#38",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1079,15 +799,7 @@
   },
   {
     "Name": "SI#39",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1109,15 +821,7 @@
   },
   {
     "Name": "SI#40",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1139,15 +843,7 @@
   },
   {
     "Name": "SI#41",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1169,15 +865,7 @@
   },
   {
     "Name": "SI#42",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1199,15 +887,7 @@
   },
   {
     "Name": "SI#43",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1229,15 +909,7 @@
   },
   {
     "Name": "SI#44",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1259,15 +931,7 @@
   },
   {
     "Name": "SI#45",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1289,15 +953,7 @@
   },
   {
     "Name": "SI#46",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1319,15 +975,7 @@
   },
   {
     "Name": "SI#47",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1349,15 +997,7 @@
   },
   {
     "Name": "SI#48",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1379,15 +1019,7 @@
   },
   {
     "Name": "SI#49",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1409,15 +1041,7 @@
   },
   {
     "Name": "SI#50",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1439,15 +1063,7 @@
   },
   {
     "Name": "SI#51",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1469,15 +1085,7 @@
   },
   {
     "Name": "SI#52",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1499,15 +1107,7 @@
   },
   {
     "Name": "SI#53",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1529,15 +1129,7 @@
   },
   {
     "Name": "SI#54",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1559,15 +1151,7 @@
   },
   {
     "Name": "SI#55",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1589,15 +1173,7 @@
   },
   {
     "Name": "SI#56",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1619,15 +1195,7 @@
   },
   {
     "Name": "SI#57",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1649,15 +1217,7 @@
   },
   {
     "Name": "SI#58",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1679,15 +1239,7 @@
   },
   {
     "Name": "SI#59",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1709,15 +1261,7 @@
   },
   {
     "Name": "SI#60",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1739,15 +1283,7 @@
   },
   {
     "Name": "SI#61",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1769,15 +1305,7 @@
   },
   {
     "Name": "SI#62",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1799,15 +1327,7 @@
   },
   {
     "Name": "SI#63",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1829,15 +1349,7 @@
   },
   {
     "Name": "SI#64",
-    "Domain": {
-      "domain": "node-si-03.protonvpn.net",
-      "ipv4": [
-        "130.195.245.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::10"
-      ]
-    },
+    "Domain": "node-si-03.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [
@@ -1859,15 +1371,7 @@
   },
   {
     "Name": "SI#9",
-    "Domain": {
-      "domain": "node-si-02.protonvpn.net",
-      "ipv4": [
-        "130.195.245.3"
-      ],
-      "ipv6": [
-        "2a0d:5600:96:1::50"
-      ]
-    },
+    "Domain": "node-si-02.protonvpn.net",
     "City": "Ljubljana",
     "ipv6Enabled": true,
     "Servers": [

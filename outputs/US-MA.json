@@ -1,13 +1,7 @@
 [
   {
     "Name": "US-MA#1",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "US-MA#10",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "US-MA#11",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "US-MA#12",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "US-MA#13",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "US-MA#14",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "US-MA#15",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "US-MA#16",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,13 +161,7 @@
   },
   {
     "Name": "US-MA#17",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -235,13 +181,7 @@
   },
   {
     "Name": "US-MA#18",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -261,13 +201,7 @@
   },
   {
     "Name": "US-MA#19",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -287,13 +221,7 @@
   },
   {
     "Name": "US-MA#2",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -313,13 +241,7 @@
   },
   {
     "Name": "US-MA#20",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -339,13 +261,7 @@
   },
   {
     "Name": "US-MA#21",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -365,13 +281,7 @@
   },
   {
     "Name": "US-MA#22",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -391,13 +301,7 @@
   },
   {
     "Name": "US-MA#23",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -417,13 +321,7 @@
   },
   {
     "Name": "US-MA#24",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -443,13 +341,7 @@
   },
   {
     "Name": "US-MA#25",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -469,13 +361,7 @@
   },
   {
     "Name": "US-MA#26",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -495,13 +381,7 @@
   },
   {
     "Name": "US-MA#27",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -521,13 +401,7 @@
   },
   {
     "Name": "US-MA#28",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -547,13 +421,7 @@
   },
   {
     "Name": "US-MA#29",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -573,13 +441,7 @@
   },
   {
     "Name": "US-MA#3",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -599,13 +461,7 @@
   },
   {
     "Name": "US-MA#30",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -625,13 +481,7 @@
   },
   {
     "Name": "US-MA#31",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -651,13 +501,7 @@
   },
   {
     "Name": "US-MA#32",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -677,13 +521,7 @@
   },
   {
     "Name": "US-MA#33",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -703,13 +541,7 @@
   },
   {
     "Name": "US-MA#34",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -729,13 +561,7 @@
   },
   {
     "Name": "US-MA#35",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -755,13 +581,7 @@
   },
   {
     "Name": "US-MA#36",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -781,13 +601,7 @@
   },
   {
     "Name": "US-MA#37",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -807,13 +621,7 @@
   },
   {
     "Name": "US-MA#38",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -833,13 +641,7 @@
   },
   {
     "Name": "US-MA#39",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -859,13 +661,7 @@
   },
   {
     "Name": "US-MA#4",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -885,13 +681,7 @@
   },
   {
     "Name": "US-MA#40",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -911,13 +701,7 @@
   },
   {
     "Name": "US-MA#41",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -937,13 +721,7 @@
   },
   {
     "Name": "US-MA#42",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -963,13 +741,7 @@
   },
   {
     "Name": "US-MA#43",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -989,13 +761,7 @@
   },
   {
     "Name": "US-MA#44",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1015,13 +781,7 @@
   },
   {
     "Name": "US-MA#45",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1041,13 +801,7 @@
   },
   {
     "Name": "US-MA#46",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1067,13 +821,7 @@
   },
   {
     "Name": "US-MA#47",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1093,13 +841,7 @@
   },
   {
     "Name": "US-MA#48",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1119,13 +861,7 @@
   },
   {
     "Name": "US-MA#49",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1145,13 +881,7 @@
   },
   {
     "Name": "US-MA#5",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1171,13 +901,7 @@
   },
   {
     "Name": "US-MA#50",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1197,13 +921,7 @@
   },
   {
     "Name": "US-MA#51",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1223,13 +941,7 @@
   },
   {
     "Name": "US-MA#52",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1249,13 +961,7 @@
   },
   {
     "Name": "US-MA#53",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1275,13 +981,7 @@
   },
   {
     "Name": "US-MA#54",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1301,13 +1001,7 @@
   },
   {
     "Name": "US-MA#55",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1327,13 +1021,7 @@
   },
   {
     "Name": "US-MA#56",
-    "Domain": {
-      "domain": "node-us-318.protonvpn.net",
-      "ipv4": [
-        "79.127.160.158"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-318.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1353,13 +1041,7 @@
   },
   {
     "Name": "US-MA#57",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1379,13 +1061,7 @@
   },
   {
     "Name": "US-MA#58",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1405,13 +1081,7 @@
   },
   {
     "Name": "US-MA#59",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1431,13 +1101,7 @@
   },
   {
     "Name": "US-MA#6",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1457,13 +1121,7 @@
   },
   {
     "Name": "US-MA#60",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1483,13 +1141,7 @@
   },
   {
     "Name": "US-MA#61",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1509,13 +1161,7 @@
   },
   {
     "Name": "US-MA#62",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1535,13 +1181,7 @@
   },
   {
     "Name": "US-MA#63",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1561,13 +1201,7 @@
   },
   {
     "Name": "US-MA#64",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1587,13 +1221,7 @@
   },
   {
     "Name": "US-MA#65",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1613,13 +1241,7 @@
   },
   {
     "Name": "US-MA#66",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1639,13 +1261,7 @@
   },
   {
     "Name": "US-MA#67",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1665,13 +1281,7 @@
   },
   {
     "Name": "US-MA#68",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1691,13 +1301,7 @@
   },
   {
     "Name": "US-MA#69",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1717,13 +1321,7 @@
   },
   {
     "Name": "US-MA#7",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1743,13 +1341,7 @@
   },
   {
     "Name": "US-MA#70",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1769,13 +1361,7 @@
   },
   {
     "Name": "US-MA#71",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1795,13 +1381,7 @@
   },
   {
     "Name": "US-MA#72",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1821,13 +1401,7 @@
   },
   {
     "Name": "US-MA#73",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1847,13 +1421,7 @@
   },
   {
     "Name": "US-MA#74",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1873,13 +1441,7 @@
   },
   {
     "Name": "US-MA#75",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1899,13 +1461,7 @@
   },
   {
     "Name": "US-MA#76",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1925,13 +1481,7 @@
   },
   {
     "Name": "US-MA#77",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1951,13 +1501,7 @@
   },
   {
     "Name": "US-MA#78",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -1977,13 +1521,7 @@
   },
   {
     "Name": "US-MA#79",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -2003,13 +1541,7 @@
   },
   {
     "Name": "US-MA#8",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -2029,13 +1561,7 @@
   },
   {
     "Name": "US-MA#80",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -2055,13 +1581,7 @@
   },
   {
     "Name": "US-MA#81",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -2081,13 +1601,7 @@
   },
   {
     "Name": "US-MA#82",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -2107,13 +1621,7 @@
   },
   {
     "Name": "US-MA#83",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -2133,13 +1641,7 @@
   },
   {
     "Name": "US-MA#84",
-    "Domain": {
-      "domain": "node-us-319.protonvpn.net",
-      "ipv4": [
-        "79.127.160.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-319.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -2159,13 +1661,7 @@
   },
   {
     "Name": "US-MA#9",
-    "Domain": {
-      "domain": "node-us-317.protonvpn.net",
-      "ipv4": [
-        "79.127.160.187"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-us-317.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": false,
     "Servers": [
@@ -2185,15 +1681,7 @@
   },
   {
     "Name": "US-MA#100",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2215,15 +1703,7 @@
   },
   {
     "Name": "US-MA#101",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2245,15 +1725,7 @@
   },
   {
     "Name": "US-MA#102",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2275,15 +1747,7 @@
   },
   {
     "Name": "US-MA#103",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2305,15 +1769,7 @@
   },
   {
     "Name": "US-MA#104",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2335,15 +1791,7 @@
   },
   {
     "Name": "US-MA#105",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2365,15 +1813,7 @@
   },
   {
     "Name": "US-MA#106",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2395,15 +1835,7 @@
   },
   {
     "Name": "US-MA#107",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2425,15 +1857,7 @@
   },
   {
     "Name": "US-MA#108",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2455,15 +1879,7 @@
   },
   {
     "Name": "US-MA#109",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2485,15 +1901,7 @@
   },
   {
     "Name": "US-MA#110",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2515,15 +1923,7 @@
   },
   {
     "Name": "US-MA#111",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2545,15 +1945,7 @@
   },
   {
     "Name": "US-MA#112",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2575,15 +1967,7 @@
   },
   {
     "Name": "US-MA#113",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2605,15 +1989,7 @@
   },
   {
     "Name": "US-MA#114",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2635,15 +2011,7 @@
   },
   {
     "Name": "US-MA#115",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2665,15 +2033,7 @@
   },
   {
     "Name": "US-MA#116",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2695,15 +2055,7 @@
   },
   {
     "Name": "US-MA#117",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2725,15 +2077,7 @@
   },
   {
     "Name": "US-MA#118",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2755,15 +2099,7 @@
   },
   {
     "Name": "US-MA#119",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2785,15 +2121,7 @@
   },
   {
     "Name": "US-MA#120",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2815,15 +2143,7 @@
   },
   {
     "Name": "US-MA#121",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2845,15 +2165,7 @@
   },
   {
     "Name": "US-MA#122",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2875,15 +2187,7 @@
   },
   {
     "Name": "US-MA#123",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2905,15 +2209,7 @@
   },
   {
     "Name": "US-MA#124",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2935,15 +2231,7 @@
   },
   {
     "Name": "US-MA#125",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2965,15 +2253,7 @@
   },
   {
     "Name": "US-MA#126",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -2995,15 +2275,7 @@
   },
   {
     "Name": "US-MA#127",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3025,15 +2297,7 @@
   },
   {
     "Name": "US-MA#128",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3055,15 +2319,7 @@
   },
   {
     "Name": "US-MA#129",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3085,15 +2341,7 @@
   },
   {
     "Name": "US-MA#130",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3115,15 +2363,7 @@
   },
   {
     "Name": "US-MA#131",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3145,15 +2385,7 @@
   },
   {
     "Name": "US-MA#132",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3175,15 +2407,7 @@
   },
   {
     "Name": "US-MA#133",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3205,15 +2429,7 @@
   },
   {
     "Name": "US-MA#134",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3235,15 +2451,7 @@
   },
   {
     "Name": "US-MA#135",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3265,15 +2473,7 @@
   },
   {
     "Name": "US-MA#136",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3295,15 +2495,7 @@
   },
   {
     "Name": "US-MA#137",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3325,15 +2517,7 @@
   },
   {
     "Name": "US-MA#138",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3355,15 +2539,7 @@
   },
   {
     "Name": "US-MA#139",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3385,15 +2561,7 @@
   },
   {
     "Name": "US-MA#140",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3415,15 +2583,7 @@
   },
   {
     "Name": "US-MA#141",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3445,15 +2605,7 @@
   },
   {
     "Name": "US-MA#142",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3475,15 +2627,7 @@
   },
   {
     "Name": "US-MA#143",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3505,15 +2649,7 @@
   },
   {
     "Name": "US-MA#144",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3535,15 +2671,7 @@
   },
   {
     "Name": "US-MA#145",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3565,15 +2693,7 @@
   },
   {
     "Name": "US-MA#146",
-    "Domain": {
-      "domain": "node-us-409.protonvpn.net",
-      "ipv4": [
-        "62.93.176.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6589::10"
-      ]
-    },
+    "Domain": "node-us-409.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3595,15 +2715,7 @@
   },
   {
     "Name": "US-MA#147",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3625,15 +2737,7 @@
   },
   {
     "Name": "US-MA#148",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3655,15 +2759,7 @@
   },
   {
     "Name": "US-MA#149",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3685,15 +2781,7 @@
   },
   {
     "Name": "US-MA#150",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3715,15 +2803,7 @@
   },
   {
     "Name": "US-MA#151",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3745,15 +2825,7 @@
   },
   {
     "Name": "US-MA#152",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3775,15 +2847,7 @@
   },
   {
     "Name": "US-MA#153",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3805,15 +2869,7 @@
   },
   {
     "Name": "US-MA#154",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3835,15 +2891,7 @@
   },
   {
     "Name": "US-MA#155",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3865,15 +2913,7 @@
   },
   {
     "Name": "US-MA#156",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3895,15 +2935,7 @@
   },
   {
     "Name": "US-MA#157",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3925,15 +2957,7 @@
   },
   {
     "Name": "US-MA#158",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3955,15 +2979,7 @@
   },
   {
     "Name": "US-MA#159",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -3985,15 +3001,7 @@
   },
   {
     "Name": "US-MA#160",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4015,15 +3023,7 @@
   },
   {
     "Name": "US-MA#161",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4045,15 +3045,7 @@
   },
   {
     "Name": "US-MA#162",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4075,15 +3067,7 @@
   },
   {
     "Name": "US-MA#163",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4105,15 +3089,7 @@
   },
   {
     "Name": "US-MA#164",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4135,15 +3111,7 @@
   },
   {
     "Name": "US-MA#165",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4165,15 +3133,7 @@
   },
   {
     "Name": "US-MA#166",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4195,15 +3155,7 @@
   },
   {
     "Name": "US-MA#167",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4225,15 +3177,7 @@
   },
   {
     "Name": "US-MA#168",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4255,15 +3199,7 @@
   },
   {
     "Name": "US-MA#169",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4285,15 +3221,7 @@
   },
   {
     "Name": "US-MA#170",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4315,15 +3243,7 @@
   },
   {
     "Name": "US-MA#171",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4345,15 +3265,7 @@
   },
   {
     "Name": "US-MA#172",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4375,15 +3287,7 @@
   },
   {
     "Name": "US-MA#173",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4405,15 +3309,7 @@
   },
   {
     "Name": "US-MA#174",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4435,15 +3331,7 @@
   },
   {
     "Name": "US-MA#175",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4465,15 +3353,7 @@
   },
   {
     "Name": "US-MA#176",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4495,15 +3375,7 @@
   },
   {
     "Name": "US-MA#177",
-    "Domain": {
-      "domain": "node-us-410.protonvpn.net",
-      "ipv4": [
-        "62.93.176.130"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6590::10"
-      ]
-    },
+    "Domain": "node-us-410.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4525,15 +3397,7 @@
   },
   {
     "Name": "US-MA#178",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4555,15 +3419,7 @@
   },
   {
     "Name": "US-MA#179",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4585,15 +3441,7 @@
   },
   {
     "Name": "US-MA#180",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4615,15 +3463,7 @@
   },
   {
     "Name": "US-MA#181",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4645,15 +3485,7 @@
   },
   {
     "Name": "US-MA#182",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4675,15 +3507,7 @@
   },
   {
     "Name": "US-MA#183",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4705,15 +3529,7 @@
   },
   {
     "Name": "US-MA#184",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4735,15 +3551,7 @@
   },
   {
     "Name": "US-MA#185",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4765,15 +3573,7 @@
   },
   {
     "Name": "US-MA#186",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4795,15 +3595,7 @@
   },
   {
     "Name": "US-MA#187",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4825,15 +3617,7 @@
   },
   {
     "Name": "US-MA#188",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4855,15 +3639,7 @@
   },
   {
     "Name": "US-MA#189",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4885,15 +3661,7 @@
   },
   {
     "Name": "US-MA#190",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4915,15 +3683,7 @@
   },
   {
     "Name": "US-MA#191",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4945,15 +3705,7 @@
   },
   {
     "Name": "US-MA#192",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -4975,15 +3727,7 @@
   },
   {
     "Name": "US-MA#193",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5005,15 +3749,7 @@
   },
   {
     "Name": "US-MA#194",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5035,15 +3771,7 @@
   },
   {
     "Name": "US-MA#195",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5065,15 +3793,7 @@
   },
   {
     "Name": "US-MA#196",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5095,15 +3815,7 @@
   },
   {
     "Name": "US-MA#197",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5125,15 +3837,7 @@
   },
   {
     "Name": "US-MA#198",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5155,15 +3859,7 @@
   },
   {
     "Name": "US-MA#199",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5185,15 +3881,7 @@
   },
   {
     "Name": "US-MA#200",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5215,15 +3903,7 @@
   },
   {
     "Name": "US-MA#201",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5245,15 +3925,7 @@
   },
   {
     "Name": "US-MA#202",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5275,15 +3947,7 @@
   },
   {
     "Name": "US-MA#203",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5305,15 +3969,7 @@
   },
   {
     "Name": "US-MA#204",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5335,15 +3991,7 @@
   },
   {
     "Name": "US-MA#205",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5365,15 +4013,7 @@
   },
   {
     "Name": "US-MA#206",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5395,15 +4035,7 @@
   },
   {
     "Name": "US-MA#207",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5425,15 +4057,7 @@
   },
   {
     "Name": "US-MA#208",
-    "Domain": {
-      "domain": "node-us-411.protonvpn.net",
-      "ipv4": [
-        "79.127.160.244"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6591::10"
-      ]
-    },
+    "Domain": "node-us-411.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5455,15 +4079,7 @@
   },
   {
     "Name": "US-MA#209",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5485,15 +4101,7 @@
   },
   {
     "Name": "US-MA#210",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5515,15 +4123,7 @@
   },
   {
     "Name": "US-MA#211",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5545,15 +4145,7 @@
   },
   {
     "Name": "US-MA#212",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5575,15 +4167,7 @@
   },
   {
     "Name": "US-MA#213",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5605,15 +4189,7 @@
   },
   {
     "Name": "US-MA#214",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5635,15 +4211,7 @@
   },
   {
     "Name": "US-MA#215",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5665,15 +4233,7 @@
   },
   {
     "Name": "US-MA#216",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5695,15 +4255,7 @@
   },
   {
     "Name": "US-MA#217",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5725,15 +4277,7 @@
   },
   {
     "Name": "US-MA#218",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5755,15 +4299,7 @@
   },
   {
     "Name": "US-MA#219",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5785,15 +4321,7 @@
   },
   {
     "Name": "US-MA#220",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5815,15 +4343,7 @@
   },
   {
     "Name": "US-MA#221",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5845,15 +4365,7 @@
   },
   {
     "Name": "US-MA#222",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5875,15 +4387,7 @@
   },
   {
     "Name": "US-MA#223",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5905,15 +4409,7 @@
   },
   {
     "Name": "US-MA#224",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5935,15 +4431,7 @@
   },
   {
     "Name": "US-MA#225",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5965,15 +4453,7 @@
   },
   {
     "Name": "US-MA#226",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -5995,15 +4475,7 @@
   },
   {
     "Name": "US-MA#227",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6025,15 +4497,7 @@
   },
   {
     "Name": "US-MA#228",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6055,15 +4519,7 @@
   },
   {
     "Name": "US-MA#229",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6085,15 +4541,7 @@
   },
   {
     "Name": "US-MA#230",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6115,15 +4563,7 @@
   },
   {
     "Name": "US-MA#231",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6145,15 +4585,7 @@
   },
   {
     "Name": "US-MA#232",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6175,15 +4607,7 @@
   },
   {
     "Name": "US-MA#233",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6205,15 +4629,7 @@
   },
   {
     "Name": "US-MA#234",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6235,15 +4651,7 @@
   },
   {
     "Name": "US-MA#235",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6265,15 +4673,7 @@
   },
   {
     "Name": "US-MA#236",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6295,15 +4695,7 @@
   },
   {
     "Name": "US-MA#237",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6325,15 +4717,7 @@
   },
   {
     "Name": "US-MA#238",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6355,15 +4739,7 @@
   },
   {
     "Name": "US-MA#239",
-    "Domain": {
-      "domain": "node-us-412.protonvpn.net",
-      "ipv4": [
-        "62.93.176.131"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6592::10"
-      ]
-    },
+    "Domain": "node-us-412.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6385,15 +4761,7 @@
   },
   {
     "Name": "US-MA#85",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6415,15 +4783,7 @@
   },
   {
     "Name": "US-MA#86",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6445,15 +4805,7 @@
   },
   {
     "Name": "US-MA#87",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6475,15 +4827,7 @@
   },
   {
     "Name": "US-MA#88",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6505,15 +4849,7 @@
   },
   {
     "Name": "US-MA#89",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6535,15 +4871,7 @@
   },
   {
     "Name": "US-MA#90",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6565,15 +4893,7 @@
   },
   {
     "Name": "US-MA#91",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6595,15 +4915,7 @@
   },
   {
     "Name": "US-MA#92",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6625,15 +4937,7 @@
   },
   {
     "Name": "US-MA#93",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6655,15 +4959,7 @@
   },
   {
     "Name": "US-MA#94",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6685,15 +4981,7 @@
   },
   {
     "Name": "US-MA#95",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6715,15 +5003,7 @@
   },
   {
     "Name": "US-MA#96",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6745,15 +5025,7 @@
   },
   {
     "Name": "US-MA#97",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6775,15 +5047,7 @@
   },
   {
     "Name": "US-MA#98",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [
@@ -6805,15 +5069,7 @@
   },
   {
     "Name": "US-MA#99",
-    "Domain": {
-      "domain": "node-us-408.protonvpn.net",
-      "ipv4": [
-        "79.127.160.216"
-      ],
-      "ipv6": [
-        "2a02:6ea0:f911:6588::10"
-      ]
-    },
+    "Domain": "node-us-408.protonvpn.net",
     "City": "Boston",
     "ipv6Enabled": true,
     "Servers": [

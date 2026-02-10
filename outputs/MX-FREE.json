@@ -1,13 +1,7 @@
 [
   {
     "Name": "MX-FREE#3",
-    "Domain": {
-      "domain": "node-mx-07.protonvpn.net",
-      "ipv4": [
-        "149.102.224.33"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-mx-07.protonvpn.net",
     "City": "Mexico City",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "MX-FREE#7",
-    "Domain": {
-      "domain": "node-mx-11.protonvpn.net",
-      "ipv4": [
-        "149.88.17.182"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-mx-11.protonvpn.net",
     "City": "Mexico City",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "MX-FREE#11",
-    "Domain": {
-      "domain": "node-mx-16.protonvpn.net",
-      "ipv4": [
-        "84.20.27.48"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-mx-16.protonvpn.net",
     "City": "Mexico City",
     "ipv6Enabled": false,
     "Servers": [

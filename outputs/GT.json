@@ -1,13 +1,7 @@
 [
   {
     "Name": "GT#1",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "GT#10",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "GT#11",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "GT#12",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "GT#13",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "GT#14",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "GT#15",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "GT#16",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,13 +161,7 @@
   },
   {
     "Name": "GT#17",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -235,13 +181,7 @@
   },
   {
     "Name": "GT#18",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -261,13 +201,7 @@
   },
   {
     "Name": "GT#19",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -287,13 +221,7 @@
   },
   {
     "Name": "GT#2",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -313,13 +241,7 @@
   },
   {
     "Name": "GT#20",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -339,13 +261,7 @@
   },
   {
     "Name": "GT#21",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -365,13 +281,7 @@
   },
   {
     "Name": "GT#22",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -391,13 +301,7 @@
   },
   {
     "Name": "GT#23",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -417,13 +321,7 @@
   },
   {
     "Name": "GT#24",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -443,13 +341,7 @@
   },
   {
     "Name": "GT#25",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -469,13 +361,7 @@
   },
   {
     "Name": "GT#26",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -495,13 +381,7 @@
   },
   {
     "Name": "GT#27",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -521,13 +401,7 @@
   },
   {
     "Name": "GT#28",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -547,13 +421,7 @@
   },
   {
     "Name": "GT#29",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -573,13 +441,7 @@
   },
   {
     "Name": "GT#3",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -599,13 +461,7 @@
   },
   {
     "Name": "GT#4",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -625,13 +481,7 @@
   },
   {
     "Name": "GT#5",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -651,13 +501,7 @@
   },
   {
     "Name": "GT#6",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -677,13 +521,7 @@
   },
   {
     "Name": "GT#7",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -703,13 +541,7 @@
   },
   {
     "Name": "GT#8",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [
@@ -729,13 +561,7 @@
   },
   {
     "Name": "GT#9",
-    "Domain": {
-      "domain": "node-gt-01.protonvpn.net",
-      "ipv4": [
-        "89.238.174.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-gt-01.protonvpn.net",
     "City": "Guatemala City",
     "ipv6Enabled": false,
     "Servers": [

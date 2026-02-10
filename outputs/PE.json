@@ -1,15 +1,7 @@
 [
   {
     "Name": "PE#25",
-    "Domain": {
-      "domain": "node-pe-04.protonvpn.net",
-      "ipv4": [
-        "138.199.50.105"
-      ],
-      "ipv6": [
-        "2a10:9007:3:a::10"
-      ]
-    },
+    "Domain": "node-pe-04.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "PE#26",
-    "Domain": {
-      "domain": "node-pe-04.protonvpn.net",
-      "ipv4": [
-        "138.199.50.105"
-      ],
-      "ipv6": [
-        "2a10:9007:3:a::10"
-      ]
-    },
+    "Domain": "node-pe-04.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "PE#27",
-    "Domain": {
-      "domain": "node-pe-04.protonvpn.net",
-      "ipv4": [
-        "138.199.50.105"
-      ],
-      "ipv6": [
-        "2a10:9007:3:a::10"
-      ]
-    },
+    "Domain": "node-pe-04.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "PE#28",
-    "Domain": {
-      "domain": "node-pe-04.protonvpn.net",
-      "ipv4": [
-        "138.199.50.105"
-      ],
-      "ipv6": [
-        "2a10:9007:3:a::10"
-      ]
-    },
+    "Domain": "node-pe-04.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "PE#29",
-    "Domain": {
-      "domain": "node-pe-04.protonvpn.net",
-      "ipv4": [
-        "138.199.50.105"
-      ],
-      "ipv6": [
-        "2a10:9007:3:a::10"
-      ]
-    },
+    "Domain": "node-pe-04.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "PE#30",
-    "Domain": {
-      "domain": "node-pe-04.protonvpn.net",
-      "ipv4": [
-        "138.199.50.105"
-      ],
-      "ipv6": [
-        "2a10:9007:3:a::10"
-      ]
-    },
+    "Domain": "node-pe-04.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "PE#31",
-    "Domain": {
-      "domain": "node-pe-04.protonvpn.net",
-      "ipv4": [
-        "138.199.50.105"
-      ],
-      "ipv6": [
-        "2a10:9007:3:a::10"
-      ]
-    },
+    "Domain": "node-pe-04.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "PE#32",
-    "Domain": {
-      "domain": "node-pe-04.protonvpn.net",
-      "ipv4": [
-        "138.199.50.105"
-      ],
-      "ipv6": [
-        "2a10:9007:3:a::10"
-      ]
-    },
+    "Domain": "node-pe-04.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "PE#33",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,15 +199,7 @@
   },
   {
     "Name": "PE#34",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -301,15 +221,7 @@
   },
   {
     "Name": "PE#35",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -331,15 +243,7 @@
   },
   {
     "Name": "PE#36",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -361,15 +265,7 @@
   },
   {
     "Name": "PE#37",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -391,15 +287,7 @@
   },
   {
     "Name": "PE#38",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -421,15 +309,7 @@
   },
   {
     "Name": "PE#39",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -451,15 +331,7 @@
   },
   {
     "Name": "PE#40",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -481,15 +353,7 @@
   },
   {
     "Name": "PE#41",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -511,15 +375,7 @@
   },
   {
     "Name": "PE#42",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -541,15 +397,7 @@
   },
   {
     "Name": "PE#43",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -571,15 +419,7 @@
   },
   {
     "Name": "PE#44",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -601,15 +441,7 @@
   },
   {
     "Name": "PE#45",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -631,15 +463,7 @@
   },
   {
     "Name": "PE#46",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -661,15 +485,7 @@
   },
   {
     "Name": "PE#47",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -691,15 +507,7 @@
   },
   {
     "Name": "PE#48",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -721,15 +529,7 @@
   },
   {
     "Name": "PE#49",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -751,15 +551,7 @@
   },
   {
     "Name": "PE#50",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -781,15 +573,7 @@
   },
   {
     "Name": "PE#51",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -811,15 +595,7 @@
   },
   {
     "Name": "PE#52",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -841,15 +617,7 @@
   },
   {
     "Name": "PE#53",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -871,15 +639,7 @@
   },
   {
     "Name": "PE#54",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -901,15 +661,7 @@
   },
   {
     "Name": "PE#55",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -931,15 +683,7 @@
   },
   {
     "Name": "PE#56",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -961,15 +705,7 @@
   },
   {
     "Name": "PE#57",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -991,15 +727,7 @@
   },
   {
     "Name": "PE#58",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -1021,15 +749,7 @@
   },
   {
     "Name": "PE#59",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -1051,15 +771,7 @@
   },
   {
     "Name": "PE#60",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -1081,15 +793,7 @@
   },
   {
     "Name": "PE#61",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [
@@ -1111,15 +815,7 @@
   },
   {
     "Name": "PE#62",
-    "Domain": {
-      "domain": "node-pe-05.protonvpn.net",
-      "ipv4": [
-        "79.127.176.29"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5505:7199::10"
-      ]
-    },
+    "Domain": "node-pe-05.protonvpn.net",
     "City": "Lima",
     "ipv6Enabled": true,
     "Servers": [

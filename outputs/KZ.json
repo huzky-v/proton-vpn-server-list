@@ -1,13 +1,7 @@
 [
   {
     "Name": "KZ#25",
-    "Domain": {
-      "domain": "kz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.80"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kz-02.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "KZ#26",
-    "Domain": {
-      "domain": "kz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.80"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kz-02.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "KZ#27",
-    "Domain": {
-      "domain": "kz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.80"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kz-02.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "KZ#28",
-    "Domain": {
-      "domain": "kz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.80"
-      ],
-      "ipv6": []
-    },
+    "Domain": "kz-02.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,15 +81,7 @@
   },
   {
     "Name": "KZ#1",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -135,15 +103,7 @@
   },
   {
     "Name": "KZ#10",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -165,15 +125,7 @@
   },
   {
     "Name": "KZ#11",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -195,15 +147,7 @@
   },
   {
     "Name": "KZ#12",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -225,15 +169,7 @@
   },
   {
     "Name": "KZ#13",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -255,15 +191,7 @@
   },
   {
     "Name": "KZ#14",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -285,15 +213,7 @@
   },
   {
     "Name": "KZ#15",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -315,15 +235,7 @@
   },
   {
     "Name": "KZ#16",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -345,15 +257,7 @@
   },
   {
     "Name": "KZ#17",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -375,15 +279,7 @@
   },
   {
     "Name": "KZ#18",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -405,15 +301,7 @@
   },
   {
     "Name": "KZ#19",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -435,15 +323,7 @@
   },
   {
     "Name": "KZ#2",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -465,15 +345,7 @@
   },
   {
     "Name": "KZ#20",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -495,15 +367,7 @@
   },
   {
     "Name": "KZ#3",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -525,15 +389,7 @@
   },
   {
     "Name": "KZ#4",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -555,15 +411,7 @@
   },
   {
     "Name": "KZ#5",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -585,15 +433,7 @@
   },
   {
     "Name": "KZ#6",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -615,15 +455,7 @@
   },
   {
     "Name": "KZ#7",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -645,15 +477,7 @@
   },
   {
     "Name": "KZ#8",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [
@@ -675,15 +499,7 @@
   },
   {
     "Name": "KZ#9",
-    "Domain": {
-      "domain": "node-kz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.11.2"
-      ],
-      "ipv6": [
-        "2a0d:5600:161:1::10"
-      ]
-    },
+    "Domain": "node-kz-03.protonvpn.net",
     "City": "Astana",
     "ipv6Enabled": true,
     "Servers": [

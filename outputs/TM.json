@@ -1,13 +1,7 @@
 [
   {
     "Name": "TM#25",
-    "Domain": {
-      "domain": "tm-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.188"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tm-02.protonvpn.net",
     "City": "Ashgabat",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "TM#26",
-    "Domain": {
-      "domain": "tm-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.188"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tm-02.protonvpn.net",
     "City": "Ashgabat",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "TM#27",
-    "Domain": {
-      "domain": "tm-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.188"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tm-02.protonvpn.net",
     "City": "Ashgabat",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "TM#28",
-    "Domain": {
-      "domain": "tm-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.188"
-      ],
-      "ipv6": []
-    },
+    "Domain": "tm-02.protonvpn.net",
     "City": "Ashgabat",
     "ipv6Enabled": false,
     "Servers": [

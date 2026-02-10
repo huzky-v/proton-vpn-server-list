@@ -1,13 +1,7 @@
 [
   {
     "Name": "DK#13",
-    "Domain": {
-      "domain": "node-dk-03.protonvpn.net",
-      "ipv4": [
-        "193.29.107.242"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-03.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "DK#14",
-    "Domain": {
-      "domain": "node-dk-03.protonvpn.net",
-      "ipv4": [
-        "193.29.107.242"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-03.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "DK#15",
-    "Domain": {
-      "domain": "node-dk-03.protonvpn.net",
-      "ipv4": [
-        "193.29.107.242"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-03.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "DK#16",
-    "Domain": {
-      "domain": "node-dk-03.protonvpn.net",
-      "ipv4": [
-        "193.29.107.242"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-03.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "DK#17",
-    "Domain": {
-      "domain": "node-dk-03.protonvpn.net",
-      "ipv4": [
-        "193.29.107.242"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-03.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "DK#18",
-    "Domain": {
-      "domain": "node-dk-03.protonvpn.net",
-      "ipv4": [
-        "193.29.107.242"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-03.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "DK#19",
-    "Domain": {
-      "domain": "node-dk-03.protonvpn.net",
-      "ipv4": [
-        "193.29.107.242"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-03.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "DK#20",
-    "Domain": {
-      "domain": "node-dk-03.protonvpn.net",
-      "ipv4": [
-        "193.29.107.242"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-03.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,15 +161,7 @@
   },
   {
     "Name": "DK#49",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -239,15 +183,7 @@
   },
   {
     "Name": "DK#50",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -269,15 +205,7 @@
   },
   {
     "Name": "DK#51",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -299,15 +227,7 @@
   },
   {
     "Name": "DK#52",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -329,15 +249,7 @@
   },
   {
     "Name": "DK#53",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -359,15 +271,7 @@
   },
   {
     "Name": "DK#54",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -389,15 +293,7 @@
   },
   {
     "Name": "DK#55",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -419,15 +315,7 @@
   },
   {
     "Name": "DK#56",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -449,15 +337,7 @@
   },
   {
     "Name": "DK#57",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -479,15 +359,7 @@
   },
   {
     "Name": "DK#58",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -509,15 +381,7 @@
   },
   {
     "Name": "DK#59",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -539,15 +403,7 @@
   },
   {
     "Name": "DK#60",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -569,15 +425,7 @@
   },
   {
     "Name": "DK#61",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -599,15 +447,7 @@
   },
   {
     "Name": "DK#62",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -629,15 +469,7 @@
   },
   {
     "Name": "DK#63",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -659,15 +491,7 @@
   },
   {
     "Name": "DK#64",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -689,15 +513,7 @@
   },
   {
     "Name": "DK#65",
-    "Domain": {
-      "domain": "node-dk-05.protonvpn.net",
-      "ipv4": [
-        "193.29.107.162"
-      ],
-      "ipv6": [
-        "2001:ac8:37:65::10"
-      ]
-    },
+    "Domain": "node-dk-05.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -719,15 +535,7 @@
   },
   {
     "Name": "DK#66",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -749,15 +557,7 @@
   },
   {
     "Name": "DK#67",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -779,15 +579,7 @@
   },
   {
     "Name": "DK#68",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -809,15 +601,7 @@
   },
   {
     "Name": "DK#69",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -839,15 +623,7 @@
   },
   {
     "Name": "DK#70",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -869,15 +645,7 @@
   },
   {
     "Name": "DK#71",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -899,15 +667,7 @@
   },
   {
     "Name": "DK#72",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -929,15 +689,7 @@
   },
   {
     "Name": "DK#73",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -959,15 +711,7 @@
   },
   {
     "Name": "DK#74",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -989,15 +733,7 @@
   },
   {
     "Name": "DK#75",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -1019,15 +755,7 @@
   },
   {
     "Name": "DK#76",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -1049,15 +777,7 @@
   },
   {
     "Name": "DK#77",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -1079,15 +799,7 @@
   },
   {
     "Name": "DK#78",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -1109,15 +821,7 @@
   },
   {
     "Name": "DK#79",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -1139,15 +843,7 @@
   },
   {
     "Name": "DK#80",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -1169,15 +865,7 @@
   },
   {
     "Name": "DK#81",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -1199,15 +887,7 @@
   },
   {
     "Name": "DK#82",
-    "Domain": {
-      "domain": "node-dk-06.protonvpn.net",
-      "ipv4": [
-        "193.29.107.98"
-      ],
-      "ipv6": [
-        "2001:ac8:37:66::10"
-      ]
-    },
+    "Domain": "node-dk-06.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -1229,13 +909,7 @@
   },
   {
     "Name": "DK#100",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1255,13 +929,7 @@
   },
   {
     "Name": "DK#101",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1281,13 +949,7 @@
   },
   {
     "Name": "DK#102",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1307,13 +969,7 @@
   },
   {
     "Name": "DK#103",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1333,13 +989,7 @@
   },
   {
     "Name": "DK#104",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1359,13 +1009,7 @@
   },
   {
     "Name": "DK#105",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1385,13 +1029,7 @@
   },
   {
     "Name": "DK#106",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1411,13 +1049,7 @@
   },
   {
     "Name": "DK#107",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1437,13 +1069,7 @@
   },
   {
     "Name": "DK#108",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1463,13 +1089,7 @@
   },
   {
     "Name": "DK#109",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1489,13 +1109,7 @@
   },
   {
     "Name": "DK#110",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1515,13 +1129,7 @@
   },
   {
     "Name": "DK#111",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1541,13 +1149,7 @@
   },
   {
     "Name": "DK#112",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1567,13 +1169,7 @@
   },
   {
     "Name": "DK#113",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1593,13 +1189,7 @@
   },
   {
     "Name": "DK#114",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1619,13 +1209,7 @@
   },
   {
     "Name": "DK#115",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1645,13 +1229,7 @@
   },
   {
     "Name": "DK#116",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1671,13 +1249,7 @@
   },
   {
     "Name": "DK#117",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1697,13 +1269,7 @@
   },
   {
     "Name": "DK#118",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1723,13 +1289,7 @@
   },
   {
     "Name": "DK#119",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1749,13 +1309,7 @@
   },
   {
     "Name": "DK#120",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1775,13 +1329,7 @@
   },
   {
     "Name": "DK#121",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1801,13 +1349,7 @@
   },
   {
     "Name": "DK#122",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1827,13 +1369,7 @@
   },
   {
     "Name": "DK#123",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1853,13 +1389,7 @@
   },
   {
     "Name": "DK#124",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1879,13 +1409,7 @@
   },
   {
     "Name": "DK#125",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1905,13 +1429,7 @@
   },
   {
     "Name": "DK#126",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1931,13 +1449,7 @@
   },
   {
     "Name": "DK#127",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1957,13 +1469,7 @@
   },
   {
     "Name": "DK#128",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -1983,13 +1489,7 @@
   },
   {
     "Name": "DK#129",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2009,13 +1509,7 @@
   },
   {
     "Name": "DK#130",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2035,13 +1529,7 @@
   },
   {
     "Name": "DK#131",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2061,13 +1549,7 @@
   },
   {
     "Name": "DK#132",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2087,13 +1569,7 @@
   },
   {
     "Name": "DK#133",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2113,13 +1589,7 @@
   },
   {
     "Name": "DK#134",
-    "Domain": {
-      "domain": "node-dk-08.protonvpn.net",
-      "ipv4": [
-        "185.111.109.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-08.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2139,13 +1609,7 @@
   },
   {
     "Name": "DK#83",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2165,13 +1629,7 @@
   },
   {
     "Name": "DK#84",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2191,13 +1649,7 @@
   },
   {
     "Name": "DK#85",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2217,13 +1669,7 @@
   },
   {
     "Name": "DK#86",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2243,13 +1689,7 @@
   },
   {
     "Name": "DK#87",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2269,13 +1709,7 @@
   },
   {
     "Name": "DK#88",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2295,13 +1729,7 @@
   },
   {
     "Name": "DK#89",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2321,13 +1749,7 @@
   },
   {
     "Name": "DK#90",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2347,13 +1769,7 @@
   },
   {
     "Name": "DK#91",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2373,13 +1789,7 @@
   },
   {
     "Name": "DK#92",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2399,13 +1809,7 @@
   },
   {
     "Name": "DK#93",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2425,13 +1829,7 @@
   },
   {
     "Name": "DK#94",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2451,13 +1849,7 @@
   },
   {
     "Name": "DK#95",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2477,13 +1869,7 @@
   },
   {
     "Name": "DK#96",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2503,13 +1889,7 @@
   },
   {
     "Name": "DK#97",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2529,13 +1909,7 @@
   },
   {
     "Name": "DK#98",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2555,13 +1929,7 @@
   },
   {
     "Name": "DK#99",
-    "Domain": {
-      "domain": "node-dk-07.protonvpn.net",
-      "ipv4": [
-        "149.50.217.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-dk-07.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": false,
     "Servers": [
@@ -2581,15 +1949,7 @@
   },
   {
     "Name": "DK#135",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2611,15 +1971,7 @@
   },
   {
     "Name": "DK#136",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2641,15 +1993,7 @@
   },
   {
     "Name": "DK#137",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2671,15 +2015,7 @@
   },
   {
     "Name": "DK#138",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2701,15 +2037,7 @@
   },
   {
     "Name": "DK#139",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2731,15 +2059,7 @@
   },
   {
     "Name": "DK#140",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2761,15 +2081,7 @@
   },
   {
     "Name": "DK#141",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2791,15 +2103,7 @@
   },
   {
     "Name": "DK#142",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2821,15 +2125,7 @@
   },
   {
     "Name": "DK#143",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2851,15 +2147,7 @@
   },
   {
     "Name": "DK#144",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2881,15 +2169,7 @@
   },
   {
     "Name": "DK#145",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2911,15 +2191,7 @@
   },
   {
     "Name": "DK#146",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2941,15 +2213,7 @@
   },
   {
     "Name": "DK#147",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -2971,15 +2235,7 @@
   },
   {
     "Name": "DK#148",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3001,15 +2257,7 @@
   },
   {
     "Name": "DK#149",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3031,15 +2279,7 @@
   },
   {
     "Name": "DK#150",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3061,15 +2301,7 @@
   },
   {
     "Name": "DK#151",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3091,15 +2323,7 @@
   },
   {
     "Name": "DK#152",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3121,15 +2345,7 @@
   },
   {
     "Name": "DK#153",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3151,15 +2367,7 @@
   },
   {
     "Name": "DK#154",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3181,15 +2389,7 @@
   },
   {
     "Name": "DK#155",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3211,15 +2411,7 @@
   },
   {
     "Name": "DK#156",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3241,15 +2433,7 @@
   },
   {
     "Name": "DK#157",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3271,15 +2455,7 @@
   },
   {
     "Name": "DK#158",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3301,15 +2477,7 @@
   },
   {
     "Name": "DK#159",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3331,15 +2499,7 @@
   },
   {
     "Name": "DK#160",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3361,15 +2521,7 @@
   },
   {
     "Name": "DK#161",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3391,15 +2543,7 @@
   },
   {
     "Name": "DK#162",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3421,15 +2565,7 @@
   },
   {
     "Name": "DK#163",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3451,15 +2587,7 @@
   },
   {
     "Name": "DK#164",
-    "Domain": {
-      "domain": "node-dk-09.protonvpn.net",
-      "ipv4": [
-        "149.88.109.34"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6194::10"
-      ]
-    },
+    "Domain": "node-dk-09.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3481,15 +2609,7 @@
   },
   {
     "Name": "DK#165",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3511,15 +2631,7 @@
   },
   {
     "Name": "DK#166",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3541,15 +2653,7 @@
   },
   {
     "Name": "DK#167",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3571,15 +2675,7 @@
   },
   {
     "Name": "DK#168",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3601,15 +2697,7 @@
   },
   {
     "Name": "DK#169",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3631,15 +2719,7 @@
   },
   {
     "Name": "DK#170",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3661,15 +2741,7 @@
   },
   {
     "Name": "DK#171",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3691,15 +2763,7 @@
   },
   {
     "Name": "DK#172",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3721,15 +2785,7 @@
   },
   {
     "Name": "DK#173",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3751,15 +2807,7 @@
   },
   {
     "Name": "DK#174",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3781,15 +2829,7 @@
   },
   {
     "Name": "DK#175",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3811,15 +2851,7 @@
   },
   {
     "Name": "DK#176",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3841,15 +2873,7 @@
   },
   {
     "Name": "DK#177",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3871,15 +2895,7 @@
   },
   {
     "Name": "DK#178",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3901,15 +2917,7 @@
   },
   {
     "Name": "DK#179",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3931,15 +2939,7 @@
   },
   {
     "Name": "DK#180",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3961,15 +2961,7 @@
   },
   {
     "Name": "DK#181",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -3991,15 +2983,7 @@
   },
   {
     "Name": "DK#182",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4021,15 +3005,7 @@
   },
   {
     "Name": "DK#183",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4051,15 +3027,7 @@
   },
   {
     "Name": "DK#184",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4081,15 +3049,7 @@
   },
   {
     "Name": "DK#185",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4111,15 +3071,7 @@
   },
   {
     "Name": "DK#186",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4141,15 +3093,7 @@
   },
   {
     "Name": "DK#187",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4171,15 +3115,7 @@
   },
   {
     "Name": "DK#188",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4201,15 +3137,7 @@
   },
   {
     "Name": "DK#189",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4231,15 +3159,7 @@
   },
   {
     "Name": "DK#190",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4261,15 +3181,7 @@
   },
   {
     "Name": "DK#191",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4291,15 +3203,7 @@
   },
   {
     "Name": "DK#192",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4321,15 +3225,7 @@
   },
   {
     "Name": "DK#193",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [
@@ -4351,15 +3247,7 @@
   },
   {
     "Name": "DK#194",
-    "Domain": {
-      "domain": "node-dk-10.protonvpn.net",
-      "ipv4": [
-        "149.88.109.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:4709:6195::10"
-      ]
-    },
+    "Domain": "node-dk-10.protonvpn.net",
     "City": "Copenhagen",
     "ipv6Enabled": true,
     "Servers": [

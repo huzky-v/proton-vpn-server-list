@@ -1,15 +1,7 @@
 [
   {
     "Name": "NO-FREE#10",
-    "Domain": {
-      "domain": "node-no-17.protonvpn.net",
-      "ipv4": [
-        "95.173.205.161"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5601:6476::10"
-      ]
-    },
+    "Domain": "node-no-17.protonvpn.net",
     "City": "Oslo",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "NO-FREE#5",
-    "Domain": {
-      "domain": "node-no-12.protonvpn.net",
-      "ipv4": [
-        "95.173.205.167"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5601:6471::10"
-      ]
-    },
+    "Domain": "node-no-12.protonvpn.net",
     "City": "Oslo",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "NO-FREE#6",
-    "Domain": {
-      "domain": "node-no-13.protonvpn.net",
-      "ipv4": [
-        "95.173.205.165"
-      ],
-      "ipv6": [
-        "2a02:6ea0:5601:6472::10"
-      ]
-    },
+    "Domain": "node-no-13.protonvpn.net",
     "City": "Oslo",
     "ipv6Enabled": true,
     "Servers": [

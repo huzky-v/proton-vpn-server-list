@@ -1,13 +1,7 @@
 [
   {
     "Name": "HK#27-TOR",
-    "Domain": {
-      "domain": "hk-27-tor.protonvpn.net",
-      "ipv4": [
-        "156.146.45.139"
-      ],
-      "ipv6": []
-    },
+    "Domain": "hk-27-tor.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,15 +21,7 @@
   },
   {
     "Name": "HK#28",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -57,15 +43,7 @@
   },
   {
     "Name": "HK#29",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -87,15 +65,7 @@
   },
   {
     "Name": "HK#30",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -117,15 +87,7 @@
   },
   {
     "Name": "HK#31",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -147,15 +109,7 @@
   },
   {
     "Name": "HK#32",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -177,15 +131,7 @@
   },
   {
     "Name": "HK#33",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -207,15 +153,7 @@
   },
   {
     "Name": "HK#34",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -237,15 +175,7 @@
   },
   {
     "Name": "HK#35",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -267,15 +197,7 @@
   },
   {
     "Name": "HK#36",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -297,15 +219,7 @@
   },
   {
     "Name": "HK#37",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -327,15 +241,7 @@
   },
   {
     "Name": "HK#38",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -357,15 +263,7 @@
   },
   {
     "Name": "HK#39",
-    "Domain": {
-      "domain": "node-hk-05.protonvpn.net",
-      "ipv4": [
-        "146.70.113.114"
-      ],
-      "ipv6": [
-        "2001:ac8:a:5::10"
-      ]
-    },
+    "Domain": "node-hk-05.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -387,15 +285,7 @@
   },
   {
     "Name": "HK#40",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -417,15 +307,7 @@
   },
   {
     "Name": "HK#41",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -447,15 +329,7 @@
   },
   {
     "Name": "HK#42",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -477,15 +351,7 @@
   },
   {
     "Name": "HK#43",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -507,15 +373,7 @@
   },
   {
     "Name": "HK#44",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -537,15 +395,7 @@
   },
   {
     "Name": "HK#45",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -567,15 +417,7 @@
   },
   {
     "Name": "HK#46",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -597,15 +439,7 @@
   },
   {
     "Name": "HK#47",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -627,15 +461,7 @@
   },
   {
     "Name": "HK#48",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -657,15 +483,7 @@
   },
   {
     "Name": "HK#49",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -687,15 +505,7 @@
   },
   {
     "Name": "HK#50",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -717,15 +527,7 @@
   },
   {
     "Name": "HK#51",
-    "Domain": {
-      "domain": "node-hk-06.protonvpn.net",
-      "ipv4": [
-        "146.70.113.98"
-      ],
-      "ipv6": [
-        "2001:ac8:a:2::10"
-      ]
-    },
+    "Domain": "node-hk-06.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -747,15 +549,7 @@
   },
   {
     "Name": "HK#52",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -777,15 +571,7 @@
   },
   {
     "Name": "HK#53",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -807,15 +593,7 @@
   },
   {
     "Name": "HK#54",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -837,15 +615,7 @@
   },
   {
     "Name": "HK#55",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -867,15 +637,7 @@
   },
   {
     "Name": "HK#56",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -897,15 +659,7 @@
   },
   {
     "Name": "HK#57",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -927,15 +681,7 @@
   },
   {
     "Name": "HK#58",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -957,15 +703,7 @@
   },
   {
     "Name": "HK#59",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -987,15 +725,7 @@
   },
   {
     "Name": "HK#60",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -1017,15 +747,7 @@
   },
   {
     "Name": "HK#61",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -1047,15 +769,7 @@
   },
   {
     "Name": "HK#62",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -1077,15 +791,7 @@
   },
   {
     "Name": "HK#63",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -1107,15 +813,7 @@
   },
   {
     "Name": "HK#64",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -1137,15 +835,7 @@
   },
   {
     "Name": "HK#65",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -1167,15 +857,7 @@
   },
   {
     "Name": "HK#66",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -1197,15 +879,7 @@
   },
   {
     "Name": "HK#67",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [
@@ -1227,15 +901,7 @@
   },
   {
     "Name": "HK#68",
-    "Domain": {
-      "domain": "node-hk-04.protonvpn.net",
-      "ipv4": [
-        "156.146.45.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:d60f:2188::10"
-      ]
-    },
+    "Domain": "node-hk-04.protonvpn.net",
     "City": "Hong Kong",
     "ipv6Enabled": true,
     "Servers": [

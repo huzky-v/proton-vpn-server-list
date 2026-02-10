@@ -1,13 +1,7 @@
 [
   {
     "Name": "ZA#25",
-    "Domain": {
-      "domain": "node-za-02.protonvpn.net",
-      "ipv4": [
-        "178.249.212.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-02.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "ZA#26",
-    "Domain": {
-      "domain": "node-za-02.protonvpn.net",
-      "ipv4": [
-        "178.249.212.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-02.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "ZA#27",
-    "Domain": {
-      "domain": "node-za-02.protonvpn.net",
-      "ipv4": [
-        "178.249.212.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-02.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "ZA#28",
-    "Domain": {
-      "domain": "node-za-02.protonvpn.net",
-      "ipv4": [
-        "178.249.212.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-02.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "ZA#29",
-    "Domain": {
-      "domain": "node-za-02.protonvpn.net",
-      "ipv4": [
-        "178.249.212.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-02.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "ZA#30",
-    "Domain": {
-      "domain": "node-za-02.protonvpn.net",
-      "ipv4": [
-        "178.249.212.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-02.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "ZA#31",
-    "Domain": {
-      "domain": "node-za-02.protonvpn.net",
-      "ipv4": [
-        "178.249.212.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-02.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "ZA#32",
-    "Domain": {
-      "domain": "node-za-02.protonvpn.net",
-      "ipv4": [
-        "178.249.212.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-02.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,13 +161,7 @@
   },
   {
     "Name": "ZA#33",
-    "Domain": {
-      "domain": "node-za-02.protonvpn.net",
-      "ipv4": [
-        "178.249.212.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-02.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -235,13 +181,7 @@
   },
   {
     "Name": "ZA#34",
-    "Domain": {
-      "domain": "node-za-02.protonvpn.net",
-      "ipv4": [
-        "178.249.212.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-02.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -261,13 +201,7 @@
   },
   {
     "Name": "ZA#35",
-    "Domain": {
-      "domain": "node-za-02.protonvpn.net",
-      "ipv4": [
-        "178.249.212.163"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-02.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -287,13 +221,7 @@
   },
   {
     "Name": "ZA#1",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -313,13 +241,7 @@
   },
   {
     "Name": "ZA#10",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -339,13 +261,7 @@
   },
   {
     "Name": "ZA#11",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -365,13 +281,7 @@
   },
   {
     "Name": "ZA#12",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -391,13 +301,7 @@
   },
   {
     "Name": "ZA#2",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -417,13 +321,7 @@
   },
   {
     "Name": "ZA#3",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -443,13 +341,7 @@
   },
   {
     "Name": "ZA#4",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -469,13 +361,7 @@
   },
   {
     "Name": "ZA#5",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -495,13 +381,7 @@
   },
   {
     "Name": "ZA#6",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -521,13 +401,7 @@
   },
   {
     "Name": "ZA#7",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -547,13 +421,7 @@
   },
   {
     "Name": "ZA#8",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -573,13 +441,7 @@
   },
   {
     "Name": "ZA#9",
-    "Domain": {
-      "domain": "za-03.protonvpn.net",
-      "ipv4": [
-        "188.214.158.34"
-      ],
-      "ipv6": []
-    },
+    "Domain": "za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -599,13 +461,7 @@
   },
   {
     "Name": "ZA#36",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -625,13 +481,7 @@
   },
   {
     "Name": "ZA#37",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -651,13 +501,7 @@
   },
   {
     "Name": "ZA#38",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -677,13 +521,7 @@
   },
   {
     "Name": "ZA#39",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -703,13 +541,7 @@
   },
   {
     "Name": "ZA#40",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -729,13 +561,7 @@
   },
   {
     "Name": "ZA#41",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -755,13 +581,7 @@
   },
   {
     "Name": "ZA#42",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -781,13 +601,7 @@
   },
   {
     "Name": "ZA#43",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -807,13 +621,7 @@
   },
   {
     "Name": "ZA#44",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -833,13 +641,7 @@
   },
   {
     "Name": "ZA#45",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -859,13 +661,7 @@
   },
   {
     "Name": "ZA#46",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -885,13 +681,7 @@
   },
   {
     "Name": "ZA#47",
-    "Domain": {
-      "domain": "node-za-03.protonvpn.net",
-      "ipv4": [
-        "196.197.28.130"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-03.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -911,13 +701,7 @@
   },
   {
     "Name": "ZA#48",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -937,13 +721,7 @@
   },
   {
     "Name": "ZA#49",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -963,13 +741,7 @@
   },
   {
     "Name": "ZA#50",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -989,13 +761,7 @@
   },
   {
     "Name": "ZA#51",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1015,13 +781,7 @@
   },
   {
     "Name": "ZA#52",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1041,13 +801,7 @@
   },
   {
     "Name": "ZA#53",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1067,13 +821,7 @@
   },
   {
     "Name": "ZA#54",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1093,13 +841,7 @@
   },
   {
     "Name": "ZA#55",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1119,13 +861,7 @@
   },
   {
     "Name": "ZA#56",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1145,13 +881,7 @@
   },
   {
     "Name": "ZA#57",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1171,13 +901,7 @@
   },
   {
     "Name": "ZA#58",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1197,13 +921,7 @@
   },
   {
     "Name": "ZA#59",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1223,13 +941,7 @@
   },
   {
     "Name": "ZA#60",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1249,13 +961,7 @@
   },
   {
     "Name": "ZA#61",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1275,13 +981,7 @@
   },
   {
     "Name": "ZA#62",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1301,13 +1001,7 @@
   },
   {
     "Name": "ZA#63",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1327,13 +1021,7 @@
   },
   {
     "Name": "ZA#64",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1353,13 +1041,7 @@
   },
   {
     "Name": "ZA#65",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1379,13 +1061,7 @@
   },
   {
     "Name": "ZA#66",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1405,13 +1081,7 @@
   },
   {
     "Name": "ZA#67",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1431,13 +1101,7 @@
   },
   {
     "Name": "ZA#68",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1457,13 +1121,7 @@
   },
   {
     "Name": "ZA#69",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1483,13 +1141,7 @@
   },
   {
     "Name": "ZA#70",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1509,13 +1161,7 @@
   },
   {
     "Name": "ZA#71",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1535,13 +1181,7 @@
   },
   {
     "Name": "ZA#72",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [
@@ -1561,13 +1201,7 @@
   },
   {
     "Name": "ZA#73",
-    "Domain": {
-      "domain": "node-za-04.protonvpn.net",
-      "ipv4": [
-        "213.139.10.129"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-za-04.protonvpn.net",
     "City": "Johannesburg",
     "ipv6Enabled": false,
     "Servers": [

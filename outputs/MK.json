@@ -1,13 +1,7 @@
 [
   {
     "Name": "MK#01",
-    "Domain": {
-      "domain": "node-mk-01.protonvpn.net",
-      "ipv4": [
-        "185.229.25.116"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-mk-01.protonvpn.net",
     "City": "Skopje",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "MK#02",
-    "Domain": {
-      "domain": "node-mk-01.protonvpn.net",
-      "ipv4": [
-        "185.229.25.116"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-mk-01.protonvpn.net",
     "City": "Skopje",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "MK#03",
-    "Domain": {
-      "domain": "node-mk-01.protonvpn.net",
-      "ipv4": [
-        "185.229.25.116"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-mk-01.protonvpn.net",
     "City": "Skopje",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "MK#04",
-    "Domain": {
-      "domain": "node-mk-01.protonvpn.net",
-      "ipv4": [
-        "185.229.25.116"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-mk-01.protonvpn.net",
     "City": "Skopje",
     "ipv6Enabled": false,
     "Servers": [

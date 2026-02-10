@@ -1,15 +1,7 @@
 [
   {
     "Name": "BG#13",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "BG#14",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "BG#15",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "BG#16",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "BG#17",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "BG#18",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "BG#19",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "BG#20",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "BG#21",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,15 +199,7 @@
   },
   {
     "Name": "BG#22",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -301,15 +221,7 @@
   },
   {
     "Name": "BG#23",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -331,15 +243,7 @@
   },
   {
     "Name": "BG#24",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -361,15 +265,7 @@
   },
   {
     "Name": "BG#25",
-    "Domain": {
-      "domain": "node-bg-02.protonvpn.net",
-      "ipv4": [
-        "156.146.55.225"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e705:2143::10"
-      ]
-    },
+    "Domain": "node-bg-02.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -391,15 +287,7 @@
   },
   {
     "Name": "BG#26",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -421,15 +309,7 @@
   },
   {
     "Name": "BG#27",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -451,15 +331,7 @@
   },
   {
     "Name": "BG#28",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -481,15 +353,7 @@
   },
   {
     "Name": "BG#29",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -511,15 +375,7 @@
   },
   {
     "Name": "BG#30",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -541,15 +397,7 @@
   },
   {
     "Name": "BG#31",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -571,15 +419,7 @@
   },
   {
     "Name": "BG#32",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -601,15 +441,7 @@
   },
   {
     "Name": "BG#33",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -631,15 +463,7 @@
   },
   {
     "Name": "BG#34",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -661,15 +485,7 @@
   },
   {
     "Name": "BG#35",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -691,15 +507,7 @@
   },
   {
     "Name": "BG#36",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -721,15 +529,7 @@
   },
   {
     "Name": "BG#37",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -751,15 +551,7 @@
   },
   {
     "Name": "BG#38",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -781,15 +573,7 @@
   },
   {
     "Name": "BG#39",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -811,15 +595,7 @@
   },
   {
     "Name": "BG#40",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -841,15 +617,7 @@
   },
   {
     "Name": "BG#41",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -871,15 +639,7 @@
   },
   {
     "Name": "BG#42",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -901,15 +661,7 @@
   },
   {
     "Name": "BG#43",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -931,15 +683,7 @@
   },
   {
     "Name": "BG#44",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -961,15 +705,7 @@
   },
   {
     "Name": "BG#45",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -991,15 +727,7 @@
   },
   {
     "Name": "BG#46",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -1021,15 +749,7 @@
   },
   {
     "Name": "BG#47",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -1051,15 +771,7 @@
   },
   {
     "Name": "BG#48",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -1081,15 +793,7 @@
   },
   {
     "Name": "BG#49",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -1111,15 +815,7 @@
   },
   {
     "Name": "BG#50",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -1141,15 +837,7 @@
   },
   {
     "Name": "BG#51",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -1171,15 +859,7 @@
   },
   {
     "Name": "BG#52",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [
@@ -1201,15 +881,7 @@
   },
   {
     "Name": "BG#53",
-    "Domain": {
-      "domain": "node-bg-03.protonvpn.net",
-      "ipv4": [
-        "146.70.245.130"
-      ],
-      "ipv6": [
-        "2001:ac8:30:67::10"
-      ]
-    },
+    "Domain": "node-bg-03.protonvpn.net",
     "City": "Sofia",
     "ipv6Enabled": true,
     "Servers": [

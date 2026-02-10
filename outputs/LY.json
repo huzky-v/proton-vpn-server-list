@@ -1,13 +1,7 @@
 [
   {
     "Name": "LY#1",
-    "Domain": {
-      "domain": "ly-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.84"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ly-02.protonvpn.net",
     "City": "Tripoli",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "LY#2",
-    "Domain": {
-      "domain": "ly-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.84"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ly-02.protonvpn.net",
     "City": "Tripoli",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "LY#3",
-    "Domain": {
-      "domain": "ly-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.84"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ly-02.protonvpn.net",
     "City": "Tripoli",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "LY#4",
-    "Domain": {
-      "domain": "ly-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.84"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ly-02.protonvpn.net",
     "City": "Tripoli",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "LY#5",
-    "Domain": {
-      "domain": "ly-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.132"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ly-03.protonvpn.net",
     "City": "Tripoli",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "LY#6",
-    "Domain": {
-      "domain": "ly-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.132"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ly-03.protonvpn.net",
     "City": "Tripoli",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "LY#7",
-    "Domain": {
-      "domain": "ly-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.132"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ly-03.protonvpn.net",
     "City": "Tripoli",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "LY#8",
-    "Domain": {
-      "domain": "ly-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.132"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ly-03.protonvpn.net",
     "City": "Tripoli",
     "ipv6Enabled": false,
     "Servers": [

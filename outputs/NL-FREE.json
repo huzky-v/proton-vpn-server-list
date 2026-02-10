@@ -1,15 +1,7 @@
 [
   {
     "Name": "NL-FREE#79",
-    "Domain": {
-      "domain": "node-nl-108.protonvpn.net",
-      "ipv4": [
-        "185.177.124.84"
-      ],
-      "ipv6": [
-        "2a00:7c80:0:3a4::10"
-      ]
-    },
+    "Domain": "node-nl-108.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "NL-FREE#102",
-    "Domain": {
-      "domain": "node-nl-138.protonvpn.net",
-      "ipv4": [
-        "212.8.243.7"
-      ],
-      "ipv6": [
-        "2a00:7c80:0:3c5::10"
-      ]
-    },
+    "Domain": "node-nl-138.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "NL-FREE#103",
-    "Domain": {
-      "domain": "node-nl-139.protonvpn.net",
-      "ipv4": [
-        "212.8.253.154"
-      ],
-      "ipv6": [
-        "2a00:7c80:0:3c6::10"
-      ]
-    },
+    "Domain": "node-nl-139.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "NL-FREE#104",
-    "Domain": {
-      "domain": "node-nl-140.protonvpn.net",
-      "ipv4": [
-        "212.8.253.137"
-      ],
-      "ipv6": [
-        "2a00:7c80:0:3c7::10"
-      ]
-    },
+    "Domain": "node-nl-140.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "NL-FREE#105",
-    "Domain": {
-      "domain": "node-nl-141.protonvpn.net",
-      "ipv4": [
-        "185.182.193.5"
-      ],
-      "ipv6": [
-        "2a00:7c80:0:3c8::10"
-      ]
-    },
+    "Domain": "node-nl-141.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "NL-FREE#106",
-    "Domain": {
-      "domain": "node-nl-142.protonvpn.net",
-      "ipv4": [
-        "185.182.193.107"
-      ],
-      "ipv6": [
-        "2a00:7c80:0:3c9::10"
-      ]
-    },
+    "Domain": "node-nl-142.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "NL-FREE#111",
-    "Domain": {
-      "domain": "node-nl-147.protonvpn.net",
-      "ipv4": [
-        "138.199.7.181"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c041:2338::10"
-      ]
-    },
+    "Domain": "node-nl-147.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "NL-FREE#112",
-    "Domain": {
-      "domain": "node-nl-148.protonvpn.net",
-      "ipv4": [
-        "149.34.244.129"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c041:2339::10"
-      ]
-    },
+    "Domain": "node-nl-148.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "NL-FREE#114",
-    "Domain": {
-      "domain": "node-nl-150.protonvpn.net",
-      "ipv4": [
-        "149.34.244.139"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c041:2341::10"
-      ]
-    },
+    "Domain": "node-nl-150.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,15 +199,7 @@
   },
   {
     "Name": "NL-FREE#116",
-    "Domain": {
-      "domain": "node-nl-152.protonvpn.net",
-      "ipv4": [
-        "149.34.244.149"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c041:2343::10"
-      ]
-    },
+    "Domain": "node-nl-152.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -301,15 +221,7 @@
   },
   {
     "Name": "NL-FREE#117",
-    "Domain": {
-      "domain": "node-nl-153.protonvpn.net",
-      "ipv4": [
-        "149.34.244.154"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c041:2344::10"
-      ]
-    },
+    "Domain": "node-nl-153.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -331,15 +243,7 @@
   },
   {
     "Name": "NL-FREE#118",
-    "Domain": {
-      "domain": "node-nl-154.protonvpn.net",
-      "ipv4": [
-        "149.34.244.159"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c041:2345::10"
-      ]
-    },
+    "Domain": "node-nl-154.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -361,15 +265,7 @@
   },
   {
     "Name": "NL-FREE#119",
-    "Domain": {
-      "domain": "node-nl-155.protonvpn.net",
-      "ipv4": [
-        "149.34.244.164"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c041:2346::10"
-      ]
-    },
+    "Domain": "node-nl-155.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -391,15 +287,7 @@
   },
   {
     "Name": "NL-FREE#120",
-    "Domain": {
-      "domain": "node-nl-156.protonvpn.net",
-      "ipv4": [
-        "149.34.244.169"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c041:2347::10"
-      ]
-    },
+    "Domain": "node-nl-156.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -421,15 +309,7 @@
   },
   {
     "Name": "NL-FREE#121",
-    "Domain": {
-      "domain": "node-nl-157.protonvpn.net",
-      "ipv4": [
-        "149.34.244.174"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c041:2348::10"
-      ]
-    },
+    "Domain": "node-nl-157.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -451,15 +331,7 @@
   },
   {
     "Name": "NL-FREE#122",
-    "Domain": {
-      "domain": "node-nl-158.protonvpn.net",
-      "ipv4": [
-        "149.34.244.179"
-      ],
-      "ipv6": [
-        "2a02:6ea0:c041:2349::10"
-      ]
-    },
+    "Domain": "node-nl-158.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -481,13 +353,7 @@
   },
   {
     "Name": "NL-FREE#126",
-    "Domain": {
-      "domain": "node-nl-162.protonvpn.net",
-      "ipv4": [
-        "185.107.56.69"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-162.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -507,13 +373,7 @@
   },
   {
     "Name": "NL-FREE#125",
-    "Domain": {
-      "domain": "node-nl-161.protonvpn.net",
-      "ipv4": [
-        "185.107.56.49"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-161.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -533,13 +393,7 @@
   },
   {
     "Name": "NL-FREE#127",
-    "Domain": {
-      "domain": "node-nl-163.protonvpn.net",
-      "ipv4": [
-        "185.107.56.75"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-163.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -559,13 +413,7 @@
   },
   {
     "Name": "NL-FREE#128",
-    "Domain": {
-      "domain": "node-nl-164.protonvpn.net",
-      "ipv4": [
-        "185.107.56.235"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-164.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -585,13 +433,7 @@
   },
   {
     "Name": "NL-FREE#123",
-    "Domain": {
-      "domain": "node-nl-159.protonvpn.net",
-      "ipv4": [
-        "185.107.56.28"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-159.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -611,13 +453,7 @@
   },
   {
     "Name": "NL-FREE#124",
-    "Domain": {
-      "domain": "node-nl-160.protonvpn.net",
-      "ipv4": [
-        "185.107.56.44"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-160.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -637,13 +473,7 @@
   },
   {
     "Name": "NL-FREE#130",
-    "Domain": {
-      "domain": "node-nl-170.protonvpn.net",
-      "ipv4": [
-        "185.107.56.133"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-170.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -663,13 +493,7 @@
   },
   {
     "Name": "NL-FREE#131",
-    "Domain": {
-      "domain": "node-nl-171.protonvpn.net",
-      "ipv4": [
-        "185.107.56.138"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-171.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -689,13 +513,7 @@
   },
   {
     "Name": "NL-FREE#132",
-    "Domain": {
-      "domain": "node-nl-172.protonvpn.net",
-      "ipv4": [
-        "185.107.56.123"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-172.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -715,15 +533,7 @@
   },
   {
     "Name": "NL-FREE#129",
-    "Domain": {
-      "domain": "node-nl-169.protonvpn.net",
-      "ipv4": [
-        "89.38.99.72"
-      ],
-      "ipv6": [
-        "2a00:7c80:0:3b0::10"
-      ]
-    },
+    "Domain": "node-nl-169.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": true,
     "Servers": [
@@ -745,13 +555,7 @@
   },
   {
     "Name": "NL-FREE#198",
-    "Domain": {
-      "domain": "node-nl-224.protonvpn.net",
-      "ipv4": [
-        "185.165.241.179"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-224.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -771,13 +575,7 @@
   },
   {
     "Name": "NL-FREE#212",
-    "Domain": {
-      "domain": "node-nl-238.protonvpn.net",
-      "ipv4": [
-        "185.132.178.52"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-238.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -797,13 +595,7 @@
   },
   {
     "Name": "NL-FREE#213",
-    "Domain": {
-      "domain": "node-nl-239.protonvpn.net",
-      "ipv4": [
-        "185.184.192.216"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-239.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -823,13 +615,7 @@
   },
   {
     "Name": "NL-FREE#214",
-    "Domain": {
-      "domain": "node-nl-240.protonvpn.net",
-      "ipv4": [
-        "185.132.178.104"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-240.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -849,13 +635,7 @@
   },
   {
     "Name": "NL-FREE#222",
-    "Domain": {
-      "domain": "node-nl-248.protonvpn.net",
-      "ipv4": [
-        "185.165.243.20"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-248.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -875,13 +655,7 @@
   },
   {
     "Name": "NL-FREE#223",
-    "Domain": {
-      "domain": "node-nl-249.protonvpn.net",
-      "ipv4": [
-        "185.132.133.79"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-249.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -901,13 +675,7 @@
   },
   {
     "Name": "NL-FREE#224",
-    "Domain": {
-      "domain": "node-nl-250.protonvpn.net",
-      "ipv4": [
-        "190.2.154.217"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-250.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -927,13 +695,7 @@
   },
   {
     "Name": "NL-FREE#225",
-    "Domain": {
-      "domain": "node-nl-251.protonvpn.net",
-      "ipv4": [
-        "185.132.134.35"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-251.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -953,13 +715,7 @@
   },
   {
     "Name": "NL-FREE#226",
-    "Domain": {
-      "domain": "node-nl-252.protonvpn.net",
-      "ipv4": [
-        "190.2.152.224"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-252.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -979,13 +735,7 @@
   },
   {
     "Name": "NL-FREE#236",
-    "Domain": {
-      "domain": "node-nl-262.protonvpn.net",
-      "ipv4": [
-        "185.100.234.7"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-262.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -1005,13 +755,7 @@
   },
   {
     "Name": "NL-FREE#242",
-    "Domain": {
-      "domain": "node-nl-268.protonvpn.net",
-      "ipv4": [
-        "190.2.151.161"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-268.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -1031,13 +775,7 @@
   },
   {
     "Name": "NL-FREE#246",
-    "Domain": {
-      "domain": "node-nl-272.protonvpn.net",
-      "ipv4": [
-        "212.8.243.27"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-272.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -1057,13 +795,7 @@
   },
   {
     "Name": "NL-FREE#247",
-    "Domain": {
-      "domain": "node-nl-273.protonvpn.net",
-      "ipv4": [
-        "185.185.50.27"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-273.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [
@@ -1083,13 +815,7 @@
   },
   {
     "Name": "NL-FREE#280",
-    "Domain": {
-      "domain": "node-nl-227.protonvpn.net",
-      "ipv4": [
-        "89.105.214.196"
-      ],
-      "ipv6": []
-    },
+    "Domain": "node-nl-227.protonvpn.net",
     "City": "Amsterdam",
     "ipv6Enabled": false,
     "Servers": [

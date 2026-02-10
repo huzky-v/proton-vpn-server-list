@@ -1,15 +1,7 @@
 [
   {
     "Name": "US-VA#1",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -31,15 +23,7 @@
   },
   {
     "Name": "US-VA#10",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -61,15 +45,7 @@
   },
   {
     "Name": "US-VA#11",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -91,15 +67,7 @@
   },
   {
     "Name": "US-VA#12",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -121,15 +89,7 @@
   },
   {
     "Name": "US-VA#13",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -151,15 +111,7 @@
   },
   {
     "Name": "US-VA#14",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -181,15 +133,7 @@
   },
   {
     "Name": "US-VA#15",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -211,15 +155,7 @@
   },
   {
     "Name": "US-VA#2",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -241,15 +177,7 @@
   },
   {
     "Name": "US-VA#3",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -271,15 +199,7 @@
   },
   {
     "Name": "US-VA#4",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -301,15 +221,7 @@
   },
   {
     "Name": "US-VA#5",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -331,15 +243,7 @@
   },
   {
     "Name": "US-VA#6",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -361,15 +265,7 @@
   },
   {
     "Name": "US-VA#7",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -391,15 +287,7 @@
   },
   {
     "Name": "US-VA#8",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -421,15 +309,7 @@
   },
   {
     "Name": "US-VA#9",
-    "Domain": {
-      "domain": "node-us-119.protonvpn.net",
-      "ipv4": [
-        "185.156.46.33"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2101::10"
-      ]
-    },
+    "Domain": "node-us-119.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -451,15 +331,7 @@
   },
   {
     "Name": "US-VA#72",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -481,15 +353,7 @@
   },
   {
     "Name": "US-VA#73",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -511,15 +375,7 @@
   },
   {
     "Name": "US-VA#74",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -541,15 +397,7 @@
   },
   {
     "Name": "US-VA#75",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -571,15 +419,7 @@
   },
   {
     "Name": "US-VA#76",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -601,15 +441,7 @@
   },
   {
     "Name": "US-VA#77",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -631,15 +463,7 @@
   },
   {
     "Name": "US-VA#78",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -661,15 +485,7 @@
   },
   {
     "Name": "US-VA#79",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -691,15 +507,7 @@
   },
   {
     "Name": "US-VA#80",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -721,15 +529,7 @@
   },
   {
     "Name": "US-VA#81",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -751,15 +551,7 @@
   },
   {
     "Name": "US-VA#82",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -781,15 +573,7 @@
   },
   {
     "Name": "US-VA#83",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -811,15 +595,7 @@
   },
   {
     "Name": "US-VA#84",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -841,15 +617,7 @@
   },
   {
     "Name": "US-VA#85",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -871,15 +639,7 @@
   },
   {
     "Name": "US-VA#86",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -901,15 +661,7 @@
   },
   {
     "Name": "US-VA#87",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -931,15 +683,7 @@
   },
   {
     "Name": "US-VA#88",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -961,15 +705,7 @@
   },
   {
     "Name": "US-VA#89",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -991,15 +727,7 @@
   },
   {
     "Name": "US-VA#90",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1021,15 +749,7 @@
   },
   {
     "Name": "US-VA#91",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1051,15 +771,7 @@
   },
   {
     "Name": "US-VA#92",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1081,15 +793,7 @@
   },
   {
     "Name": "US-VA#93",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1111,15 +815,7 @@
   },
   {
     "Name": "US-VA#94",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1141,15 +837,7 @@
   },
   {
     "Name": "US-VA#95",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1171,15 +859,7 @@
   },
   {
     "Name": "US-VA#96",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1201,15 +881,7 @@
   },
   {
     "Name": "US-VA#97",
-    "Domain": {
-      "domain": "node-us-254.protonvpn.net",
-      "ipv4": [
-        "149.88.18.193"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:3741::10"
-      ]
-    },
+    "Domain": "node-us-254.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1231,15 +903,7 @@
   },
   {
     "Name": "US-VA#100",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1261,15 +925,7 @@
   },
   {
     "Name": "US-VA#101",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1291,15 +947,7 @@
   },
   {
     "Name": "US-VA#102",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1321,15 +969,7 @@
   },
   {
     "Name": "US-VA#103",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1351,15 +991,7 @@
   },
   {
     "Name": "US-VA#104",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1381,15 +1013,7 @@
   },
   {
     "Name": "US-VA#105",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1411,15 +1035,7 @@
   },
   {
     "Name": "US-VA#106",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1441,15 +1057,7 @@
   },
   {
     "Name": "US-VA#107",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1471,15 +1079,7 @@
   },
   {
     "Name": "US-VA#108",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1501,15 +1101,7 @@
   },
   {
     "Name": "US-VA#109",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1531,15 +1123,7 @@
   },
   {
     "Name": "US-VA#110",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1561,15 +1145,7 @@
   },
   {
     "Name": "US-VA#111",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1591,15 +1167,7 @@
   },
   {
     "Name": "US-VA#98",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1621,15 +1189,7 @@
   },
   {
     "Name": "US-VA#99",
-    "Domain": {
-      "domain": "node-us-207.protonvpn.net",
-      "ipv4": [
-        "154.47.22.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2691::10"
-      ]
-    },
+    "Domain": "node-us-207.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1651,15 +1211,7 @@
   },
   {
     "Name": "US-VA#112",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1681,15 +1233,7 @@
   },
   {
     "Name": "US-VA#113",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1711,15 +1255,7 @@
   },
   {
     "Name": "US-VA#114",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1741,15 +1277,7 @@
   },
   {
     "Name": "US-VA#115",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1771,15 +1299,7 @@
   },
   {
     "Name": "US-VA#116",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1801,15 +1321,7 @@
   },
   {
     "Name": "US-VA#117",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1831,15 +1343,7 @@
   },
   {
     "Name": "US-VA#118",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1861,15 +1365,7 @@
   },
   {
     "Name": "US-VA#119",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1891,15 +1387,7 @@
   },
   {
     "Name": "US-VA#120",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1921,15 +1409,7 @@
   },
   {
     "Name": "US-VA#121",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1951,15 +1431,7 @@
   },
   {
     "Name": "US-VA#122",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -1981,15 +1453,7 @@
   },
   {
     "Name": "US-VA#123",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2011,15 +1475,7 @@
   },
   {
     "Name": "US-VA#124",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2041,15 +1497,7 @@
   },
   {
     "Name": "US-VA#125",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2071,15 +1519,7 @@
   },
   {
     "Name": "US-VA#126",
-    "Domain": {
-      "domain": "node-us-219.protonvpn.net",
-      "ipv4": [
-        "154.47.22.77"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2719::10"
-      ]
-    },
+    "Domain": "node-us-219.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2101,15 +1541,7 @@
   },
   {
     "Name": "US-VA#127",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2131,15 +1563,7 @@
   },
   {
     "Name": "US-VA#128",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2161,15 +1585,7 @@
   },
   {
     "Name": "US-VA#129",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2191,15 +1607,7 @@
   },
   {
     "Name": "US-VA#130",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2221,15 +1629,7 @@
   },
   {
     "Name": "US-VA#131",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2251,15 +1651,7 @@
   },
   {
     "Name": "US-VA#132",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2281,15 +1673,7 @@
   },
   {
     "Name": "US-VA#133",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2311,15 +1695,7 @@
   },
   {
     "Name": "US-VA#134",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2341,15 +1717,7 @@
   },
   {
     "Name": "US-VA#135",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2371,15 +1739,7 @@
   },
   {
     "Name": "US-VA#136",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2401,15 +1761,7 @@
   },
   {
     "Name": "US-VA#137",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2431,15 +1783,7 @@
   },
   {
     "Name": "US-VA#138",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2461,15 +1805,7 @@
   },
   {
     "Name": "US-VA#139",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2491,15 +1827,7 @@
   },
   {
     "Name": "US-VA#140",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2521,15 +1849,7 @@
   },
   {
     "Name": "US-VA#141",
-    "Domain": {
-      "domain": "node-us-224.protonvpn.net",
-      "ipv4": [
-        "154.47.22.90"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:2753::10"
-      ]
-    },
+    "Domain": "node-us-224.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2551,15 +1871,7 @@
   },
   {
     "Name": "US-VA#16",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2581,15 +1893,7 @@
   },
   {
     "Name": "US-VA#17",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2611,15 +1915,7 @@
   },
   {
     "Name": "US-VA#18",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2641,15 +1937,7 @@
   },
   {
     "Name": "US-VA#19",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2671,15 +1959,7 @@
   },
   {
     "Name": "US-VA#20",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2701,15 +1981,7 @@
   },
   {
     "Name": "US-VA#21",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2731,15 +2003,7 @@
   },
   {
     "Name": "US-VA#22",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2761,15 +2025,7 @@
   },
   {
     "Name": "US-VA#23",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2791,15 +2047,7 @@
   },
   {
     "Name": "US-VA#24",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2821,15 +2069,7 @@
   },
   {
     "Name": "US-VA#25",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2851,15 +2091,7 @@
   },
   {
     "Name": "US-VA#26",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2881,15 +2113,7 @@
   },
   {
     "Name": "US-VA#27",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2911,15 +2135,7 @@
   },
   {
     "Name": "US-VA#28",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2941,15 +2157,7 @@
   },
   {
     "Name": "US-VA#29",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -2971,15 +2179,7 @@
   },
   {
     "Name": "US-VA#30",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3001,15 +2201,7 @@
   },
   {
     "Name": "US-VA#31",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3031,15 +2223,7 @@
   },
   {
     "Name": "US-VA#32",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3061,15 +2245,7 @@
   },
   {
     "Name": "US-VA#33",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3091,15 +2267,7 @@
   },
   {
     "Name": "US-VA#34",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3121,15 +2289,7 @@
   },
   {
     "Name": "US-VA#35",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3151,15 +2311,7 @@
   },
   {
     "Name": "US-VA#36",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3181,15 +2333,7 @@
   },
   {
     "Name": "US-VA#37",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3211,15 +2355,7 @@
   },
   {
     "Name": "US-VA#38",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3241,15 +2377,7 @@
   },
   {
     "Name": "US-VA#39",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3271,15 +2399,7 @@
   },
   {
     "Name": "US-VA#40",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3301,15 +2421,7 @@
   },
   {
     "Name": "US-VA#41",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3331,15 +2443,7 @@
   },
   {
     "Name": "US-VA#42",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3361,15 +2465,7 @@
   },
   {
     "Name": "US-VA#43",
-    "Domain": {
-      "domain": "node-us-325.protonvpn.net",
-      "ipv4": [
-        "149.102.227.1"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5476::10"
-      ]
-    },
+    "Domain": "node-us-325.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3391,15 +2487,7 @@
   },
   {
     "Name": "US-VA#44",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3421,15 +2509,7 @@
   },
   {
     "Name": "US-VA#45",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3451,15 +2531,7 @@
   },
   {
     "Name": "US-VA#46",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3481,15 +2553,7 @@
   },
   {
     "Name": "US-VA#47",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3511,15 +2575,7 @@
   },
   {
     "Name": "US-VA#48",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3541,15 +2597,7 @@
   },
   {
     "Name": "US-VA#49",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3571,15 +2619,7 @@
   },
   {
     "Name": "US-VA#50",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3601,15 +2641,7 @@
   },
   {
     "Name": "US-VA#51",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3631,15 +2663,7 @@
   },
   {
     "Name": "US-VA#52",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3661,15 +2685,7 @@
   },
   {
     "Name": "US-VA#53",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3691,15 +2707,7 @@
   },
   {
     "Name": "US-VA#54",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3721,15 +2729,7 @@
   },
   {
     "Name": "US-VA#55",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3751,15 +2751,7 @@
   },
   {
     "Name": "US-VA#56",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3781,15 +2773,7 @@
   },
   {
     "Name": "US-VA#57",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3811,15 +2795,7 @@
   },
   {
     "Name": "US-VA#58",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3841,15 +2817,7 @@
   },
   {
     "Name": "US-VA#59",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3871,15 +2839,7 @@
   },
   {
     "Name": "US-VA#60",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3901,15 +2861,7 @@
   },
   {
     "Name": "US-VA#61",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3931,15 +2883,7 @@
   },
   {
     "Name": "US-VA#62",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3961,15 +2905,7 @@
   },
   {
     "Name": "US-VA#63",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -3991,15 +2927,7 @@
   },
   {
     "Name": "US-VA#64",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4021,15 +2949,7 @@
   },
   {
     "Name": "US-VA#65",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4051,15 +2971,7 @@
   },
   {
     "Name": "US-VA#66",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4081,15 +2993,7 @@
   },
   {
     "Name": "US-VA#67",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4111,15 +3015,7 @@
   },
   {
     "Name": "US-VA#68",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4141,15 +3037,7 @@
   },
   {
     "Name": "US-VA#69",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4171,15 +3059,7 @@
   },
   {
     "Name": "US-VA#70",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4201,15 +3081,7 @@
   },
   {
     "Name": "US-VA#71",
-    "Domain": {
-      "domain": "node-us-326.protonvpn.net",
-      "ipv4": [
-        "149.102.227.30"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:5475::10"
-      ]
-    },
+    "Domain": "node-us-326.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4231,15 +3103,7 @@
   },
   {
     "Name": "US-VA#142",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4261,15 +3125,7 @@
   },
   {
     "Name": "US-VA#143",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4291,15 +3147,7 @@
   },
   {
     "Name": "US-VA#144",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4321,15 +3169,7 @@
   },
   {
     "Name": "US-VA#145",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4351,15 +3191,7 @@
   },
   {
     "Name": "US-VA#146",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4381,15 +3213,7 @@
   },
   {
     "Name": "US-VA#147",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4411,15 +3235,7 @@
   },
   {
     "Name": "US-VA#148",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4441,15 +3257,7 @@
   },
   {
     "Name": "US-VA#149",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4471,15 +3279,7 @@
   },
   {
     "Name": "US-VA#150",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4501,15 +3301,7 @@
   },
   {
     "Name": "US-VA#151",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4531,15 +3323,7 @@
   },
   {
     "Name": "US-VA#152",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4561,15 +3345,7 @@
   },
   {
     "Name": "US-VA#153",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4591,15 +3367,7 @@
   },
   {
     "Name": "US-VA#154",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4621,15 +3389,7 @@
   },
   {
     "Name": "US-VA#155",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4651,15 +3411,7 @@
   },
   {
     "Name": "US-VA#156",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4681,15 +3433,7 @@
   },
   {
     "Name": "US-VA#157",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4711,15 +3455,7 @@
   },
   {
     "Name": "US-VA#158",
-    "Domain": {
-      "domain": "node-us-390.protonvpn.net",
-      "ipv4": [
-        "89.222.100.65"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6062::10"
-      ]
-    },
+    "Domain": "node-us-390.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4741,15 +3477,7 @@
   },
   {
     "Name": "US-VA#159",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4771,15 +3499,7 @@
   },
   {
     "Name": "US-VA#160",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4801,15 +3521,7 @@
   },
   {
     "Name": "US-VA#161",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4831,15 +3543,7 @@
   },
   {
     "Name": "US-VA#162",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4861,15 +3565,7 @@
   },
   {
     "Name": "US-VA#163",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4891,15 +3587,7 @@
   },
   {
     "Name": "US-VA#164",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4921,15 +3609,7 @@
   },
   {
     "Name": "US-VA#165",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4951,15 +3631,7 @@
   },
   {
     "Name": "US-VA#166",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -4981,15 +3653,7 @@
   },
   {
     "Name": "US-VA#167",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5011,15 +3675,7 @@
   },
   {
     "Name": "US-VA#168",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5041,15 +3697,7 @@
   },
   {
     "Name": "US-VA#169",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5071,15 +3719,7 @@
   },
   {
     "Name": "US-VA#170",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5101,15 +3741,7 @@
   },
   {
     "Name": "US-VA#171",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5131,15 +3763,7 @@
   },
   {
     "Name": "US-VA#172",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5161,15 +3785,7 @@
   },
   {
     "Name": "US-VA#173",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5191,15 +3807,7 @@
   },
   {
     "Name": "US-VA#174",
-    "Domain": {
-      "domain": "node-us-391.protonvpn.net",
-      "ipv4": [
-        "89.222.100.66"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6063::10"
-      ]
-    },
+    "Domain": "node-us-391.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5221,15 +3829,7 @@
   },
   {
     "Name": "US-VA#175",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5251,15 +3851,7 @@
   },
   {
     "Name": "US-VA#176",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5281,15 +3873,7 @@
   },
   {
     "Name": "US-VA#177",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5311,15 +3895,7 @@
   },
   {
     "Name": "US-VA#178",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5341,15 +3917,7 @@
   },
   {
     "Name": "US-VA#179",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5371,15 +3939,7 @@
   },
   {
     "Name": "US-VA#180",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5401,15 +3961,7 @@
   },
   {
     "Name": "US-VA#181",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5431,15 +3983,7 @@
   },
   {
     "Name": "US-VA#182",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5461,15 +4005,7 @@
   },
   {
     "Name": "US-VA#183",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5491,15 +4027,7 @@
   },
   {
     "Name": "US-VA#184",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5521,15 +4049,7 @@
   },
   {
     "Name": "US-VA#185",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5551,15 +4071,7 @@
   },
   {
     "Name": "US-VA#186",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5581,15 +4093,7 @@
   },
   {
     "Name": "US-VA#187",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5611,15 +4115,7 @@
   },
   {
     "Name": "US-VA#188",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5641,15 +4137,7 @@
   },
   {
     "Name": "US-VA#189",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5671,15 +4159,7 @@
   },
   {
     "Name": "US-VA#190",
-    "Domain": {
-      "domain": "node-us-406.protonvpn.net",
-      "ipv4": [
-        "89.222.100.67"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6099::10"
-      ]
-    },
+    "Domain": "node-us-406.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5701,15 +4181,7 @@
   },
   {
     "Name": "US-VA#191",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5731,15 +4203,7 @@
   },
   {
     "Name": "US-VA#192",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5761,15 +4225,7 @@
   },
   {
     "Name": "US-VA#193",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5791,15 +4247,7 @@
   },
   {
     "Name": "US-VA#194",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5821,15 +4269,7 @@
   },
   {
     "Name": "US-VA#195",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5851,15 +4291,7 @@
   },
   {
     "Name": "US-VA#196",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5881,15 +4313,7 @@
   },
   {
     "Name": "US-VA#197",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5911,15 +4335,7 @@
   },
   {
     "Name": "US-VA#198",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5941,15 +4357,7 @@
   },
   {
     "Name": "US-VA#199",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -5971,15 +4379,7 @@
   },
   {
     "Name": "US-VA#200",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -6001,15 +4401,7 @@
   },
   {
     "Name": "US-VA#201",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -6031,15 +4423,7 @@
   },
   {
     "Name": "US-VA#202",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -6061,15 +4445,7 @@
   },
   {
     "Name": "US-VA#203",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -6091,15 +4467,7 @@
   },
   {
     "Name": "US-VA#204",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -6121,15 +4489,7 @@
   },
   {
     "Name": "US-VA#205",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [
@@ -6151,15 +4511,7 @@
   },
   {
     "Name": "US-VA#206",
-    "Domain": {
-      "domain": "node-us-455.protonvpn.net",
-      "ipv4": [
-        "89.222.100.68"
-      ],
-      "ipv6": [
-        "2a02:6ea0:e20d:6185::10"
-      ]
-    },
+    "Domain": "node-us-455.protonvpn.net",
     "City": "Ashburn",
     "ipv6Enabled": true,
     "Servers": [

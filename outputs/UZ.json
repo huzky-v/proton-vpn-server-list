@@ -1,13 +1,7 @@
 [
   {
     "Name": "UZ#25",
-    "Domain": {
-      "domain": "uz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.204"
-      ],
-      "ipv6": []
-    },
+    "Domain": "uz-02.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "UZ#26",
-    "Domain": {
-      "domain": "uz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.204"
-      ],
-      "ipv6": []
-    },
+    "Domain": "uz-02.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "UZ#27",
-    "Domain": {
-      "domain": "uz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.204"
-      ],
-      "ipv6": []
-    },
+    "Domain": "uz-02.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "UZ#28",
-    "Domain": {
-      "domain": "uz-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.204"
-      ],
-      "ipv6": []
-    },
+    "Domain": "uz-02.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,15 +81,7 @@
   },
   {
     "Name": "UZ#30",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -135,15 +103,7 @@
   },
   {
     "Name": "UZ#31",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -165,15 +125,7 @@
   },
   {
     "Name": "UZ#32",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -195,15 +147,7 @@
   },
   {
     "Name": "UZ#33",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -225,15 +169,7 @@
   },
   {
     "Name": "UZ#34",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -255,15 +191,7 @@
   },
   {
     "Name": "UZ#35",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -285,15 +213,7 @@
   },
   {
     "Name": "UZ#36",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -315,15 +235,7 @@
   },
   {
     "Name": "UZ#37",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -345,15 +257,7 @@
   },
   {
     "Name": "UZ#38",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -375,15 +279,7 @@
   },
   {
     "Name": "UZ#39",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -405,15 +301,7 @@
   },
   {
     "Name": "UZ#40",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -435,15 +323,7 @@
   },
   {
     "Name": "UZ#41",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -465,15 +345,7 @@
   },
   {
     "Name": "UZ#42",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -495,15 +367,7 @@
   },
   {
     "Name": "UZ#43",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -525,15 +389,7 @@
   },
   {
     "Name": "UZ#44",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -555,15 +411,7 @@
   },
   {
     "Name": "UZ#45",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -585,15 +433,7 @@
   },
   {
     "Name": "UZ#46",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -615,15 +455,7 @@
   },
   {
     "Name": "UZ#47",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -645,15 +477,7 @@
   },
   {
     "Name": "UZ#48",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -675,15 +499,7 @@
   },
   {
     "Name": "UZ#49",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -705,15 +521,7 @@
   },
   {
     "Name": "UZ#50",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -735,15 +543,7 @@
   },
   {
     "Name": "UZ#51",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -765,15 +565,7 @@
   },
   {
     "Name": "UZ#52",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -795,15 +587,7 @@
   },
   {
     "Name": "UZ#53",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -825,15 +609,7 @@
   },
   {
     "Name": "UZ#54",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [
@@ -855,15 +631,7 @@
   },
   {
     "Name": "UZ#55",
-    "Domain": {
-      "domain": "node-uz-03.protonvpn.net",
-      "ipv4": [
-        "217.138.10.130"
-      ],
-      "ipv6": [
-        "2a0d:5600:165:1::10"
-      ]
-    },
+    "Domain": "node-uz-03.protonvpn.net",
     "City": "Tashkent",
     "ipv6Enabled": true,
     "Servers": [

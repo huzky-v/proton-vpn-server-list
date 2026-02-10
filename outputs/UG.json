@@ -1,13 +1,87 @@
 [
   {
+    "Name": "UG#1",
+    "Domain": "ug-02.protonvpn.net",
+    "City": "Kampala",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ug-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.200"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "V0aoynpGONetwHNoeD/bC32MB89nEAKvvGO31HfjgUY=",
+        "EntryIP": "79.135.105.200",
+        "ExitIP": "79.135.105.200"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "UG#2",
+    "Domain": "ug-02.protonvpn.net",
+    "City": "Kampala",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ug-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.200"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "V0aoynpGONetwHNoeD/bC32MB89nEAKvvGO31HfjgUY=",
+        "EntryIP": "79.135.105.200",
+        "ExitIP": "79.135.105.200"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "UG#3",
+    "Domain": "ug-02.protonvpn.net",
+    "City": "Kampala",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ug-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.200"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "V0aoynpGONetwHNoeD/bC32MB89nEAKvvGO31HfjgUY=",
+        "EntryIP": "79.135.105.200",
+        "ExitIP": "79.135.105.200"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "UG#4",
+    "Domain": "ug-02.protonvpn.net",
+    "City": "Kampala",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "ug-02.protonvpn.net",
+        "ipv4": [
+          "79.135.105.200"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "V0aoynpGONetwHNoeD/bC32MB89nEAKvvGO31HfjgUY=",
+        "EntryIP": "79.135.105.200",
+        "ExitIP": "79.135.105.200"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
     "Name": "UG#5",
-    "Domain": {
-      "domain": "ug-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.236"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ug-03.protonvpn.net",
     "City": "Kampala",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +101,7 @@
   },
   {
     "Name": "UG#6",
-    "Domain": {
-      "domain": "ug-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.236"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ug-03.protonvpn.net",
     "City": "Kampala",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +121,7 @@
   },
   {
     "Name": "UG#7",
-    "Domain": {
-      "domain": "ug-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.236"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ug-03.protonvpn.net",
     "City": "Kampala",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +141,7 @@
   },
   {
     "Name": "UG#8",
-    "Domain": {
-      "domain": "ug-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.236"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ug-03.protonvpn.net",
     "City": "Kampala",
     "ipv6Enabled": false,
     "Servers": [

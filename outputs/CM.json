@@ -1,13 +1,7 @@
 [
   {
     "Name": "CM#1",
-    "Domain": {
-      "domain": "cm-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.40"
-      ],
-      "ipv6": []
-    },
+    "Domain": "cm-02.protonvpn.net",
     "City": "Yaoundé",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "CM#2",
-    "Domain": {
-      "domain": "cm-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.40"
-      ],
-      "ipv6": []
-    },
+    "Domain": "cm-02.protonvpn.net",
     "City": "Yaoundé",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "CM#3",
-    "Domain": {
-      "domain": "cm-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.40"
-      ],
-      "ipv6": []
-    },
+    "Domain": "cm-02.protonvpn.net",
     "City": "Yaoundé",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "CM#4",
-    "Domain": {
-      "domain": "cm-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.40"
-      ],
-      "ipv6": []
-    },
+    "Domain": "cm-02.protonvpn.net",
     "City": "Yaoundé",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "CM#5",
-    "Domain": {
-      "domain": "cm-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.36"
-      ],
-      "ipv6": []
-    },
+    "Domain": "cm-03.protonvpn.net",
     "City": "Yaoundé",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "CM#6",
-    "Domain": {
-      "domain": "cm-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.36"
-      ],
-      "ipv6": []
-    },
+    "Domain": "cm-03.protonvpn.net",
     "City": "Yaoundé",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "CM#7",
-    "Domain": {
-      "domain": "cm-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.36"
-      ],
-      "ipv6": []
-    },
+    "Domain": "cm-03.protonvpn.net",
     "City": "Yaoundé",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "CM#8",
-    "Domain": {
-      "domain": "cm-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.36"
-      ],
-      "ipv6": []
-    },
+    "Domain": "cm-03.protonvpn.net",
     "City": "Yaoundé",
     "ipv6Enabled": false,
     "Servers": [

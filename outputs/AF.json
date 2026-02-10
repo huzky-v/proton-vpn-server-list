@@ -1,13 +1,7 @@
 [
   {
     "Name": "AF#1",
-    "Domain": {
-      "domain": "af-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "af-02.protonvpn.net",
     "City": "Kabul",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "AF#2",
-    "Domain": {
-      "domain": "af-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "af-02.protonvpn.net",
     "City": "Kabul",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "AF#3",
-    "Domain": {
-      "domain": "af-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.1"
-      ],
-      "ipv6": []
-    },
+    "Domain": "af-02.protonvpn.net",
     "City": "Kabul",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "AF#4",
-    "Domain": {
-      "domain": "af-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "af-03.protonvpn.net",
     "City": "Kabul",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "AF#5",
-    "Domain": {
-      "domain": "af-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.2"
-      ],
-      "ipv6": []
-    },
+    "Domain": "af-03.protonvpn.net",
     "City": "Kabul",
     "ipv6Enabled": false,
     "Servers": [

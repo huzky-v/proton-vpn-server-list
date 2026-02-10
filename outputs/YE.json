@@ -1,13 +1,7 @@
 [
   {
     "Name": "YE#1",
-    "Domain": {
-      "domain": "ye-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.208"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ye-02.protonvpn.net",
     "City": "Sana'a",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "YE#2",
-    "Domain": {
-      "domain": "ye-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.208"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ye-02.protonvpn.net",
     "City": "Sana'a",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "YE#3",
-    "Domain": {
-      "domain": "ye-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.208"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ye-02.protonvpn.net",
     "City": "Sana'a",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "YE#4",
-    "Domain": {
-      "domain": "ye-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.208"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ye-02.protonvpn.net",
     "City": "Sana'a",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "YE#5",
-    "Domain": {
-      "domain": "ye-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.240"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ye-03.protonvpn.net",
     "City": "Sana'a",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "YE#6",
-    "Domain": {
-      "domain": "ye-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.240"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ye-03.protonvpn.net",
     "City": "Sana'a",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "YE#7",
-    "Domain": {
-      "domain": "ye-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.240"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ye-03.protonvpn.net",
     "City": "Sana'a",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "YE#8",
-    "Domain": {
-      "domain": "ye-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.240"
-      ],
-      "ipv6": []
-    },
+    "Domain": "ye-03.protonvpn.net",
     "City": "Sana'a",
     "ipv6Enabled": false,
     "Servers": [

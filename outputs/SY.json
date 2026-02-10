@@ -1,13 +1,7 @@
 [
   {
     "Name": "SY#1",
-    "Domain": {
-      "domain": "sy-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.168"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-02.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
@@ -27,13 +21,7 @@
   },
   {
     "Name": "SY#2",
-    "Domain": {
-      "domain": "sy-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.168"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-02.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
@@ -53,13 +41,7 @@
   },
   {
     "Name": "SY#3",
-    "Domain": {
-      "domain": "sy-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.168"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-02.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
@@ -79,13 +61,7 @@
   },
   {
     "Name": "SY#4",
-    "Domain": {
-      "domain": "sy-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.168"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-02.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
@@ -105,13 +81,7 @@
   },
   {
     "Name": "SY#5",
-    "Domain": {
-      "domain": "sy-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.168"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-02.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
@@ -131,13 +101,7 @@
   },
   {
     "Name": "SY#6",
-    "Domain": {
-      "domain": "sy-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.168"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-02.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
@@ -157,13 +121,7 @@
   },
   {
     "Name": "SY#7",
-    "Domain": {
-      "domain": "sy-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.168"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-02.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
@@ -183,13 +141,7 @@
   },
   {
     "Name": "SY#8",
-    "Domain": {
-      "domain": "sy-02.protonvpn.net",
-      "ipv4": [
-        "79.135.105.168"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-02.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
@@ -209,13 +161,7 @@
   },
   {
     "Name": "SY#10",
-    "Domain": {
-      "domain": "sy-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.212"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-03.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
@@ -235,13 +181,7 @@
   },
   {
     "Name": "SY#11",
-    "Domain": {
-      "domain": "sy-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.212"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-03.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
@@ -261,13 +201,7 @@
   },
   {
     "Name": "SY#12",
-    "Domain": {
-      "domain": "sy-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.212"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-03.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
@@ -287,13 +221,7 @@
   },
   {
     "Name": "SY#9",
-    "Domain": {
-      "domain": "sy-03.protonvpn.net",
-      "ipv4": [
-        "74.118.126.212"
-      ],
-      "ipv6": []
-    },
+    "Domain": "sy-03.protonvpn.net",
     "City": "Damascus",
     "ipv6Enabled": false,
     "Servers": [
