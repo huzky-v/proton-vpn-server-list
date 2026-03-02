@@ -818,5 +818,245 @@
     ],
     "P2P": true,
     "Streaming": true
+  },
+  {
+    "Name": "RU#70",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "RU#71",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "RU#72",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "RU#73",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "RU#74",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "RU#75",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "RU#76",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "RU#77",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "RU#78",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "RU#79",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "RU#80",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
+  },
+  {
+    "Name": "RU#81",
+    "Domain": "node-ru-04.protonvpn.net",
+    "City": "Moscow",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-ru-04.protonvpn.net",
+        "ipv4": [
+          "192.159.101.226"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s=",
+        "EntryIP": "192.159.101.226",
+        "ExitIP": "192.159.101.226"
+      }
+    ],
+    "P2P": true,
+    "Streaming": true
   }
 ]

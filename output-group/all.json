@@ -1,5 +1,5 @@
 {
-  "genDate": "2026-02-10T07:14:53.679Z",
+  "genDate": "2026-03-02T06:08:04.015Z",
   "data": [
     {
       "ipv4": "185.76.11.27",
@@ -6556,26 +6556,6 @@
       "P2P": true,
       "Streaming": true,
       "X25519PublicKey": "Rtsl6k9WA9t04Vt+EDUD3TlSr9+YL6YcTFwiSB1qBwA="
-    },
-    {
-      "ipv4": "193.29.107.242",
-      "ipv6": null,
-      "domain": "node-dk-03.protonvpn.net",
-      "servers": [
-        "DK#13",
-        "DK#14",
-        "DK#15",
-        "DK#16",
-        "DK#17",
-        "DK#18",
-        "DK#19",
-        "DK#20"
-      ],
-      "ipv6Enabled": false,
-      "city": "Copenhagen",
-      "P2P": false,
-      "Streaming": true,
-      "X25519PublicKey": "vOwLnR7lMrKeONP0Idl2S5vUonggF8KpKQ66jx+QJnc="
     },
     {
       "ipv4": "193.29.107.162",
@@ -14451,6 +14431,19 @@
       "X25519PublicKey": "c4hRqWQ0Dh7xh5Ms1ZHcKcp8JmWuiLqB7zdPHpuKZDE="
     },
     {
+      "ipv4": "84.20.27.58",
+      "ipv6": null,
+      "domain": "node-mx-25.protonvpn.net",
+      "servers": [
+        "MX-FREE#17"
+      ],
+      "ipv6Enabled": false,
+      "city": "Mexico City",
+      "P2P": false,
+      "Streaming": false,
+      "X25519PublicKey": "URaamKea0+XnjnyKk/cqH0pV4gPQR0miGloUa6LXoHk="
+    },
+    {
       "ipv4": "146.70.45.82",
       "ipv6": "2a0d:5600:6:ad1c::10",
       "domain": "node-us-184.protonvpn.net",
@@ -15254,26 +15247,6 @@
       "X25519PublicKey": "aQ2NoOYEObG9tDMwdc4VxK6hjW+eA0PLfgbH7ffmagU="
     },
     {
-      "ipv4": "172.98.82.146",
-      "ipv6": "2607:f7a0:17:4::10",
-      "domain": "node-ca-20.protonvpn.net",
-      "servers": [
-        "CA#133",
-        "CA#134",
-        "CA#135",
-        "CA#136",
-        "CA#137",
-        "CA#138",
-        "CA#139",
-        "CA#140"
-      ],
-      "ipv6Enabled": true,
-      "city": "Montreal",
-      "P2P": false,
-      "Streaming": true,
-      "X25519PublicKey": "2BEMYqJguSc+NP7pSMo65SGQtbg3ExtZgYGaZ6VHiD8="
-    },
-    {
       "ipv4": "176.113.74.82",
       "ipv6": "2a0d:5600:19:1::10",
       "domain": "node-ca-24.protonvpn.net",
@@ -15551,6 +15524,30 @@
       "P2P": true,
       "Streaming": true,
       "X25519PublicKey": "OYsPkwZXR/gHUnffnNjBhtnlWdMiOh3m/ncFDPP2Ln0="
+    },
+    {
+      "ipv4": "192.159.101.226",
+      "ipv6": null,
+      "domain": "node-ru-04.protonvpn.net",
+      "servers": [
+        "RU#70",
+        "RU#71",
+        "RU#72",
+        "RU#73",
+        "RU#74",
+        "RU#75",
+        "RU#76",
+        "RU#77",
+        "RU#78",
+        "RU#79",
+        "RU#80",
+        "RU#81"
+      ],
+      "ipv6Enabled": false,
+      "city": "Moscow",
+      "P2P": true,
+      "Streaming": true,
+      "X25519PublicKey": "7sF0UKgxoQr188w2kYOI2vunvk5XiMbDoKe4sdCDP3s="
     },
     {
       "ipv4": "146.70.142.18",
@@ -16553,22 +16550,6 @@
       "P2P": true,
       "Streaming": true,
       "X25519PublicKey": "lDqI02+FFU6CeisxCSKxVgi28TKT9SowZybo1M4abEU="
-    },
-    {
-      "ipv4": "84.247.50.178",
-      "ipv6": "2001:ac8:38:58::10",
-      "domain": "node-no-03.protonvpn.net",
-      "servers": [
-        "NO#13",
-        "NO#14",
-        "NO#15",
-        "NO#16"
-      ],
-      "ipv6Enabled": true,
-      "city": "Oslo",
-      "P2P": false,
-      "Streaming": true,
-      "X25519PublicKey": "lY0yD6apqGWIPE/O4FbCysYpveUm0YkflOKrQf8Xhw0="
     },
     {
       "ipv4": "146.70.170.18",
@@ -18138,40 +18119,40 @@
     {
       "ipv4": "213.244.113.194",
       "ipv6": null,
-      "domain": "node-ps-01.protonvpn.net",
+      "domain": "node-ps-01b.protonvpn.net",
       "servers": [
-        "PS#1",
-        "PS#10",
-        "PS#11",
-        "PS#12",
-        "PS#13",
-        "PS#14",
-        "PS#15",
-        "PS#16",
-        "PS#17",
-        "PS#18",
-        "PS#19",
-        "PS#2",
-        "PS#20",
-        "PS#21",
-        "PS#22",
-        "PS#23",
-        "PS#24",
-        "PS#25",
-        "PS#26",
-        "PS#3",
-        "PS#4",
-        "PS#5",
-        "PS#6",
-        "PS#7",
-        "PS#8",
-        "PS#9"
+        "PS#27",
+        "PS#28",
+        "PS#29",
+        "PS#30",
+        "PS#31",
+        "PS#32",
+        "PS#33",
+        "PS#34",
+        "PS#35",
+        "PS#36",
+        "PS#37",
+        "PS#38",
+        "PS#39",
+        "PS#40",
+        "PS#41",
+        "PS#42",
+        "PS#43",
+        "PS#44",
+        "PS#45",
+        "PS#46",
+        "PS#47",
+        "PS#48",
+        "PS#49",
+        "PS#50",
+        "PS#51",
+        "PS#52"
       ],
       "ipv6Enabled": false,
       "city": "Ramallah",
       "P2P": true,
       "Streaming": true,
-      "X25519PublicKey": "dSQi+xIesBwgdz2HeGiHtFuxODL9odZ8sFBFxHDX8H8="
+      "X25519PublicKey": "/m+lOFOCKVLGaRzX/sPZ+CiFO0Rtmg49dhC+nd2VOU8="
     },
     {
       "ipv4": "185.159.158.1",

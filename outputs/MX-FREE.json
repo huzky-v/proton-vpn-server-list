@@ -58,5 +58,25 @@
     ],
     "P2P": false,
     "Streaming": false
+  },
+  {
+    "Name": "MX-FREE#17",
+    "Domain": "node-mx-25.protonvpn.net",
+    "City": "Mexico City",
+    "ipv6Enabled": false,
+    "Servers": [
+      {
+        "Domain": "node-mx-25.protonvpn.net",
+        "ipv4": [
+          "84.20.27.58"
+        ],
+        "ipv6": [],
+        "X25519PublicKey": "URaamKea0+XnjnyKk/cqH0pV4gPQR0miGloUa6LXoHk=",
+        "EntryIP": "84.20.27.58",
+        "ExitIP": "84.20.27.58"
+      }
+    ],
+    "P2P": false,
+    "Streaming": false
   }
 ]
